@@ -1,0 +1,1611 @@
+scope,region_id,max_robust_z,driving_feature,value
+national,Libya,7.89,retail_and_recreation__late_mean,179.29
+national,Mongolia,6.21,grocery_and_pharmacy__late_mean,216.76
+national,Iraq,5.6,grocery_and_pharmacy__late_mean,198.24
+national,Burkina Faso,5.53,retail_and_recreation__late_mean,128.92
+national,Zimbabwe,5.14,retail_and_recreation__late_mean,120.59
+national,Yemen,4.93,retail_and_recreation__late_mean,116.01
+national,Denmark,4.66,parks__first_wave_mean,113.38
+national,Angola,4.57,retail_and_recreation__late_mean,108.45
+national,Benin,4.57,grocery_and_pharmacy__late_mean,167.4
+national,Finland,4.3,parks__first_wave_mean,103.19
+national,Zambia,4.24,retail_and_recreation__late_mean,101.4
+national,Sweden,4.15,parks__first_wave_mean,98.91
+national,Croatia,4.07,parks__late_mean,292.94
+national,Rwanda,3.68,retail_and_recreation__late_mean,89.37
+national,Mali,3.61,parks__late_mean,266.02
+national,Norway,3.48,parks__first_wave_mean,79.68
+national,Papua New Guinea,3.32,grocery_and_pharmacy__late_mean,130.07
+national,Lithuania,3.28,parks__first_wave_mean,73.88
+national,Côte d'Ivoire,3.25,grocery_and_pharmacy__late_mean,127.91
+national,Botswana,3.14,retail_and_recreation__late_mean,77.91
+national,Bolivia,3.1,grocery_and_pharmacy__first_wave_mean,-59.54
+national,Tanzania,3.04,retail_and_recreation__late_mean,75.86
+national,Togo,2.91,residential__late_mean,26.83
+national,Estonia,2.84,parks__first_wave_mean,61.32
+national,Netherlands,2.8,parks__first_wave_mean,60.01
+national,South Korea,2.76,trough_depth,-17.76
+national,Nigeria,2.69,residential__late_mean,25.34
+national,Egypt,2.69,grocery_and_pharmacy__late_mean,111.08
+national,Taiwan,2.68,trough_depth,-19.05
+national,United Kingdom,2.65,recovery_days,918.0
+national,United States,2.65,recovery_days,918.0
+national,Australia,2.64,recovery_days,915.0
+national,Peru,2.58,grocery_and_pharmacy__first_wave_mean,-52.51
+national,Panama,2.49,residential__first_wave_mean,33.2
+national,Cameroon,2.49,transit_stations__late_mean,83.34
+national,Germany,2.48,parks__first_wave_mean,50.91
+national,Latvia,2.48,parks__first_wave_mean,50.77
+national,Canada,2.47,recovery_days,872.0
+national,Kenya,2.44,retail_and_recreation__late_mean,63.07
+national,Uganda,2.41,residential__late_mean,23.39
+national,Nepal,2.36,grocery_and_pharmacy__late_mean,101.38
+national,Morocco,2.35,grocery_and_pharmacy__late_mean,100.91
+national,Honduras,2.27,grocery_and_pharmacy__first_wave_mean,-48.28
+national,Ghana,2.24,residential__late_mean,22.22
+national,Kazakhstan,2.19,transit_stations__late_mean,74.61
+national,Haiti,2.18,residential__late_mean,21.83
+national,Bangladesh,2.16,transit_stations__late_mean,73.43
+national,Argentina,2.15,parks__first_wave_mean,-82.04
+national,Singapore,2.09,residential__first_wave_mean,30.23
+national,Ecuador,2.09,grocery_and_pharmacy__first_wave_mean,-45.88
+national,Mozambique,2.09,retail_and_recreation__late_mean,55.48
+national,Myanmar (Burma),2.08,residential__late_mean,21.13
+national,Mauritius,2.0,grocery_and_pharmacy__first_wave_mean,-44.7
+national,Gabon,1.99,retail_and_recreation__late_mean,53.52
+national,El Salvador,1.95,grocery_and_pharmacy__first_wave_mean,-44.04
+national,Kuwait,1.91,grocery_and_pharmacy__first_wave_mean,-43.45
+national,Greece,1.89,parks__late_mean,167.11
+national,Sri Lanka,1.87,grocery_and_pharmacy__first_wave_mean,-42.85
+national,Hong Kong,1.86,trough_depth,-32.52
+national,Pakistan,1.86,retail_and_recreation__late_mean,50.56
+national,Jordan,1.84,transit_stations__first_wave_mean,-75.88
+national,Cape Verde,1.81,residential__late_mean,19.22
+national,Philippines,1.8,residential__first_wave_mean,28.12
+national,Belarus,1.79,transit_stations__first_wave_mean,-14.54
+national,Fiji,1.75,retail_and_recreation__late_mean,48.34
+national,Colombia,1.7,grocery_and_pharmacy__first_wave_mean,-40.54
+national,Malaysia,1.69,recovery_days,673.0
+national,Venezuela,1.67,grocery_and_pharmacy__late_mean,80.6
+national,Uruguay,1.63,parks__late_mean,-36.73
+national,Slovakia,1.61,parks__first_wave_mean,25.97
+national,Cambodia,1.57,recovery_days,642.0
+national,Tajikistan,1.53,workplaces__first_wave_mean,-11.43
+national,India,1.53,retail_and_recreation__first_wave_mean,-66.72
+national,Laos,1.52,residential__late_mean,17.22
+national,Bahrain,1.51,trough_depth,-38.19
+national,Saudi Arabia,1.49,transit_stations__first_wave_mean,-69.86
+national,Oman,1.47,recovery_days,618.0
+national,The Bahamas,1.47,transit_stations__first_wave_mean,-69.52
+national,Bosnia and Herzegovina,1.46,residential__late_mean,-3.43
+national,Ireland,1.45,recovery_days,613.0
+national,Chile,1.44,parks__first_wave_mean,-61.61
+national,Spain,1.41,retail_and_recreation__first_wave_mean,-64.81
+national,Guatemala,1.41,grocery_and_pharmacy__first_wave_mean,-36.64
+national,Switzerland,1.41,parks__first_wave_mean,20.07
+national,Turkey,1.39,grocery_and_pharmacy__late_mean,72.37
+national,Barbados,1.39,trough_depth,-85.57
+national,Dominican Republic,1.38,grocery_and_pharmacy__first_wave_mean,-36.23
+national,United Arab Emirates,1.38,parks__first_wave_mean,-59.88
+national,New Zealand,1.37,transit_stations__late_mean,-32.28
+national,Antigua and Barbuda,1.29,retail_and_recreation__late_mean,38.53
+national,Japan,1.29,grocery_and_pharmacy__first_wave_mean,0.0
+national,Costa Rica,1.28,recovery_days,568.0
+national,Namibia,1.28,transit_stations__late_mean,47.17
+national,Poland,1.26,parks__first_wave_mean,15.9
+national,Belize,1.24,retail_and_recreation__late_mean,37.48
+national,Hungary,1.24,parks__first_wave_mean,15.22
+national,Senegal,1.22,residential__late_mean,15.15
+national,Slovenia,1.19,parks__late_mean,126.5
+national,Indonesia,1.16,residential__late_mean,14.77
+national,Russia,1.16,residential__first_wave_mean,6.33
+national,Puerto Rico,1.16,grocery_and_pharmacy__late_mean,-3.97
+national,Lebanon,1.15,transit_stations__first_wave_mean,-64.23
+national,Nicaragua,1.15,retail_and_recreation__late_mean,35.54
+national,Bulgaria,1.13,residential__late_mean,-1.13
+national,Aruba,1.13,transit_stations__late_mean,-24.89
+national,Czechia,1.12,grocery_and_pharmacy__first_wave_mean,-2.29
+national,Kyrgyzstan,1.12,grocery_and_pharmacy__late_mean,-2.75
+national,North Macedonia,1.1,residential__late_mean,-0.93
+national,Italy,1.1,grocery_and_pharmacy__first_wave_mean,-32.48
+national,Thailand,1.1,parks__late_mean,-5.72
+national,Qatar,1.08,parks__late_mean,-4.77
+national,Luxembourg,1.08,workplaces__first_wave_mean,-47.24
+national,South Africa,1.07,residential__late_mean,14.16
+national,France,1.03,trough_depth,-79.76
+national,Brazil,1.0,workplaces__late_mean,30.48
+national,Paraguay,0.99,workplaces__late_mean,30.35
+national,Romania,0.97,residential__late_mean,-0.02
+national,Israel,0.97,transit_stations__late_mean,-20.03
+national,Belgium,0.97,parks__first_wave_mean,7.38
+national,Portugal,0.91,recovery_days,475.0
+national,Austria,0.91,retail_and_recreation__late_mean,-8.35
+national,Moldova,0.9,residential__late_mean,0.44
+national,Trinidad and Tobago,0.9,transit_stations__first_wave_mean,-59.95
+national,Mexico,0.86,parks__late_mean,7.83
+national,Malta,0.82,residential__late_mean,1.04
+national,Jamaica,0.79,parks__first_wave_mean,-43.04
+india_states,India | Jammu and Kashmir,35.84,transit_stations__late_mean,650.2
+india_states,India | Chandigarh,3.31,grocery_and_pharmacy__first_wave_mean,-57.07
+india_states,India | Uttarakhand,3.2,transit_stations__late_mean,84.7
+india_states,India | Bihar,2.89,grocery_and_pharmacy__first_wave_mean,-2.0
+india_states,India | Himachal Pradesh,2.84,transit_stations__first_wave_mean,-23.58
+india_states,India | Manipur,2.69,transit_stations__first_wave_mean,-24.84
+india_states,India | Mizoram,2.55,transit_stations__first_wave_mean,-26.04
+india_states,India | Sikkim,2.54,retail_and_recreation__first_wave_mean,-54.8
+india_states,India | Delhi,2.37,transit_stations__first_wave_mean,-67.21
+india_states,India | Maharashtra,2.28,retail_and_recreation__first_wave_mean,-73.38
+india_states,India | Meghalaya,2.14,transit_stations__first_wave_mean,-29.47
+india_states,India | Nagaland,2.11,transit_stations__late_mean,65.73
+india_states,India | Arunachal Pradesh,1.97,retail_and_recreation__first_wave_mean,-57.0
+india_states,India | Kerala,1.59,residential__late_mean,22.17
+india_states,India | Goa,1.45,parks__late_mean,-3.65
+india_states,India | Chhattisgarh,1.39,grocery_and_pharmacy__first_wave_mean,-15.31
+india_states,India | Telangana,1.38,retail_and_recreation__first_wave_mean,-69.93
+india_states,India | Karnataka,1.36,workplaces__late_mean,3.4
+india_states,India | Tripura,1.32,parks__first_wave_mean,-11.78
+india_states,India | Haryana,1.28,parks__late_mean,7.25
+india_states,India | Uttar Pradesh,1.26,grocery_and_pharmacy__first_wave_mean,-16.43
+india_states,India | Puducherry,1.25,residential__first_wave_mean,25.22
+india_states,India | Daman and Diu,1.25,grocery_and_pharmacy__first_wave_mean,-38.71
+india_states,India | Rajasthan,1.18,grocery_and_pharmacy__first_wave_mean,-17.15
+india_states,India | Gujarat,1.18,retail_and_recreation__first_wave_mean,-69.12
+india_states,India | Punjab,1.15,transit_stations__late_mean,9.29
+india_states,India | Tamil Nadu,1.04,residential__first_wave_mean,23.71
+india_states,India | West Bengal,0.96,transit_stations__first_wave_mean,-55.44
+india_states,India | Odisha,0.93,parks__late_mean,147.26
+india_states,India | Assam,0.92,parks__first_wave_mean,-22.14
+india_states,India | Jharkhand,0.8,transit_stations__late_mean,43.14
+india_states,India | Madhya Pradesh,0.74,transit_stations__late_mean,42.06
+india_states,India | Andhra Pradesh,0.53,transit_stations__first_wave_mean,-42.98
+india_districts,India | Uttar Pradesh | Chandauli,8.95,parks__late_mean,1032.93
+india_districts,India | Manipur | Thoubal,7.33,transit_stations__first_wave_mean,42.77
+india_districts,India | Delhi | New Delhi,7.0,recovery_days,844.0
+india_districts,India | Jharkhand | Giridih,6.34,grocery_and_pharmacy__late_mean,394.98
+india_districts,India | Karnataka | Bangalore Urban,6.33,recovery_days,785.0
+india_districts,India | Punjab | Kapurthala,5.42,recovery_days,705.0
+india_districts,India | Maharashtra | Mumbai,5.29,recovery_days,693.0
+india_districts,India | Maharashtra | Mumbai Suburban,4.75,workplaces__first_wave_mean,-70.29
+india_districts,India | Maharashtra | Thane,4.46,workplaces__first_wave_mean,-67.65
+india_districts,India | Mizoram | Aizawl,4.37,recovery_days,612.0
+india_districts,India | Odisha | Khordha,4.36,recovery_days,611.0
+india_districts,India | Uttar Pradesh | Maharajganj,4.29,workplaces__late_mean,146.04
+india_districts,India | Tamil Nadu | Chennai,4.19,recovery_days,596.0
+india_districts,India | Bihar | Banka,4.14,transit_stations__late_mean,141.4
+india_districts,India | Uttar Pradesh | Bagpat,4.07,grocery_and_pharmacy__first_wave_mean,75.57
+india_districts,India | Chhattisgarh | Jashpur,4.07,workplaces__late_mean,140.8
+india_districts,India | Uttar Pradesh | Mathura,4.04,transit_stations__late_mean,139.04
+india_districts,India | Delhi | East Delhi,4.04,workplaces__first_wave_mean,-63.68
+india_districts,India | Tamil Nadu | Kanchipuram,4.0,recovery_days,579.0
+india_districts,India | Maharashtra | Pune,3.99,workplaces__first_wave_mean,-63.27
+india_districts,India | Uttar Pradesh | Gautam Buddh Nagar,3.95,workplaces__first_wave_mean,-62.85
+india_districts,India | Maharashtra | Palghar,3.84,workplaces__first_wave_mean,-61.88
+india_districts,India | Uttar Pradesh | Ambedkar Nagar,3.84,transit_stations__late_mean,133.99
+india_districts,India | Maharashtra | Wardha,3.8,recovery_days,562.0
+india_districts,India | Punjab | Tarn Taran,3.76,recovery_days,558.0
+india_districts,India | Manipur | Churachandpur,3.75,transit_stations__late_mean,-51.79
+india_districts,India | Gujarat | Jamnagar,3.75,recovery_days,557.0
+india_districts,India | Delhi | West Delhi,3.75,recovery_days,557.0
+india_districts,India | Delhi | North West Delhi,3.75,recovery_days,557.0
+india_districts,India | Kerala | Ernakulam,3.75,recovery_days,557.0
+india_districts,India | Uttar Pradesh | Siddharthnagar,3.75,parks__late_mean,497.75
+india_districts,India | Delhi | South East Delhi,3.74,workplaces__first_wave_mean,-60.88
+india_districts,India | Delhi | South Delhi,3.73,workplaces__first_wave_mean,-60.8
+india_districts,India | Haryana | Gurgaon,3.72,workplaces__first_wave_mean,-60.75
+india_districts,India | Punjab | Amritsar,3.7,recovery_days,553.0
+india_districts,India | Telangana | Ranga Reddy,3.7,recovery_days,553.0
+india_districts,India | Bihar | Kaimur,3.7,transit_stations__late_mean,130.68
+india_districts,India | Delhi | Central Delhi,3.7,workplaces__first_wave_mean,-60.54
+india_districts,India | Tripura | West Tripura,3.69,recovery_days,552.0
+india_districts,India | Manipur | Imphal East,3.68,transit_stations__first_wave_mean,-0.74
+india_districts,India | Madhya Pradesh | Indore,3.63,workplaces__first_wave_mean,-59.9
+india_districts,India | Delhi | North Delhi,3.62,recovery_days,546.0
+india_districts,India | Madhya Pradesh | Bhopal,3.61,recovery_days,545.0
+india_districts,India | Punjab | Jalandhar,3.61,recovery_days,545.0
+india_districts,India | Odisha | Cuttack,3.6,recovery_days,544.0
+india_districts,India | Goa | South Goa,3.58,recovery_days,542.0
+india_districts,India | Madhya Pradesh | Seoni,3.55,parks__late_mean,477.29
+india_districts,India | Gujarat | Surat,3.55,workplaces__first_wave_mean,-59.12
+india_districts,India | Odisha | Dhenkanal,3.54,recovery_days,539.0
+india_districts,India | Uttar Pradesh | Ghaziabad,3.53,workplaces__first_wave_mean,-58.94
+india_districts,India | Delhi | South West Delhi,3.52,recovery_days,537.0
+india_districts,India | Punjab | Sangrur,3.52,recovery_days,537.0
+india_districts,India | Assam | Karbi Anglong,3.52,recovery_days,537.0
+india_districts,India | Tamil Nadu | Coimbatore,3.51,recovery_days,536.0
+india_districts,India | Tamil Nadu | Ariyalur,3.5,parks__first_wave_mean,80.98
+india_districts,India | Delhi | Shahdara,3.48,workplaces__first_wave_mean,-58.54
+india_districts,India | Punjab | Pathankot,3.47,recovery_days,533.0
+india_districts,India | Chhattisgarh | Balrampur,3.46,workplaces__late_mean,126.44
+india_districts,India | Uttar Pradesh | Sant Kabir Nagar,3.45,parks__first_wave_mean,79.38
+india_districts,India | Telangana | Hyderabad,3.45,recovery_days,531.0
+india_districts,India | Haryana | Mewat,3.44,retail_and_recreation__late_mean,126.6
+india_districts,India | Bihar | Nawada,3.44,parks__first_wave_mean,78.8
+india_districts,India | West Bengal | Kolkata,3.43,workplaces__first_wave_mean,-58.04
+india_districts,India | Madhya Pradesh | Gwalior,3.43,recovery_days,529.0
+india_districts,India | Tamil Nadu | Tiruvannamalai,3.42,parks__first_wave_mean,78.04
+india_districts,India | Maharashtra | Raigad,3.41,recovery_days,527.0
+india_districts,India | West Bengal | North 24 Parganas,3.41,recovery_days,527.0
+india_districts,India | Chhattisgarh | Raipur,3.37,recovery_days,524.0
+india_districts,India | Maharashtra | Washim,3.36,grocery_and_pharmacy__late_mean,247.78
+india_districts,India | Punjab | Sahibzada Ajit Singh Nagar,3.33,recovery_days,520.0
+india_districts,India | Haryana | Ambala,3.32,recovery_days,519.0
+india_districts,India | Uttar Pradesh | Badaun,3.3,transit_stations__late_mean,120.94
+india_districts,India | Meghalaya | West Garo Hills,3.27,transit_stations__first_wave_mean,-5.71
+india_districts,India | Chhattisgarh | Surajpur,3.23,transit_stations__late_mean,119.07
+india_districts,India | Punjab | Shaheed Bhagat Singh Nagar,3.23,recovery_days,511.0
+india_districts,India | Gujarat | Ahmedabad,3.22,workplaces__first_wave_mean,-56.11
+india_districts,India | Delhi | North East Delhi,3.22,workplaces__first_wave_mean,-56.11
+india_districts,India | Rajasthan | Bundi,3.19,retail_and_recreation__first_wave_mean,-35.54
+india_districts,India | Gujarat | Surendranagar,3.19,recovery_days,508.0
+india_districts,India | Meghalaya | East Khasi Hills,3.19,transit_stations__first_wave_mean,-6.62
+india_districts,India | Tamil Nadu | Tiruvallur,3.19,workplaces__first_wave_mean,-55.8
+india_districts,India | Chhattisgarh | Durg,3.17,recovery_days,506.0
+india_districts,India | Kerala | Kottayam,3.16,recovery_days,505.0
+india_districts,India | Kerala | Thiruvananthapuram,3.15,recovery_days,504.0
+india_districts,India | Karnataka | Mandya,3.12,recovery_days,502.0
+india_districts,India | Rajasthan | Kota,3.12,recovery_days,502.0
+india_districts,India | Nagaland | Kohima,3.12,recovery_days,502.0
+india_districts,India | Odisha | Sambalpur,3.1,recovery_days,500.0
+india_districts,India | Punjab | Fazilka,3.09,recovery_days,499.0
+india_districts,India | Punjab | Ludhiana,3.08,recovery_days,498.0
+india_districts,India | Maharashtra | Chandrapur,3.07,recovery_days,497.0
+india_districts,India | Gujarat | Navsari,3.06,recovery_days,496.0
+india_districts,India | Punjab | Moga,3.06,recovery_days,496.0
+india_districts,India | Haryana | Karnal,3.03,recovery_days,494.0
+india_districts,India | Maharashtra | Nagpur,3.03,recovery_days,494.0
+india_districts,India | Haryana | Hisar,3.03,recovery_days,494.0
+india_districts,India | Haryana | Kurukshetra,3.03,recovery_days,494.0
+india_districts,India | Rajasthan | Jaisalmer,3.03,transit_stations__late_mean,114.18
+india_districts,India | Tripura | Sipahijala,3.03,residential__late_mean,36.23
+india_districts,India | Chhattisgarh | Rajnandgaon,3.02,recovery_days,493.0
+india_districts,India | Punjab | Sri Muktsar Sahib,3.02,recovery_days,493.0
+india_districts,India | Punjab | Bathinda,3.02,recovery_days,493.0
+india_districts,India | Rajasthan | Jalore,3.02,grocery_and_pharmacy__first_wave_mean,52.89
+india_districts,India | Haryana | Panchkula,3.01,recovery_days,492.0
+india_districts,India | Punjab | Patiala,3.01,recovery_days,492.0
+india_districts,India | Punjab | Gurdaspur,3.01,recovery_days,492.0
+india_districts,India | Chhattisgarh | Kanker,3.0,recovery_days,491.0
+india_districts,India | Gujarat | Vadodara,2.99,recovery_days,490.0
+india_districts,India | Odisha | Nuapada,2.97,transit_stations__late_mean,112.69
+india_districts,India | Punjab | Ferozepur,2.96,recovery_days,488.0
+india_districts,India | Uttar Pradesh | Pratapgarh,2.96,retail_and_recreation__late_mean,114.08
+india_districts,India | Madhya Pradesh | Guna,2.95,transit_stations__late_mean,112.4
+india_districts,India | Uttar Pradesh | Hathras,2.95,retail_and_recreation__first_wave_mean,-37.32
+india_districts,India | Gujarat | Botad,2.95,parks__first_wave_mean,61.62
+india_districts,India | Uttar Pradesh | Unnao,2.95,grocery_and_pharmacy__late_mean,227.55
+india_districts,India | Madhya Pradesh | Vidisha,2.94,recovery_days,486.0
+india_districts,India | Gujarat | Morbi,2.94,recovery_days,486.0
+india_districts,India | Madhya Pradesh | Harda,2.93,parks__late_mean,413.9
+india_districts,India | Haryana | Faridabad,2.92,workplaces__first_wave_mean,-53.3
+india_districts,India | Maharashtra | Gondia,2.92,recovery_days,484.0
+india_districts,India | Madhya Pradesh | Tikamgarh,2.91,transit_stations__late_mean,111.26
+india_districts,India | Uttar Pradesh | Balrampur,2.91,transit_stations__late_mean,111.2
+india_districts,India | Uttar Pradesh | Shrawasti,2.9,workplaces__late_mean,113.12
+india_districts,India | Bihar | Supaul,2.88,parks__first_wave_mean,59.31
+india_districts,India | Bihar | Jamui,2.87,retail_and_recreation__late_mean,111.77
+india_districts,India | Uttar Pradesh | Azamgarh,2.87,transit_stations__late_mean,110.43
+india_districts,India | Chhattisgarh | Janjgir-Champa,2.87,recovery_days,480.0
+india_districts,India | Gujarat | Kheda,2.87,recovery_days,480.0
+india_districts,India | Gujarat | Anand,2.87,recovery_days,480.0
+india_districts,India | Karnataka | Yadgir,2.87,parks__late_mean,407.95
+india_districts,India | Bihar | Siwan,2.87,parks__first_wave_mean,58.79
+india_districts,India | Uttar Pradesh | Mau,2.86,parks__first_wave_mean,58.7
+india_districts,India | Uttar Pradesh | Bahraich,2.86,parks__late_mean,406.41
+india_districts,India | Gujarat | Valsad,2.84,recovery_days,477.0
+india_districts,India | Punjab | Hoshiarpur,2.82,recovery_days,475.0
+india_districts,India | Uttar Pradesh | Banda,2.8,grocery_and_pharmacy__late_mean,220.31
+india_districts,India | Punjab | Faridkot,2.79,recovery_days,473.0
+india_districts,India | Bihar | Darbhanga,2.79,parks__first_wave_mean,56.12
+india_districts,India | Tamil Nadu | Vellore,2.78,recovery_days,472.0
+india_districts,India | Tamil Nadu | Thiruvarur,2.78,parks__first_wave_mean,55.62
+india_districts,India | Madhya Pradesh | Mandla,2.77,transit_stations__late_mean,107.94
+india_districts,India | Gujarat | Rajkot,2.77,recovery_days,471.0
+india_districts,India | Madhya Pradesh | Katni,2.76,recovery_days,470.0
+india_districts,India | Rajasthan | Jaipur,2.75,workplaces__first_wave_mean,-51.75
+india_districts,India | Maharashtra | Osmanabad,2.75,grocery_and_pharmacy__first_wave_mean,47.18
+india_districts,India | Uttar Pradesh | Basti,2.74,parks__first_wave_mean,54.48
+india_districts,India | Rajasthan | Dungarpur,2.73,transit_stations__late_mean,106.81
+india_districts,India | Punjab | Barnala,2.69,recovery_days,464.0
+india_districts,India | Rajasthan | Bikaner,2.68,recovery_days,463.0
+india_districts,India | Rajasthan | Jhalawar,2.67,parks__late_mean,387.04
+india_districts,India | Gujarat | Amreli,2.66,transit_stations__first_wave_mean,-12.94
+india_districts,India | Uttar Pradesh | Kushinagar,2.66,workplaces__late_mean,107.37
+india_districts,India | Chhattisgarh | Balod,2.65,workplaces__late_mean,107.24
+india_districts,India | Karnataka | Chitradurga,2.64,grocery_and_pharmacy__late_mean,212.45
+india_districts,India | Bihar | Madhubani,2.64,retail_and_recreation__first_wave_mean,-39.6
+india_districts,India | Rajasthan | Pratapgarh,2.62,retail_and_recreation__late_mean,105.24
+india_districts,India | Uttarakhand | Dehradun,2.61,transit_stations__late_mean,103.96
+india_districts,India | Uttar Pradesh | Jaunpur,2.61,workplaces__late_mean,106.12
+india_districts,India | Rajasthan | Karauli,2.6,retail_and_recreation__first_wave_mean,-39.86
+india_districts,India | Odisha | Subarnapur,2.58,residential__late_mean,33.87
+india_districts,India | Karnataka | Kolar,2.58,grocery_and_pharmacy__first_wave_mean,43.46
+india_districts,India | Rajasthan | Nagaur,2.58,grocery_and_pharmacy__first_wave_mean,43.41
+india_districts,India | West Bengal | Howrah,2.56,workplaces__first_wave_mean,-49.95
+india_districts,India | Uttar Pradesh | Barabanki,2.55,parks__first_wave_mean,47.8
+india_districts,India | Assam | Lakhimpur,2.54,retail_and_recreation__late_mean,102.99
+india_districts,India | Uttar Pradesh | Bijnor,2.51,parks__first_wave_mean,46.29
+india_districts,India | Chhattisgarh | Baloda Bazar,2.51,grocery_and_pharmacy__first_wave_mean,42.01
+india_districts,India | Bihar | Madhepura,2.5,parks__first_wave_mean,45.89
+india_districts,India | Odisha | Kendujhar,2.49,parks__first_wave_mean,45.38
+india_districts,India | Gujarat | Porbandar,2.48,recovery_days,445.0
+india_districts,India | Assam | Kokrajhar,2.46,transit_stations__late_mean,-20.11
+india_districts,India | Madhya Pradesh | Ujjain,2.45,recovery_days,443.0
+india_districts,India | Uttar Pradesh | Kanpur Dehat,2.45,parks__first_wave_mean,44.26
+india_districts,India | Uttar Pradesh | Fatehpur,2.45,parks__first_wave_mean,44.19
+india_districts,India | Uttar Pradesh | Lucknow,2.44,workplaces__first_wave_mean,-48.79
+india_districts,India | Gujarat | Gandhinagar,2.44,workplaces__first_wave_mean,-48.79
+india_districts,India | Jharkhand | Palamu,2.43,grocery_and_pharmacy__first_wave_mean,40.38
+india_districts,India | Rajasthan | Sawai Madhopur,2.43,recovery_days,441.0
+india_districts,India | Kerala | Wayanad,2.43,grocery_and_pharmacy__late_mean,201.84
+india_districts,India | Assam | Hailakandi,2.42,retail_and_recreation__late_mean,100.01
+india_districts,India | Uttar Pradesh | Kanshi Ram Nagar,2.42,recovery_days,440.0
+india_districts,India | Gujarat | Junagadh,2.42,recovery_days,440.0
+india_districts,India | Madhya Pradesh | Dhar,2.42,transit_stations__late_mean,99.32
+india_districts,India | Nagaland | Dimapur,2.4,transit_stations__late_mean,98.94
+india_districts,India | Assam | Darrang,2.4,grocery_and_pharmacy__late_mean,200.56
+india_districts,India | Uttar Pradesh | Auraiya,2.4,parks__first_wave_mean,42.38
+india_districts,India | Uttar Pradesh | Sultanpur,2.39,retail_and_recreation__late_mean,99.2
+india_districts,India | Himachal Pradesh | Mandi,2.38,transit_stations__first_wave_mean,-16.31
+india_districts,India | Bihar | Kishanganj,2.38,parks__first_wave_mean,41.54
+india_districts,India | Bihar | Katihar,2.37,parks__first_wave_mean,41.4
+india_districts,India | Uttar Pradesh | Sambhal,2.36,workplaces__late_mean,100.2
+india_districts,India | West Bengal | Purulia,2.33,parks__first_wave_mean,39.93
+india_districts,India | Bihar | Pashchim Champaran,2.33,grocery_and_pharmacy__first_wave_mean,38.05
+india_districts,India | Assam | Goalpara,2.32,retail_and_recreation__late_mean,97.41
+india_districts,India | Uttar Pradesh | Mahoba,2.32,parks__late_mean,351.59
+india_districts,India | Uttarakhand | Pauri Garhwal,2.31,retail_and_recreation__late_mean,97.08
+india_districts,India | Gujarat | Devbhoomi Dwarka,2.31,recovery_days,430.0
+india_districts,India | Uttar Pradesh | Agra,2.3,workplaces__first_wave_mean,-47.54
+india_districts,India | Tamil Nadu | Virudhunagar,2.3,parks__first_wave_mean,38.71
+india_districts,India | Gujarat | Aravalli,2.28,parks__first_wave_mean,38.13
+india_districts,India | Madhya Pradesh | Hoshangabad,2.28,parks__late_mean,346.65
+india_districts,India | Karnataka | Ramanagara,2.27,grocery_and_pharmacy__first_wave_mean,36.89
+india_districts,India | Madhya Pradesh | Singrauli,2.26,transit_stations__late_mean,95.49
+india_districts,India | Maharashtra | Aurangabad district,2.26,workplaces__first_wave_mean,-47.18
+india_districts,India | Maharashtra | Hingoli,2.25,grocery_and_pharmacy__late_mean,193.21
+india_districts,India | Odisha | Nayagarh,2.25,residential__late_mean,32.13
+india_districts,India | Bihar | Muzaffarpur,2.25,parks__first_wave_mean,37.01
+india_districts,India | Odisha | Kandhamal,2.24,transit_stations__late_mean,95.01
+india_districts,India | Himachal Pradesh | Una,2.24,parks__first_wave_mean,36.71
+india_districts,India | Assam | Baksa,2.23,retail_and_recreation__late_mean,94.88
+india_districts,India | Uttar Pradesh | Amethi,2.22,retail_and_recreation__late_mean,94.78
+india_districts,India | Jharkhand | Sahibganj,2.2,retail_and_recreation__first_wave_mean,-42.78
+india_districts,India | Assam | Nalbari,2.2,parks__late_mean,338.62
+india_districts,India | Uttar Pradesh | Amroha,2.19,grocery_and_pharmacy__first_wave_mean,35.22
+india_districts,India | Rajasthan | Bharatpur,2.16,grocery_and_pharmacy__first_wave_mean,34.57
+india_districts,India | Bihar | Saharsa,2.16,transit_stations__late_mean,92.94
+india_districts,India | Madhya Pradesh | Khargone,2.14,parks__late_mean,333.15
+india_districts,India | Karnataka | Chikballapur,2.14,transit_stations__first_wave_mean,-19.2
+india_districts,India | Assam | Tinsukia,2.14,transit_stations__late_mean,-12.25
+india_districts,India | Odisha | Kendrapara,2.13,transit_stations__late_mean,92.33
+india_districts,India | Himachal Pradesh | Shimla,2.13,transit_stations__late_mean,92.26
+india_districts,India | Himachal Pradesh | Hamirpur,2.12,transit_stations__late_mean,91.85
+india_districts,India | Karnataka | Haveri,2.1,residential__late_mean,31.37
+india_districts,India | Bihar | Purvi Champaran,2.09,parks__first_wave_mean,31.35
+india_districts,India | Himachal Pradesh | Sirmaur,2.08,transit_stations__first_wave_mean,-19.86
+india_districts,India | Uttar Pradesh | Kanpur Nagar,2.08,trough_depth,-78.38
+india_districts,India | Manipur | Imphal West,2.07,retail_and_recreation__late_mean,-17.26
+india_districts,India | Odisha | Jajpur,2.06,parks__first_wave_mean,30.29
+india_districts,India | Uttar Pradesh | Sitapur,2.05,grocery_and_pharmacy__late_mean,182.98
+india_districts,India | Maharashtra | Solapur,2.04,residential__first_wave_mean,27.43
+india_districts,India | Uttar Pradesh | Gonda,2.04,retail_and_recreation__late_mean,90.09
+india_districts,India | Odisha | Bhadrak,2.03,parks__first_wave_mean,29.46
+india_districts,India | Madhya Pradesh | Raisen,2.03,retail_and_recreation__first_wave_mean,-44.04
+india_districts,India | Assam | Barpeta,2.02,retail_and_recreation__late_mean,89.58
+india_districts,India | Tamil Nadu | Nagapattinam,2.02,grocery_and_pharmacy__late_mean,181.7
+india_districts,India | Uttar Pradesh | Ghazipur,2.01,grocery_and_pharmacy__late_mean,181.27
+india_districts,India | Uttar Pradesh | Meerut,2.01,workplaces__first_wave_mean,-44.83
+india_districts,India | Odisha | Kalahandi,2.01,retail_and_recreation__late_mean,89.21
+india_districts,India | Madhya Pradesh | Rewa,2.01,transit_stations__late_mean,89.18
+india_districts,India | Maharashtra | Parbhani,2.01,grocery_and_pharmacy__late_mean,180.97
+india_districts,India | Karnataka | Gadag,1.99,residential__late_mean,30.79
+india_districts,India | West Bengal | Uttar Dinajpur,1.98,parks__first_wave_mean,27.71
+india_districts,India | Kerala | Kozhikode,1.98,residential__first_wave_mean,27.1
+india_districts,India | Maharashtra | Buldhana,1.97,residential__late_mean,30.64
+india_districts,India | Maharashtra | Ratnagiri,1.96,parks__first_wave_mean,26.96
+india_districts,India | Kerala | Malappuram,1.96,residential__late_mean,30.6
+india_districts,India | Uttar Pradesh | Ballia,1.95,grocery_and_pharmacy__late_mean,178.26
+india_districts,India | Assam | Dhubri,1.94,retail_and_recreation__late_mean,87.47
+india_districts,India | Madhya Pradesh | Rajgarh,1.93,workplaces__late_mean,90.11
+india_districts,India | Madhya Pradesh | Damoh,1.93,transit_stations__late_mean,87.36
+india_districts,India | Maharashtra | Bhandara,1.93,residential__late_mean,30.45
+india_districts,India | Rajasthan | Udaipur,1.93,workplaces__first_wave_mean,-44.05
+india_districts,India | Bihar | Aurangabad,1.92,parks__first_wave_mean,25.67
+india_districts,India | West Bengal | South 24 Parganas,1.92,workplaces__first_wave_mean,-44.03
+india_districts,India | Tamil Nadu | Salem,1.92,parks__first_wave_mean,25.63
+india_districts,India | Bihar | Begusarai,1.92,grocery_and_pharmacy__first_wave_mean,29.37
+india_districts,India | Karnataka | Hassan,1.92,retail_and_recreation__first_wave_mean,-44.81
+india_districts,India | Madhya Pradesh | Chhindwara,1.92,grocery_and_pharmacy__late_mean,176.74
+india_districts,India | Bihar | Gopalganj,1.92,grocery_and_pharmacy__first_wave_mean,29.29
+india_districts,India | Haryana | Mahendragarh,1.91,transit_stations__first_wave_mean,-21.85
+india_districts,India | Puducherry | Pondicherry,1.91,residential__first_wave_mean,26.73
+india_districts,India | Bihar | Araria,1.9,retail_and_recreation__late_mean,86.32
+india_districts,India | Kerala | Kannur,1.89,residential__first_wave_mean,26.65
+india_districts,India | Assam | Kamrup Metropolitan,1.88,trough_depth,-76.9
+india_districts,India | Maharashtra | Akola,1.88,residential__first_wave_mean,26.62
+india_districts,India | Tripura | Gomati,1.88,transit_stations__late_mean,86.09
+india_districts,India | Uttar Pradesh | Rampur,1.88,grocery_and_pharmacy__late_mean,174.65
+india_districts,India | Uttar Pradesh | Mirzapur,1.87,grocery_and_pharmacy__late_mean,174.48
+india_districts,India | Uttar Pradesh | Lakhimpur Kheri,1.87,transit_stations__first_wave_mean,-22.38
+india_districts,India | Uttar Pradesh | Mainpuri,1.87,grocery_and_pharmacy__first_wave_mean,28.22
+india_districts,India | Rajasthan | Dhaulpur,1.87,parks__first_wave_mean,23.61
+india_districts,India | Bihar | Patna,1.86,residential__late_mean,10.46
+india_districts,India | Haryana | Jind,1.86,grocery_and_pharmacy__first_wave_mean,28.13
+india_districts,India | Uttar Pradesh | Ayodhya,1.85,parks__first_wave_mean,23.17
+india_districts,India | Bihar | Samastipur,1.85,parks__first_wave_mean,23.02
+india_districts,India | Maharashtra | Yavatmal,1.84,grocery_and_pharmacy__late_mean,172.87
+india_districts,India | Gujarat | Bhavnagar,1.84,transit_stations__first_wave_mean,-22.72
+india_districts,India | Rajasthan | Baran,1.83,retail_and_recreation__first_wave_mean,-45.46
+india_districts,India | Rajasthan | Jodhpur,1.83,workplaces__first_wave_mean,-43.19
+india_districts,India | West Bengal | Hooghly,1.83,workplaces__first_wave_mean,-43.14
+india_districts,India | Bihar | Buxar,1.82,parks__late_mean,299.41
+india_districts,India | Jharkhand | Ranchi,1.81,workplaces__first_wave_mean,-42.93
+india_districts,India | Rajasthan | Churu,1.78,retail_and_recreation__first_wave_mean,-45.86
+india_districts,India | Kerala | Kasaragod,1.78,parks__first_wave_mean,20.48
+india_districts,India | Assam | Morigaon,1.77,transit_stations__late_mean,83.33
+india_districts,India | Madhya Pradesh | Dewas,1.76,transit_stations__late_mean,-3.13
+india_districts,India | Himachal Pradesh | Kangra,1.75,transit_stations__first_wave_mean,-23.78
+india_districts,India | Uttar Pradesh | Pilibhit,1.75,grocery_and_pharmacy__late_mean,168.33
+india_districts,India | Uttarakhand | Nainital,1.74,transit_stations__late_mean,82.56
+india_districts,India | Uttar Pradesh | Etah,1.73,retail_and_recreation__first_wave_mean,-46.19
+india_districts,India | Uttar Pradesh | Moradabad,1.73,grocery_and_pharmacy__late_mean,167.51
+india_districts,India | Chhattisgarh | Mahasamund,1.73,grocery_and_pharmacy__late_mean,167.48
+india_districts,India | Assam | Cachar,1.73,parks__first_wave_mean,18.83
+india_districts,India | Haryana | Sonepat,1.73,workplaces__first_wave_mean,-42.22
+india_districts,India | Punjab | Mansa,1.73,grocery_and_pharmacy__late_mean,167.2
+india_districts,India | Tripura | North Tripura,1.73,parks__first_wave_mean,18.7
+india_districts,India | Assam | Nagaon,1.73,parks__first_wave_mean,18.69
+india_districts,India | Telangana | Nizamabad,1.73,parks__first_wave_mean,18.68
+india_districts,India | Bihar | Vaishali,1.71,parks__first_wave_mean,18.15
+india_districts,India | Bihar | Munger,1.7,retail_and_recreation__first_wave_mean,-46.41
+india_districts,India | Madhya Pradesh | Jabalpur,1.7,workplaces__first_wave_mean,-41.94
+india_districts,India | Bihar | Purnia,1.7,parks__late_mean,287.07
+india_districts,India | Tamil Nadu | Madurai,1.69,residential__first_wave_mean,25.65
+india_districts,India | Haryana | Panipat,1.69,trough_depth,-75.43
+india_districts,India | Maharashtra | Nashik,1.69,residential__first_wave_mean,25.63
+india_districts,India | Gujarat | Gir Somnath,1.69,retail_and_recreation__first_wave_mean,-46.52
+india_districts,India | Kerala | Palakkad,1.69,parks__first_wave_mean,17.33
+india_districts,India | Tamil Nadu | Tiruppur,1.68,parks__first_wave_mean,16.99
+india_districts,India | Uttar Pradesh | Shamli,1.68,grocery_and_pharmacy__first_wave_mean,24.07
+india_districts,India | Andhra Pradesh | Vishakhapatnam,1.67,trough_depth,-75.24
+india_districts,India | Uttar Pradesh | Varanasi,1.66,trough_depth,-75.19
+india_districts,India | Uttar Pradesh | Sonbhadra,1.66,transit_stations__late_mean,80.7
+india_districts,India | Assam | Sonitpur,1.66,grocery_and_pharmacy__late_mean,163.74
+india_districts,India | Madhya Pradesh | Barwani,1.65,grocery_and_pharmacy__late_mean,163.43
+india_districts,India | Uttar Pradesh | Lalitpur,1.65,retail_and_recreation__late_mean,79.82
+india_districts,India | Karnataka | Koppal,1.65,retail_and_recreation__first_wave_mean,-46.81
+india_districts,India | Madhya Pradesh | Sehore,1.64,retail_and_recreation__first_wave_mean,-46.87
+india_districts,India | Odisha | Puri,1.64,residential__late_mean,28.91
+india_districts,India | Uttar Pradesh | Firozabad,1.64,transit_stations__late_mean,80.1
+india_districts,India | Jharkhand | Ramgarh,1.62,trough_depth,-49.95
+india_districts,India | Jharkhand | Hazaribagh,1.61,transit_stations__late_mean,79.58
+india_districts,India | Bihar | Saran,1.61,parks__first_wave_mean,14.51
+india_districts,India | Karnataka | Dakshina Kannada,1.61,trough_depth,-74.76
+india_districts,India | Maharashtra | Jalna,1.6,parks__late_mean,277.66
+india_districts,India | Maharashtra | Amravati,1.6,residential__first_wave_mean,25.18
+india_districts,India | Madhya Pradesh | Burhanpur,1.58,grocery_and_pharmacy__late_mean,160.18
+india_districts,India | Goa | North Goa,1.58,trough_depth,-74.57
+india_districts,India | Uttar Pradesh | Prayagraj,1.58,transit_stations__first_wave_mean,-63.5
+india_districts,India | Karnataka | Mysuru,1.58,workplaces__first_wave_mean,-40.79
+india_districts,India | Tamil Nadu | Villupuram,1.57,grocery_and_pharmacy__late_mean,159.39
+india_districts,India | Uttar Pradesh | Jalaun,1.56,grocery_and_pharmacy__first_wave_mean,21.51
+india_districts,India | Kerala | Idukki,1.56,residential__late_mean,28.47
+india_districts,India | Andhra Pradesh | Krishna,1.55,workplaces__first_wave_mean,-40.6
+india_districts,India | Punjab | Rupnagar,1.55,recovery_days,363.0
+india_districts,India | Dadra and Nagar Haveli | Dadra and Nagar Haveli,1.55,transit_stations__late_mean,77.9
+india_districts,India | Sikkim | East Sikkim,1.55,grocery_and_pharmacy__first_wave_mean,-45.12
+india_districts,India | Maharashtra | Sindhudurg,1.53,retail_and_recreation__late_mean,76.72
+india_districts,India | Karnataka | Bagalkot,1.53,residential__late_mean,28.33
+india_districts,India | Uttar Pradesh | Hapur,1.52,transit_stations__late_mean,2.83
+india_districts,India | Haryana | Jhajjar,1.52,workplaces__first_wave_mean,-40.26
+india_districts,India | Uttar Pradesh | Shahjahanpur,1.52,grocery_and_pharmacy__first_wave_mean,20.65
+india_districts,India | Tamil Nadu | Sivaganga,1.52,grocery_and_pharmacy__late_mean,156.81
+india_districts,India | Kerala | Alappuzha,1.5,residential__first_wave_mean,24.7
+india_districts,India | West Bengal | Bankura,1.5,parks__first_wave_mean,10.86
+india_districts,India | Jharkhand | Dumka,1.5,parks__first_wave_mean,10.85
+india_districts,India | Chhattisgarh | Dhamtari,1.5,residential__late_mean,28.18
+india_districts,India | Odisha | Bargarh,1.5,residential__late_mean,28.17
+india_districts,India | Bihar | Bhojpur,1.49,retail_and_recreation__first_wave_mean,-47.93
+india_districts,India | Haryana | Rewari,1.49,workplaces__first_wave_mean,-39.97
+india_districts,India | Assam | Chirang,1.48,parks__first_wave_mean,10.09
+india_districts,India | Haryana | Kaithal,1.48,transit_stations__late_mean,3.78
+india_districts,India | Karnataka | Dharwad,1.47,trough_depth,-73.71
+india_districts,India | Kerala | Thrissur,1.47,recovery_days,356.0
+india_districts,India | Kerala | Pathanamthitta,1.47,recovery_days,356.0
+india_districts,India | Uttar Pradesh | Hardoi,1.46,retail_and_recreation__late_mean,74.81
+india_districts,India | Maharashtra | Gadchiroli,1.45,grocery_and_pharmacy__late_mean,10.0
+india_districts,India | Uttar Pradesh | Hamirpur,1.45,workplaces__first_wave_mean,-12.65
+india_districts,India | Uttar Pradesh | Deoria,1.44,workplaces__late_mean,78.43
+india_districts,India | Chhattisgarh | Bilaspur,1.44,transit_stations__first_wave_mean,-61.81
+india_districts,India | Rajasthan | Jhunjhunu,1.44,grocery_and_pharmacy__first_wave_mean,18.91
+india_districts,India | Rajasthan | Tonk,1.43,retail_and_recreation__first_wave_mean,-48.37
+india_districts,India | West Bengal | Darjeeling,1.43,grocery_and_pharmacy__first_wave_mean,-42.63
+india_districts,India | Rajasthan | Banswara,1.42,workplaces__late_mean,78.01
+india_districts,India | Haryana | Rohtak,1.41,residential__late_mean,12.85
+india_districts,India | Tamil Nadu | Theni,1.41,transit_stations__first_wave_mean,-27.85
+india_districts,India | Tamil Nadu | Nilgiris,1.41,transit_stations__first_wave_mean,-27.86
+india_districts,India | Karnataka | Tumkur,1.4,transit_stations__first_wave_mean,-27.96
+india_districts,India | Gujarat | Sabarkatha,1.4,parks__first_wave_mean,7.28
+india_districts,India | Tamil Nadu | Tiruchirappalli,1.4,residential__late_mean,12.92
+india_districts,India | Maharashtra | Beed,1.39,grocery_and_pharmacy__late_mean,150.71
+india_districts,India | Madhya Pradesh | Morena,1.39,grocery_and_pharmacy__first_wave_mean,17.99
+india_districts,India | Maharashtra | Latur,1.39,residential__late_mean,27.62
+india_districts,India | Haryana | Palwal,1.39,retail_and_recreation__first_wave_mean,-48.69
+india_districts,India | Kerala | Kollam,1.39,residential__first_wave_mean,24.11
+india_districts,India | Madhya Pradesh | Bhind,1.39,residential__first_wave_mean,10.04
+india_districts,India | Telangana | Medak,1.38,workplaces__first_wave_mean,-38.99
+india_districts,India | Tamil Nadu | Namakkal,1.38,transit_stations__first_wave_mean,-28.24
+india_districts,India | Odisha | Rayagada,1.38,parks__late_mean,254.39
+india_districts,India | Daman and Diu | Daman,1.38,retail_and_recreation__first_wave_mean,-68.88
+india_districts,India | Karnataka | Bellary,1.37,transit_stations__first_wave_mean,-28.35
+india_districts,India | Tamil Nadu | Ramanathapuram,1.37,transit_stations__first_wave_mean,-28.37
+india_districts,India | Rajasthan | Dausa,1.37,retail_and_recreation__first_wave_mean,-48.87
+india_districts,India | Rajasthan | Ajmer,1.36,trough_depth,-72.9
+india_districts,India | Karnataka | Bangalore Rural,1.36,trough_depth,-72.9
+india_districts,India | Maharashtra | Nandurbar,1.35,residential__late_mean,27.41
+india_districts,India | Rajasthan | Rajsamand,1.34,retail_and_recreation__late_mean,71.83
+india_districts,India | Telangana | Warangal,1.34,recovery_days,345.0
+india_districts,India | Jharkhand | East Singhbhum,1.33,residential__late_mean,13.25
+india_districts,India | Jharkhand | Deoghar,1.33,transit_stations__late_mean,72.65
+india_districts,India | Madhya Pradesh | Khandwa,1.33,residential__late_mean,27.28
+india_districts,India | Odisha | Jagatsinghpur,1.33,residential__late_mean,27.26
+india_districts,India | Karnataka | Raichur,1.32,transit_stations__first_wave_mean,-28.9
+india_districts,India | Haryana | Yamuna Nagar,1.32,recovery_days,343.0
+india_districts,India | Tamil Nadu | Cuddalore,1.31,parks__first_wave_mean,4.21
+india_districts,India | Karnataka | Bidar,1.31,transit_stations__late_mean,7.92
+india_districts,India | Gujarat | Bharuch,1.31,recovery_days,342.0
+india_districts,India | Uttar Pradesh | Farrukhabad,1.31,grocery_and_pharmacy__late_mean,146.52
+india_districts,India | Odisha | Balasore,1.31,parks__late_mean,247.21
+india_districts,India | Assam | Karimganj,1.31,residential__late_mean,27.16
+india_districts,India | Madhya Pradesh | Balaghat,1.3,parks__late_mean,246.68
+india_districts,India | Maharashtra | Dhule,1.3,residential__late_mean,27.14
+india_districts,India | Rajasthan | Sri Ganganagar,1.3,recovery_days,341.0
+india_districts,India | Karnataka | Chikkamagaluru,1.29,transit_stations__first_wave_mean,-29.24
+india_districts,India | Madhya Pradesh | Chhatarpur,1.29,grocery_and_pharmacy__first_wave_mean,15.71
+india_districts,India | Madhya Pradesh | Narsinghpur,1.28,grocery_and_pharmacy__late_mean,18.48
+india_districts,India | Rajasthan | Pali,1.28,recovery_days,114.0
+india_districts,India | Tamil Nadu | Erode,1.26,residential__first_wave_mean,23.46
+india_districts,India | Maharashtra | Kolhapur,1.26,residential__first_wave_mean,23.46
+india_districts,India | Telangana | Mahabubnagar,1.26,grocery_and_pharmacy__first_wave_mean,15.12
+india_districts,India | Andhra Pradesh | Anantapuram,1.25,retail_and_recreation__late_mean,4.12
+india_districts,India | Chhattisgarh | Koriya,1.25,grocery_and_pharmacy__late_mean,20.12
+india_districts,India | Uttar Pradesh | Rae Bareli,1.25,retail_and_recreation__late_mean,69.36
+india_districts,India | Haryana | Fatehabad,1.25,retail_and_recreation__late_mean,4.25
+india_districts,India | Madhya Pradesh | Mandsaur,1.24,workplaces__late_mean,73.58
+india_districts,India | Tamil Nadu | Dharmapuri,1.23,transit_stations__late_mean,9.85
+india_districts,India | Madhya Pradesh | Satna,1.23,parks__late_mean,239.41
+india_districts,India | West Bengal | Alipurduar,1.23,trough_depth,-52.95
+india_districts,India | West Bengal | Jalpaiguri,1.23,retail_and_recreation__first_wave_mean,-67.77
+india_districts,India | Arunachal Pradesh | Papum Pare,1.22,grocery_and_pharmacy__late_mean,142.27
+india_districts,India | Jharkhand | Pakur,1.22,grocery_and_pharmacy__first_wave_mean,14.22
+india_districts,India | Madhya Pradesh | Ratlam,1.22,trough_depth,-71.76
+india_districts,India | Uttar Pradesh | Aligarh,1.22,residential__late_mean,13.88
+india_districts,India | Madhya Pradesh | Shivpuri,1.21,transit_stations__late_mean,69.69
+india_districts,India | Gujarat | Mehsana,1.21,residential__first_wave_mean,23.2
+india_districts,India | Haryana | Bhiwani,1.21,grocery_and_pharmacy__first_wave_mean,14.04
+india_districts,India | Haryana | Sirsa,1.21,retail_and_recreation__first_wave_mean,-50.04
+india_districts,India | Rajasthan | Bhilwara,1.2,trough_depth,-71.67
+india_districts,India | Odisha | Balangir,1.2,parks__late_mean,236.13
+india_districts,India | Odisha | Jharsuguda,1.2,recovery_days,332.0
+india_districts,India | Odisha | Mayurbhanj,1.19,workplaces__late_mean,72.58
+india_districts,India | Maharashtra | Satara,1.19,residential__late_mean,26.58
+india_districts,India | Himachal Pradesh | Solan,1.19,grocery_and_pharmacy__late_mean,22.92
+india_districts,India | Rajasthan | Sirohi,1.19,parks__first_wave_mean,-0.12
+india_districts,India | Uttar Pradesh | Gorakhpur,1.19,transit_stations__first_wave_mean,-58.87
+india_districts,India | Bihar | Rohtas,1.19,parks__first_wave_mean,-0.18
+india_districts,India | Rajasthan | Sikar,1.18,transit_stations__late_mean,69.02
+india_districts,India | Maharashtra | Sangli,1.18,transit_stations__late_mean,69.02
+india_districts,India | Andhra Pradesh | Guntur,1.17,residential__first_wave_mean,23.01
+india_districts,India | Assam | Jorhat,1.17,transit_stations__late_mean,11.34
+india_districts,India | Maharashtra | Jalgaon,1.17,residential__first_wave_mean,23.0
+india_districts,India | Gujarat | Kutch,1.17,residential__late_mean,14.13
+india_districts,India | Karnataka | Bijapur,1.17,residential__late_mean,26.44
+india_districts,India | Rajasthan | Chittaurgarh,1.16,grocery_and_pharmacy__late_mean,139.4
+india_districts,India | Assam | Golaghat,1.16,transit_stations__late_mean,11.56
+india_districts,India | Chhattisgarh | Raigarh,1.16,workplaces__late_mean,71.66
+india_districts,India | Gujarat | Panchmahal,1.15,parks__late_mean,231.3
+india_districts,India | Gujarat | Dahod,1.15,residential__late_mean,14.24
+india_districts,India | Karnataka | Shimoga,1.14,retail_and_recreation__late_mean,6.97
+india_districts,India | Jharkhand | Bokaro,1.13,retail_and_recreation__late_mean,7.26
+india_districts,India | Odisha | Angul,1.13,recovery_days,326.0
+india_districts,India | Tamil Nadu | Kanyakumari,1.12,residential__first_wave_mean,22.77
+india_districts,India | Bihar | Nalanda,1.12,residential__first_wave_mean,11.41
+india_districts,India | Punjab | Fatehgarh Sahib,1.11,trough_depth,-70.95
+india_districts,India | Chhattisgarh | Bastar,1.11,transit_stations__late_mean,67.13
+india_districts,India | Chhattisgarh | Surguja,1.1,workplaces__late_mean,70.37
+india_districts,India | Uttarakhand | Udham Singh Nagar,1.1,residential__late_mean,14.48
+india_districts,India | West Bengal | Malda,1.09,parks__first_wave_mean,-3.71
+india_districts,India | Tamil Nadu | Thoothukudi,1.07,residential__first_wave_mean,22.51
+india_districts,India | Andhra Pradesh | Prakasam,1.07,transit_stations__first_wave_mean,-31.88
+india_districts,India | Rajasthan | Alwar,1.06,recovery_days,320.0
+india_districts,India | Uttarakhand | Haridwar,1.06,residential__late_mean,14.71
+india_districts,India | Odisha | Koraput,1.04,workplaces__first_wave_mean,-16.48
+india_districts,India | Andhra Pradesh | Kurnool,1.04,residential__first_wave_mean,22.33
+india_districts,India | Puducherry | Karaikal,1.03,residential__first_wave_mean,22.29
+india_districts,India | Uttar Pradesh | Jhansi,1.03,retail_and_recreation__late_mean,9.92
+india_districts,India | Odisha | Sundargarh,1.03,recovery_days,317.0
+india_districts,India | Maharashtra | Nanded,1.02,residential__late_mean,25.67
+india_districts,India | West Bengal | Murshidabad,1.02,grocery_and_pharmacy__first_wave_mean,10.02
+india_districts,India | Assam | Kamrup,1.02,transit_stations__late_mean,64.98
+india_districts,India | Himachal Pradesh | Kullu,1.01,residential__first_wave_mean,11.93
+india_districts,India | Telangana | Adilabad,1.01,residential__late_mean,25.61
+india_districts,India | Gujarat | Patan,1.01,grocery_and_pharmacy__late_mean,131.8
+india_districts,India | Odisha | Ganjam,1.01,grocery_and_pharmacy__late_mean,31.98
+india_districts,India | Rajasthan | Barmer,1.0,residential__first_wave_mean,11.97
+india_districts,India | Uttar Pradesh | Etawah,1.0,retail_and_recreation__first_wave_mean,-51.53
+india_districts,India | Telangana | Nalgonda,1.0,transit_stations__first_wave_mean,-32.73
+india_districts,India | West Bengal | Dakshin Dinajpur,1.0,trough_depth,-54.71
+india_districts,India | Madhya Pradesh | Neemuch,0.99,grocery_and_pharmacy__late_mean,130.93
+india_districts,India | Tamil Nadu | Krishnagiri,0.99,workplaces__first_wave_mean,-35.35
+india_districts,India | Karnataka | Udupi,0.99,workplaces__first_wave_mean,-35.34
+india_districts,India | Tamil Nadu | Dindigul,0.98,grocery_and_pharmacy__late_mean,130.46
+india_districts,India | Andhra Pradesh | Sri Potti Sriramulu Nellore District,0.98,parks__late_mean,12.14
+india_districts,India | Jharkhand | Seraikela Kharsawan,0.98,transit_stations__late_mean,16.07
+india_districts,India | Tamil Nadu | Pudukkottai,0.98,transit_stations__first_wave_mean,-33.03
+india_districts,India | Madhya Pradesh | Shahdol,0.97,parks__late_mean,212.95
+india_districts,India | Karnataka | Kodagu,0.97,parks__first_wave_mean,-76.04
+india_districts,India | Uttar Pradesh | Bulandshahar,0.97,retail_and_recreation__first_wave_mean,-51.76
+india_districts,India | Tamil Nadu | Tirunelveli,0.97,recovery_days,141.0
+india_districts,India | West Bengal | Birbhum,0.96,parks__first_wave_mean,-8.13
+india_districts,India | Telangana | Khammam,0.96,retail_and_recreation__late_mean,11.72
+india_districts,India | Karnataka | Davanagere,0.94,parks__late_mean,16.31
+india_districts,India | Jharkhand | Dhanbad,0.94,recovery_days,309.0
+india_districts,India | Andhra Pradesh | East Godavari,0.93,parks__late_mean,16.97
+india_districts,India | Bihar | Gaya,0.93,residential__late_mean,15.38
+india_districts,India | Karnataka | Belagavi,0.93,transit_stations__late_mean,62.82
+india_districts,India | Rajasthan | Hanumangarh,0.93,transit_stations__late_mean,62.78
+india_districts,India | Karnataka | Gulbarga,0.93,retail_and_recreation__late_mean,12.58
+india_districts,India | Karnataka | Uttara Kannada,0.92,retail_and_recreation__first_wave_mean,-52.15
+india_districts,India | Andhra Pradesh | Chittoor,0.91,transit_stations__late_mean,17.79
+india_districts,India | Maharashtra | Ahmednagar,0.9,residential__first_wave_mean,21.64
+india_districts,India | Tamil Nadu | Karur,0.89,residential__late_mean,15.61
+india_districts,India | Uttar Pradesh | Saharanpur,0.88,trough_depth,-69.19
+india_districts,India | West Bengal | West Medinipur,0.87,parks__first_wave_mean,-11.49
+india_districts,India | West Bengal | Purba Medinipur,0.86,workplaces__late_mean,64.58
+india_districts,India | West Bengal | Cooch Behar,0.86,retail_and_recreation__first_wave_mean,-65.09
+india_districts,India | Uttar Pradesh | Bareilly,0.86,residential__late_mean,15.77
+india_districts,India | Madhya Pradesh | Betul,0.84,workplaces__late_mean,64.15
+india_districts,India | Jharkhand | West Singhbhum,0.84,trough_depth,-55.95
+india_districts,India | Assam | Dibrugarh,0.83,grocery_and_pharmacy__first_wave_mean,-29.81
+india_districts,India | Andhra Pradesh | Vizianagaram,0.83,transit_stations__late_mean,19.76
+india_districts,India | Andhra Pradesh | YSR District,0.83,parks__first_wave_mean,-12.88
+india_districts,India | Assam | Sivasagar,0.82,grocery_and_pharmacy__first_wave_mean,-29.61
+india_districts,India | Andhra Pradesh | West Godavari,0.8,retail_and_recreation__late_mean,15.8
+india_districts,India | Bihar | Bhagalpur,0.79,residential__first_wave_mean,13.04
+india_districts,India | Tamil Nadu | Thanjavur,0.79,residential__first_wave_mean,21.08
+india_districts,India | Gujarat | Tapi,0.77,workplaces__late_mean,62.59
+india_districts,India | Chhattisgarh | Korba,0.77,workplaces__late_mean,62.58
+india_districts,India | West Bengal | Bardhaman,0.74,grocery_and_pharmacy__late_mean,45.26
+india_districts,India | Telangana | Karimnagar,0.74,transit_stations__late_mean,22.0
+india_districts,India | West Bengal | Nadia,0.67,parks__late_mean,43.53
+india_districts,India | Gujarat | Banaskantha,0.66,workplaces__late_mean,59.98
+india_districts,India | Andhra Pradesh | Srikakulam,0.64,grocery_and_pharmacy__late_mean,50.19
+india_districts,India | Madhya Pradesh | Sagar,0.64,transit_stations__first_wave_mean,-52.28
+india_districts,India | Uttar Pradesh | Muzaffarnagar,0.58,residential__late_mean,17.23
+global_states,India | Jammu and Kashmir,31.08,retail_and_recreation__late_mean,614.31
+global_states,Greece | Decentralized Administration of the Aegean,17.06,transit_stations__late_mean,498.23
+global_states,Greece | Decentralized Administration of Crete,12.29,transit_stations__late_mean,360.55
+global_states,Egypt | Menia Governorate,8.56,grocery_and_pharmacy__late_mean,279.39
+global_states,Nigeria | Kano,8.17,residential__late_mean,33.93
+global_states,Nigeria | Anambra,8.08,residential__late_mean,33.6
+global_states,Nigeria | Kaduna,8.07,residential__late_mean,33.56
+global_states,South Africa | Mpumalanga,7.76,transit_stations__late_mean,229.51
+global_states,Egypt | Al Qalyubia Governorate,7.54,transit_stations__late_mean,223.16
+global_states,Nigeria | Oyo,7.21,residential__late_mean,30.4
+global_states,France | Corsica,7.13,parks__late_mean,493.45
+global_states,Nigeria | Osun,6.93,residential__late_mean,29.35
+global_states,Nigeria | Ogun State,6.84,residential__late_mean,29.01
+global_states,Portugal | Faro District,6.69,transit_stations__late_mean,198.44
+global_states,Egypt | Sohag Governorate,6.46,grocery_and_pharmacy__late_mean,217.89
+global_states,Portugal | Azores,6.43,transit_stations__late_mean,191.04
+global_states,Egypt | El Beheira Governorate,6.42,grocery_and_pharmacy__late_mean,216.79
+global_states,Rwanda | Kigali City,6.42,residential__late_mean,27.47
+global_states,Croatia | Split-Dalmatia County,6.34,transit_stations__late_mean,188.45
+global_states,Paraguay | Caaguazú Department,6.16,residential__late_mean,26.51
+global_states,Togo | Maritime Region,6.0,residential__late_mean,25.93
+global_states,Argentina | Santa Fe Province,5.92,transit_stations__late_mean,176.34
+global_states,Mongolia | Ulaanbaatar,5.8,grocery_and_pharmacy__late_mean,198.45
+global_states,Romania | Buzău County,5.72,transit_stations__late_mean,170.3
+global_states,Kenya | Uasin Gishu County,5.44,retail_and_recreation__late_mean,114.3
+global_states,Philippines | Bicol,5.41,residential__late_mean,23.72
+global_states,Uganda | Central Region,5.39,residential__late_mean,23.67
+global_states,Philippines | Cagayan Valley,5.39,residential__late_mean,23.66
+global_states,Bulgaria | Burgas,5.33,transit_stations__late_mean,159.1
+global_states,Brazil | State of Acre,5.22,transit_stations__late_mean,156.07
+global_states,Haiti | Ouest Department,5.14,residential__late_mean,22.73
+global_states,"Greece | Decentralized Administration of Peloponnese, Western Greece and the Ionian",5.08,transit_stations__late_mean,152.03
+global_states,Kenya | Kiambu County,5.08,retail_and_recreation__late_mean,107.17
+global_states,India | Arunachal Pradesh,5.04,residential__late_mean,22.36
+global_states,India | Nagaland,5.03,residential__late_mean,22.32
+global_states,Philippines | MIMAROPA,5.02,residential__late_mean,22.28
+global_states,India | Kerala,4.99,residential__late_mean,22.17
+global_states,Turkey | Sivas,4.89,grocery_and_pharmacy__late_mean,172.02
+global_states,Indonesia | Central Java,4.83,residential__late_mean,21.6
+global_states,Turkey | Yozgat,4.82,grocery_and_pharmacy__late_mean,169.72
+global_states,Egypt | Dakahlia Governorate,4.81,grocery_and_pharmacy__late_mean,169.6
+global_states,Kenya | Nakuru County,4.78,retail_and_recreation__late_mean,101.27
+global_states,Indonesia | Lampung,4.77,residential__late_mean,21.38
+global_states,Philippines | Ilocos Region,4.77,residential__late_mean,21.37
+global_states,Nigeria | Federal Capital Territory,4.74,residential__late_mean,21.27
+global_states,Turkey | Antalya,4.69,transit_stations__late_mean,140.62
+global_states,Nigeria | Lagos,4.69,residential__late_mean,21.06
+global_states,Nigeria | Rivers,4.68,residential__late_mean,21.02
+global_states,Turkey | Şanlıurfa,4.65,grocery_and_pharmacy__late_mean,164.93
+global_states,Kenya | Machakos County,4.64,retail_and_recreation__late_mean,98.67
+global_states,Angola | Luanda Province,4.63,retail_and_recreation__late_mean,98.33
+global_states,Philippines | Autonomous Region in Muslim Mindanao,4.51,residential__late_mean,20.42
+global_states,Croatia | Primorje-Gorski Kotar County,4.48,transit_stations__late_mean,134.61
+global_states,Denmark | Region Zealand,4.45,parks__first_wave_mean,154.0
+global_states,Romania | Constanța County,4.43,parks__late_mean,326.66
+global_states,Egypt | Ash Sharqia Governorate,4.39,grocery_and_pharmacy__late_mean,157.27
+global_states,India | Tripura,4.38,residential__late_mean,19.93
+global_states,Indonesia | West Sulawesi,4.38,residential__late_mean,19.91
+global_states,Philippines | Eastern Visayas,4.35,residential__late_mean,19.8
+global_states,South Africa | North West,4.35,transit_stations__late_mean,130.72
+global_states,Egypt | Gharbia Governorate,4.29,grocery_and_pharmacy__late_mean,154.18
+global_states,Germany | Mecklenburg-Vorpommern,4.26,parks__late_mean,316.11
+global_states,Philippines | Western Visayas,4.24,residential__late_mean,19.39
+global_states,Denmark | Central Denmark Region,4.22,parks__first_wave_mean,145.07
+global_states,India | Manipur,4.2,residential__late_mean,19.27
+global_states,Indonesia | West Nusa Tenggara,4.2,residential__late_mean,19.25
+global_states,Philippines | SOCCSKSARGEN,4.19,residential__late_mean,19.24
+global_states,Pakistan | Khyber Pakhtunkhwa,4.17,retail_and_recreation__late_mean,89.45
+global_states,Cameroon | Littoral,4.16,residential__late_mean,19.12
+global_states,Pakistan | Balochistan,4.11,retail_and_recreation__late_mean,88.23
+global_states,India | Mizoram,4.08,residential__late_mean,18.8
+global_states,United States | South Dakota,4.05,parks__first_wave_mean,138.43
+global_states,Netherlands | Friesland,4.04,parks__first_wave_mean,137.95
+global_states,India | Meghalaya,4.02,residential__late_mean,18.59
+global_states,South Africa | Limpopo,4.01,residential__late_mean,18.55
+global_states,Cameroon | Centre,4.0,residential__late_mean,18.53
+global_states,India | Assam,3.99,residential__late_mean,18.48
+global_states,Cambodia | Kandal Province,3.88,residential__late_mean,18.09
+global_states,Turkey | Muğla,3.87,transit_stations__late_mean,116.81
+global_states,Hungary | Veszprém,3.86,parks__late_mean,291.56
+global_states,Philippines | Zamboanga Peninsula,3.86,residential__late_mean,18.01
+global_states,Saudi Arabia | Jazan Province,3.84,transit_stations__late_mean,116.1
+global_states,Egypt | Giza Governorate,3.84,transit_stations__late_mean,116.05
+global_states,India | Odisha,3.82,residential__late_mean,17.84
+global_states,Argentina | Salta Province,3.81,transit_stations__late_mean,115.34
+global_states,Kenya | Kajiado County,3.81,residential__late_mean,17.83
+global_states,Sweden | Västra Götaland County,3.81,parks__first_wave_mean,129.05
+global_states,Norway | Viken,3.8,parks__first_wave_mean,128.8
+global_states,Malaysia | Kelantan,3.78,residential__late_mean,17.71
+global_states,Indonesia | West Sumatra,3.74,residential__late_mean,17.54
+global_states,Lithuania | Klaipėda County,3.73,transit_stations__late_mean,112.99
+global_states,Philippines | Cordillera Administrative Region,3.73,residential__late_mean,17.51
+global_states,Kenya | Kisumu County,3.71,residential__late_mean,17.43
+global_states,Netherlands | Zeeland,3.69,parks__late_mean,281.03
+global_states,Philippines | Central Luzon,3.69,residential__late_mean,17.35
+global_states,Ecuador | Loja,3.66,retail_and_recreation__late_mean,79.42
+global_states,Philippines | Northern Mindanao,3.65,residential__late_mean,17.22
+global_states,Denmark | Region of Southern Denmark,3.62,parks__first_wave_mean,121.87
+global_states,Turkey | Niğde,3.62,grocery_and_pharmacy__late_mean,134.54
+global_states,Argentina | Catamarca Province,3.61,transit_stations__late_mean,109.32
+global_states,Turkey | Mersin,3.59,transit_stations__late_mean,108.74
+global_states,Sweden | Östergötland County,3.58,parks__first_wave_mean,120.02
+global_states,Tanzania | Mwanza Region,3.57,residential__late_mean,16.94
+global_states,Indonesia | Bangka Belitung Islands,3.56,residential__late_mean,16.91
+global_states,Indonesia | East Java,3.55,residential__late_mean,16.87
+global_states,Germany | Schleswig-Holstein,3.54,parks__first_wave_mean,118.51
+global_states,Bolivia | Chuquisaca Department,3.52,grocery_and_pharmacy__first_wave_mean,-66.83
+global_states,United States | Idaho,3.51,parks__first_wave_mean,117.48
+global_states,United States | Iowa,3.51,parks__first_wave_mean,117.26
+global_states,Philippines | Davao Region,3.5,residential__late_mean,16.68
+global_states,Finland | Central Finland,3.5,parks__first_wave_mean,116.99
+global_states,Spain | Balearic Islands,3.49,transit_stations__late_mean,106.02
+global_states,Indonesia | Jambi,3.46,residential__late_mean,16.54
+global_states,India | Chhattisgarh,3.46,residential__late_mean,16.53
+global_states,Philippines | Central Visayas,3.46,residential__late_mean,16.52
+global_states,Finland | Northern Ostrobothnia,3.46,parks__first_wave_mean,115.36
+global_states,United States | Wisconsin,3.42,parks__first_wave_mean,113.83
+global_states,Ecuador | Cotopaxi,3.42,retail_and_recreation__late_mean,74.75
+global_states,Finland | Southwest Finland,3.4,parks__first_wave_mean,113.24
+global_states,Turkey | Ordu,3.39,parks__late_mean,262.63
+global_states,Poland | Warmian-Masurian Voivodeship,3.36,parks__late_mean,260.72
+global_states,India | Himachal Pradesh,3.36,residential__late_mean,16.15
+global_states,Bolivia | Potosi Department,3.35,grocery_and_pharmacy__first_wave_mean,-64.55
+global_states,United States | Wyoming,3.33,transit_stations__first_wave_mean,6.7
+global_states,Philippines | Caraga,3.32,residential__late_mean,15.99
+global_states,Poland | West Pomeranian Voivodeship,3.3,parks__late_mean,256.92
+global_states,Indonesia | West Java,3.29,residential__late_mean,15.89
+global_states,Indonesia | South Sumatra,3.29,residential__late_mean,15.89
+global_states,Norway | Vestfold og Telemark,3.28,parks__first_wave_mean,108.54
+global_states,Sweden | Skåne County,3.25,parks__first_wave_mean,107.1
+global_states,Indonesia | Riau,3.23,residential__late_mean,15.66
+global_states,India | Andhra Pradesh,3.22,residential__late_mean,15.64
+global_states,Philippines | Calabarzon,3.22,residential__late_mean,15.64
+global_states,Côte d'Ivoire | Abidjan Autonomous District,3.22,residential__late_mean,15.62
+global_states,Colombia | Magdalena,3.2,transit_stations__late_mean,97.69
+global_states,Turkey | Samsun,3.2,grocery_and_pharmacy__late_mean,122.34
+global_states,Bolivia | Oruro Department,3.2,grocery_and_pharmacy__first_wave_mean,-62.36
+global_states,Portugal | Vila Real District,3.2,transit_stations__late_mean,97.5
+global_states,Guatemala | San Marcos Department,3.19,residential__late_mean,15.52
+global_states,Cambodia | Battambang Province,3.18,residential__late_mean,15.49
+global_states,Colombia | La Guajira,3.18,transit_stations__late_mean,96.98
+global_states,Tanzania | Dar es Salam,3.18,parks__late_mean,249.16
+global_states,Bolivia | Santa Cruz Department,3.17,grocery_and_pharmacy__first_wave_mean,-61.96
+global_states,South Africa | Gauteng,3.14,residential__late_mean,15.35
+global_states,Ecuador | El Oro,3.14,transit_stations__late_mean,95.88
+global_states,Finland | North Savo,3.14,parks__first_wave_mean,102.92
+global_states,Peru | Lambayeque,3.14,grocery_and_pharmacy__first_wave_mean,-61.51
+global_states,Indonesia | Bengkulu,3.13,residential__late_mean,15.32
+global_states,Bolivia | Tarija Department,3.12,grocery_and_pharmacy__first_wave_mean,-61.21
+global_states,United States | Ohio,3.11,parks__first_wave_mean,101.94
+global_states,India | Sikkim,3.11,residential__late_mean,15.22
+global_states,Indonesia | North Sumatra,3.11,residential__late_mean,15.22
+global_states,United States | Rhode Island,3.11,parks__first_wave_mean,101.69
+global_states,Peru | Lima Province,3.1,residential__first_wave_mean,35.43
+global_states,United States | Michigan,3.1,parks__first_wave_mean,101.27
+global_states,India | Jharkhand,3.09,residential__late_mean,15.17
+global_states,Turkey | Aksaray,3.09,retail_and_recreation__late_mean,68.28
+global_states,Kuwait | Al Farwaniyah Governorate,3.08,residential__first_wave_mean,35.29
+global_states,Indonesia | Aceh,3.08,residential__late_mean,15.11
+global_states,Argentina | La Rioja Province,3.08,workplaces__late_mean,74.83
+global_states,Indonesia | South East Sulawesi,3.07,residential__late_mean,15.07
+global_states,Netherlands | Overijssel,3.06,parks__first_wave_mean,99.71
+global_states,Turkey | Mardin,3.06,grocery_and_pharmacy__late_mean,118.18
+global_states,Cambodia | Siem Reap Province,3.06,residential__late_mean,15.03
+global_states,Ecuador | Imbabura,3.04,transit_stations__late_mean,92.97
+global_states,India | Madhya Pradesh,3.02,residential__late_mean,14.91
+global_states,Colombia | North Santander,3.01,transit_stations__late_mean,91.93
+global_states,Peru | Moquegua,2.98,grocery_and_pharmacy__first_wave_mean,-59.29
+global_states,Tanzania | Arusha Region,2.98,residential__late_mean,14.73
+global_states,United States | Kansas,2.97,parks__first_wave_mean,96.25
+global_states,Canada | Nova Scotia,2.97,parks__late_mean,236.12
+global_states,Indonesia | North Sulawesi,2.96,residential__late_mean,14.69
+global_states,Netherlands | Flevoland,2.96,parks__first_wave_mean,95.93
+global_states,India | Bihar,2.95,residential__late_mean,14.65
+global_states,India | Uttarakhand,2.94,residential__late_mean,14.6
+global_states,South Africa | Free State,2.94,residential__late_mean,14.59
+global_states,Bulgaria | Varna,2.93,transit_stations__late_mean,89.63
+global_states,Indonesia | South Sulawesi,2.92,residential__late_mean,14.53
+global_states,Finland | Pirkanmaa,2.91,parks__first_wave_mean,94.06
+global_states,Norway | Trøndelag,2.9,parks__first_wave_mean,93.68
+global_states,Ecuador | Pichincha,2.89,residential__first_wave_mean,34.03
+global_states,Uruguay | Maldonado Department,2.88,retail_and_recreation__late_mean,-48.12
+global_states,Denmark | North Denmark Region,2.88,parks__first_wave_mean,92.79
+global_states,El Salvador | Sonsonate Department,2.87,retail_and_recreation__late_mean,64.17
+global_states,Peru | Ayacucho,2.87,retail_and_recreation__late_mean,64.07
+global_states,Peru | Cusco,2.85,grocery_and_pharmacy__first_wave_mean,-57.42
+global_states,Turkey | Van,2.84,grocery_and_pharmacy__late_mean,111.77
+global_states,Peru | Huanuco,2.83,grocery_and_pharmacy__first_wave_mean,-57.22
+global_states,Turkey | Tokat,2.83,grocery_and_pharmacy__late_mean,111.61
+global_states,India | Chandigarh,2.82,grocery_and_pharmacy__first_wave_mean,-57.07
+global_states,Malaysia | Sabah,2.82,residential__late_mean,14.17
+global_states,United States | Indiana,2.82,parks__first_wave_mean,90.54
+global_states,Indonesia | Special Region of Yogyakarta,2.82,residential__late_mean,14.16
+global_states,Peru | Piura,2.82,grocery_and_pharmacy__first_wave_mean,-56.96
+global_states,Greece | Decentralized Administration of Thessaly and Central Greece,2.81,transit_stations__late_mean,86.2
+global_states,Norway | Rogaland,2.8,parks__first_wave_mean,89.65
+global_states,Denmark | Capital Region of Denmark,2.8,parks__first_wave_mean,89.49
+global_states,Bolivia | Cochabamba Department,2.79,grocery_and_pharmacy__first_wave_mean,-56.65
+global_states,Peru | Callao Region,2.79,residential__first_wave_mean,33.38
+global_states,Turkey | Zonguldak,2.79,grocery_and_pharmacy__late_mean,110.3
+global_states,Peru | Arequipa,2.77,grocery_and_pharmacy__first_wave_mean,-56.34
+global_states,Indonesia | South Kalimantan,2.76,residential__late_mean,13.93
+global_states,Indonesia | North Maluku,2.76,grocery_and_pharmacy__late_mean,109.43
+global_states,Bolivia | Beni Department,2.75,grocery_and_pharmacy__first_wave_mean,-56.04
+global_states,United States | Minnesota,2.75,parks__first_wave_mean,87.53
+global_states,Philippines | National Capital Region,2.74,residential__late_mean,13.85
+global_states,Colombia | Boyaca,2.74,workplaces__late_mean,66.35
+global_states,Guatemala | Alta Verapaz Department,2.72,grocery_and_pharmacy__late_mean,108.43
+global_states,United States | Utah,2.72,parks__first_wave_mean,86.68
+global_states,Cambodia | Sihanoukville,2.71,residential__late_mean,13.75
+global_states,United States | Alaska,2.71,parks__late_mean,220.17
+global_states,India | Goa,2.69,residential__late_mean,13.67
+global_states,Malaysia | Putrajaya,2.69,grocery_and_pharmacy__first_wave_mean,20.73
+global_states,Peru | Junin,2.69,grocery_and_pharmacy__first_wave_mean,-55.15
+global_states,Ecuador | Chimborazo,2.69,residential__first_wave_mean,32.69
+global_states,Paraguay | Itapúa Department,2.68,residential__late_mean,13.62
+global_states,Colombia | Bolivar,2.67,grocery_and_pharmacy__first_wave_mean,-54.96
+global_states,Hungary | Zala County,2.67,retail_and_recreation__late_mean,60.12
+global_states,United Kingdom | Highland Council,2.66,parks__late_mean,216.96
+global_states,Argentina | San Juan Province,2.66,workplaces__late_mean,64.32
+global_states,United States | Oregon,2.64,recovery_days,932.0
+global_states,Indonesia | Bali,2.64,recovery_days,932.0
+global_states,Indonesia | Banten,2.64,residential__late_mean,13.5
+global_states,United States | Washington,2.64,recovery_days,930.0
+global_states,United Kingdom | Aberdeen City,2.63,recovery_days,928.0
+global_states,Argentina | Tierra del Fuego Province,2.62,workplaces__late_mean,63.46
+global_states,Honduras | Francisco Morazán Department,2.62,grocery_and_pharmacy__first_wave_mean,-54.2
+global_states,Guatemala | Escuintla Department,2.62,retail_and_recreation__late_mean,59.2
+global_states,Czechia | Central Bohemian Region,2.62,transit_stations__first_wave_mean,-4.62
+global_states,South Africa | KwaZulu-Natal,2.61,residential__late_mean,13.39
+global_states,India | Rajasthan,2.61,residential__late_mean,13.39
+global_states,Oman | Al Batinah North Governorate,2.61,recovery_days,924.0
+global_states,Argentina | San Luis Province,2.61,workplaces__late_mean,63.29
+global_states,Malaysia | Federal Territory of Kuala Lumpur,2.61,recovery_days,923.0
+global_states,Peru | Tacna,2.6,grocery_and_pharmacy__first_wave_mean,-53.93
+global_states,South Africa | Eastern Cape,2.6,residential__late_mean,13.33
+global_states,United States | Nebraska,2.6,parks__first_wave_mean,81.71
+global_states,United States | Florida,2.6,recovery_days,919.0
+global_states,United States | California,2.6,recovery_days,919.0
+global_states,United States | Nevada,2.6,recovery_days,919.0
+global_states,Bolivia | La Paz Department,2.59,grocery_and_pharmacy__first_wave_mean,-53.79
+global_states,United States | Pennsylvania,2.59,recovery_days,918.0
+global_states,Spain | Basque Country,2.59,recovery_days,918.0
+global_states,United States | Virginia,2.59,recovery_days,918.0
+global_states,United Kingdom | Surrey,2.59,recovery_days,918.0
+global_states,United Kingdom | Swansea,2.59,recovery_days,918.0
+global_states,United Kingdom | Stockton-on-Tees,2.59,recovery_days,918.0
+global_states,United States | New York,2.59,recovery_days,918.0
+global_states,United States | Maryland,2.59,recovery_days,918.0
+global_states,United Kingdom | West Yorkshire,2.59,recovery_days,918.0
+global_states,United States | Massachusetts,2.59,recovery_days,918.0
+global_states,United States | District of Columbia,2.59,recovery_days,918.0
+global_states,United Kingdom | South Yorkshire,2.59,recovery_days,918.0
+global_states,Sweden | Stockholm County,2.59,recovery_days,918.0
+global_states,United Kingdom | Suffolk,2.59,recovery_days,918.0
+global_states,United Kingdom | West Midlands,2.59,recovery_days,918.0
+global_states,United Kingdom | Glasgow City,2.59,recovery_days,918.0
+global_states,United Kingdom | Merseyside,2.59,recovery_days,918.0
+global_states,United Kingdom | Buckinghamshire,2.59,recovery_days,918.0
+global_states,United Kingdom | Cambridgeshire,2.59,recovery_days,918.0
+global_states,United Kingdom | South Gloucestershire,2.59,recovery_days,918.0
+global_states,United Kingdom | Northamptonshire,2.59,recovery_days,918.0
+global_states,United Kingdom | Nottingham,2.59,recovery_days,918.0
+global_states,United Kingdom | Oxfordshire,2.59,recovery_days,918.0
+global_states,United Kingdom | Rhondda Cynon Taff,2.59,recovery_days,918.0
+global_states,United Kingdom | Southend-on-Sea,2.59,recovery_days,918.0
+global_states,United Kingdom | Southampton,2.59,recovery_days,918.0
+global_states,United Kingdom | Stoke-on-Trent,2.59,recovery_days,918.0
+global_states,United Kingdom | Bristol City,2.59,recovery_days,918.0
+global_states,United Kingdom | Bath and North East Somerset,2.59,recovery_days,918.0
+global_states,United Kingdom | Greater London,2.59,recovery_days,918.0
+global_states,United Kingdom | Greater Manchester,2.59,recovery_days,918.0
+global_states,Netherlands | Utrecht,2.59,recovery_days,918.0
+global_states,United Kingdom | Hertfordshire,2.59,recovery_days,918.0
+global_states,United Kingdom | Cardiff,2.59,recovery_days,918.0
+global_states,United Kingdom | Cheshire West and Chester,2.59,recovery_days,918.0
+global_states,United Kingdom | Tyne and Wear,2.59,recovery_days,918.0
+global_states,United Kingdom | Leicestershire,2.59,recovery_days,918.0
+global_states,United Kingdom | Leicester,2.59,recovery_days,918.0
+global_states,Indonesia | East Nusa Tenggara,2.59,residential__late_mean,13.3
+global_states,Poland | Pomeranian Voivodeship,2.59,parks__late_mean,212.74
+global_states,Chile | Maule,2.59,transit_stations__late_mean,79.86
+global_states,United Kingdom | Belfast,2.59,recovery_days,917.0
+global_states,United States | Illinois,2.59,recovery_days,917.0
+global_states,United States | New Jersey,2.59,recovery_days,917.0
+global_states,Norway | Oslo,2.59,recovery_days,917.0
+global_states,United States | Hawaii,2.59,recovery_days,917.0
+global_states,Italy | Sardinia,2.59,parks__late_mean,212.7
+global_states,Israel | Tel Aviv District,2.58,recovery_days,916.0
+global_states,Finland | Uusimaa,2.58,recovery_days,915.0
+global_states,Australia | New South Wales,2.58,recovery_days,915.0
+global_states,Australia | Victoria,2.58,recovery_days,915.0
+global_states,Canada | Ontario,2.58,recovery_days,915.0
+global_states,United States | Colorado,2.58,recovery_days,915.0
+global_states,Latvia | Riga,2.58,recovery_days,915.0
+global_states,Oman | Muscat Governorate,2.58,recovery_days,915.0
+global_states,United Kingdom | Carmarthenshire,2.58,recovery_days,915.0
+global_states,United Kingdom | Medway,2.58,recovery_days,915.0
+global_states,Czechia | Olomouc Region,2.58,transit_stations__late_mean,79.62
+global_states,Netherlands | Drenthe,2.58,parks__first_wave_mean,80.91
+global_states,Argentina | Río Negro,2.58,transit_stations__first_wave_mean,-87.19
+global_states,United States | Maine,2.57,parks__first_wave_mean,80.86
+global_states,Ireland | County Dublin,2.57,recovery_days,913.0
+global_states,Argentina | Mendoza Province,2.57,workplaces__late_mean,62.22
+global_states,Pakistan | Punjab,2.57,retail_and_recreation__late_mean,58.24
+global_states,Malaysia | Labuan Federal Territory,2.57,residential__late_mean,13.22
+global_states,Malaysia | Selangor,2.56,recovery_days,911.0
+global_states,Spain | Community of Madrid,2.56,recovery_days,909.0
+global_states,Turkey | Balıkesir,2.56,grocery_and_pharmacy__late_mean,103.51
+global_states,Norway | Agder,2.56,parks__first_wave_mean,80.11
+global_states,Romania | Bucharest,2.55,recovery_days,908.0
+global_states,Peru | Lima Region,2.55,residential__late_mean,13.14
+global_states,Egypt | Ismailia Governorate,2.55,grocery_and_pharmacy__late_mean,103.2
+global_states,Peru | Ancash,2.54,grocery_and_pharmacy__first_wave_mean,-53.12
+global_states,El Salvador | La Libertad Department,2.54,residential__first_wave_mean,31.72
+global_states,Turkey | Nevşehir,2.54,grocery_and_pharmacy__late_mean,102.97
+global_states,United States | North Dakota,2.54,parks__first_wave_mean,79.37
+global_states,United Kingdom | Cornwall,2.54,parks__late_mean,209.58
+global_states,United Kingdom | Edinburgh,2.54,workplaces__first_wave_mean,-65.1
+global_states,Sweden | Västerbotten County,2.53,parks__first_wave_mean,79.21
+global_states,Indonesia | Jakarta,2.52,recovery_days,900.0
+global_states,Brazil | State of Pará,2.52,grocery_and_pharmacy__late_mean,102.5
+global_states,United States | Oklahoma,2.52,transit_stations__first_wave_mean,-6.17
+global_states,Canada | Alberta,2.51,recovery_days,896.0
+global_states,Botswana | Gaborone,2.51,grocery_and_pharmacy__late_mean,102.08
+global_states,Japan | Tokyo,2.5,recovery_days,895.0
+global_states,Turkey | Diyarbakır,2.5,grocery_and_pharmacy__late_mean,101.84
+global_states,Turkey | Amasya,2.49,grocery_and_pharmacy__late_mean,101.66
+global_states,Argentina | Santa Cruz Province,2.48,workplaces__late_mean,59.98
+global_states,South Africa | Western Cape,2.48,residential__late_mean,12.89
+global_states,Ecuador | Santo Domingo de los Tsachilas,2.47,grocery_and_pharmacy__late_mean,101.11
+global_states,Nicaragua | Masaya,2.47,retail_and_recreation__late_mean,56.31
+global_states,Malaysia | Terengganu,2.47,residential__late_mean,12.86
+global_states,Ecuador | Azuay,2.47,grocery_and_pharmacy__first_wave_mean,-52.04
+global_states,Turkey | Tekirdağ,2.46,transit_stations__late_mean,76.3
+global_states,United States | New Hampshire,2.45,parks__first_wave_mean,76.12
+global_states,Argentina | Misiones Province,2.45,workplaces__late_mean,59.11
+global_states,India | Daman and Diu,2.44,residential__late_mean,12.76
+global_states,Peru | San Martin,2.44,retail_and_recreation__late_mean,55.77
+global_states,Turkey | Erzurum,2.44,grocery_and_pharmacy__late_mean,100.2
+global_states,United Kingdom | Fife,2.44,recovery_days,878.0
+global_states,Poland | Podkarpackie Voivodeship,2.43,parks__late_mean,203.11
+global_states,Norway | Møre og Romsdal,2.43,transit_stations__first_wave_mean,-7.59
+global_states,France | Brittany,2.43,parks__late_mean,202.98
+global_states,Peru | Puno,2.42,grocery_and_pharmacy__first_wave_mean,-51.4
+global_states,Senegal | Dakar Region,2.42,residential__late_mean,12.67
+global_states,Turkey | Afyonkarahisar,2.42,transit_stations__late_mean,74.92
+global_states,Poland | Kuyavian-Pomeranian Voivodeship,2.41,transit_stations__late_mean,74.75
+global_states,Guatemala | Huehuetenango Department,2.41,grocery_and_pharmacy__late_mean,99.08
+global_states,Indonesia | West Papua,2.4,residential__late_mean,12.6
+global_states,Turkey | Gaziantep,2.4,grocery_and_pharmacy__late_mean,98.92
+global_states,United States | Montana,2.4,parks__first_wave_mean,74.01
+global_states,United States | West Virginia,2.4,transit_stations__first_wave_mean,-8.12
+global_states,Australia | Northern Territory,2.4,workplaces__first_wave_mean,-2.35
+global_states,Poland | Świętokrzyskie Voivodeship,2.39,transit_stations__late_mean,74.27
+global_states,Colombia | Meta,2.39,workplaces__late_mean,57.74
+global_states,Netherlands | Groningen,2.38,parks__first_wave_mean,73.43
+global_states,Turkey | Trabzon,2.38,grocery_and_pharmacy__late_mean,98.45
+global_states,Brazil | State of Roraima,2.38,workplaces__late_mean,57.46
+global_states,India | Uttar Pradesh,2.38,residential__late_mean,12.52
+global_states,India | Puducherry,2.38,residential__late_mean,12.52
+global_states,Netherlands | Gelderland,2.37,parks__first_wave_mean,72.96
+global_states,Brazil | State of Amapá,2.37,workplaces__late_mean,57.26
+global_states,Ecuador | Tungurahua,2.37,residential__first_wave_mean,30.62
+global_states,Brazil | State of Amazonas,2.36,workplaces__late_mean,56.95
+global_states,Peru | Cajamarca,2.36,workplaces__late_mean,56.95
+global_states,Peru | La Libertad,2.35,grocery_and_pharmacy__first_wave_mean,-50.38
+global_states,Malaysia | Kedah,2.35,residential__late_mean,12.4
+global_states,Germany | Lower Saxony,2.34,parks__first_wave_mean,71.79
+global_states,Turkey | Kahramanmaraş,2.34,grocery_and_pharmacy__late_mean,97.16
+global_states,Guatemala | Sacatepéquez Department,2.33,residential__late_mean,12.36
+global_states,Indonesia | Maluku,2.33,residential__late_mean,12.36
+global_states,Poland | Lubusz Voivodeship,2.33,transit_stations__late_mean,72.32
+global_states,Norway | Nordland,2.33,parks__first_wave_mean,71.1
+global_states,Kuwait | Al Jahra Governorate,2.32,residential__late_mean,12.32
+global_states,Canada | New Brunswick,2.32,parks__first_wave_mean,70.93
+global_states,Turkey | Aydın,2.31,grocery_and_pharmacy__late_mean,96.42
+global_states,Germany | Brandenburg,2.31,parks__first_wave_mean,70.68
+global_states,United Kingdom | Warwickshire,2.31,recovery_days,845.0
+global_states,Lithuania | Vilnius County,2.31,parks__first_wave_mean,70.62
+global_states,Hungary | Borsod-Abaúj-Zemplén,2.31,parks__late_mean,195.52
+global_states,Egypt | Luxor Governorate,2.31,grocery_and_pharmacy__late_mean,96.26
+global_states,Colombia | Cesar,2.31,workplaces__late_mean,55.67
+global_states,Canada | Saskatchewan,2.31,parks__first_wave_mean,70.37
+global_states,El Salvador | San Salvador Department,2.3,residential__first_wave_mean,30.17
+global_states,Ecuador | Los Rios,2.3,transit_stations__first_wave_mean,-82.75
+global_states,Kuwait | Al Asimah Governate,2.3,grocery_and_pharmacy__first_wave_mean,-49.63
+global_states,Argentina | Jujuy,2.3,workplaces__late_mean,55.37
+global_states,Ecuador | Manabí,2.29,grocery_and_pharmacy__first_wave_mean,-49.57
+global_states,Peru | Ica,2.29,grocery_and_pharmacy__first_wave_mean,-49.54
+global_states,Peru | Ucayali,2.29,workplaces__late_mean,55.11
+global_states,United States | Mississippi,2.28,transit_stations__first_wave_mean,-9.93
+global_states,Turkey | Adıyaman,2.28,grocery_and_pharmacy__late_mean,95.41
+global_states,Malaysia | Perlis,2.28,residential__late_mean,12.15
+global_states,Kenya | Nairobi County,2.28,residential__late_mean,12.15
+global_states,Colombia | Bogota,2.28,residential__first_wave_mean,29.99
+global_states,Chile | Araucania,2.26,residential__late_mean,12.09
+global_states,Colombia | Casanare,2.26,workplaces__late_mean,54.52
+global_states,Norway | Innlandet,2.26,parks__first_wave_mean,68.54
+global_states,Indonesia | West Kalimantan,2.26,residential__late_mean,12.08
+global_states,Turkey | Osmaniye,2.26,grocery_and_pharmacy__late_mean,94.72
+global_states,Ecuador | Guayas,2.25,transit_stations__late_mean,69.96
+global_states,Turkey | Çanakkale,2.24,grocery_and_pharmacy__late_mean,94.38
+global_states,India | West Bengal,2.24,residential__late_mean,12.03
+global_states,Dominican Republic | La Altagracia Province,2.24,transit_stations__first_wave_mean,-81.88
+global_states,Indonesia | Central Sulawesi,2.24,residential__late_mean,12.02
+global_states,Colombia | Sucre,2.24,transit_stations__first_wave_mean,-81.86
+global_states,Honduras | Cortés Department,2.23,grocery_and_pharmacy__first_wave_mean,-48.69
+global_states,United Kingdom | Brighton and Hove,2.23,recovery_days,823.0
+global_states,Argentina | Tucumán,2.23,workplaces__late_mean,53.62
+global_states,United States | Arkansas,2.22,trough_depth,-32.19
+global_states,Kenya | Mombasa County,2.22,residential__late_mean,11.95
+global_states,Peru | Loreto,2.22,grocery_and_pharmacy__first_wave_mean,-48.56
+global_states,Turkey | Edirne,2.22,grocery_and_pharmacy__late_mean,93.59
+global_states,Portugal | Castelo Branco District,2.21,transit_stations__late_mean,69.06
+global_states,Chile | Atacama,2.21,workplaces__late_mean,53.28
+global_states,Sweden | Dalarna County,2.21,parks__first_wave_mean,66.64
+global_states,Chile | O'Higgins,2.21,workplaces__late_mean,53.22
+global_states,Turkey | Malatya,2.21,transit_stations__late_mean,68.87
+global_states,United States | Kentucky,2.2,parks__first_wave_mean,66.11
+global_states,Mexico | Tabasco,2.19,transit_stations__late_mean,68.5
+global_states,United States | Alabama,2.19,transit_stations__first_wave_mean,-11.38
+global_states,Ecuador | Esmeraldas,2.19,grocery_and_pharmacy__first_wave_mean,-48.15
+global_states,India | Karnataka,2.19,residential__late_mean,11.82
+global_states,Canada | British Columbia,2.18,recovery_days,810.0
+global_states,United States | South Carolina,2.18,transit_stations__first_wave_mean,-11.61
+global_states,Colombia | Atlantico,2.17,grocery_and_pharmacy__first_wave_mean,-47.85
+global_states,Brazil | State of Maranhão,2.16,grocery_and_pharmacy__late_mean,92.03
+global_states,United States | Vermont,2.16,parks__late_mean,186.27
+global_states,Chile | Coquimbo,2.16,workplaces__late_mean,51.87
+global_states,Japan | Akita,2.15,trough_depth,-33.29
+global_states,France | Île-de-France,2.15,recovery_days,801.0
+global_states,Uruguay | Tacuarembó Department,2.14,workplaces__first_wave_mean,-5.56
+global_states,Sweden | Varmland County,2.14,trough_depth,-33.38
+global_states,Italy | Calabria,2.14,transit_stations__late_mean,66.79
+global_states,Chile | Los Ríos,2.13,residential__late_mean,11.62
+global_states,Japan | Aomori,2.13,trough_depth,-33.57
+global_states,Canada | Manitoba,2.13,recovery_days,797.0
+global_states,Mexico | Jalisco,2.13,transit_stations__late_mean,66.59
+global_states,Argentina | Buenos Aires,2.13,residential__first_wave_mean,29.01
+global_states,Canada | Quebec,2.12,recovery_days,795.0
+global_states,Turkey | Giresun,2.12,grocery_and_pharmacy__late_mean,90.79
+global_states,Nicaragua | Leon,2.12,grocery_and_pharmacy__late_mean,90.73
+global_states,United Kingdom | West Sussex,2.12,recovery_days,794.0
+global_states,India | Delhi,2.12,grocery_and_pharmacy__first_wave_mean,-47.1
+global_states,Germany | North Rhine-Westphalia,2.12,parks__first_wave_mean,62.91
+global_states,United Kingdom | Essex,2.11,recovery_days,793.0
+global_states,United Kingdom | Windsor and Maidenhead,2.11,recovery_days,793.0
+global_states,Honduras | Atlántida Department,2.11,grocery_and_pharmacy__first_wave_mean,-47.04
+global_states,Turkey | Kayseri,2.11,parks__late_mean,183.27
+global_states,Dominican Republic | Santiago Province,2.11,transit_stations__late_mean,66.01
+global_states,Colombia | Cundinamarca,2.11,workplaces__late_mean,50.66
+global_states,Germany | Saxony,2.1,parks__first_wave_mean,62.21
+global_states,Malaysia | Pahang,2.1,residential__late_mean,11.48
+global_states,Brazil | State of Alagoas,2.1,transit_stations__late_mean,65.65
+global_states,Chile | Bio Bio,2.08,workplaces__late_mean,49.97
+global_states,United Arab Emirates | Ras al Khaimah,2.08,residential__late_mean,11.41
+global_states,Japan | Iwate,2.08,trough_depth,-34.38
+global_states,Egypt | Alexandria Governorate,2.07,grocery_and_pharmacy__late_mean,89.24
+global_states,Japan | Miyazaki,2.07,trough_depth,-34.48
+global_states,Uruguay | Paysandú Department,2.07,grocery_and_pharmacy__first_wave_mean,11.94
+global_states,Germany | Berlin,2.07,recovery_days,780.0
+global_states,United States | Missouri,2.06,parks__first_wave_mean,60.86
+global_states,United Kingdom | Kent,2.06,recovery_days,779.0
+global_states,Greece | Decentralized Administration of Epirus and Western Macedonia,2.06,parks__late_mean,179.86
+global_states,Malaysia | Sarawak,2.05,residential__late_mean,11.32
+global_states,Chile | Tarapacá,2.05,workplaces__late_mean,49.34
+global_states,Brazil | State of Rondônia,2.05,workplaces__late_mean,49.2
+global_states,Turkey | Bolu,2.05,grocery_and_pharmacy__late_mean,88.55
+global_states,India | Telangana,2.05,residential__late_mean,11.29
+global_states,Argentina | Chaco Province,2.04,workplaces__late_mean,49.09
+global_states,Italy | Piedmont,2.04,recovery_days,774.0
+global_states,Colombia | Cordoba,2.04,workplaces__late_mean,49.01
+global_states,Ireland | County Donegal,2.04,transit_stations__first_wave_mean,-13.79
+global_states,Italy | Lombardy,2.03,recovery_days,772.0
+global_states,Indonesia | Riau Islands,2.03,recovery_days,772.0
+global_states,Indonesia | Central Kalimantan,2.03,residential__late_mean,11.24
+global_states,United Kingdom | York,2.03,workplaces__first_wave_mean,-58.62
+global_states,United Kingdom | Milton Keynes,2.02,recovery_days,769.0
+global_states,Dominican Republic | San Pedro de Macorís Province,2.02,grocery_and_pharmacy__late_mean,87.82
+global_states,Germany | Hamburg,2.02,parks__first_wave_mean,59.18
+global_states,Argentina | Santiago del Estero Province,2.01,workplaces__late_mean,48.34
+global_states,Turkey | Hatay,2.01,grocery_and_pharmacy__late_mean,87.6
+global_states,Switzerland | Geneva,2.01,recovery_days,766.0
+global_states,Uruguay | Cerro Largo Department,2.01,workplaces__first_wave_mean,-7.25
+global_states,India | Tamil Nadu,2.0,residential__late_mean,11.13
+global_states,Poland | Podlaskie Voivodeship,2.0,parks__late_mean,176.38
+global_states,India | Maharashtra,2.0,residential__late_mean,11.12
+global_states,Nicaragua | Chinandega,2.0,residential__late_mean,11.11
+global_states,Chile | Magallanes and Chilean Antarctica,2.0,grocery_and_pharmacy__first_wave_mean,-45.42
+global_states,Colombia | Caldas,1.99,grocery_and_pharmacy__first_wave_mean,-45.38
+global_states,Belgium | Brussels,1.99,recovery_days,761.0
+global_states,Colombia | Choco,1.99,grocery_and_pharmacy__first_wave_mean,-45.32
+global_states,India | Haryana,1.99,residential__late_mean,11.07
+global_states,Canada | Newfoundland and Labrador,1.98,parks__late_mean,175.4
+global_states,Switzerland | Ticino,1.98,parks__late_mean,175.27
+global_states,Kuwait | Hawalli Governorate,1.98,residential__first_wave_mean,28.04
+global_states,Japan | Oita,1.97,trough_depth,-35.86
+global_states,Turkey | Konya,1.97,grocery_and_pharmacy__late_mean,86.4
+global_states,Netherlands | North Holland,1.96,recovery_days,753.0
+global_states,Romania | Timiș County,1.96,recovery_days,753.0
+global_states,Jordan | Amman Governorate,1.96,transit_stations__first_wave_mean,-77.35
+global_states,Colombia | Santander,1.96,grocery_and_pharmacy__first_wave_mean,-44.82
+global_states,Chile | Los Lagos,1.96,workplaces__late_mean,46.88
+global_states,Saudi Arabia | Al Madinah Province,1.95,transit_stations__first_wave_mean,-77.25
+global_states,Brazil | State of Tocantins,1.94,workplaces__late_mean,46.62
+global_states,Spain | Catalonia,1.94,recovery_days,748.0
+global_states,Germany | Rhineland-Palatinate,1.94,parks__first_wave_mean,56.05
+global_states,Colombia | Tolima,1.94,grocery_and_pharmacy__first_wave_mean,-44.55
+global_states,Netherlands | South Holland,1.93,recovery_days,745.0
+global_states,United States | Connecticut,1.93,parks__first_wave_mean,55.71
+global_states,Netherlands | Limburg,1.93,parks__first_wave_mean,55.69
+global_states,Turkey | Kütahya,1.93,retail_and_recreation__late_mean,45.73
+global_states,Japan | Tottori,1.93,trough_depth,-36.52
+global_states,Japan | Kumamoto,1.93,trough_depth,-36.52
+global_states,Kyrgyzstan | Jalal-Abad Region,1.93,residential__late_mean,10.85
+global_states,Mozambique | Maputo,1.92,trough_depth,-36.62
+global_states,Argentina | Neuquen,1.92,workplaces__late_mean,45.98
+global_states,El Salvador | Santa Ana Department,1.92,grocery_and_pharmacy__first_wave_mean,-44.27
+global_states,Netherlands | North Brabant,1.92,parks__first_wave_mean,55.12
+global_states,United Kingdom | Conwy Principal Area,1.91,parks__late_mean,171.13
+global_states,Malaysia | Johor,1.91,residential__late_mean,10.8
+global_states,Norway | Vestland,1.91,parks__first_wave_mean,54.86
+global_states,Guatemala | Quetzaltenango Department,1.91,grocery_and_pharmacy__first_wave_mean,-44.11
+global_states,Argentina | Corrientes,1.9,workplaces__late_mean,45.61
+global_states,Japan | Ehime,1.9,trough_depth,-36.95
+global_states,Japan | Wakayama,1.9,trough_depth,-37.0
+global_states,Czechia | Ústí nad Labem Region,1.89,transit_stations__first_wave_mean,-16.11
+global_states,Turkey | Manisa,1.89,transit_stations__late_mean,59.76
+global_states,Hungary | Pest County,1.89,parks__first_wave_mean,54.2
+global_states,Israel | North District,1.89,transit_stations__first_wave_mean,-16.18
+global_states,Japan | Kagoshima,1.89,workplaces__first_wave_mean,-8.79
+global_states,Saudi Arabia | Al Jowf Province,1.88,residential__late_mean,10.69
+global_states,Brazil | State of Mato Grosso,1.88,workplaces__late_mean,44.98
+global_states,Kuwait | Al Ahmadi Governorate,1.88,residential__first_wave_mean,27.37
+global_states,Turkey | Kocaeli,1.87,grocery_and_pharmacy__late_mean,83.48
+global_states,Lithuania | Panevėžys County,1.87,parks__first_wave_mean,53.29
+global_states,Japan | Tokushima,1.87,trough_depth,-37.43
+global_states,Poland | Opole Voivodeship,1.86,transit_stations__late_mean,58.91
+global_states,Germany | Thuringia,1.86,parks__first_wave_mean,52.96
+global_states,Puerto Rico | Bayamón,1.86,transit_stations__late_mean,-48.76
+global_states,Japan | Shimane,1.85,trough_depth,-37.62
+global_states,Japan | Yamagata,1.85,trough_depth,-37.71
+global_states,Germany | Hessen,1.85,parks__first_wave_mean,52.43
+global_states,The Bahamas | New Providence,1.84,transit_stations__first_wave_mean,-75.49
+global_states,Argentina | Chubut Province,1.84,transit_stations__first_wave_mean,-75.48
+global_states,New Zealand | Hawke's Bay,1.84,transit_stations__late_mean,-48.17
+global_states,Dominican Republic | La Romana Province,1.84,transit_stations__first_wave_mean,-75.46
+global_states,El Salvador | San Miguel Department,1.83,grocery_and_pharmacy__first_wave_mean,-43.04
+global_states,Malaysia | Negeri Sembilan,1.83,residential__late_mean,10.48
+global_states,Indonesia | Papua,1.82,residential__late_mean,10.46
+global_states,Austria | Tyrol,1.82,retail_and_recreation__late_mean,-27.37
+global_states,Chile | Santiago Metropolitan Region,1.82,residential__first_wave_mean,26.96
+global_states,Japan | Niigata,1.81,retail_and_recreation__first_wave_mean,-8.88
+global_states,Germany | Saxony-Anhalt,1.81,parks__first_wave_mean,51.06
+global_states,Czechia | Plzeň Region,1.81,transit_stations__first_wave_mean,-17.5
+global_states,India | Punjab,1.81,residential__late_mean,10.4
+global_states,Kuwait | Mubarak Al-Kabeer Governorate,1.8,grocery_and_pharmacy__first_wave_mean,-42.65
+global_states,Mexico | Durango,1.8,transit_stations__late_mean,57.13
+global_states,Japan | Nagasaki,1.8,workplaces__first_wave_mean,-9.99
+global_states,Japan | Kochi,1.79,trough_depth,-38.52
+global_states,Switzerland | Grisons,1.79,retail_and_recreation__late_mean,-26.8
+global_states,Chile | Valparaíso,1.79,grocery_and_pharmacy__first_wave_mean,-42.46
+global_states,Turkey | Yalova,1.78,grocery_and_pharmacy__late_mean,80.81
+global_states,Lithuania | Kaunas County,1.78,parks__first_wave_mean,49.79
+global_states,Pakistan | Islamabad Capital Territory,1.78,grocery_and_pharmacy__first_wave_mean,-42.33
+global_states,United States | New Mexico,1.78,transit_stations__first_wave_mean,-17.96
+global_states,Austria | Lower Austria,1.78,parks__first_wave_mean,49.7
+global_states,Turkey | Kastamonu,1.78,parks__late_mean,162.62
+global_states,Dominican Republic | Distrito Nacional,1.78,workplaces__first_wave_mean,-55.45
+global_states,Kyrgyzstan | Osh Region,1.77,grocery_and_pharmacy__first_wave_mean,-42.19
+global_states,Germany | Baden-Württemberg,1.77,parks__first_wave_mean,49.25
+global_states,France | Nouvelle-Aquitaine,1.76,parks__late_mean,161.81
+global_states,Saudi Arabia | Al Qassim Province,1.76,residential__late_mean,10.25
+global_states,United Kingdom | Lincolnshire,1.76,parks__late_mean,161.56
+global_states,Slovakia | Nitra Region,1.76,parks__first_wave_mean,48.96
+global_states,India | Gujarat,1.76,residential__late_mean,10.22
+global_states,Saudi Arabia | Riyadh Province,1.76,transit_stations__first_wave_mean,-74.16
+global_states,Czechia | Vysočina Region,1.75,transit_stations__first_wave_mean,-18.42
+global_states,Switzerland | Aargau,1.75,parks__first_wave_mean,48.55
+global_states,Argentina | Entre Rios,1.75,workplaces__late_mean,41.71
+global_states,Guatemala | Guatemala Department,1.74,residential__first_wave_mean,26.46
+global_states,France | Pays de la Loire,1.74,parks__late_mean,160.39
+global_states,Japan | Fukushima,1.73,trough_depth,-39.38
+global_states,Japan | Saga,1.73,retail_and_recreation__first_wave_mean,-10.53
+global_states,Brazil | State of Mato Grosso do Sul,1.73,workplaces__first_wave_mean,-10.86
+global_states,Malaysia | Malacca,1.73,residential__late_mean,10.11
+global_states,Turkey | Çorum,1.72,grocery_and_pharmacy__late_mean,79.14
+global_states,Austria | Salzburg,1.72,retail_and_recreation__late_mean,-25.49
+global_states,Chile | Aysén,1.72,workplaces__late_mean,40.95
+global_states,Czechia | South Bohemian Region,1.7,parks__late_mean,157.97
+global_states,United Arab Emirates | Ajman,1.7,residential__late_mean,10.01
+global_states,Turkey | Elazığ,1.7,transit_stations__late_mean,54.17
+global_states,Mexico | Quintana Roo,1.7,transit_stations__first_wave_mean,-73.2
+global_states,Japan | Yamaguchi,1.7,trough_depth,-39.95
+global_states,Saudi Arabia | Aseer Province,1.7,retail_and_recreation__late_mean,41.16
+global_states,Argentina | Cordoba,1.69,transit_stations__first_wave_mean,-73.15
+global_states,Japan | Fukui,1.69,trough_depth,-40.05
+global_states,Germany | Bremen,1.69,parks__first_wave_mean,46.21
+global_states,Uruguay | San José Department,1.69,workplaces__first_wave_mean,-11.38
+global_states,Argentina | Buenos Aires Province,1.69,parks__first_wave_mean,-85.59
+global_states,Romania | Giurgiu County,1.68,transit_stations__first_wave_mean,-19.5
+global_states,Austria | Upper Austria,1.68,parks__first_wave_mean,45.75
+global_states,Uruguay | Salto Department,1.67,workplaces__first_wave_mean,-11.54
+global_states,Japan | Okayama,1.67,workplaces__first_wave_mean,-11.54
+global_states,Japan | Kagawa,1.67,workplaces__first_wave_mean,-11.54
+global_states,United Kingdom | West Berkshire,1.67,workplaces__first_wave_mean,-54.13
+global_states,Nicaragua | Managua,1.67,retail_and_recreation__late_mean,40.6
+global_states,United States | Tennessee,1.66,transit_stations__first_wave_mean,-19.82
+global_states,Egypt | Cairo Governorate,1.66,transit_stations__late_mean,53.06
+global_states,United Kingdom | East Riding of Yorkshire,1.66,parks__late_mean,155.38
+global_states,Malaysia | Penang,1.65,recovery_days,672.0
+global_states,Turkey | Sakarya,1.65,grocery_and_pharmacy__late_mean,77.01
+global_states,Japan | Nagano,1.65,workplaces__first_wave_mean,-11.84
+global_states,Saudi Arabia | Makkah Province,1.65,transit_stations__first_wave_mean,-72.46
+global_states,Paraguay | Alto Paraná Department,1.64,residential__late_mean,9.8
+global_states,Slovakia | Trenčín Region,1.64,transit_stations__late_mean,52.42
+global_states,Brazil | State of Paraíba,1.63,workplaces__late_mean,38.87
+global_states,Egypt | Red Sea Governorate,1.63,grocery_and_pharmacy__late_mean,76.4
+global_states,Austria | Carinthia,1.63,parks__late_mean,153.39
+global_states,Czechia | South Moravian Region,1.63,transit_stations__first_wave_mean,-20.36
+global_states,Slovakia | Bratislava Region,1.62,parks__first_wave_mean,43.74
+global_states,Japan | Ibaraki,1.62,retail_and_recreation__first_wave_mean,-12.78
+global_states,Malaysia | Perak,1.62,residential__late_mean,9.73
+global_states,Estonia | Harju County,1.62,parks__first_wave_mean,43.42
+global_states,United Kingdom | Dorset,1.61,parks__late_mean,152.09
+global_states,Japan | Shiga,1.6,retail_and_recreation__first_wave_mean,-13.21
+global_states,Chile | Antofagasta,1.6,workplaces__late_mean,38.1
+global_states,United Kingdom | Perth and Kinross,1.6,workplaces__first_wave_mean,-53.21
+global_states,Italy | Trentino-South Tyrol,1.6,grocery_and_pharmacy__first_wave_mean,-39.8
+global_states,Portugal | Leiria District,1.6,parks__late_mean,151.41
+global_states,Japan | Mie,1.59,retail_and_recreation__first_wave_mean,-13.41
+global_states,Brazil | State of Espírito Santo,1.59,workplaces__late_mean,37.69
+global_states,Japan | Toyama,1.58,retail_and_recreation__first_wave_mean,-13.68
+global_states,United Kingdom | Powys,1.58,transit_stations__late_mean,-40.56
+global_states,Cambodia | Phnom Penh,1.57,recovery_days,651.0
+global_states,Greece | Decentralized Administration of Macedonia and Thrace,1.57,residential__late_mean,-2.1
+global_states,Japan | Nara,1.57,retail_and_recreation__first_wave_mean,-13.94
+global_states,Colombia | Antioquia,1.57,grocery_and_pharmacy__first_wave_mean,-39.32
+global_states,Bulgaria | Haskovo Province,1.56,transit_stations__late_mean,-40.21
+global_states,Saudi Arabia | Hail Province,1.56,residential__late_mean,9.51
+global_states,Egypt | Aswan Governorate,1.56,grocery_and_pharmacy__late_mean,74.35
+global_states,Japan | Shizuoka,1.55,retail_and_recreation__first_wave_mean,-14.26
+global_states,Japan | Gunma,1.55,trough_depth,-42.1
+global_states,Japan | Tochigi,1.55,retail_and_recreation__first_wave_mean,-14.31
+global_states,Saudi Arabia | Eastern Province,1.55,transit_stations__first_wave_mean,-70.82
+global_states,Colombia | Risaralda,1.55,transit_stations__first_wave_mean,-70.8
+global_states,New Zealand | Auckland,1.54,transit_stations__late_mean,-39.55
+global_states,Turkey | Kırklareli,1.54,transit_stations__late_mean,-39.49
+global_states,Bulgaria | Plovdiv Province,1.54,transit_stations__late_mean,49.53
+global_states,Portugal | Viseu District,1.53,parks__late_mean,147.62
+global_states,United Arab Emirates | Dubai,1.53,residential__first_wave_mean,25.08
+global_states,Switzerland | Zurich,1.52,parks__first_wave_mean,39.76
+global_states,Czechia | Liberec Region,1.52,grocery_and_pharmacy__first_wave_mean,4.25
+global_states,Turkey | İzmir,1.52,transit_stations__late_mean,48.98
+global_states,Brazil | State of Bahia,1.52,workplaces__late_mean,35.99
+global_states,France | Normandy,1.52,parks__late_mean,146.58
+global_states,Brazil | State of Piauí,1.51,workplaces__late_mean,35.89
+global_states,Spain | Canary Islands,1.51,grocery_and_pharmacy__first_wave_mean,-38.59
+global_states,Japan | Yamanashi,1.51,workplaces__first_wave_mean,-13.62
+global_states,Bulgaria | Blagoevgrad Province,1.51,retail_and_recreation__late_mean,-21.27
+global_states,Brazil | State of Minas Gerais,1.5,workplaces__late_mean,35.62
+global_states,Brazil | State of Santa Catarina,1.5,parks__late_mean,-40.14
+global_states,Portugal | Coimbra District,1.5,transit_stations__late_mean,48.39
+global_states,Egypt | Port Said Governorate,1.5,grocery_and_pharmacy__late_mean,72.53
+global_states,Japan | Hokkaido,1.49,trough_depth,-42.95
+global_states,Italy | Lazio,1.49,recovery_days,629.0
+global_states,New Zealand | Otago,1.49,trough_depth,-86.71
+global_states,Hungary | Bács-Kiskun,1.48,parks__late_mean,144.54
+global_states,United Kingdom | South Lanarkshire,1.48,workplaces__first_wave_mean,-51.71
+global_states,Japan | Miyagi,1.48,retail_and_recreation__first_wave_mean,-15.81
+global_states,New Zealand | Bay of Plenty,1.47,transit_stations__late_mean,-37.55
+global_states,Puerto Rico | Carolina,1.47,grocery_and_pharmacy__late_mean,-14.53
+global_states,Japan | Hiroshima,1.47,workplaces__first_wave_mean,-14.13
+global_states,Paraguay | Central Department,1.47,workplaces__late_mean,34.78
+global_states,United States | Delaware,1.47,parks__first_wave_mean,37.53
+global_states,United States | Arizona,1.47,trough_depth,-43.33
+global_states,Uruguay | Colonia Department,1.46,transit_stations__first_wave_mean,-69.51
+global_states,Japan | Ishikawa,1.46,retail_and_recreation__first_wave_mean,-16.08
+global_states,Namibia | Khomas Region,1.46,retail_and_recreation__late_mean,36.61
+global_states,Hungary | Heves County,1.46,transit_stations__first_wave_mean,-23.05
+global_states,United Arab Emirates | Sharjah,1.46,transit_stations__late_mean,47.17
+global_states,Mexico | Hidalgo,1.46,workplaces__late_mean,34.43
+global_states,United Kingdom | Lancashire,1.45,parks__first_wave_mean,37.1
+global_states,United Kingdom | Vale of Glamorgan,1.45,workplaces__first_wave_mean,-51.31
+global_states,Brazil | State of Rio Grande do Norte,1.45,workplaces__late_mean,34.33
+global_states,Japan | Gifu,1.45,retail_and_recreation__first_wave_mean,-16.4
+global_states,Germany | Saarland,1.45,parks__first_wave_mean,36.8
+global_states,Turkey | Eskişehir,1.44,residential__late_mean,-1.62
+global_states,Mexico | Chiapas,1.44,workplaces__late_mean,34.12
+global_states,Romania | Ialomița County,1.44,retail_and_recreation__first_wave_mean,-16.59
+global_states,Argentina | La Pampa,1.44,workplaces__late_mean,33.99
+global_states,Spain | Castile and León,1.43,residential__late_mean,-1.56
+global_states,Spain | La Rioja,1.43,residential__late_mean,-1.55
+global_states,Portugal | Lisbon,1.43,recovery_days,612.0
+global_states,Bulgaria | Veliko Tarnovo Province,1.42,residential__late_mean,-1.54
+global_states,United Kingdom | North Lincolnshire,1.42,recovery_days,611.0
+global_states,Australia | South Australia,1.42,grocery_and_pharmacy__first_wave_mean,2.82
+global_states,Romania | Călărași County,1.42,retail_and_recreation__first_wave_mean,-16.97
+global_states,Chile | Arica y Parinacota,1.42,workplaces__late_mean,33.5
+global_states,United States | North Carolina,1.42,parks__first_wave_mean,35.66
+global_states,Brazil | State of Goiás,1.42,workplaces__late_mean,33.45
+global_states,Australia | Tasmania,1.42,parks__late_mean,-34.82
+global_states,Romania | Dâmbovița County,1.41,transit_stations__first_wave_mean,-23.74
+global_states,Turkey | Bursa,1.41,grocery_and_pharmacy__late_mean,69.96
+global_states,Ireland | County Limerick,1.41,recovery_days,608.0
+global_states,Colombia | Valle del Cauca,1.41,grocery_and_pharmacy__first_wave_mean,-37.08
+global_states,France | Occitanie,1.41,parks__late_mean,139.73
+global_states,Kyrgyzstan | Chüy Region,1.41,retail_and_recreation__late_mean,-19.33
+global_states,Bulgaria | Sofia City Province,1.41,retail_and_recreation__late_mean,-19.33
+global_states,Ireland | County Cork,1.4,recovery_days,606.0
+global_states,Mexico | Tlaxcala,1.4,workplaces__late_mean,33.03
+global_states,Dominican Republic | Santo Domingo Province,1.4,grocery_and_pharmacy__first_wave_mean,-36.96
+global_states,Spain | Valencian Community,1.4,trough_depth,-85.38
+global_states,Ireland | County Wicklow,1.39,residential__first_wave_mean,24.17
+global_states,Hungary | Fejér,1.39,parks__first_wave_mean,34.68
+global_states,Romania | Tulcea County,1.39,transit_stations__first_wave_mean,-24.09
+global_states,Oman | Dhofar Governorate,1.39,trough_depth,-44.43
+global_states,Japan | Aichi,1.39,retail_and_recreation__first_wave_mean,-17.62
+global_states,Spain | Cantabria,1.39,parks__late_mean,138.41
+global_states,Japan | Hyogo,1.39,grocery_and_pharmacy__first_wave_mean,2.33
+global_states,Romania | Olt County,1.38,transit_stations__first_wave_mean,-24.24
+global_states,Spain | Navarre,1.38,trough_depth,-85.14
+global_states,Uruguay | Canelones Department,1.38,parks__late_mean,-32.6
+global_states,Brazil | State of Ceará,1.38,workplaces__late_mean,32.5
+global_states,Romania | Caraș-Severin County,1.37,transit_stations__first_wave_mean,-24.39
+global_states,United Kingdom | North Somerset,1.37,workplaces__first_wave_mean,-50.29
+global_states,Pakistan | Sindh,1.37,grocery_and_pharmacy__first_wave_mean,-36.57
+global_states,Japan | Okinawa,1.37,workplaces__first_wave_mean,-15.41
+global_states,United Kingdom | Hampshire,1.37,workplaces__first_wave_mean,-50.27
+global_states,Slovenia | Administrative unit Maribor,1.36,transit_stations__late_mean,44.46
+global_states,Romania | Teleorman County,1.36,transit_stations__first_wave_mean,-24.58
+global_states,Portugal | Madeira,1.36,grocery_and_pharmacy__first_wave_mean,-36.44
+global_states,United Kingdom | Aberdeenshire,1.36,workplaces__first_wave_mean,-50.16
+global_states,Italy | Abruzzo,1.36,parks__late_mean,136.84
+global_states,Japan | Osaka,1.36,parks__late_mean,-31.37
+global_states,New Zealand | Wellington,1.36,trough_depth,-84.81
+global_states,New Zealand | Waikato,1.36,transit_stations__late_mean,-34.26
+global_states,Turkey | Isparta,1.36,grocery_and_pharmacy__late_mean,68.4
+global_states,Spain | Aragon,1.36,residential__late_mean,-1.3
+global_states,United Kingdom | Cheshire East,1.36,workplaces__first_wave_mean,-50.1
+global_states,Indonesia | North Kalimantan,1.36,trough_depth,-44.95
+global_states,Poland | Greater Poland Voivodeship,1.35,parks__first_wave_mean,33.14
+global_states,New Zealand | Northland,1.35,transit_stations__late_mean,-34.1
+global_states,United Kingdom | Cumbria,1.35,workplaces__first_wave_mean,-50.04
+global_states,Australia | Western Australia,1.35,grocery_and_pharmacy__first_wave_mean,1.86
+global_states,United Kingdom | Isle of Wight,1.35,parks__late_mean,136.35
+global_states,Australia | Australian Capital Territory,1.35,grocery_and_pharmacy__first_wave_mean,1.81
+global_states,United Kingdom | Central Bedfordshire,1.35,workplaces__first_wave_mean,-49.97
+global_states,Italy | Aosta,1.35,grocery_and_pharmacy__first_wave_mean,-36.22
+global_states,Portugal | Braga,1.34,grocery_and_pharmacy__late_mean,67.99
+global_states,Czechia | Zlín Region,1.34,parks__late_mean,135.84
+global_states,Uruguay | Montevideo Department,1.34,parks__late_mean,-30.09
+global_states,Norway | Troms og Finnmark fylke,1.33,residential__first_wave_mean,6.15
+global_states,Hungary | Hajdú-Bihar,1.33,parks__first_wave_mean,32.21
+global_states,United States | Texas,1.33,trough_depth,-45.33
+global_states,Japan | Saitama,1.33,retail_and_recreation__first_wave_mean,-18.86
+global_states,Mexico | Campeche,1.33,workplaces__late_mean,31.24
+global_states,Jamaica | St. Andrew Parish,1.33,transit_stations__first_wave_mean,-25.13
+global_states,United Kingdom | Northumberland,1.32,parks__late_mean,134.38
+global_states,Slovenia | Ljubljana,1.32,residential__late_mean,-1.16
+global_states,Croatia | City of Zagreb,1.32,residential__late_mean,-1.15
+global_states,Dominican Republic | Puerto Plata Province,1.32,transit_stations__first_wave_mean,-67.17
+global_states,Paraguay | Asunción,1.32,transit_stations__first_wave_mean,-67.15
+global_states,Brazil | State of Paraná,1.32,workplaces__late_mean,30.94
+global_states,United States | Georgia,1.31,recovery_days,583.0
+global_states,United Kingdom | Wiltshire,1.31,workplaces__first_wave_mean,-49.55
+global_states,Lebanon | Mount Lebanon Governorate,1.31,transit_stations__first_wave_mean,-67.07
+global_states,Hungary | Csongrád,1.31,transit_stations__first_wave_mean,-25.45
+global_states,Spain | Andalusia,1.31,trough_depth,-84.05
+global_states,Spain | Castile-La Mancha,1.3,trough_depth,-84.0
+global_states,Indonesia | East Kalimantan,1.3,trough_depth,-45.71
+global_states,United Kingdom | Plymouth,1.3,workplaces__first_wave_mean,-49.38
+global_states,Germany | Bavaria,1.3,parks__first_wave_mean,30.9
+global_states,Romania | Alba County,1.3,transit_stations__first_wave_mean,-25.62
+global_states,Romania | Harghita County,1.29,transit_stations__first_wave_mean,-25.69
+global_states,United Arab Emirates | Abu Dhabi,1.29,transit_stations__first_wave_mean,-66.76
+global_states,United Kingdom | Worcestershire,1.29,parks__first_wave_mean,30.64
+global_states,Romania | Sibiu,1.28,residential__late_mean,-1.03
+global_states,Japan | Fukuoka,1.28,retail_and_recreation__first_wave_mean,-19.78
+global_states,United Kingdom | Derry and Strabane,1.28,recovery_days,574.0
+global_states,Slovakia | Prešov Region,1.27,transit_stations__late_mean,41.84
+global_states,United Kingdom | Devon,1.27,parks__late_mean,131.02
+global_states,Greece | Decentralized Administration of Attica,1.27,residential__late_mean,-0.96
+global_states,Israel | Jerusalem District,1.27,recovery_days,570.0
+global_states,Romania | Sălaj,1.26,residential__late_mean,-0.94
+global_states,Czechia | Moravian-Silesian Region,1.25,grocery_and_pharmacy__first_wave_mean,0.48
+global_states,United States | Louisiana,1.25,trough_depth,-46.48
+global_states,Japan | Kanagawa,1.25,grocery_and_pharmacy__first_wave_mean,0.44
+global_states,Ireland | County Galway,1.25,workplaces__first_wave_mean,-48.76
+global_states,United Kingdom | Gloucestershire,1.25,workplaces__first_wave_mean,-48.75
+global_states,Turkey | Denizli,1.25,residential__late_mean,-0.89
+global_states,Italy | Basilicata,1.24,parks__late_mean,129.67
+global_states,Switzerland | Basel City,1.24,retail_and_recreation__late_mean,-16.16
+global_states,Mexico | Yucatan,1.24,transit_stations__first_wave_mean,-65.95
+global_states,Brazil | State of Rio Grande do Sul,1.24,workplaces__late_mean,29.06
+global_states,Japan | Kyoto,1.24,grocery_and_pharmacy__first_wave_mean,0.22
+global_states,United Kingdom | East Sussex,1.24,parks__first_wave_mean,28.55
+global_states,Slovakia | Banská Bystrica Region,1.24,parks__first_wave_mean,28.52
+global_states,Japan | Chiba,1.23,recovery_days,562.0
+global_states,Brazil | State of Sergipe,1.23,workplaces__late_mean,28.92
+global_states,Romania | Mureș County,1.23,residential__late_mean,-0.81
+global_states,Australia | Queensland,1.22,transit_stations__late_mean,-30.33
+global_states,Italy | Sicily,1.22,grocery_and_pharmacy__first_wave_mean,-34.45
+global_states,Finland | Lapland,1.22,transit_stations__late_mean,-30.24
+global_states,Switzerland | Valais,1.22,residential__late_mean,-0.79
+global_states,United Kingdom | Derbyshire,1.22,parks__first_wave_mean,27.81
+global_states,Romania | Satu Mare County,1.22,transit_stations__first_wave_mean,-26.91
+global_states,Italy | Apulia,1.21,transit_stations__late_mean,40.06
+global_states,Czechia | Pardubice Region,1.21,parks__late_mean,127.28
+global_states,Ireland | County Tipperary,1.21,transit_stations__first_wave_mean,-27.07
+global_states,Turkey | Ankara,1.2,residential__late_mean,-0.73
+global_states,Mexico | Tamaulipas,1.2,transit_stations__late_mean,39.85
+global_states,Mexico | Mexico City,1.2,recovery_days,554.0
+global_states,Portugal | Porto District,1.2,residential__first_wave_mean,22.88
+global_states,Brazil | State of Pernambuco,1.2,workplaces__late_mean,28.01
+global_states,Portugal | Aveiro District,1.2,grocery_and_pharmacy__late_mean,63.65
+global_states,Romania | Galați,1.2,residential__late_mean,-0.7
+global_states,Spain | Galicia,1.19,trough_depth,-82.38
+global_states,United Kingdom | Kingston upon Hull,1.19,recovery_days,551.0
+global_states,United Kingdom | North Yorkshire,1.19,workplaces__first_wave_mean,-48.0
+global_states,Mexico | Veracruz,1.19,workplaces__late_mean,27.77
+global_states,Switzerland | Canton of Bern,1.19,parks__first_wave_mean,26.66
+global_states,Romania | Maramureș County,1.18,residential__late_mean,-0.64
+global_states,Mexico | Michoacán,1.17,trough_depth,-47.62
+global_states,United Kingdom | County Durham,1.17,workplaces__first_wave_mean,-47.77
+global_states,Czechia | Prague,1.17,residential__late_mean,-0.62
+global_states,Romania | Vaslui County,1.17,residential__first_wave_mean,7.22
+global_states,Romania | Hunedoara County,1.17,residential__late_mean,-0.6
+global_states,Turkey | Adana,1.17,grocery_and_pharmacy__late_mean,62.83
+global_states,United Kingdom | Scottish Borders,1.17,transit_stations__late_mean,-28.71
+global_states,Israel | Center District,1.17,recovery_days,544.0
+global_states,New Zealand | Canterbury,1.16,trough_depth,-81.95
+global_states,Czechia | Karlovy Vary Region,1.16,residential__first_wave_mean,7.27
+global_states,Spain | Region of Murcia,1.16,residential__late_mean,-0.57
+global_states,Italy | Umbria,1.16,grocery_and_pharmacy__first_wave_mean,-33.58
+global_states,United Kingdom | Staffordshire,1.15,workplaces__first_wave_mean,-47.5
+global_states,Spain | Asturias,1.15,residential__late_mean,-0.54
+global_states,United Kingdom | Torbay,1.15,parks__first_wave_mean,25.12
+global_states,Austria | Vienna,1.14,retail_and_recreation__late_mean,-14.12
+global_states,United Kingdom | Nottinghamshire,1.13,workplaces__first_wave_mean,-47.26
+global_states,Portugal | Santarém District,1.13,grocery_and_pharmacy__late_mean,61.78
+global_states,France | Bourgogne-Franche-Comté,1.13,parks__late_mean,122.55
+global_states,Italy | Tuscany,1.13,grocery_and_pharmacy__first_wave_mean,-33.15
+global_states,Romania | Cluj County,1.13,retail_and_recreation__late_mean,-13.9
+global_states,Poland | Silesian Voivodeship,1.13,parks__first_wave_mean,24.32
+global_states,Romania | Bihor County,1.13,residential__late_mean,-0.44
+global_states,Spain | Extremadura,1.12,grocery_and_pharmacy__first_wave_mean,-33.04
+global_states,France | Provence-Alpes-Côte d'Azur,1.12,parks__late_mean,121.84
+global_states,Ireland | County Meath,1.11,transit_stations__first_wave_mean,-28.62
+global_states,Mexico | Oaxaca,1.1,workplaces__late_mean,25.49
+global_states,New Zealand | Manawatu-Wanganui,1.09,transit_stations__first_wave_mean,-28.87
+global_states,Romania | Mehedinți County,1.09,residential__first_wave_mean,7.75
+global_states,Romania | Vâlcea County,1.09,residential__first_wave_mean,7.76
+global_states,Portugal | Setubal,1.09,residential__first_wave_mean,22.13
+global_states,United Kingdom | Herefordshire,1.08,transit_stations__late_mean,-26.25
+global_states,Romania | Dolj County,1.08,residential__late_mean,-0.28
+global_states,Dominican Republic | La Vega Province,1.08,grocery_and_pharmacy__first_wave_mean,-32.45
+global_states,Italy | Marche,1.08,grocery_and_pharmacy__first_wave_mean,-32.44
+global_states,Italy | Molise,1.07,grocery_and_pharmacy__first_wave_mean,-32.33
+global_states,Brazil | State of Rio de Janeiro,1.07,parks__first_wave_mean,-61.54
+global_states,Brazil | Federal District,1.07,workplaces__late_mean,24.8
+global_states,Turkey | İstanbul,1.07,transit_stations__late_mean,35.9
+global_states,Hungary | Gyor-Moson-Sopron,1.06,residential__late_mean,-0.21
+global_states,Romania | Argeș County,1.06,residential__late_mean,-0.21
+global_states,Romania | Vrancea County,1.06,residential__first_wave_mean,7.94
+global_states,Romania | Brașov County,1.06,residential__late_mean,-0.19
+global_states,Romania | Bacău County,1.06,residential__late_mean,-0.19
+global_states,Mexico | Coahuila,1.05,workplaces__late_mean,24.32
+global_states,Romania | Iași County,1.05,retail_and_recreation__late_mean,-12.36
+global_states,Mexico | Chihuahua,1.05,workplaces__late_mean,24.25
+global_states,United Kingdom | Shropshire,1.04,workplaces__first_wave_mean,-46.12
+global_states,Italy | Campania,1.04,workplaces__first_wave_mean,-46.1
+global_states,Romania | Gorj County,1.03,residential__first_wave_mean,8.12
+global_states,Israel | South District,1.03,transit_stations__first_wave_mean,-29.8
+global_states,United Kingdom | Norfolk,1.03,parks__late_mean,116.55
+global_states,France | Auvergne-Rhône-Alpes,1.03,trough_depth,-80.0
+global_states,Romania | Botoșani County,1.03,residential__first_wave_mean,8.15
+global_states,Romania | Suceava County,1.03,residential__late_mean,-0.09
+global_states,Switzerland | Vaud,1.03,parks__first_wave_mean,20.47
+global_states,Poland | Lublin Voivodeship,1.03,residential__late_mean,-0.08
+global_states,Ireland | County Kilkenny,1.02,transit_stations__first_wave_mean,-30.04
+global_states,Hungary | Budapest,1.02,recovery_days,505.0
+global_states,Romania | Brăila County,1.01,residential__late_mean,-0.02
+global_states,France | Grand Est,1.01,trough_depth,-79.67
+global_states,Romania | Neamț County,1.0,transit_stations__first_wave_mean,-30.26
+global_states,Czechia | Hradec Králové Region,1.0,transit_stations__late_mean,33.89
+global_states,Brazil | State of São Paulo,1.0,workplaces__late_mean,23.01
+global_states,Mexico | State of Mexico,0.99,workplaces__late_mean,22.95
+global_states,Switzerland | Canton of Lucerne,0.99,grocery_and_pharmacy__first_wave_mean,-3.23
+global_states,France | Hauts-de-France,0.99,trough_depth,-79.38
+global_states,Mexico | Zacatecas,0.99,workplaces__late_mean,22.76
+global_states,Romania | Prahova,0.97,residential__late_mean,0.14
+global_states,France | Centre-Val de Loire,0.97,parks__late_mean,112.49
+global_states,Italy | Veneto,0.96,trough_depth,-78.95
+global_states,Mexico | Baja California Sur,0.96,transit_stations__late_mean,32.76
+global_states,Mexico | Baja California,0.96,workplaces__late_mean,22.01
+global_states,Israel | Haifa District,0.96,transit_stations__first_wave_mean,-31.02
+global_states,Poland | Łódź Voivodeship,0.94,parks__first_wave_mean,17.16
+global_states,Mexico | Morelos,0.94,trough_depth,-51.0
+global_states,Mexico | Nayarit,0.94,workplaces__late_mean,21.61
+global_states,Italy | Emilia-Romagna,0.94,trough_depth,-78.67
+global_states,Mexico | Puebla,0.93,trough_depth,-51.24
+global_states,United Kingdom | Somerset,0.93,workplaces__first_wave_mean,-44.62
+global_states,Mexico | Querétaro,0.92,transit_stations__first_wave_mean,-31.54
+global_states,Ireland | County Waterford,0.91,parks__late_mean,108.98
+global_states,Italy | Friuli-Venezia Giulia,0.91,grocery_and_pharmacy__first_wave_mean,-30.01
+global_states,Italy | Liguria,0.91,grocery_and_pharmacy__first_wave_mean,-30.01
+global_states,United Kingdom | Dumfries and Galloway,0.89,parks__late_mean,107.8
+global_states,Mexico | Nuevo Leon,0.88,parks__late_mean,-1.8
+global_states,Mexico | Guanajuato,0.87,workplaces__late_mean,19.85
+global_states,Mexico | Guerrero,0.87,workplaces__late_mean,19.73
+global_states,Mexico | Colima,0.86,parks__late_mean,-0.67
+global_states,Belgium | Flanders,0.82,parks__first_wave_mean,12.31
+global_states,Romania | Ilfov County,0.81,residential__late_mean,0.74
+global_states,Austria | Vorarlberg,0.79,retail_and_recreation__late_mean,-7.41
+global_states,United Kingdom | North East Lincolnshire,0.79,grocery_and_pharmacy__late_mean,5.39
+global_states,Mexico | Sonora,0.75,parks__late_mean,6.16
+global_states,Slovakia | Žilina Region,0.72,residential__late_mean,1.06
+global_states,Romania | Arad County,0.71,residential__late_mean,1.11
+global_states,Poland | Lower Silesian Voivodeship,0.69,residential__late_mean,1.19
+global_states,Mexico | Sinaloa,0.67,workplaces__late_mean,14.96
+global_states,Austria | Styria,0.66,residential__late_mean,1.26
+global_states,Poland | Masovian Voivodeship,0.66,recovery_days,412.0
+global_states,Belgium | Wallonia,0.66,parks__late_mean,93.61
+global_states,Mexico | Aguascalientes,0.63,recovery_days,403.0
+global_states,Poland | Lesser Poland Voivodeship,0.54,residential__late_mean,1.72
