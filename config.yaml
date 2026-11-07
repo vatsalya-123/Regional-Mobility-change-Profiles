@@ -1,3 +1,7 @@
+outliers:
+  robust_z_threshold: 10
+
+
 project:
   name: regional-mobility-profiles
   random_seed: 42

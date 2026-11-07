@@ -12,7 +12,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import RobustScaler
 
-from src.cluster import load_config
+from src.cluster import load_config, load_features
 
 MEAN_COLS = ["retail_and_recreation__mean", "grocery_and_pharmacy__mean",
              "transit_stations__mean", "workplaces__mean", "residential__mean"]
@@ -36,6 +36,8 @@ def main():
     period_order = list(cfg["periods"].keys())
 
     df = pd.read_parquet(processed / f"{args.scope}_features_region_period.parquet")
+    keep = load_features(processed / f"{args.scope}_features_region.parquet", "full").index
+    df = df[df["region_id"].isin(keep)]
     X = RobustScaler().fit_transform(df[MEAN_COLS].to_numpy())
     print(f"Region-period observations: {len(df)}")
 

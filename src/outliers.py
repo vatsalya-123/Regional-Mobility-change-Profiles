@@ -34,8 +34,14 @@ def main():
         print("Regions above robust-z threshold:",
               {t: int((out["max_robust_z"] > t).sum()) for t in (8, 10, 15, 20)})
 
-    pd.concat(all_rows).round(2).to_csv(tables / "outlier_diagnostics.csv", index=False)
-    print("\nSaved outlier_diagnostics.csv")
+
+    allout = pd.concat(all_rows)
+    allout.round(2).to_csv(tables / "outlier_diagnostics.csv", index=False)
+    thr = cfg["outliers"]["robust_z_threshold"]
+    excl = allout[allout["max_robust_z"] > thr]
+    excl.round(2).to_csv(tables / "excluded_outlier_regions.csv", index=False)
+    print(f"\nEXCLUDED AT THRESHOLD {thr}:\n")
+    print(excl.round(1).to_string(index=False))
 
 
 if __name__ == "__main__":

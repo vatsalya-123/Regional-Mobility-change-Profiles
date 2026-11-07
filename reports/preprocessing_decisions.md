@@ -46,3 +46,7 @@
 
 | D22 | Transition analysis | Descriptive transition probabilities between consecutive periods. | State 3 exits rest on about 17 observed transitions, so no claim of permanence. "Above baseline" is relative to a Jan-Feb 2020 reference. |
 
+| D23 | India states outlier | Jammu and Kashmir forms a single-region cluster (late retail +614%, grocery +882%), which makes PCA (96.5% on PC1), stability scores and temporal states for that scope uninformative. | Handled with a documented outlier rule decided from the diagnostic in outputs/tables/outlier_diagnostics.csv (to be finalised). |
+
+| D24 | India districts | k=3 results are stable (ARI 0.92 to 0.96) with silhouette 0.16 to 0.35. Retained districts are those with enough Location History data. | Weak separation and urban coverage bias are stated as limitations. |
+

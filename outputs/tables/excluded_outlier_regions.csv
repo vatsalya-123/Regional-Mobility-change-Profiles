@@ -1,0 +1,5 @@
+scope,region_id,max_robust_z,driving_feature,value
+india_states,India | Jammu and Kashmir,35.84,transit_stations__late_mean,650.2
+global_states,India | Jammu and Kashmir,31.08,retail_and_recreation__late_mean,614.31
+global_states,Greece | Decentralized Administration of the Aegean,17.06,transit_stations__late_mean,498.23
+global_states,Greece | Decentralized Administration of Crete,12.29,transit_stations__late_mean,360.55

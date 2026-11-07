@@ -22,9 +22,20 @@ def load_config(path="config.yaml"):
         return yaml.safe_load(f)
 
 
-def load_features(path, feature_set):
+def robust_z_max(df):
+    """Largest robust z-score (distance from median in MAD units) per region."""
+    med = df.median()
+    mad = ((df - med).abs().median() * 1.4826).replace(0, np.nan)
+    return ((df - med) / mad).abs().max(axis=1)
+
+
+def load_features(path, feature_set, apply_outlier_rule=True):
     df = pd.read_parquet(path).set_index("region_id")
     df = df.drop(columns=["recovery_censored"])
+    if apply_outlier_rule:
+        thr = load_config().get("outliers", {}).get("robust_z_threshold")
+        if thr is not None:
+            df = df[robust_z_max(df) <= thr]
     if feature_set == "no_parks":
         df = df[[c for c in df.columns if not c.startswith("parks__")]]
     return df
