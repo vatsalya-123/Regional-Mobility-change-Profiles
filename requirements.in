@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+pyarrow
+umap-learn
+streamlit
+PyYAML
+tqdm
