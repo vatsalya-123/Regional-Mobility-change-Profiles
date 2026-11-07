@@ -108,10 +108,12 @@ with tab1:
 
     profile = base.assign(cluster=labels).groupby("cluster").mean().round(1)
     profile.insert(0, "n_regions", np.bincount(labels))
+    profile.index = [f"Cluster {c}" for c in profile.index]
     st.subheader("Cluster profiles (raw feature means)")
     st.dataframe(profile.T, width="stretch")
 
     z = (base.assign(cluster=labels).groupby("cluster").mean() - base.mean()) / base.std()
+    z.index = [f"Cluster {c}" for c in z.index]
     heat = px.imshow(z.T.round(2), color_continuous_scale="RdBu_r", zmin=-2.5, zmax=2.5,
                      aspect="auto", labels=dict(x="Cluster", y="", color="z-score"))
     st.subheader("Cluster signatures (z-scores vs all regions)")
