@@ -1,0 +1,5 @@
+state,n_obs,retail_and_recreation__mean,grocery_and_pharmacy__mean,transit_stations__mean,workplaces__mean,residential__mean
+0,117,-45.5,-11.8,-31.0,-26.6,14.1
+1,106,4.1,28.4,15.0,11.5,8.7
+2,5,185.2,319.3,331.0,140.4,7.6
+3,2,537.0,783.1,586.2,299.9,13.4

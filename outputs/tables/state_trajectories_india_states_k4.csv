@@ -1,0 +1,34 @@
+region_id,pre_pandemic,first_wave,reopening_2020,winter_wave,delta_wave,omicron_wave,late_pandemic
+India | Andhra Pradesh,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+India | Arunachal Pradesh,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Assam,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+India | Bihar,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+India | Chandigarh,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Chhattisgarh,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Daman and Diu,,0.0,0.0,1.0,0.0,1.0,1.0
+India | Delhi,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Goa,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Gujarat,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Haryana,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Himachal Pradesh,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+India | Jammu and Kashmir,2.0,2.0,2.0,2.0,2.0,3.0,3.0
+India | Jharkhand,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+India | Karnataka,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Kerala,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Madhya Pradesh,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+India | Maharashtra,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Manipur,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Meghalaya,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Mizoram,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+India | Nagaland,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Odisha,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Puducherry,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Punjab,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Rajasthan,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Sikkim,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Tamil Nadu,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Telangana,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Tripura,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+India | Uttar Pradesh,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+India | Uttarakhand,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+India | West Bengal,1.0,0.0,0.0,0.0,0.0,1.0,1.0

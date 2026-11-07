@@ -68,7 +68,7 @@ def main():
     print(pd.crosstab(pd.Series(ref, name="kmeans"), pd.Series(ward_labels, name="ward")))
 
     Z = trees[("ward", "euclidean")]
-    fig, ax = plt.subplots(figsize=(10, max(8, len(X) * 0.17)))
+    fig, ax = plt.subplots(figsize=(10, min(40, max(8, len(X) * 0.17))))
     dendrogram(Z, labels=list(base.index), orientation="right", leaf_font_size=6,
                color_threshold=Z[-(args.k - 1), 2] - 1e-9, ax=ax)
     ax.set_title(f"Ward dendrogram, {args.scope} (cut at k={args.k})")

@@ -42,3 +42,7 @@
 
 | D20 | Surrogate rules | Depth-limited decision tree reproducing the clusters, with 5-fold cross-validated accuracy (0.85). | Descriptive summary only, not a causal model. |
 
+| D21 | Behavioural states | K-Means (k=4, RobustScaler) on region-period means of 5 categories (parks excluded), ordered by mean activity. | Pre-pandemic period lands 99% in the near-baseline state, which validates the states. k=4 chosen for interpretability (silhouette prefers k=2). |
+
+| D22 | Transition analysis | Descriptive transition probabilities between consecutive periods. | State 3 exits rest on about 17 observed transitions, so no claim of permanence. "Above baseline" is relative to a Jan-Feb 2020 reference. |
+

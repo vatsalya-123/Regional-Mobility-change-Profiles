@@ -1,0 +1,13 @@
+,PC1,PC2,PC3
+retail_and_recreation__first_wave_mean,0.384,-0.209,0.202
+retail_and_recreation__late_mean,0.385,0.043,0.099
+grocery_and_pharmacy__first_wave_mean,0.251,0.067,-0.552
+grocery_and_pharmacy__late_mean,0.414,0.284,-0.47
+transit_stations__first_wave_mean,0.387,-0.033,-0.207
+transit_stations__late_mean,0.477,0.249,0.565
+workplaces__first_wave_mean,0.169,-0.42,0.072
+workplaces__late_mean,0.22,-0.217,0.102
+residential__first_wave_mean,-0.014,0.495,0.051
+residential__late_mean,0.013,-0.454,-0.184
+trough_depth,0.124,-0.339,-0.046
+recovery_days,-0.028,0.131,-0.088
