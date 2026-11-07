@@ -36,5 +36,7 @@ clustering:
   bootstrap_runs: 50
 
 preprocessing:
-  max_missing_fraction: 0.30
-  scaler: standard   # we will also compare "robust"
+  max_missing_fraction: 0.30   # drop a region if any feature is missing more than this
+  max_gap_days: 14             # only interpolate gaps up to this length
+  edge_fill_days: 7            # fill at most this many days at series start or end
+  scaler: standard

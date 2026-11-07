@@ -1,0 +1,5 @@
+scope,raw_rows,duplicates_removed,days,regions_raw,regions_dropped,regions_kept,threshold,max_gap_days,missing_pct_before_fill,missing_pct_after_fill
+national,130824,0,974,135,4,131,0.3,14,0.6,0.49
+india_states,35036,0,974,36,3,33,0.3,14,0.23,0.16
+india_districts,613535,0,974,633,100,533,0.3,14,0.66,0.4
+global_states,1711570,0,974,1872,914,958,0.3,14,1.12,0.59

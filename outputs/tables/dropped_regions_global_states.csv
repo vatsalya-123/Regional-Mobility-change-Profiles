@@ -1,0 +1,915 @@
+region_id,retail_and_recreation,grocery_and_pharmacy,parks,transit_stations,workplaces,residential
+Angola | Benguela Province,0.989,0.933,1.0,0.971,0.093,1.0
+Angola | Cabinda Province,1.0,1.0,1.0,1.0,0.557,1.0
+Angola | Huambo Province,1.0,1.0,1.0,1.0,0.505,1.0
+Angola | Huila Province,1.0,1.0,1.0,1.0,0.312,1.0
+Antigua and Barbuda | Saint George,1.0,1.0,1.0,0.045,0.998,1.0
+Antigua and Barbuda | Saint Mary,1.0,1.0,1.0,1.0,0.532,1.0
+Antigua and Barbuda | Saint Paul,1.0,1.0,1.0,1.0,0.375,1.0
+Argentina | Formosa Province,0.0,0.0,0.0,0.939,0.0,0.0
+Austria | Burgenland,0.02,0.143,0.428,0.935,0.006,0.007
+Barbados | Christ Church,0.026,0.027,0.978,0.026,0.026,0.229
+Barbados | Saint George,0.997,1.0,0.198,1.0,0.26,1.0
+Barbados | Saint James,0.871,0.932,1.0,1.0,0.152,1.0
+Barbados | Saint John,1.0,1.0,1.0,1.0,0.83,1.0
+Barbados | Saint Lucy,1.0,1.0,1.0,1.0,0.914,1.0
+Barbados | Saint Peter,0.965,0.973,1.0,1.0,0.297,1.0
+Barbados | Saint Philip,0.948,0.949,1.0,1.0,0.028,0.639
+Barbados | Saint Thomas,0.977,1.0,1.0,1.0,0.303,1.0
+Belize | Cayo District,0.118,0.255,0.128,0.136,0.026,0.424
+Belize | Corozal District,0.258,1.0,1.0,0.979,0.026,1.0
+Belize | Orange Walk District,1.0,1.0,1.0,0.999,0.161,1.0
+Belize | Stann Creek District,0.998,1.0,1.0,0.998,0.259,1.0
+Benin | Atlantique Department,0.026,0.026,1.0,1.0,0.006,0.033
+Benin | Borgou Department,1.0,1.0,1.0,1.0,0.059,1.0
+Benin | Littoral Department,0.026,0.022,0.89,0.026,0.003,0.006
+Benin | Ouémé Department,0.861,0.388,1.0,1.0,0.026,0.987
+Benin | Zou Department,1.0,1.0,1.0,1.0,0.689,1.0
+Bolivia | Pando Department,0.028,0.668,0.026,1.0,0.026,0.672
+Botswana | Chobe,1.0,1.0,0.988,0.143,0.508,1.0
+Botswana | Francistown,0.932,1.0,1.0,1.0,0.093,0.485
+Botswana | Jwaneng District,1.0,1.0,1.0,1.0,0.541,1.0
+Botswana | Kgatleng,1.0,1.0,0.182,1.0,0.307,1.0
+Botswana | Kweneng East,1.0,1.0,1.0,1.0,0.402,1.0
+Botswana | Ngamiland East,1.0,0.953,0.997,0.499,0.167,1.0
+Botswana | Orapa,1.0,1.0,1.0,1.0,0.339,1.0
+Botswana | Serowe,1.0,1.0,1.0,1.0,0.232,1.0
+Bulgaria | Dobrich Province,0.026,0.036,0.08,1.0,0.006,0.046
+Bulgaria | Gabrovo,0.033,0.131,0.768,1.0,0.023,0.185
+Bulgaria | Jambol,0.026,0.046,0.968,1.0,0.026,0.222
+Bulgaria | Kardzhali Province,0.04,0.114,0.141,0.666,0.026,0.246
+Bulgaria | Kyustendil Province,0.027,0.084,0.649,0.998,0.025,0.17
+Bulgaria | Lovec,0.051,0.026,0.764,0.999,0.025,0.184
+Bulgaria | Montana Province,0.134,0.04,0.57,0.992,0.026,0.295
+Bulgaria | Pazardzhik,0.026,0.026,0.032,0.871,0.006,0.008
+Bulgaria | Pernik,0.026,0.026,0.983,1.0,0.006,0.069
+Bulgaria | Pleven Province,0.026,0.026,0.059,0.999,0.006,0.012
+Bulgaria | Razgrad,0.172,0.268,0.999,1.0,0.026,0.316
+Bulgaria | Ruse,0.026,0.026,0.504,0.888,0.006,0.008
+Bulgaria | Shumen Province,0.026,0.026,0.736,0.284,0.006,0.09
+Bulgaria | Silistra,0.193,0.695,1.0,1.0,0.026,0.435
+Bulgaria | Sliven Province,0.026,0.026,0.372,0.997,0.006,0.122
+Bulgaria | Smoljan,0.041,0.449,0.026,1.0,0.026,0.343
+Bulgaria | Sofia Province,0.026,0.026,0.036,1.0,0.006,0.004
+Bulgaria | Stara Zagora,0.026,0.026,0.026,0.765,0.006,0.0
+Bulgaria | Targovishte Province,0.168,0.158,1.0,1.0,0.026,0.343
+Bulgaria | Vidin,0.269,0.661,0.999,1.0,0.026,0.448
+Bulgaria | Vraca,0.031,0.026,0.027,0.435,0.006,0.076
+Burkina Faso | Boucle du Mouhoun Region,1.0,1.0,1.0,1.0,0.954,1.0
+Burkina Faso | Centre Region,0.026,0.003,0.775,0.026,0.002,0.0
+Burkina Faso | Centre-Est Region,1.0,1.0,1.0,1.0,0.436,1.0
+Burkina Faso | Centre-Nord Region,1.0,1.0,1.0,1.0,0.991,1.0
+Burkina Faso | Centre-Ouest Region,1.0,1.0,1.0,1.0,0.545,1.0
+Burkina Faso | Hauts-Bassins Region,0.05,0.026,1.0,0.408,0.026,0.232
+Burkina Faso | Nord Region,1.0,1.0,1.0,1.0,0.984,1.0
+Cambodia | Banteay Meanchey Province,0.026,0.026,0.797,0.026,0.026,0.011
+Cambodia | Kampong Cham Province,0.029,0.086,0.416,0.055,0.026,0.473
+Cambodia | Kampong Chhnang Province,0.314,0.888,0.026,1.0,0.052,1.0
+Cambodia | Kampong Speu Province,0.318,0.692,0.026,1.0,0.026,0.919
+Cambodia | Kampong Thom Province,0.289,0.938,0.04,1.0,0.026,1.0
+Cambodia | Kampot Province,0.029,0.066,0.026,1.0,0.026,1.0
+Cambodia | Kep Province,1.0,1.0,0.976,1.0,1.0,1.0
+Cambodia | Koh Kong Province,1.0,1.0,0.646,1.0,0.154,1.0
+Cambodia | Kratié Province,1.0,1.0,1.0,1.0,0.117,1.0
+Cambodia | Mondulkiri Province,1.0,1.0,0.989,1.0,1.0,1.0
+Cambodia | Oddar Meanchey Province,1.0,1.0,1.0,1.0,0.166,1.0
+Cambodia | Pailin Province,1.0,1.0,1.0,1.0,0.907,1.0
+Cambodia | Preah Vihear Province,1.0,1.0,0.685,1.0,0.672,1.0
+Cambodia | Prey Veng Province,0.93,1.0,0.628,1.0,0.027,1.0
+Cambodia | Pursat Province,0.999,1.0,0.028,1.0,0.082,1.0
+Cambodia | Ratanakiri Province,1.0,1.0,0.562,1.0,0.303,1.0
+Cambodia | Steung Treng Province,1.0,1.0,1.0,1.0,0.823,1.0
+Cambodia | Svay Rieng Province,0.745,1.0,1.0,0.666,0.026,0.999
+Cambodia | Takéo Province,0.457,0.035,0.508,1.0,0.026,0.779
+Cambodia | Tbong Khmum Province,1.0,0.997,1.0,1.0,0.026,1.0
+Cameroon | Adamawa,0.98,1.0,1.0,1.0,0.026,1.0
+Cameroon | East,1.0,1.0,1.0,1.0,0.121,1.0
+Cameroon | Far North,1.0,0.99,1.0,1.0,0.026,1.0
+Cameroon | North,1.0,1.0,1.0,1.0,0.034,1.0
+Cameroon | Northwest,1.0,0.522,1.0,0.863,0.026,1.0
+Cameroon | South,1.0,1.0,1.0,1.0,0.042,1.0
+Cameroon | Southwest,0.561,0.534,0.641,1.0,0.026,0.323
+Cameroon | West,0.438,0.026,0.62,0.985,0.026,0.188
+Canada | Northwest Territories,0.101,0.882,1.0,0.188,0.032,1.0
+Canada | Nunavut,0.968,1.0,1.0,1.0,0.21,1.0
+Canada | Prince Edward Island,0.026,0.026,0.989,1.0,0.006,0.064
+Canada | Yukon,0.089,0.948,1.0,1.0,0.209,1.0
+Cape Verde | Praia,0.098,0.066,0.991,0.837,0.026,0.424
+Cape Verde | Sal,0.06,1.0,0.026,0.12,0.026,1.0
+Cape Verde | São Salvador do Mundo,1.0,1.0,0.994,1.0,1.0,1.0
+Cape Verde | São Vicente,0.927,0.754,0.984,0.996,0.028,1.0
+Chile | Ñuble,0.0,0.0,0.0,0.0,0.645,0.107
+Colombia | Amazonas,0.948,0.953,0.026,1.0,0.208,1.0
+Colombia | Caqueta,0.026,0.074,0.022,1.0,0.004,0.035
+Colombia | Cauca,0.0,0.0,0.0,0.581,0.0,0.0
+Colombia | Guaviare,0.948,0.923,0.057,1.0,0.049,1.0
+Colombia | Huila,0.0,0.0,0.0,1.0,0.0,0.0
+Colombia | Narino,0.0,0.0,0.0,0.304,0.0,0.0
+Colombia | Putumayo,0.026,0.347,0.026,0.983,0.026,0.071
+Colombia | Quindio,0.0,0.0,0.0,0.379,0.0,0.0
+Colombia | San Andres and Providencia,0.026,0.734,0.02,0.026,0.026,0.506
+Colombia | Vichada,0.998,1.0,0.553,1.0,0.785,1.0
+Croatia | Bjelovar-Bilogora County,0.026,0.134,0.03,0.913,0.02,0.186
+Croatia | Brod-Posavina County,0.026,0.035,1.0,0.026,0.006,0.047
+Croatia | Istria County,0.026,0.026,0.301,0.048,0.006,0.004
+Croatia | Karlovac County,0.026,0.028,0.602,0.292,0.006,0.086
+Croatia | Koprivnica-Križevci County,0.026,0.093,1.0,0.999,0.011,0.183
+Croatia | Krapina-Zagorje County,0.026,0.132,1.0,0.234,0.006,0.072
+Croatia | Lika-Senj County,0.544,0.693,0.995,0.429,0.074,0.98
+Croatia | Međimurje County,0.026,0.145,1.0,0.482,0.006,0.171
+Croatia | Osijek-Baranja County,0.02,0.026,0.716,0.061,0.003,0.001
+Croatia | Požega-Slavonia County,0.144,0.853,1.0,0.96,0.026,0.427
+Croatia | Sisak-Moslavina County,0.026,0.144,0.999,0.026,0.006,0.045
+Croatia | Varaždin County,0.026,0.026,0.954,0.169,0.006,0.039
+Croatia | Virovitica-Podravina County,0.042,0.51,1.0,0.936,0.026,0.392
+Croatia | Vukovar-Srijem County,0.026,0.128,1.0,0.045,0.006,0.043
+Croatia | Zadar County,0.026,0.026,0.314,0.099,0.006,0.011
+Croatia | Zagreb County,0.009,0.008,0.369,0.016,0.003,0.001
+Croatia | Šibenik-Knin County,0.026,0.072,0.602,0.256,0.026,0.151
+Côte d'Ivoire | Bas-Sassandra District,1.0,0.026,0.244,0.439,0.026,0.893
+Côte d'Ivoire | Comoé District,0.912,0.026,0.09,0.952,0.026,0.377
+Côte d'Ivoire | Gôh-Djiboua District,1.0,0.804,1.0,1.0,0.026,1.0
+Côte d'Ivoire | Lacs District,1.0,1.0,1.0,1.0,0.103,1.0
+Côte d'Ivoire | Lagunes District,1.0,0.977,1.0,1.0,0.026,1.0
+Côte d'Ivoire | Montagnes District,1.0,1.0,1.0,0.999,0.027,1.0
+Côte d'Ivoire | Sassandra-Marahoué District,1.0,0.065,1.0,1.0,0.026,1.0
+Côte d'Ivoire | Savanes District,1.0,0.162,1.0,1.0,0.026,1.0
+Côte d'Ivoire | Vallée du Bandama District,0.568,0.026,1.0,0.047,0.026,0.455
+Côte d'Ivoire | Yamoussoukro District,0.993,0.661,1.0,0.857,0.044,1.0
+Côte d'Ivoire | Zanzan District,1.0,1.0,1.0,1.0,0.641,1.0
+Dominican Republic | Azua Province,0.286,0.83,0.128,1.0,0.026,0.465
+Dominican Republic | Baoruco Province,1.0,1.0,0.026,1.0,0.028,1.0
+Dominican Republic | Barahona Province,0.464,0.895,0.026,0.998,0.026,0.456
+Dominican Republic | Dajabón Province,0.975,1.0,1.0,1.0,0.16,1.0
+Dominican Republic | Duarte Province,0.026,0.026,0.026,0.969,0.006,0.069
+Dominican Republic | El Seibo Province,1.0,1.0,0.997,1.0,0.062,1.0
+Dominican Republic | Espaillat Province,0.026,0.026,0.026,0.771,0.006,0.074
+Dominican Republic | Hato Mayor Province,1.0,0.995,0.026,1.0,0.026,1.0
+Dominican Republic | Hermanas Mirabal Province,0.917,0.926,0.983,1.0,0.026,1.0
+Dominican Republic | Independencia Province,1.0,1.0,1.0,1.0,0.459,1.0
+Dominican Republic | María Trinidad Sánchez Province,0.03,0.716,0.181,0.028,0.026,0.73
+Dominican Republic | Monseñor Nouel Province,0.026,0.026,0.026,1.0,0.026,0.118
+Dominican Republic | Monte Cristi Province,0.851,0.388,0.812,0.996,0.026,1.0
+Dominican Republic | Monte Plata Province,0.482,0.858,0.48,1.0,0.026,0.47
+Dominican Republic | Peravia Province,0.026,0.027,0.026,1.0,0.026,0.231
+Dominican Republic | Samaná Province,0.027,0.036,0.026,0.1,0.026,0.495
+Dominican Republic | San Cristóbal Province,0.026,0.026,0.02,1.0,0.0,0.0
+Dominican Republic | San José de Ocoa Province,1.0,1.0,0.031,1.0,0.171,1.0
+Dominican Republic | San Juan Province,0.027,0.115,0.026,1.0,0.026,0.32
+Dominican Republic | Santiago Rodríguez Province,1.0,0.999,0.991,1.0,0.031,1.0
+Dominican Republic | Sánchez Ramírez Province,0.634,0.109,0.026,1.0,0.026,0.447
+Dominican Republic | Valverde Province,0.026,0.026,0.419,0.645,0.026,0.315
+Ecuador | Bolivar,0.421,0.994,0.026,1.0,0.026,0.439
+Ecuador | Carchi,0.125,0.026,0.026,1.0,0.026,0.335
+Ecuador | Galápagos Islands,1.0,1.0,0.026,0.624,0.026,1.0
+Ecuador | Morona-Santiago,0.876,1.0,0.026,0.029,0.026,0.444
+Ecuador | Napo,0.419,0.569,0.026,0.687,0.026,0.448
+Ecuador | Orellana,0.196,0.787,0.026,0.368,0.026,0.317
+Ecuador | Pastaza,0.101,0.974,0.026,0.034,0.026,0.459
+Ecuador | Santa Elena,0.026,0.026,0.02,0.639,0.006,0.04
+Ecuador | Sucumbios,0.026,0.895,0.026,0.134,0.026,0.264
+Ecuador | Zamora Chinchipe,0.854,1.0,0.026,0.026,0.026,0.448
+Egypt | Assiut Governorate,0.026,0.026,0.81,0.026,0.0,0.0
+Egypt | Beni Suef Governorate,0.026,0.028,0.999,0.026,0.003,0.0
+Egypt | Damietta Governorate,0.026,0.026,0.057,1.0,0.0,0.0
+Egypt | Faiyum Governorate,0.026,0.027,0.026,1.0,0.003,0.0
+Egypt | Kafr El Sheikh Governorate,0.026,0.029,0.055,0.335,0.0,0.0
+Egypt | Matrouh Governorate,0.316,0.248,0.347,0.992,0.026,0.13
+Egypt | Menofia Governorate,0.011,0.026,0.933,0.026,0.0,0.0
+Egypt | New Valley Governorate,0.948,1.0,1.0,1.0,0.026,1.0
+Egypt | North Sinai Governorate,0.951,1.0,1.0,1.0,0.026,0.841
+Egypt | Qena Governorate,0.026,0.026,1.0,0.026,0.003,0.0
+Egypt | Suez Governorate,0.026,0.026,0.394,1.0,0.003,0.0
+El Salvador | Ahuachapán Department,0.263,0.885,0.028,0.884,0.026,0.318
+El Salvador | Cabañas Department,1.0,1.0,0.026,1.0,0.026,1.0
+El Salvador | Chalatenango Department,0.393,1.0,0.026,0.98,0.026,0.723
+El Salvador | Cuscatlán Department,0.924,1.0,0.026,0.669,0.026,0.324
+El Salvador | La Unión Department,0.164,0.976,0.026,1.0,0.026,0.454
+El Salvador | Morazán Department,1.0,1.0,0.028,1.0,0.026,1.0
+El Salvador | San Vicente Department,0.905,1.0,0.026,1.0,0.026,0.702
+El Salvador | Usulután Department,0.026,0.098,0.026,1.0,0.026,0.2
+Estonia | Hiiu County,1.0,1.0,1.0,1.0,0.991,1.0
+Estonia | Ida-Viru County,0.026,0.176,0.885,0.03,0.006,0.068
+Estonia | Järva County,0.95,0.948,1.0,1.0,0.305,1.0
+Estonia | Jõgeva County,0.956,0.948,1.0,1.0,0.306,1.0
+Estonia | Lääne County,0.948,0.948,1.0,1.0,0.306,1.0
+Estonia | Lääne-Viru County,0.194,0.097,1.0,0.039,0.026,0.393
+Estonia | Pärnu County,0.026,0.026,0.833,0.026,0.025,0.293
+Estonia | Põlva County,0.956,0.949,1.0,1.0,0.306,1.0
+Estonia | Rapla County,0.956,0.946,1.0,1.0,0.304,0.487
+Estonia | Saare County,0.944,0.948,1.0,0.94,0.305,1.0
+Estonia | Tartu County,0.026,0.026,0.676,0.026,0.006,0.043
+Estonia | Valga County,0.946,0.948,1.0,1.0,0.306,1.0
+Estonia | Viljandi County,0.215,0.658,1.0,0.324,0.179,0.45
+Estonia | Võru County,0.857,0.948,1.0,1.0,0.304,1.0
+Finland | Central Ostrobothnia,0.028,0.026,1.0,0.733,0.023,0.292
+Finland | Kainuu,0.034,0.026,0.874,0.562,0.025,0.292
+Finland | Kymenlaakso,0.026,0.007,0.372,0.026,0.006,0.003
+Finland | North Karelia,0.026,0.023,0.721,0.366,0.006,0.035
+Finland | Ostrobothnia,0.026,0.023,0.738,0.026,0.006,0.014
+Finland | Päijänne Tavastia,0.021,0.003,0.793,0.026,0.006,0.001
+Finland | Satakunta,0.026,0.001,0.679,0.026,0.006,0.0
+Finland | South Karelia,0.026,0.026,0.895,0.026,0.006,0.055
+Finland | South Savo,0.026,0.026,0.444,0.091,0.006,0.022
+Finland | Southern Ostrobothnia,0.026,0.02,0.848,0.026,0.006,0.006
+Finland | Tavastia Proper,0.026,0.003,0.828,0.139,0.006,0.006
+Gabon | Estuaire,0.026,0.026,0.994,0.026,0.003,0.0
+Gabon | Haut-Ogooue,1.0,1.0,1.0,1.0,0.467,1.0
+Gabon | Ogooue-Maritime,0.287,0.047,1.0,1.0,0.026,0.997
+Guatemala | Baja Verapaz Department,0.953,1.0,0.026,1.0,0.026,1.0
+Guatemala | Chimaltenango Department,0.026,0.026,0.026,0.72,0.006,0.04
+Guatemala | Chiquimula Department,0.026,0.026,0.026,0.797,0.026,0.205
+Guatemala | El Progreso Department,0.485,1.0,0.026,1.0,0.026,1.0
+Guatemala | Izabal Department,0.026,0.026,0.026,0.975,0.026,0.084
+Guatemala | Jalapa Department,0.876,0.919,0.027,1.0,0.026,0.544
+Guatemala | Jutiapa Department,0.026,0.026,0.026,1.0,0.026,0.202
+Guatemala | Quiché Department,0.026,0.026,0.026,0.965,0.026,0.202
+Guatemala | Retalhuleu Department,0.026,0.026,0.167,0.621,0.026,0.409
+Guatemala | Santa Rosa Department,0.026,0.333,0.026,1.0,0.026,0.321
+Guatemala | Sololá Department,0.026,0.908,0.026,0.042,0.026,0.436
+Guatemala | Totonicapán Department,0.695,0.939,0.026,1.0,0.026,0.983
+Guatemala | Zacapa Department,0.026,0.026,0.026,0.613,0.026,0.342
+Haiti | Artibonite Department,1.0,1.0,0.026,0.984,0.026,0.407
+Haiti | Centre Department,1.0,1.0,0.284,1.0,0.085,1.0
+Haiti | Nord Department,1.0,1.0,0.057,0.841,0.026,0.99
+Haiti | Nord-Est Department,1.0,1.0,1.0,1.0,0.186,1.0
+Haiti | Nord-Ouest Department,1.0,1.0,1.0,1.0,0.49,1.0
+Haiti | Sud Department,1.0,1.0,0.99,1.0,0.119,1.0
+Haiti | Sud-Est Department,1.0,1.0,1.0,1.0,0.124,1.0
+Honduras | Bay Islands Department,0.67,0.457,0.221,0.375,0.026,1.0
+Honduras | Choluteca Department,0.026,0.026,0.026,1.0,0.026,0.316
+Honduras | Colón Department,0.028,0.586,0.654,1.0,0.026,0.346
+Honduras | Comayagua Department,0.026,0.026,0.026,0.839,0.026,0.1
+Honduras | Copán Department,0.026,0.028,0.026,0.854,0.026,0.316
+Honduras | El Paraíso Department,0.58,0.799,0.026,1.0,0.026,0.87
+Honduras | Intibucá Department,0.994,1.0,0.038,0.882,0.031,1.0
+Honduras | La Paz Department,1.0,1.0,0.951,0.178,0.141,1.0
+Honduras | Lempira Department,1.0,1.0,0.654,1.0,0.102,1.0
+Honduras | Ocotepeque Department,1.0,1.0,0.026,1.0,0.048,1.0
+Honduras | Olancho Department,0.026,0.111,0.026,0.706,0.026,0.396
+Honduras | Santa Bárbara Department,0.369,1.0,0.026,1.0,0.026,0.966
+Honduras | Valle Department,1.0,1.0,0.028,1.0,0.04,1.0
+Hungary | Baranya,0.025,0.004,0.5,0.006,0.006,0.0
+Hungary | Békés County,0.026,0.025,0.844,0.026,0.006,0.0
+Hungary | Jász-Nagykun-Szolnok,0.026,0.025,0.612,0.025,0.006,0.0
+Hungary | Komárom-Esztergom,0.026,0.016,0.545,0.006,0.005,0.0
+Hungary | Nógrád County,0.143,0.056,0.998,0.026,0.006,0.071
+Hungary | Somogy County,0.026,0.026,0.464,0.029,0.006,0.004
+Hungary | Szabolcs-Szatmár-Bereg,0.026,0.025,0.705,0.026,0.004,0.0
+Hungary | Tolna County,0.028,0.026,1.0,0.026,0.006,0.043
+Hungary | Vas County,0.026,0.025,0.627,0.026,0.006,0.009
+India | Andaman and Nicobar Islands,0.026,0.948,0.026,0.026,0.004,0.052
+India | Dadra and Nagar Haveli,0.024,0.048,0.026,0.496,0.0,0.0
+India | Lakshadweep,1.0,1.0,0.026,1.0,0.026,1.0
+Indonesia | Gorontalo,0.0,0.0,0.023,0.7,0.0,0.0
+Ireland | County Carlow,0.026,0.026,0.885,0.929,0.026,0.405
+Ireland | County Cavan,0.026,0.026,0.992,0.92,0.026,0.201
+Ireland | County Clare,0.026,0.026,0.446,0.026,0.006,0.07
+Ireland | County Kerry,0.026,0.026,0.382,0.059,0.006,0.048
+Ireland | County Kildare,0.015,0.0,0.236,0.941,0.006,0.005
+Ireland | County Laois,0.026,0.026,0.998,0.038,0.006,0.192
+Ireland | County Leitrim,0.727,0.679,0.976,1.0,0.145,1.0
+Ireland | County Longford,0.052,0.124,1.0,1.0,0.026,0.448
+Ireland | County Louth,0.026,0.026,0.731,0.026,0.006,0.045
+Ireland | County Mayo,0.026,0.026,0.778,0.033,0.006,0.052
+Ireland | County Monaghan,0.048,0.027,1.0,0.487,0.026,0.351
+Ireland | County Offaly,0.026,0.026,0.027,0.652,0.006,0.186
+Ireland | County Roscommon,0.117,0.026,0.999,1.0,0.026,0.349
+Ireland | County Sligo,0.026,0.026,0.81,0.283,0.026,0.356
+Ireland | County Westmeath,0.026,0.026,0.941,0.026,0.006,0.108
+Ireland | County Wexford,0.026,0.026,0.605,0.026,0.006,0.044
+Jamaica | Clarendon,0.074,0.174,0.498,1.0,0.026,0.225
+Jamaica | Hanover Parish,1.0,1.0,1.0,1.0,0.026,1.0
+Jamaica | Kingston Parish,0.963,0.165,0.027,0.026,0.306,1.0
+Jamaica | Manchester Parish,0.028,0.162,0.05,0.998,0.026,0.23
+Jamaica | Portland Parish,1.0,1.0,0.026,1.0,0.077,1.0
+Jamaica | St. Ann Parish,0.026,0.026,0.026,0.413,0.026,0.089
+Jamaica | St. Catherine Parish,0.02,0.026,0.41,0.0,0.0,0.0
+Jamaica | St. Elizabeth Parish,0.777,0.52,1.0,1.0,0.026,0.999
+Jamaica | St. James Parish,0.026,0.026,0.621,0.026,0.006,0.041
+Jamaica | St. Mary Parish,1.0,1.0,0.982,1.0,0.026,0.664
+Jamaica | St. Thomas Parish,1.0,1.0,1.0,1.0,0.026,1.0
+Jamaica | Trelawny Parish,0.03,1.0,0.88,1.0,0.026,1.0
+Jamaica | Westmoreland Parish,0.403,0.979,1.0,1.0,0.026,0.393
+Jordan | Ajloun Governorate,0.89,1.0,1.0,1.0,0.026,1.0
+Jordan | Balqa Governorate,0.026,0.026,0.026,1.0,0.003,0.02
+Jordan | Irbid Governorate,0.0,0.0,0.026,1.0,0.0,0.0
+Jordan | Jerash Governorate,0.417,0.987,0.109,1.0,0.026,0.786
+Jordan | Karak Governorate,0.069,0.517,1.0,1.0,0.026,0.454
+Jordan | Ma'an Governorate,0.951,0.998,0.044,1.0,0.026,1.0
+Jordan | Madaba Governorate,0.7,0.048,1.0,1.0,0.026,0.446
+Jordan | Mafraq Governorate,0.026,0.027,1.0,1.0,0.026,0.197
+Jordan | Tafilah Governorate,1.0,1.0,1.0,1.0,0.148,1.0
+Kenya | Baringo County,1.0,1.0,1.0,1.0,0.646,1.0
+Kenya | Bomet County,0.948,0.948,1.0,1.0,0.446,1.0
+Kenya | Bungoma County,0.948,0.948,0.22,0.064,0.026,1.0
+Kenya | Busia County,0.951,0.948,1.0,0.991,0.19,1.0
+Kenya | Embu County,0.85,0.948,1.0,0.029,0.026,1.0
+Kenya | Garissa County,1.0,1.0,1.0,1.0,0.062,1.0
+Kenya | Homa Bay County,0.958,0.948,1.0,0.413,0.292,1.0
+Kenya | Kakamega County,0.55,0.93,0.775,0.489,0.026,0.697
+Kenya | Kericho County,0.701,0.948,1.0,1.0,0.028,1.0
+Kenya | Kilifi County,0.03,0.31,0.026,0.026,0.026,0.065
+Kenya | Kirinyaga County,0.948,0.948,0.039,1.0,0.065,1.0
+Kenya | Kisii County,0.785,0.815,1.0,0.842,0.026,0.736
+Kenya | Kitui County,0.948,0.971,0.252,0.138,0.057,1.0
+Kenya | Kwale County,0.948,0.948,1.0,1.0,0.026,1.0
+Kenya | Laikipia County,0.564,0.948,0.996,0.026,0.026,1.0
+Kenya | Makueni County,0.948,0.989,1.0,0.583,0.235,1.0
+Kenya | Meru County,0.453,0.399,1.0,0.071,0.026,0.298
+Kenya | Migori County,0.974,0.959,1.0,0.898,0.188,1.0
+Kenya | Muranga County,0.672,0.943,1.0,0.14,0.036,1.0
+Kenya | Nandi County,0.948,1.0,1.0,1.0,0.156,1.0
+Kenya | Narok County,0.948,0.998,0.026,0.938,0.383,1.0
+Kenya | Nyandarua County,0.999,1.0,1.0,1.0,0.622,1.0
+Kenya | Nyeri County,0.027,0.028,0.379,0.534,0.026,0.43
+Kenya | Siaya,0.948,0.956,1.0,0.994,0.218,1.0
+Kenya | Taita-Taveta County,0.955,1.0,1.0,0.954,0.337,1.0
+Kenya | Tharaka-Nithi County,0.948,1.0,1.0,0.999,0.056,1.0
+Kenya | Trans-Nzoia County,0.948,0.921,1.0,0.208,0.055,1.0
+Kenya | Turkana County,0.948,1.0,0.999,1.0,0.223,1.0
+Kenya | Vihiga County,0.998,1.0,1.0,0.027,0.331,1.0
+Kenya | Wajir County,0.998,1.0,1.0,1.0,1.0,1.0
+Kyrgyzstan | Batken Region,0.237,1.0,1.0,0.267,0.026,1.0
+Kyrgyzstan | Issyk-Kul Region,0.026,0.026,0.026,0.653,0.007,0.025
+Kyrgyzstan | Naryn Region,0.895,1.0,0.026,1.0,0.026,1.0
+Kyrgyzstan | Talas Region,0.027,0.092,0.026,1.0,0.026,0.916
+Latvia | Aizkraukle Municipality,0.955,1.0,1.0,1.0,0.982,1.0
+Latvia | Aloja Municipality,0.991,1.0,1.0,1.0,1.0,1.0
+Latvia | Alūksne Municipality,1.0,1.0,1.0,1.0,0.312,1.0
+Latvia | Babīte Municipality,0.994,1.0,1.0,1.0,0.309,1.0
+Latvia | Baldone Municipality,1.0,1.0,1.0,1.0,0.998,1.0
+Latvia | Balvi Municipality,1.0,1.0,1.0,1.0,0.979,1.0
+Latvia | Bauska Municipality,0.951,0.948,1.0,1.0,0.306,1.0
+Latvia | Burtnieki Municipality,0.989,1.0,1.0,1.0,0.982,1.0
+Latvia | Carnikava Municipality,1.0,1.0,1.0,1.0,0.32,1.0
+Latvia | City of Liepāja,0.026,0.115,0.969,0.035,0.026,0.294
+Latvia | Cēsis Municipality,0.935,0.956,1.0,1.0,0.307,1.0
+Latvia | Daugavpils,0.026,0.041,0.991,0.423,0.026,0.325
+Latvia | Daugavpils Municipality,1.0,1.0,1.0,1.0,0.523,1.0
+Latvia | Dobele Municipality,0.948,1.0,1.0,1.0,0.306,1.0
+Latvia | Engure Municipality,1.0,1.0,1.0,1.0,0.308,1.0
+Latvia | Garkalne Municipality,1.0,1.0,1.0,1.0,0.313,1.0
+Latvia | Grobiņa Municipality,1.0,1.0,1.0,1.0,0.984,1.0
+Latvia | Gulbene Municipality,0.972,0.961,1.0,1.0,0.306,1.0
+Latvia | Iecava Municipality,1.0,1.0,1.0,1.0,0.921,1.0
+Latvia | Ikšķile Municipality,0.948,0.949,1.0,1.0,0.306,1.0
+Latvia | Inčukalns Municipality,1.0,1.0,1.0,1.0,0.937,1.0
+Latvia | Jelgava,0.026,0.204,1.0,0.56,0.036,0.401
+Latvia | Jelgava Municipality,1.0,1.0,1.0,1.0,0.306,1.0
+Latvia | Jēkabpils,0.718,0.948,1.0,1.0,0.306,1.0
+Latvia | Jēkabpils Municipality,0.997,1.0,1.0,1.0,1.0,1.0
+Latvia | Jūrmala,0.244,0.805,0.822,0.078,0.099,0.449
+Latvia | Kocēni Municipality,0.984,1.0,1.0,1.0,0.846,1.0
+Latvia | Krimulda Municipality,1.0,1.0,0.999,1.0,1.0,1.0
+Latvia | Krāslava Municipality,0.994,1.0,1.0,1.0,1.0,1.0
+Latvia | Kuldīga Municipality,0.951,0.979,1.0,1.0,0.307,1.0
+Latvia | Lielvārde Municipality,0.996,1.0,1.0,1.0,0.916,1.0
+Latvia | Limbaži Municipality,0.973,1.0,1.0,1.0,0.31,1.0
+Latvia | Madona Municipality,0.956,0.953,1.0,1.0,0.306,1.0
+Latvia | Mārupe Municipality,0.026,0.372,1.0,0.026,0.306,1.0
+Latvia | Ogre Municipality,0.94,0.995,1.0,1.0,0.306,1.0
+Latvia | Olaine Municipality,0.986,1.0,1.0,1.0,0.306,1.0
+Latvia | Ozolnieki Municipality,0.996,1.0,1.0,1.0,0.311,1.0
+Latvia | Preiļi Municipality,0.997,1.0,1.0,1.0,1.0,1.0
+Latvia | Priekuļi Municipality,1.0,1.0,1.0,1.0,0.982,1.0
+Latvia | Ropaži Municipality,1.0,1.0,1.0,1.0,0.945,1.0
+Latvia | Rēzekne,0.193,0.948,1.0,1.0,0.306,1.0
+Latvia | Rēzekne Municipality,1.0,1.0,1.0,1.0,0.306,1.0
+Latvia | Salacgrīva Municipality,0.998,1.0,1.0,1.0,1.0,1.0
+Latvia | Salaspils Municipality,0.937,0.771,1.0,1.0,0.298,0.845
+Latvia | Saldus Municipality,0.949,0.97,0.98,1.0,0.307,1.0
+Latvia | Saulkrasti Municipality,1.0,1.0,1.0,1.0,0.965,1.0
+Latvia | Sigulda Municipality,0.598,0.99,0.97,1.0,0.306,1.0
+Latvia | Smiltene Municipality,0.956,1.0,1.0,1.0,0.31,1.0
+Latvia | Stopiņi Municipality,1.0,0.997,1.0,1.0,0.306,1.0
+Latvia | Talsi Municipality,0.93,0.956,1.0,1.0,0.306,1.0
+Latvia | Tukums Municipality,0.259,0.971,1.0,1.0,0.306,1.0
+Latvia | Valmiera Municipality,0.151,0.947,1.0,1.0,0.306,1.0
+Latvia | Ventspils,0.3,0.849,1.0,1.0,0.211,1.0
+Latvia | Ventspils Municipality,1.0,1.0,1.0,1.0,0.953,1.0
+Latvia | Ādaži Municipality,0.948,0.952,1.0,1.0,0.306,1.0
+Latvia | Ķegums Municipality,0.996,1.0,1.0,1.0,0.997,1.0
+Latvia | Ķekava Municipality,0.999,1.0,1.0,1.0,0.306,1.0
+Lebanon | Akkar Governorate,0.726,0.944,1.0,1.0,0.026,0.32
+Lebanon | Baalbek-Hermel Governorate,1.0,0.735,0.908,1.0,0.026,0.272
+Lebanon | Beirut Governorate,0.0,0.026,0.026,1.0,0.003,0.007
+Lebanon | Beqaa Governorate,0.026,0.026,0.026,1.0,0.012,0.013
+Lebanon | Nabatiyeh Governorate,0.026,0.026,0.427,1.0,0.026,0.02
+Lebanon | North Governorate,0.026,0.026,0.026,0.62,0.003,0.0
+Lebanon | South Governorate,0.026,0.026,0.026,1.0,0.003,0.0
+Libya | Al Wahat District,1.0,1.0,1.0,1.0,0.112,1.0
+Libya | Benghazi district,0.032,0.118,0.344,1.0,0.026,0.066
+Libya | Butnan District,1.0,1.0,1.0,1.0,0.545,1.0
+Libya | Jabal al Akhdar District,1.0,1.0,1.0,1.0,0.189,1.0
+Libya | Jabal al Gharbi District,1.0,1.0,1.0,1.0,0.666,1.0
+Libya | Misrata District,0.524,1.0,1.0,1.0,0.026,0.466
+Libya | Murqub District,1.0,1.0,1.0,1.0,0.045,1.0
+Libya | Nuqat al Khams District,1.0,1.0,1.0,1.0,0.989,1.0
+Libya | Sabha District,1.0,1.0,1.0,1.0,0.535,1.0
+Libya | Tripoli District,0.026,0.03,0.29,0.805,0.003,0.0
+Libya | Zawiya District,1.0,1.0,1.0,1.0,0.044,1.0
+Lithuania | Alytus County,0.026,0.033,0.083,0.959,0.006,0.091
+Lithuania | Marijampolė County,0.026,0.03,0.847,0.026,0.006,0.067
+Lithuania | Tauragė County,0.03,0.93,1.0,0.967,0.026,0.307
+Lithuania | Telšiai County,0.026,0.206,0.471,0.641,0.006,0.065
+Lithuania | Utena County,0.026,0.281,0.455,0.765,0.007,0.12
+Lithuania | Šiauliai County,0.02,0.02,0.595,0.029,0.006,0.002
+Mauritius | Flacq District,0.026,0.117,0.459,0.767,0.026,0.172
+Mauritius | Grand Port District,0.034,0.042,0.305,0.026,0.026,0.357
+Mauritius | Moka District,0.026,0.97,1.0,0.33,0.026,0.343
+Mauritius | Pamplemousses District,0.313,0.026,0.239,0.8,0.006,0.083
+Mauritius | Plaines Wilhems District,0.024,0.004,0.93,0.026,0.006,0.026
+Mauritius | Rivière Noire District,0.026,0.081,0.029,0.76,0.009,0.13
+Mauritius | Rivière du Rempart District,0.027,0.051,0.062,1.0,0.026,0.241
+Mauritius | Rodrigues District,1.0,1.0,0.811,1.0,0.534,1.0
+Mauritius | Savanne District,0.951,0.962,0.971,1.0,0.026,0.492
+Mexico | San Luis Potosi,0.0,0.0,0.0,0.357,0.0,0.0
+Mongolia | Darkhan-Uul,1.0,1.0,1.0,1.0,0.973,1.0
+Mongolia | Orkhon,1.0,1.0,1.0,1.0,0.95,1.0
+Mozambique | Cabo Delgado Province,1.0,1.0,0.357,0.999,0.073,1.0
+Mozambique | Gaza Province,1.0,1.0,0.935,1.0,0.057,1.0
+Mozambique | Inhambane Province,1.0,1.0,0.688,1.0,0.042,1.0
+Mozambique | Manica Province,1.0,1.0,1.0,1.0,0.189,1.0
+Mozambique | Maputo Province,0.168,1.0,0.026,1.0,0.026,0.694
+Mozambique | Nampula Province,0.951,0.072,1.0,0.197,0.026,0.444
+Mozambique | Niassa Province,1.0,1.0,1.0,1.0,0.877,1.0
+Mozambique | Sofala Province,0.322,0.067,0.683,1.0,0.026,0.392
+Mozambique | Tete Province,1.0,1.0,1.0,1.0,0.037,1.0
+Mozambique | Zambezia Province,1.0,0.999,1.0,1.0,0.119,1.0
+Namibia | Erongo Region,0.026,0.026,0.118,1.0,0.025,0.201
+Namibia | Hardap Region,1.0,1.0,1.0,1.0,0.306,1.0
+Namibia | Karas Region,1.0,1.0,0.944,1.0,0.23,1.0
+Namibia | Kavango Region,1.0,1.0,1.0,1.0,0.431,1.0
+Namibia | Ohangwena Region,1.0,1.0,1.0,1.0,0.986,1.0
+Namibia | Omusati Region,1.0,1.0,1.0,1.0,0.975,1.0
+Namibia | Oshana Region,0.951,0.177,1.0,1.0,0.129,1.0
+Namibia | Oshikoto Region,1.0,1.0,1.0,1.0,0.306,1.0
+Namibia | Otjozondjupa Region,1.0,0.997,1.0,1.0,0.198,1.0
+Namibia | Zambezi Region,1.0,1.0,1.0,1.0,0.992,1.0
+New Zealand | Gisborne,0.043,0.562,0.506,1.0,0.073,0.53
+New Zealand | Marlborough,0.027,0.054,0.026,0.146,0.026,0.447
+New Zealand | Nelson,0.026,0.026,0.026,1.0,0.026,0.33
+New Zealand | Southland,0.026,0.026,0.026,1.0,0.026,0.2
+New Zealand | Taranaki,0.026,0.026,0.026,0.739,0.026,0.093
+New Zealand | Tasman,0.026,0.602,0.026,1.0,0.026,0.451
+New Zealand | West Coast,0.186,0.884,0.026,1.0,0.154,1.0
+Nicaragua | Boaco,1.0,1.0,1.0,1.0,0.111,1.0
+Nicaragua | Carazo,0.826,1.0,0.026,0.304,0.026,0.694
+Nicaragua | Chontales,0.99,0.833,0.026,0.947,0.026,1.0
+Nicaragua | Esteli,0.026,0.026,0.027,0.959,0.026,0.291
+Nicaragua | Granada,0.473,0.23,0.597,1.0,0.026,0.857
+Nicaragua | Jinotega,1.0,1.0,0.909,1.0,0.026,1.0
+Nicaragua | Madriz,1.0,1.0,1.0,1.0,0.569,1.0
+Nicaragua | Matagalpa,0.026,0.026,0.026,0.026,0.026,0.311
+Nicaragua | North Caribbean Coast Autonomous Region,1.0,1.0,0.993,1.0,0.029,1.0
+Nicaragua | Nueva Segovia,1.0,1.0,0.119,1.0,0.026,1.0
+Nicaragua | Rivas,0.391,0.953,0.027,0.976,0.026,1.0
+Nicaragua | South Caribbean Coast Autonomous Region,1.0,0.998,0.026,1.0,0.026,1.0
+Niger | Agadez Region,1.0,1.0,1.0,1.0,0.407,1.0
+Niger | Maradi Region,1.0,1.0,1.0,0.999,0.098,1.0
+Niger | Niamey Urban Community,0.026,0.026,0.666,0.098,0.003,0.003
+Niger | Tahoua Region,1.0,1.0,1.0,1.0,0.418,1.0
+Niger | Zinder Region,1.0,1.0,1.0,1.0,0.168,1.0
+Nigeria | Abia,0.051,0.06,0.027,0.337,0.006,0.034
+Nigeria | Adamawa,0.178,0.948,1.0,1.0,0.026,0.28
+Nigeria | Akwa Ibom,0.026,0.026,0.026,0.769,0.006,0.038
+Nigeria | Bauchi,0.946,0.493,0.24,1.0,0.026,0.496
+Nigeria | Bayelsa,0.817,0.956,0.026,1.0,0.026,0.449
+Nigeria | Benue,0.464,0.508,0.692,0.986,0.026,0.237
+Nigeria | Cross River,0.428,0.026,0.281,0.556,0.022,0.087
+Nigeria | Delta,0.026,0.026,0.026,0.462,0.0,0.0
+Nigeria | Ebonyi,0.948,0.948,1.0,1.0,0.026,1.0
+Nigeria | Edo,0.026,0.026,0.382,0.026,0.0,0.0
+Nigeria | Ekiti,0.847,0.953,0.999,0.964,0.026,0.267
+Nigeria | Enugu,0.026,0.026,0.319,0.026,0.003,0.0
+Nigeria | Gombe,0.948,0.452,1.0,1.0,0.026,0.744
+Nigeria | Imo,0.026,0.026,0.46,0.035,0.006,0.013
+Nigeria | Jigawa,0.948,1.0,0.997,1.0,0.026,1.0
+Nigeria | Katsina,0.925,0.407,0.868,0.77,0.026,0.448
+Nigeria | Kebbi,0.948,1.0,1.0,1.0,0.026,1.0
+Nigeria | Kogi,0.948,0.948,1.0,1.0,0.026,0.399
+Nigeria | Kwara,0.026,0.026,0.975,0.026,0.003,0.0
+Nigeria | Nasarawa,0.337,0.179,1.0,1.0,0.006,0.047
+Nigeria | Niger,0.261,0.026,0.857,1.0,0.006,0.035
+Nigeria | Ondo,0.047,0.026,0.886,0.026,0.006,0.004
+Nigeria | Plateau,0.207,0.273,0.899,0.026,0.006,0.03
+Nigeria | Sokoto,0.947,0.913,1.0,1.0,0.026,0.746
+Nigeria | Taraba,0.953,1.0,0.974,1.0,0.026,1.0
+Nigeria | Yobe,0.957,0.985,0.935,1.0,0.026,1.0
+Nigeria | Zamfara,0.948,0.948,0.026,1.0,0.099,1.0
+Oman | Ad Dakhiliyah ‍Governorate,0.026,0.026,0.026,1.0,0.006,0.002
+Oman | Ad Dhahirah Governorate,0.026,0.026,0.026,1.0,0.026,0.195
+Oman | Al Batinah South Governorate,0.026,0.026,0.026,1.0,0.006,0.009
+Oman | Al Buraymi Governorate,0.026,0.026,0.798,1.0,0.026,0.452
+Oman | Al Wusta Governorate,1.0,1.0,1.0,1.0,0.026,1.0
+Oman | Ash Sharqiyah North Governorate,0.026,0.138,0.035,1.0,0.026,0.451
+Oman | Ash Sharqiyah South Governorate,0.026,0.026,0.026,1.0,0.026,0.366
+Oman | Musandam Governorate,1.0,1.0,0.604,1.0,0.064,1.0
+Pakistan | Azad Jammu and Kashmir,0.026,0.718,0.026,0.026,0.002,0.0
+Pakistan | Federally Administered Tribal Area,1.0,1.0,0.034,1.0,0.026,1.0
+Pakistan | Gilgit-Baltistan,1.0,1.0,0.032,1.0,0.026,1.0
+Paraguay | Amambay Department,0.026,0.026,1.0,0.715,0.026,0.131
+Paraguay | Boquerón department,0.608,0.165,0.89,1.0,0.027,1.0
+Paraguay | Caazapá Department,0.809,0.885,0.976,0.726,0.026,1.0
+Paraguay | Canindeyú Department,0.026,0.026,0.04,0.99,0.026,0.237
+Paraguay | Concepción Department,0.026,0.026,0.551,0.026,0.026,0.243
+Paraguay | Cordillera Department,0.026,0.026,0.026,0.63,0.026,0.052
+Paraguay | Misiones Department,0.026,0.026,0.026,0.999,0.026,0.421
+Paraguay | Paraguarí Department,0.026,0.026,0.026,0.682,0.026,0.305
+Paraguay | Presidente Hayes Department,0.186,0.18,0.047,1.0,0.026,0.487
+Paraguay | San Pedro Department,0.026,0.026,0.364,0.026,0.026,0.222
+Paraguay | Ñeembucú Department,0.026,0.917,0.168,1.0,0.026,1.0
+Peru | Amazonas,0.194,0.945,0.026,0.027,0.026,0.451
+Peru | Huancavelica,0.948,1.0,0.026,0.03,0.026,1.0
+Peru | Madre de Dios,0.026,0.076,0.026,0.026,0.026,0.316
+Peru | Pasco,0.445,0.956,0.026,0.999,0.026,0.353
+Portugal | Beja District,0.026,0.026,0.03,1.0,0.006,0.047
+Portugal | Bragança District,0.026,0.031,0.643,0.881,0.006,0.133
+Portugal | Guarda District,0.026,0.026,0.433,0.993,0.006,0.123
+Portugal | Portalegre District,0.026,0.026,0.045,1.0,0.023,0.174
+Portugal | Viana do Castelo District,0.021,0.026,0.029,0.935,0.006,0.01
+Portugal | Évora District,0.026,0.026,0.026,0.47,0.006,0.044
+Puerto Rico | Adjuntas,1.0,1.0,1.0,1.0,0.467,1.0
+Puerto Rico | Aguada,0.026,0.167,0.99,1.0,0.026,1.0
+Puerto Rico | Aguadilla,0.026,0.026,0.857,0.027,0.026,0.448
+Puerto Rico | Aguas Buenas,1.0,1.0,1.0,1.0,0.282,1.0
+Puerto Rico | Aibonito,0.999,0.816,1.0,1.0,0.303,1.0
+Puerto Rico | Arecibo,0.026,0.028,0.185,0.998,0.026,0.233
+Puerto Rico | Arroyo,1.0,0.851,0.974,1.0,0.306,1.0
+Puerto Rico | Añasco,0.591,0.09,1.0,1.0,0.142,1.0
+Puerto Rico | Barceloneta,0.026,0.218,1.0,1.0,0.297,1.0
+Puerto Rico | Barranquitas,0.563,0.995,1.0,1.0,0.195,1.0
+Puerto Rico | Cabo Rojo,0.026,0.026,0.95,1.0,0.026,0.444
+Puerto Rico | Caguas,0.008,0.026,0.113,1.0,0.006,0.064
+Puerto Rico | Camuy,0.229,0.039,0.997,1.0,0.026,1.0
+Puerto Rico | Canóvanas,0.026,0.029,1.0,1.0,0.026,0.514
+Puerto Rico | Cataño,0.026,0.05,0.022,0.053,0.03,1.0
+Puerto Rico | Cayey,0.026,0.035,1.0,1.0,0.026,0.927
+Puerto Rico | Ceiba,1.0,1.0,1.0,1.0,0.926,1.0
+Puerto Rico | Ciales,1.0,1.0,1.0,1.0,0.599,1.0
+Puerto Rico | Cidra,0.711,0.033,0.994,1.0,0.027,1.0
+Puerto Rico | Coamo,0.731,0.842,1.0,1.0,0.026,1.0
+Puerto Rico | Comerío,1.0,1.0,1.0,1.0,0.31,1.0
+Puerto Rico | Corozal,0.783,0.218,1.0,1.0,0.026,1.0
+Puerto Rico | Dorado,0.026,0.215,0.853,1.0,0.026,1.0
+Puerto Rico | Fajardo,0.026,0.029,0.798,1.0,0.026,1.0
+Puerto Rico | Florida,1.0,1.0,1.0,1.0,0.62,1.0
+Puerto Rico | Guayama,0.026,0.152,0.948,1.0,0.026,1.0
+Puerto Rico | Guayanilla,1.0,1.0,0.805,1.0,0.46,1.0
+Puerto Rico | Guaynabo,0.011,0.026,0.985,1.0,0.025,0.339
+Puerto Rico | Gurabo,0.025,0.026,0.992,1.0,0.026,0.428
+Puerto Rico | Guánica,1.0,1.0,0.706,1.0,0.982,1.0
+Puerto Rico | Hatillo,0.026,0.026,1.0,1.0,0.026,0.997
+Puerto Rico | Hormigueros,0.026,1.0,1.0,1.0,0.306,1.0
+Puerto Rico | Humacao,0.026,0.028,0.793,1.0,0.026,0.474
+Puerto Rico | Isabela,0.026,0.034,0.777,1.0,0.026,0.493
+Puerto Rico | Jayuya,1.0,1.0,1.0,1.0,0.959,1.0
+Puerto Rico | Juana Díaz,0.029,0.034,1.0,1.0,0.026,0.476
+Puerto Rico | Juncos,0.026,0.034,1.0,1.0,0.026,0.57
+Puerto Rico | Lajas,0.997,0.94,0.997,1.0,0.161,1.0
+Puerto Rico | Lares,0.816,0.164,0.89,1.0,0.303,1.0
+Puerto Rico | Las Piedras,0.156,0.032,1.0,1.0,0.026,1.0
+Puerto Rico | Loíza,0.549,1.0,0.897,1.0,0.026,1.0
+Puerto Rico | Luquillo,0.943,1.0,0.959,1.0,0.278,1.0
+Puerto Rico | Manatí,0.026,0.033,1.0,1.0,0.026,1.0
+Puerto Rico | Mayagüez,0.026,0.026,0.031,1.0,0.026,0.429
+Puerto Rico | Moca,0.027,0.168,1.0,1.0,0.026,1.0
+Puerto Rico | Morovis,0.991,0.604,1.0,1.0,0.161,1.0
+Puerto Rico | Naguabo,1.0,0.994,0.026,1.0,0.159,1.0
+Puerto Rico | Naranjito,0.816,0.33,0.999,1.0,0.164,1.0
+Puerto Rico | Orocovis,1.0,1.0,0.998,1.0,0.43,1.0
+Puerto Rico | Patillas,1.0,1.0,0.87,1.0,0.416,1.0
+Puerto Rico | Peñuelas,0.999,0.783,0.975,1.0,0.338,1.0
+Puerto Rico | Ponce,0.0,0.026,0.026,1.0,0.009,0.041
+Puerto Rico | Quebradillas,0.991,1.0,1.0,1.0,0.29,1.0
+Puerto Rico | Rincón,1.0,1.0,0.469,1.0,0.616,1.0
+Puerto Rico | Río Grande,0.037,0.026,0.983,1.0,0.026,0.448
+Puerto Rico | Sabana Grande,1.0,0.349,1.0,1.0,0.255,1.0
+Puerto Rico | Salinas,0.576,0.033,0.991,1.0,0.132,1.0
+Puerto Rico | San Germán,0.026,0.033,1.0,1.0,0.026,1.0
+Puerto Rico | San Lorenzo,0.064,0.035,1.0,1.0,0.026,1.0
+Puerto Rico | San Sebastián,0.026,0.031,0.798,1.0,0.026,1.0
+Puerto Rico | Santa Isabel,0.026,0.994,1.0,1.0,0.184,1.0
+Puerto Rico | Toa Alta,0.026,0.026,1.0,1.0,0.006,0.095
+Puerto Rico | Toa Baja,0.026,0.026,0.991,1.0,0.007,0.085
+Puerto Rico | Trujillo Alto,0.026,0.027,1.0,1.0,0.026,0.367
+Puerto Rico | Utuado,1.0,0.849,1.0,1.0,0.3,1.0
+Puerto Rico | Vega Alta,0.026,0.51,0.997,1.0,0.026,0.978
+Puerto Rico | Vega Baja,0.026,0.027,0.993,1.0,0.026,0.429
+Puerto Rico | Villalba,1.0,1.0,1.0,1.0,0.329,1.0
+Puerto Rico | Yabucoa,0.999,0.927,0.999,1.0,0.165,1.0
+Puerto Rico | Yauco,0.026,0.132,0.705,1.0,0.026,1.0
+Romania | Bistrița-Năsăud County,0.026,0.026,0.321,0.026,0.006,0.021
+Romania | Covasna County,0.08,0.026,0.097,0.31,0.009,0.068
+Rwanda | Eastern Province,1.0,1.0,1.0,1.0,0.093,1.0
+Rwanda | Northern Province,1.0,1.0,1.0,1.0,0.304,1.0
+Rwanda | Southern Province,1.0,1.0,1.0,0.329,0.086,1.0
+Rwanda | Western Province,1.0,1.0,1.0,0.975,0.196,1.0
+Réunion | Saint-Denis,1.0,1.0,1.0,0.803,1.0,1.0
+Réunion | Saint-Paul,0.987,0.997,0.873,1.0,0.999,1.0
+Réunion | Saint-Pierre,1.0,1.0,0.969,0.65,0.999,1.0
+Saudi Arabia | Al Bahah Province,0.026,0.026,0.257,1.0,0.026,0.108
+Saudi Arabia | Najran Province,0.026,0.026,0.169,1.0,0.026,0.045
+Saudi Arabia | Northern Borders Province,0.026,0.026,0.999,1.0,0.026,0.101
+Saudi Arabia | Tabuk Province,0.006,0.026,0.026,0.903,0.003,0.0
+Senegal | Diourbel Region,0.982,0.884,1.0,0.973,0.026,0.128
+Senegal | Fatick Region,1.0,1.0,0.535,1.0,0.168,1.0
+Senegal | Kaolack Region,1.0,0.968,1.0,1.0,0.026,1.0
+Senegal | Kolda Region,1.0,1.0,1.0,1.0,0.346,1.0
+Senegal | Louga Region,1.0,1.0,1.0,1.0,0.026,1.0
+Senegal | Matam Region,1.0,1.0,0.026,1.0,0.268,1.0
+Senegal | Saint-Louis Region,0.632,0.61,1.0,1.0,0.026,0.46
+Senegal | Sédhiou Region,1.0,1.0,0.195,1.0,1.0,1.0
+Senegal | Tambacounda Region,1.0,1.0,1.0,1.0,0.027,1.0
+Senegal | Thiès Region,0.026,0.026,1.0,0.026,0.004,0.0
+Senegal | Ziguinchor,1.0,0.085,1.0,0.974,0.026,1.0
+Slovakia | Košice Region,0.004,0.0,0.755,0.006,0.003,0.0
+Slovakia | Trnava Region,0.004,0.001,0.451,0.026,0.003,0.0
+Slovenia | Ajdovščina,0.95,0.956,1.0,0.91,0.301,1.0
+Slovenia | Brežice,0.95,0.956,1.0,0.992,0.298,1.0
+Slovenia | Celje,0.026,0.174,0.969,0.651,0.026,0.324
+Slovenia | Cerknica,0.96,1.0,1.0,1.0,0.306,1.0
+Slovenia | Domžale,0.027,0.158,1.0,0.194,0.033,0.323
+Slovenia | Dravograd,0.998,1.0,1.0,1.0,0.309,1.0
+Slovenia | Gornja Radgona,0.976,0.979,1.0,1.0,0.306,1.0
+Slovenia | Grosuplje,0.822,0.928,1.0,1.0,0.165,0.424
+Slovenia | Idrija,0.996,0.993,1.0,1.0,0.306,1.0
+Slovenia | Ilirska Bistrica,0.997,1.0,1.0,1.0,0.307,1.0
+Slovenia | Izola,0.951,0.959,1.0,1.0,0.306,1.0
+Slovenia | Jesenice,0.358,0.668,0.955,0.765,0.026,1.0
+Slovenia | Kamnik,0.388,0.905,1.0,1.0,0.165,0.438
+Slovenia | Koper,0.026,0.144,0.798,0.299,0.026,0.344
+Slovenia | Kočevje,0.955,0.992,1.0,1.0,0.306,1.0
+Slovenia | Kranj,0.026,0.033,1.0,0.026,0.006,0.227
+Slovenia | Krško,0.948,0.955,1.0,1.0,0.23,1.0
+Slovenia | Laško,0.996,0.977,1.0,1.0,0.306,1.0
+Slovenia | Lenart,0.967,0.957,1.0,1.0,0.306,1.0
+Slovenia | Lendava,0.951,0.956,1.0,1.0,0.306,1.0
+Slovenia | Litija,0.955,0.963,1.0,1.0,0.306,1.0
+Slovenia | Ljutomer,0.963,0.957,1.0,1.0,0.306,1.0
+Slovenia | Logatec,0.968,0.976,1.0,0.892,0.306,1.0
+Slovenia | Metlika,1.0,1.0,1.0,1.0,0.982,1.0
+Slovenia | Mozirje,0.972,0.992,1.0,1.0,0.306,1.0
+Slovenia | Municipality of Hrastnik,1.0,1.0,1.0,1.0,0.306,1.0
+Slovenia | Murska Sobota,0.032,0.189,1.0,0.783,0.026,0.402
+Slovenia | Nova Gorica,0.026,0.16,1.0,0.538,0.026,0.447
+Slovenia | Novo Mesto,0.026,0.278,1.0,0.812,0.026,0.326
+Slovenia | Ormož,0.999,0.996,1.0,1.0,0.306,1.0
+Slovenia | Pesnica,0.95,1.0,1.0,1.0,0.306,1.0
+Slovenia | Piran,0.935,0.952,0.977,1.0,0.302,1.0
+Slovenia | Postojna,0.946,0.956,1.0,0.989,0.304,1.0
+Slovenia | Ptuj,0.034,0.134,1.0,0.537,0.026,0.322
+Slovenia | Radlje ob Dravi,0.988,0.994,1.0,1.0,0.306,1.0
+Slovenia | Radovljica,0.08,0.358,0.544,0.556,0.129,0.665
+Slovenia | Ravne na Koroškem,0.951,0.948,1.0,1.0,0.208,1.0
+Slovenia | Ribnica,1.0,1.0,1.0,1.0,0.306,1.0
+Slovenia | Ruše,0.998,1.0,1.0,1.0,0.306,1.0
+Slovenia | Sevnica,0.955,0.976,1.0,1.0,0.306,1.0
+Slovenia | Sežana,0.658,0.955,1.0,0.997,0.28,1.0
+Slovenia | Slovenj Gradec,0.955,0.844,1.0,1.0,0.305,1.0
+Slovenia | Slovenska Bistrica,0.841,0.95,1.0,1.0,0.165,0.545
+Slovenia | Slovenske Konjice,0.952,0.955,1.0,1.0,0.301,1.0
+Slovenia | Tolmin,0.994,0.969,1.0,1.0,0.306,1.0
+Slovenia | Trbovlje,0.989,0.956,1.0,1.0,0.306,1.0
+Slovenia | Trebnje,0.956,0.961,1.0,1.0,0.305,1.0
+Slovenia | Tržič,0.991,0.98,1.0,1.0,0.306,1.0
+Slovenia | Velenje,0.057,0.169,1.0,0.684,0.043,0.437
+Slovenia | Vrhnika,0.95,0.956,1.0,1.0,0.301,1.0
+Slovenia | Zagorje ob Savi,0.96,0.985,1.0,1.0,0.306,1.0
+Slovenia | Črnomelj,0.963,0.987,1.0,1.0,0.306,1.0
+Slovenia | Šentjur,0.955,0.97,1.0,1.0,0.306,1.0
+Slovenia | Škofja Loka,0.696,0.952,1.0,0.967,0.163,0.429
+Slovenia | Šmarje pri Jelšah,0.948,0.907,0.906,1.0,0.163,1.0
+Slovenia | Žalec,0.637,0.591,1.0,1.0,0.155,0.445
+South Africa | Northern Cape,0.022,0.003,0.026,0.581,0.003,0.0
+Spain | Ceuta,0.026,0.028,0.026,0.989,0.026,0.23
+Spain | Melilla,0.026,0.155,0.026,0.39,0.025,0.221
+Sweden | Blekinge County,0.026,0.026,0.927,0.026,0.006,0.066
+Sweden | Gavleborg County,0.023,0.002,0.438,0.014,0.006,0.0
+Sweden | Gotland County,0.353,0.273,1.0,0.252,0.056,0.349
+Sweden | Halland County,0.026,0.003,0.623,0.026,0.006,0.0
+Sweden | Jamtland County,0.026,0.026,0.775,0.026,0.006,0.069
+Sweden | Jonkoping County,0.022,0.002,0.445,0.006,0.006,0.0
+Sweden | Kalmar County,0.026,0.023,0.769,0.026,0.006,0.001
+Sweden | Kronoberg County,0.026,0.026,0.999,0.026,0.006,0.066
+Sweden | Norrbotten County,0.026,0.003,0.34,0.026,0.006,0.0
+Sweden | Södermanland County,0.026,0.003,0.727,0.006,0.006,0.0
+Sweden | Uppsala County,0.006,0.0,0.31,0.0,0.006,0.0
+Sweden | Västernorrland County,0.026,0.003,0.977,0.026,0.006,0.0
+Sweden | Västmanland County,0.025,0.003,0.987,0.026,0.006,0.0
+Sweden | Örebro County,0.026,0.003,0.636,0.018,0.006,0.0
+Switzerland | Appenzell Ausserrhoden,0.948,0.956,1.0,0.029,0.165,0.473
+Switzerland | Appenzell Innerrhoden,0.997,1.0,1.0,1.0,0.307,1.0
+Switzerland | Basel-Landschaft,0.026,0.157,0.791,0.003,0.006,0.043
+Switzerland | Canton of Zug,0.031,0.169,1.0,0.026,0.009,0.292
+Switzerland | Fribourg,0.02,0.14,0.318,0.002,0.006,0.007
+Switzerland | Glarus,0.735,0.727,1.0,0.03,0.166,1.0
+Switzerland | Jura,0.1,0.167,1.0,0.026,0.026,0.342
+Switzerland | Neuchâtel,0.026,0.161,0.967,0.026,0.006,0.129
+Switzerland | Nidwalden,0.878,0.95,0.813,0.026,0.165,1.0
+Switzerland | Obwalden,0.949,0.956,0.976,0.026,0.165,1.0
+Switzerland | Schaffhausen,0.196,0.838,1.0,0.026,0.112,0.426
+Switzerland | Schwyz,0.028,0.161,0.852,0.026,0.006,0.18
+Switzerland | Solothurn,0.026,0.157,0.776,0.001,0.006,0.034
+Switzerland | St. Gallen,0.003,0.022,0.343,0.0,0.003,0.0
+Switzerland | Thurgau,0.026,0.16,0.34,0.02,0.006,0.034
+Switzerland | Uri,0.791,0.956,1.0,0.026,0.165,1.0
+Tanzania | Dodoma Region,0.026,1.0,1.0,0.026,0.026,0.197
+Tanzania | Geita Region,1.0,1.0,1.0,1.0,0.375,1.0
+Tanzania | Iringa Region,1.0,1.0,1.0,0.026,0.026,1.0
+Tanzania | Kagera Region,1.0,1.0,1.0,0.181,0.2,1.0
+Tanzania | Kigoma Region,1.0,1.0,1.0,0.993,0.188,1.0
+Tanzania | Kilimanjaro Region,0.955,0.905,0.185,0.026,0.026,1.0
+Tanzania | Manyara Region,1.0,1.0,1.0,0.996,0.779,1.0
+Tanzania | Mara Region,1.0,1.0,1.0,0.248,0.112,1.0
+Tanzania | Mbeya Region,1.0,0.205,1.0,0.026,0.026,0.87
+Tanzania | Morogoro Region,0.816,1.0,0.026,0.026,0.026,0.618
+Tanzania | Mtwara Region,1.0,1.0,1.0,1.0,0.088,1.0
+Tanzania | Njombe Region,1.0,1.0,1.0,1.0,0.397,1.0
+Tanzania | Pwani Region,1.0,1.0,1.0,0.674,0.049,1.0
+Tanzania | Ruvuma Region,1.0,1.0,1.0,0.999,0.453,1.0
+Tanzania | Shinyanga Region,1.0,1.0,1.0,0.324,0.101,1.0
+Tanzania | Singida Region,1.0,1.0,1.0,1.0,0.428,1.0
+Tanzania | Songwe Region,1.0,1.0,1.0,1.0,0.847,1.0
+Tanzania | Tabora Region,1.0,1.0,1.0,0.997,0.085,1.0
+Tanzania | Tanga Region,1.0,1.0,0.633,0.026,0.026,1.0
+Tanzania | Unguja South Region,1.0,1.0,0.026,1.0,1.0,1.0
+The Bahamas | Freeport,0.167,0.172,1.0,0.995,0.026,0.576
+The Bahamas | West Grand Bahama,1.0,1.0,0.026,1.0,0.294,1.0
+Togo | Centrale Region,1.0,1.0,1.0,1.0,0.921,1.0
+Togo | Kara Region,1.0,1.0,0.98,1.0,0.277,1.0
+Togo | Plateaux Region,1.0,1.0,1.0,1.0,0.233,1.0
+Togo | Savanes Region,1.0,1.0,1.0,1.0,0.956,1.0
+Turkey | Ardahan,1.0,1.0,1.0,1.0,0.132,1.0
+Turkey | Artvin,0.115,0.963,0.797,1.0,0.026,0.324
+Turkey | Ağrı,0.028,0.168,1.0,0.973,0.026,0.063
+Turkey | Bartın,0.026,0.027,0.31,0.916,0.026,0.113
+Turkey | Batman,0.026,0.026,0.027,0.976,0.003,0.004
+Turkey | Bayburt,1.0,1.0,0.684,1.0,0.026,1.0
+Turkey | Bilecik,0.026,0.03,0.609,0.215,0.006,0.021
+Turkey | Bingöl,0.552,0.951,0.937,0.599,0.026,0.346
+Turkey | Bitlis,0.169,0.267,0.287,1.0,0.026,0.15
+Turkey | Burdur,0.026,0.026,0.477,0.11,0.006,0.028
+Turkey | Erzincan,0.026,0.576,0.957,0.026,0.026,0.069
+Turkey | Gümüşhane,0.996,1.0,0.88,1.0,0.026,1.0
+Turkey | Hakkari,0.979,1.0,1.0,1.0,0.026,0.48
+Turkey | Iğdır,0.74,0.662,1.0,1.0,0.026,0.452
+Turkey | Karabük,0.026,0.026,0.026,0.998,0.006,0.024
+Turkey | Karaman,0.026,0.026,0.026,1.0,0.006,0.037
+Turkey | Kars,0.027,0.393,0.803,0.924,0.026,0.332
+Turkey | Kilis,0.033,0.792,0.883,1.0,0.026,0.319
+Turkey | Kırıkkale,0.026,0.026,0.514,0.255,0.02,0.049
+Turkey | Muş,0.403,0.452,0.896,1.0,0.026,0.42
+Turkey | Rize,0.026,0.044,0.026,0.617,0.006,0.012
+Turkey | Siirt,0.026,0.795,0.142,1.0,0.026,0.116
+Turkey | Sinop,0.075,0.664,0.134,0.035,0.026,0.123
+Turkey | Tunceli,1.0,1.0,1.0,1.0,0.081,1.0
+Turkey | Çankırı,0.032,0.486,0.891,0.32,0.026,0.201
+Turkey | Şırnak,0.506,0.748,0.999,1.0,0.026,0.057
+Uganda | Eastern Region,0.027,0.831,0.999,1.0,0.026,0.233
+Uganda | Northern Region,0.761,1.0,0.529,0.718,0.026,0.555
+Uganda | Western Region,0.031,0.729,0.026,0.026,0.026,0.08
+United Arab Emirates | Fujairah,0.026,0.026,0.03,0.78,0.003,0.001
+United Arab Emirates | Umm Al Quawain,0.026,0.026,1.0,1.0,0.026,0.219
+United Kingdom | Angus Council,0.026,0.026,0.392,0.026,0.006,0.2
+United Kingdom | Antrim and Newtownabbey,0.026,0.026,0.893,0.026,0.006,0.049
+United Kingdom | Ards and North Down,0.026,0.026,0.033,0.48,0.006,0.045
+"United Kingdom | Armagh City, Banbridge and Craigavon",0.023,0.02,0.233,0.935,0.006,0.012
+United Kingdom | Bedford,0.023,0.02,0.389,0.026,0.006,0.022
+United Kingdom | Blackburn with Darwen,0.026,0.026,0.997,0.026,0.006,0.046
+United Kingdom | Blackpool,0.026,0.026,0.486,0.026,0.006,0.027
+United Kingdom | Blaenau Gwent,0.055,0.042,1.0,0.254,0.026,0.359
+United Kingdom | Borough of Halton,0.026,0.026,0.78,0.026,0.006,0.067
+United Kingdom | Bracknell Forest,0.026,0.026,0.721,0.026,0.006,0.113
+United Kingdom | Bridgend County Borough,0.026,0.026,0.69,0.026,0.006,0.061
+United Kingdom | Caerphilly County Borough,0.026,0.026,0.528,0.026,0.006,0.033
+United Kingdom | Causeway Coast and Glens,0.026,0.026,0.599,0.033,0.006,0.051
+United Kingdom | Ceredigion,0.141,0.12,0.253,0.285,0.026,0.425
+United Kingdom | Clackmannanshire,0.34,0.026,1.0,0.838,0.026,0.427
+United Kingdom | Darlington,0.026,0.026,0.857,0.026,0.006,0.07
+United Kingdom | Derby,0.0,0.0,0.319,0.005,0.006,0.003
+United Kingdom | Dundee City Council,0.023,0.026,0.403,0.026,0.006,0.038
+United Kingdom | East Ayrshire Council,0.026,0.026,1.0,0.026,0.006,0.068
+United Kingdom | East Dunbartonshire Council,0.026,0.026,1.0,0.027,0.006,0.343
+United Kingdom | East Lothian Council,0.031,0.026,0.686,0.026,0.006,0.226
+United Kingdom | East Renfrewshire Council,0.049,0.026,0.954,0.161,0.006,0.364
+United Kingdom | Falkirk,0.026,0.026,0.665,0.026,0.006,0.038
+United Kingdom | Fermanagh and Omagh,0.026,0.026,0.898,0.027,0.006,0.194
+United Kingdom | Flintshire,0.026,0.026,0.697,0.026,0.006,0.047
+United Kingdom | Hartlepool,0.026,0.026,0.99,0.026,0.025,0.214
+United Kingdom | Inverclyde,0.031,0.026,0.993,0.139,0.026,0.383
+United Kingdom | Isle of Anglesey,0.261,0.185,0.396,0.028,0.026,0.424
+United Kingdom | Lisburn and Castlereagh,0.026,0.026,0.898,0.253,0.006,0.06
+United Kingdom | Luton,0.026,0.026,0.957,0.0,0.006,0.004
+United Kingdom | Merthyr Tydfil County Borough,0.026,0.026,1.0,0.156,0.026,0.425
+United Kingdom | Mid Ulster,0.026,0.026,0.999,0.03,0.006,0.17
+United Kingdom | Mid and East Antrim,0.026,0.026,0.866,0.026,0.006,0.051
+United Kingdom | Middlesbrough,0.026,0.026,0.718,0.026,0.006,0.05
+United Kingdom | Midlothian,0.026,0.026,0.785,0.029,0.006,0.119
+United Kingdom | Monmouthshire,0.026,0.026,0.303,0.033,0.021,0.354
+United Kingdom | Moray,0.026,0.026,0.312,0.17,0.026,0.235
+United Kingdom | Na h-Eileanan an Iar,0.976,0.956,1.0,0.722,0.296,1.0
+United Kingdom | Neath Port Talbot Principle Area,0.026,0.026,0.34,0.026,0.006,0.054
+United Kingdom | Newport,0.025,0.026,0.37,0.026,0.006,0.03
+"United Kingdom | Newry, Mourne and Down",0.026,0.026,0.379,0.029,0.006,0.046
+United Kingdom | North Ayrshire Council,0.026,0.026,0.833,0.026,0.006,0.056
+United Kingdom | North Lanarkshire,0.02,0.0,0.999,0.022,0.003,0.0
+United Kingdom | Orkney,0.979,0.957,1.0,0.998,0.306,1.0
+United Kingdom | Peterborough,0.0,0.009,0.945,0.026,0.006,0.003
+United Kingdom | Portsmouth,0.005,0.003,0.419,0.006,0.006,0.007
+United Kingdom | Reading,0.009,0.023,0.39,0.0,0.006,0.045
+United Kingdom | Redcar and Cleveland,0.026,0.026,0.65,0.026,0.006,0.051
+United Kingdom | Renfrewshire,0.02,0.026,0.795,0.231,0.006,0.025
+United Kingdom | Rutland,0.845,0.948,0.985,1.0,0.147,0.784
+United Kingdom | Shetland Islands,0.976,0.976,1.0,0.825,0.304,1.0
+United Kingdom | Slough,0.026,0.026,0.344,0.026,0.006,0.04
+United Kingdom | South Ayrshire Council,0.026,0.026,0.588,0.026,0.011,0.134
+United Kingdom | Stirling,0.026,0.026,0.038,0.026,0.026,0.382
+United Kingdom | Swindon,0.006,0.003,0.893,0.026,0.006,0.012
+United Kingdom | Thurrock,0.023,0.023,0.575,0.021,0.006,0.023
+United Kingdom | Torfaen Principal Area,0.026,0.026,1.0,0.027,0.006,0.179
+United Kingdom | Warrington,0.01,0.005,0.629,0.026,0.006,0.016
+United Kingdom | West Dunbartonshire Council,0.026,0.026,0.992,0.026,0.006,0.22
+United Kingdom | West Lothian,0.023,0.026,0.842,0.139,0.006,0.025
+United Kingdom | Wokingham,0.026,0.026,0.629,0.026,0.006,0.07
+United Kingdom | Wrexham Principal Area,0.026,0.026,0.517,0.026,0.006,0.065
+Uruguay | Artigas Department,0.147,0.364,0.026,0.866,0.026,0.326
+Uruguay | Durazno Department,0.842,0.158,0.026,0.89,0.026,0.447
+Uruguay | Flores Department,0.948,0.846,0.148,1.0,0.137,1.0
+Uruguay | Lavalleja Department,0.089,0.167,0.026,0.026,0.026,0.384
+Uruguay | Rivera Department,0.026,0.157,0.026,0.869,0.026,0.078
+Uruguay | Soriano Department,0.042,0.787,0.026,0.325,0.026,0.196
+Uruguay | Treinta y Tres Department,0.755,0.851,0.033,0.847,0.026,0.857
+Vietnam | An Giang,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Ba Ria - Vung Tau,0.0,0.0,0.001,0.026,0.371,0.0
+Vietnam | Bac Giang,0.0,0.021,0.0,0.026,0.371,0.0
+Vietnam | Bac Lieu,0.026,0.026,0.026,0.026,0.374,0.0
+Vietnam | Bac Ninh Province,0.0,0.008,0.023,0.014,0.371,0.0
+Vietnam | Ben Tre,0.0,0.003,0.0,0.026,0.371,0.0
+Vietnam | Binh Duong,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Binh Phuoc,0.012,0.023,0.026,0.026,0.371,0.0
+Vietnam | Bình Thuận,0.0,0.01,0.005,0.026,0.371,0.0
+Vietnam | Bình Định,0.0,0.005,0.0,0.0,0.371,0.0
+Vietnam | Bắc Kạn Province,0.026,1.0,0.359,1.0,0.396,0.215
+Vietnam | Ca Mau,0.026,0.026,0.026,0.026,0.371,0.0
+Vietnam | Cao Bang,0.026,0.027,0.026,1.0,0.393,0.006
+Vietnam | Cần Thơ,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Da Nang,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Dak Lak,0.0,0.0,0.0,0.026,0.371,0.0
+Vietnam | Dak Nong,0.026,0.026,0.026,0.05,0.384,0.0
+Vietnam | Dien Bien,0.026,0.691,0.026,0.143,0.395,0.046
+Vietnam | Dong Nai,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Dong Thap,0.0,0.0,0.0,0.026,0.371,0.0
+Vietnam | Gia Lai,0.005,0.026,0.026,0.026,0.371,0.0
+Vietnam | Ha Giang,0.026,0.026,0.026,0.755,0.396,0.017
+Vietnam | Ha Tinh,0.012,0.026,0.014,0.026,0.371,0.0
+Vietnam | Hai Duong,0.0,0.013,0.0,0.022,0.371,0.0
+Vietnam | Hai Phong,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Hanoi,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Hau Giang,0.026,0.026,0.026,0.027,0.377,0.0
+Vietnam | Ho Chi Minh City,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Hoa Binh,0.026,0.026,0.026,0.026,0.374,0.0
+Vietnam | Hung Yen,0.023,0.026,0.026,0.026,0.371,0.0
+Vietnam | Hà Nam,0.026,0.026,0.006,0.026,0.371,0.0
+Vietnam | Khánh Hòa,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Kien Giang,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Kon Tum,0.026,0.026,0.026,0.027,0.396,0.002
+Vietnam | Lai Chau,0.032,0.888,0.277,0.982,0.396,0.119
+Vietnam | Lam Dong,0.0,0.0,0.0,0.017,0.371,0.0
+Vietnam | Lao Cai,0.026,0.026,0.0,0.026,0.391,0.0
+Vietnam | Long An,0.0,0.0,0.0,0.026,0.371,0.0
+Vietnam | Lạng Sơn,0.026,0.026,0.026,0.026,0.379,0.0
+Vietnam | Nam Dinh,0.0,0.012,0.0,0.026,0.371,0.0
+Vietnam | Nghe An,0.0,0.0,0.0,0.004,0.371,0.0
+Vietnam | Ninh Bình,0.026,0.026,0.026,0.026,0.371,0.0
+Vietnam | Ninh Thuận,0.026,0.026,0.026,0.026,0.374,0.0
+Vietnam | Phu Tho Province,0.015,0.026,0.026,0.026,0.371,0.0
+Vietnam | Phú Yên,0.015,0.026,0.023,0.026,0.371,0.0
+Vietnam | Quang Binh Province,0.026,0.026,0.02,0.026,0.374,0.0
+Vietnam | Quang Ngai,0.0,0.02,0.0,0.026,0.371,0.0
+Vietnam | Quảng Nam,0.0,0.0,0.0,0.014,0.371,0.0
+Vietnam | Quảng Ninh,0.0,0.0,0.0,0.026,0.371,0.0
+Vietnam | Quảng Trị,0.026,0.026,0.026,0.026,0.379,0.0
+Vietnam | Soc Trang,0.026,0.026,0.026,0.026,0.371,0.0
+Vietnam | Son La,0.026,0.026,0.02,0.042,0.38,0.0
+Vietnam | Thai Binh,0.016,0.015,0.004,0.026,0.371,0.0
+Vietnam | Thai Nguyen,0.0,0.026,0.016,0.026,0.371,0.0
+Vietnam | Thanh Hoa,0.0,0.0,0.0,0.003,0.371,0.0
+Vietnam | Thua Thien Hue,0.0,0.015,0.0,0.026,0.371,0.0
+Vietnam | Tien Giang,0.0,0.0,0.0,0.0,0.371,0.0
+Vietnam | Tra Vinh,0.026,0.026,0.023,0.026,0.371,0.0
+Vietnam | Tuyên Quang,0.026,0.026,0.026,0.992,0.382,0.0
+Vietnam | Tây Ninh,0.0,0.012,0.004,0.026,0.371,0.0
+Vietnam | Vinh Long,0.025,0.025,0.0,0.026,0.371,0.0
+Vietnam | Vĩnh Phúc,0.002,0.026,0.026,0.026,0.371,0.0
+Vietnam | Yên Bái,0.026,0.026,0.026,0.026,0.388,0.0
+Zimbabwe | Bulawayo Province,0.026,0.211,0.999,0.219,0.026,0.308
+Zimbabwe | Manicaland Province,1.0,1.0,1.0,1.0,0.201,1.0
+Zimbabwe | Mashonaland Central Province,1.0,1.0,1.0,1.0,0.648,1.0
+Zimbabwe | Mashonaland East Province,1.0,1.0,1.0,1.0,0.087,0.574
+Zimbabwe | Mashonaland West Province,1.0,1.0,1.0,1.0,0.142,0.806
+Zimbabwe | Masvingo Province,1.0,1.0,1.0,1.0,0.454,1.0
+Zimbabwe | Matabeleland North Province,1.0,1.0,1.0,1.0,0.309,1.0
+Zimbabwe | Matabeleland South Province,1.0,1.0,1.0,1.0,0.46,1.0
+Zimbabwe | Midlands Province,0.988,1.0,1.0,0.996,0.095,1.0

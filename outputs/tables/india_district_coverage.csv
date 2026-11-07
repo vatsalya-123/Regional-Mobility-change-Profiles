@@ -1,0 +1,634 @@
+,rows,retail_and_recreation,grocery_and_pharmacy,parks,transit_stations,workplaces,residential,avg_missing_pct
+Andaman and Nicobar Islands | North and Middle Andaman,691,100.0,100.0,99.1,100.0,0.7,100.0,83.3
+Andaman and Nicobar Islands | South Andaman,974,2.6,100.0,0.0,0.0,0.3,0.3,17.2
+Andhra Pradesh | Anantapuram,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | Chittoor,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | East Godavari,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | Guntur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | Krishna,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | Kurnool,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | Prakasam,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | Sri Potti Sriramulu Nellore District,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | Srikakulam,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | Vishakhapatnam,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | Vizianagaram,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | West Godavari,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andhra Pradesh | YSR District,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arunachal Pradesh | East Kameng,949,100.0,100.0,0.0,100.0,15.9,100.0,69.3
+Arunachal Pradesh | East Siang,949,15.1,82.6,99.6,33.5,0.0,82.3,52.2
+Arunachal Pradesh | Papum Pare,974,0.3,2.6,0.0,2.6,0.0,0.0,0.9
+Arunachal Pradesh | Tawang,776,100.0,100.0,100.0,100.0,0.0,100.0,83.3
+Arunachal Pradesh | West Kameng,949,68.6,100.0,100.0,100.0,0.0,64.8,72.2
+Assam | Baksa,974,2.6,2.6,2.3,0.0,0.0,0.0,1.2
+Assam | Barpeta,974,2.4,2.4,2.6,0.0,0.0,0.0,1.2
+Assam | Bongaigaon,974,2.6,3.9,24.8,0.0,0.3,0.0,5.3
+Assam | Cachar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Assam | Chirang,974,2.6,2.6,2.6,1.7,0.0,0.0,1.6
+Assam | Darrang,974,2.1,2.6,2.6,2.6,0.0,0.0,1.6
+Assam | Dhemaji,974,2.6,5.4,24.9,0.8,0.0,0.0,5.6
+Assam | Dhubri,974,2.6,2.0,2.6,0.0,0.0,0.0,1.2
+Assam | Dibrugarh,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Assam | Dima Hasao,969,30.8,99.8,2.1,2.1,2.1,8.8,24.3
+Assam | Goalpara,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Assam | Golaghat,974,1.4,1.6,1.1,0.0,0.0,0.0,0.7
+Assam | Hailakandi,974,3.1,2.6,2.6,2.6,0.3,0.0,1.9
+Assam | Jorhat,974,0.0,0.4,0.4,0.0,0.0,0.0,0.1
+Assam | Kamrup,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Assam | Kamrup Metropolitan,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Assam | Karbi Anglong,974,2.3,2.6,0.0,0.0,0.0,0.0,0.8
+Assam | Karimganj,974,2.6,2.6,3.9,0.0,0.0,0.0,1.5
+Assam | Kokrajhar,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Assam | Lakhimpur,974,2.6,2.6,2.0,0.0,0.0,0.0,1.2
+Assam | Morigaon,974,2.6,2.6,2.6,2.4,0.0,0.0,1.7
+Assam | Nagaon,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Assam | Nalbari,974,2.6,2.6,12.2,0.0,0.0,0.0,2.9
+Assam | Sivasagar,974,0.0,2.0,0.0,0.0,0.0,0.0,0.3
+Assam | Sonitpur,974,0.0,2.1,0.0,0.0,0.0,0.0,0.4
+Assam | Tinsukia,974,0.0,2.6,0.1,0.0,0.0,0.0,0.4
+Assam | Udalguri,974,2.6,24.8,2.6,0.0,0.0,0.0,5.0
+Bihar | Araria,974,2.5,2.6,2.6,0.0,0.0,0.0,1.3
+Bihar | Arwal,974,2.6,100.0,2.6,2.6,2.6,0.1,18.4
+Bihar | Aurangabad,974,1.8,2.0,2.6,0.0,0.0,0.0,1.1
+Bihar | Banka,974,2.6,5.3,2.6,1.8,0.0,0.0,2.1
+Bihar | Begusarai,974,0.0,2.6,2.1,0.0,0.0,0.0,0.8
+Bihar | Bhagalpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar | Bhojpur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Bihar | Buxar,974,2.0,2.6,2.6,0.0,0.0,0.0,1.2
+Bihar | Darbhanga,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar | Gaya,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar | Gopalganj,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Bihar | Jamui,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Bihar | Jehanabad,974,2.6,2.6,39.3,0.0,0.0,0.0,7.4
+Bihar | Kaimur,974,2.6,2.6,2.3,0.0,0.0,0.0,1.2
+Bihar | Katihar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar | Khagaria,974,2.6,77.3,5.4,0.0,0.0,0.0,14.2
+Bihar | Kishanganj,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Bihar | Lakhisarai,974,2.6,28.9,2.6,0.0,0.0,0.0,5.7
+Bihar | Madhepura,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Bihar | Madhubani,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Bihar | Munger,974,2.5,2.6,2.6,0.0,0.0,0.0,1.3
+Bihar | Muzaffarpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar | Nalanda,974,0.0,2.2,0.0,0.0,0.0,0.0,0.4
+Bihar | Nawada,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Bihar | Pashchim Champaran,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Bihar | Patna,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar | Purnia,974,0.0,1.0,2.6,0.0,0.0,0.0,0.6
+Bihar | Purvi Champaran,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar | Rohtas,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar | Saharsa,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Bihar | Samastipur,974,0.0,0.0,2.6,0.0,0.0,0.0,0.4
+Bihar | Saran,974,0.0,0.0,0.5,0.0,0.0,0.0,0.1
+Bihar | Sheikhpura,974,2.6,2.6,22.7,2.6,2.6,0.0,5.5
+Bihar | Sheohar,974,65.2,29.2,100.0,2.6,2.6,5.5,34.2
+Bihar | Siwan,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar | Supaul,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Bihar | Vaishali,974,0.0,0.0,2.3,0.0,0.0,0.0,0.4
+Chhattisgarh | Balod,974,2.6,2.6,2.6,0.0,0.3,0.0,1.4
+Chhattisgarh | Baloda Bazar,974,2.3,2.7,17.8,0.0,0.0,0.0,3.8
+Chhattisgarh | Balrampur,971,5.7,12.3,2.3,2.3,2.3,5.9,5.1
+Chhattisgarh | Bastar,974,0.0,1.7,0.0,2.6,0.0,0.0,0.7
+Chhattisgarh | Bemetara,974,2.6,2.7,10.9,94.4,0.3,0.0,18.5
+Chhattisgarh | Bijapur,949,100.0,100.0,0.0,97.5,0.0,80.5,63.0
+Chhattisgarh | Bilaspur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chhattisgarh | Dantewada,974,2.7,100.0,28.5,0.0,0.7,0.3,22.0
+Chhattisgarh | Dhamtari,974,2.6,2.6,2.6,2.3,0.0,0.0,1.7
+Chhattisgarh | Durg,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chhattisgarh | Gariaband,949,96.6,75.8,100.0,100.0,0.0,42.7,69.2
+Chhattisgarh | Janjgir-Champa,974,0.0,2.6,2.3,0.0,0.0,0.0,0.8
+Chhattisgarh | Jashpur,974,2.6,23.9,2.6,0.0,0.3,0.0,4.9
+Chhattisgarh | Kanker,974,2.6,8.2,2.7,2.3,0.3,0.0,2.7
+Chhattisgarh | Kawardha,974,2.6,51.8,0.4,2.6,0.0,0.0,9.6
+Chhattisgarh | Kondagaon,971,2.3,100.0,17.2,2.3,2.3,6.1,21.7
+Chhattisgarh | Korba,974,0.0,0.4,0.0,0.0,0.0,0.0,0.1
+Chhattisgarh | Koriya,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Chhattisgarh | Mahasamund,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Chhattisgarh | Mungeli,973,2.5,2.5,97.5,5.0,2.5,1.6,18.6
+Chhattisgarh | Narayanpur,949,100.0,100.0,100.0,0.0,1.8,100.0,67.0
+Chhattisgarh | Raigarh,974,0.0,1.8,0.0,0.0,0.0,0.0,0.3
+Chhattisgarh | Raipur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chhattisgarh | Rajnandgaon,974,0.0,2.6,1.0,0.0,0.0,0.0,0.6
+Chhattisgarh | Sukma,949,100.0,100.0,70.5,0.0,0.0,98.9,61.6
+Chhattisgarh | Surajpur,974,2.6,18.6,2.6,2.6,0.3,0.0,4.5
+Chhattisgarh | Surguja,974,0.0,2.6,2.3,0.0,0.0,0.0,0.8
+Dadra and Nagar Haveli | Dadra and Nagar Haveli,974,0.0,2.6,0.0,2.6,0.0,0.0,0.9
+Daman and Diu | Daman,974,0.0,2.6,0.0,2.6,0.0,0.0,0.9
+Daman and Diu | Diu,949,67.9,100.0,0.1,0.8,0.0,100.0,44.8
+Delhi | Central Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | East Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | New Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | North Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | North East Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | North West Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | Shahdara,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | South Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | South East Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | South West Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delhi | West Delhi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Goa | North Goa,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Goa | South Goa,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Ahmedabad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Amreli,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Gujarat | Anand,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Aravalli,974,0.1,3.5,0.0,0.0,0.0,0.0,0.6
+Gujarat | Banaskantha,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Bharuch,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Bhavnagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Botad,974,2.6,2.6,2.3,0.0,0.0,0.0,1.2
+Gujarat | Chhota Udaipur,974,2.6,76.8,2.6,0.0,0.3,0.0,13.7
+Gujarat | Dahod,974,2.0,2.6,2.6,0.0,0.0,0.0,1.2
+Gujarat | Dang,949,98.4,100.0,0.8,0.0,0.6,100.0,50.0
+Gujarat | Devbhoomi Dwarka,974,2.3,2.9,2.6,0.0,0.0,0.0,1.3
+Gujarat | Gandhinagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Gir Somnath,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Gujarat | Jamnagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Junagadh,974,0.0,1.7,0.0,0.0,0.0,0.0,0.3
+Gujarat | Kheda,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Gujarat | Kutch,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Mahisagar,974,2.6,100.0,19.9,0.0,0.0,0.0,20.4
+Gujarat | Mehsana,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Morbi,974,0.0,2.0,0.0,0.0,0.0,0.0,0.3
+Gujarat | Narmada,974,2.7,100.0,0.4,0.6,0.3,0.4,17.4
+Gujarat | Navsari,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Panchmahal,974,0.0,2.4,0.0,0.0,0.0,0.0,0.4
+Gujarat | Patan,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Gujarat | Porbandar,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Gujarat | Rajkot,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Sabarkatha,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Surat,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Surendranagar,974,0.0,2.1,0.2,0.0,0.0,0.0,0.4
+Gujarat | Tapi,974,2.4,2.6,2.6,0.0,0.0,0.0,1.3
+Gujarat | Vadodara,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat | Valsad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Ambala,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Bhiwani,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Faridabad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Fatehabad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Gurgaon,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Hisar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Jhajjar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Jind,974,0.0,2.5,0.0,0.0,0.0,0.0,0.4
+Haryana | Kaithal,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Karnal,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Kurukshetra,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Mahendragarh,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Haryana | Mewat,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Haryana | Palwal,974,0.0,2.4,0.0,0.0,0.0,0.0,0.4
+Haryana | Panchkula,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Panipat,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Rewari,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Rohtak,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Sirsa,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Sonepat,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryana | Yamuna Nagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Himachal Pradesh | Bilaspur,974,2.6,54.0,2.6,0.0,0.0,0.0,9.9
+Himachal Pradesh | Chamba,974,2.6,90.8,2.6,2.6,0.3,0.0,16.5
+Himachal Pradesh | Hamirpur,974,2.6,2.6,2.0,0.0,0.0,0.0,1.2
+Himachal Pradesh | Kangra,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Himachal Pradesh | Kinnaur,949,100.0,100.0,41.8,0.0,0.0,66.7,51.4
+Himachal Pradesh | Kullu,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Himachal Pradesh | Mandi,974,0.0,2.6,1.6,0.0,0.0,0.0,0.7
+Himachal Pradesh | Shimla,974,0.0,2.2,0.0,0.0,0.0,0.0,0.4
+Himachal Pradesh | Sirmaur,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Himachal Pradesh | Solan,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Himachal Pradesh | Una,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Jharkhand | Bokaro,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jharkhand | Chatra,974,2.6,42.4,24.9,2.6,1.1,0.0,12.3
+Jharkhand | Deoghar,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Jharkhand | Dhanbad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jharkhand | Dumka,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Jharkhand | East Singhbhum,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jharkhand | Garhwa,974,2.6,28.1,100.0,0.0,0.0,0.0,21.8
+Jharkhand | Giridih,974,0.0,5.9,2.6,0.0,0.0,0.0,1.4
+Jharkhand | Godda,974,2.6,40.8,4.5,0.0,0.0,0.0,8.0
+Jharkhand | Gumla,974,2.6,91.7,2.6,2.6,0.3,0.0,16.6
+Jharkhand | Hazaribagh,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jharkhand | Jamtara,974,2.6,62.7,33.3,0.0,0.5,0.0,16.5
+Jharkhand | Khunti,972,2.4,39.4,34.7,2.4,2.4,7.8,14.8
+Jharkhand | Koderma,974,2.6,53.9,12.4,0.0,0.0,0.0,11.5
+Jharkhand | Latehar,974,2.6,100.0,0.0,0.0,2.6,0.0,17.5
+Jharkhand | Lohardaga,974,2.6,30.8,19.9,2.6,2.6,1.3,10.0
+Jharkhand | Pakur,974,2.6,21.6,2.9,2.6,2.3,0.0,5.3
+Jharkhand | Palamu,974,2.4,2.6,2.6,0.0,0.0,0.0,1.3
+Jharkhand | Ramgarh,974,0.0,2.0,2.4,0.0,0.0,0.0,0.7
+Jharkhand | Ranchi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jharkhand | Sahibganj,974,2.6,22.6,16.8,0.0,0.0,0.0,7.0
+Jharkhand | Seraikela Kharsawan,974,0.0,2.6,2.3,0.0,0.0,0.0,0.8
+Jharkhand | Simdega,949,59.9,100.0,100.0,0.0,0.0,26.9,47.8
+Jharkhand | West Singhbhum,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Karnataka | Bagalkot,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Karnataka | Bangalore Rural,974,0.0,1.2,0.0,0.0,0.0,0.0,0.2
+Karnataka | Bangalore Urban,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Belagavi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Bellary,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Bidar,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Karnataka | Bijapur,974,0.0,0.1,0.0,0.0,0.0,0.0,0.0
+Karnataka | Chamarajanagar,974,2.6,51.8,2.3,0.0,0.0,0.0,9.4
+Karnataka | Chikballapur,974,0.0,2.6,2.0,0.0,0.0,0.0,0.8
+Karnataka | Chikkamagaluru,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Karnataka | Chitradurga,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Karnataka | Dakshina Kannada,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Davanagere,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Dharwad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Gadag,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Karnataka | Gulbarga,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Hassan,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Haveri,974,0.0,2.6,1.2,0.0,0.0,0.0,0.6
+Karnataka | Kodagu,974,0.0,7.8,0.0,0.0,0.0,0.0,1.3
+Karnataka | Kolar,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Karnataka | Koppal,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Karnataka | Mandya,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Karnataka | Mysuru,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Raichur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Ramanagara,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Karnataka | Shimoga,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Tumkur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Udupi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka | Uttara Kannada,974,0.0,2.1,0.0,0.0,0.0,0.0,0.4
+Karnataka | Yadgir,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Kerala | Alappuzha,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Ernakulam,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Idukki,974,0.0,1.3,0.0,0.0,0.0,0.0,0.2
+Kerala | Kannur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Kasaragod,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Kollam,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Kottayam,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Kozhikode,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Mahe,949,100.0,100.0,7.2,0.0,1.8,100.0,51.5
+Kerala | Malappuram,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Palakkad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Pathanamthitta,974,0.0,0.1,0.0,0.0,0.0,0.0,0.0
+Kerala | Thiruvananthapuram,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Thrissur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala | Wayanad,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Lakshadweep | Lakshadweep,949,100.0,100.0,0.0,97.5,0.0,99.8,66.2
+Madhya Pradesh | Agar,974,2.6,35.7,23.8,0.3,0.1,0.0,10.4
+Madhya Pradesh | Alirajpur,971,11.3,100.0,19.8,2.3,2.3,5.5,23.5
+Madhya Pradesh | Anuppur,974,2.6,80.0,2.6,0.0,0.0,0.0,14.2
+Madhya Pradesh | Ashoknagar,974,2.6,85.2,0.0,0.0,0.0,0.0,14.6
+Madhya Pradesh | Balaghat,974,0.3,2.3,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Barwani,974,2.4,2.6,0.0,0.0,0.0,0.0,0.8
+Madhya Pradesh | Betul,974,0.0,1.7,0.0,0.0,0.0,0.0,0.3
+Madhya Pradesh | Bhind,974,2.3,2.6,0.0,0.0,0.0,0.0,0.8
+Madhya Pradesh | Bhopal,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh | Burhanpur,974,2.6,5.7,1.6,0.0,0.0,0.0,1.6
+Madhya Pradesh | Chhatarpur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Chhindwara,974,0.0,2.3,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Damoh,974,2.5,2.6,0.0,0.0,0.0,0.0,0.8
+Madhya Pradesh | Datia,974,2.6,84.8,0.0,2.0,0.0,0.0,14.9
+Madhya Pradesh | Dewas,974,0.0,0.0,0.2,0.0,0.0,0.0,0.0
+Madhya Pradesh | Dhar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh | Dindori,971,2.3,100.0,4.9,2.3,2.3,7.3,19.8
+Madhya Pradesh | Guna,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Gwalior,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh | Harda,974,2.6,2.6,0.0,0.0,0.1,0.0,0.9
+Madhya Pradesh | Hoshangabad,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Indore,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh | Jabalpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh | Jhabua,974,2.6,70.3,71.9,0.0,0.0,0.0,24.1
+Madhya Pradesh | Katni,974,0.0,2.6,1.5,0.0,0.0,0.0,0.7
+Madhya Pradesh | Khandwa,974,0.0,2.5,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Khargone,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Mandla,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Madhya Pradesh | Mandsaur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Morena,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Narsinghpur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Neemuch,974,0.0,2.6,1.5,0.0,0.0,0.0,0.7
+Madhya Pradesh | Panna,974,2.6,87.1,2.6,2.3,0.1,0.0,15.8
+Madhya Pradesh | Raisen,974,0.8,2.6,2.0,0.0,0.0,0.0,0.9
+Madhya Pradesh | Rajgarh,974,0.0,2.6,0.4,0.0,0.0,0.0,0.5
+Madhya Pradesh | Ratlam,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh | Rewa,974,0.0,2.4,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Sagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh | Satna,974,0.0,2.3,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Sehore,974,0.0,2.6,2.0,0.0,0.0,0.0,0.8
+Madhya Pradesh | Seoni,974,0.0,2.4,2.6,0.0,0.0,0.0,0.8
+Madhya Pradesh | Shahdol,974,1.7,2.6,1.7,0.0,0.0,0.0,1.0
+Madhya Pradesh | Shajapur,974,2.6,2.6,26.9,0.0,0.0,0.0,5.4
+Madhya Pradesh | Sheopur,974,25.1,100.0,0.0,2.6,1.3,0.8,21.6
+Madhya Pradesh | Shivpuri,974,1.7,2.6,2.6,0.0,0.0,0.0,1.2
+Madhya Pradesh | Sidhi,974,2.6,94.5,2.6,0.2,0.0,0.0,16.6
+Madhya Pradesh | Singrauli,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Madhya Pradesh | Tikamgarh,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Madhya Pradesh | Ujjain,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh | Umaria,974,2.6,99.1,5.4,0.0,0.7,0.0,18.0
+Madhya Pradesh | Vidisha,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Ahmednagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Akola,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Amravati,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Aurangabad district,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Beed,974,0.0,2.4,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Bhandara,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Buldhana,974,0.0,2.5,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Chandrapur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Dhule,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Gadchiroli,974,2.6,2.6,1.7,0.0,0.0,0.0,1.2
+Maharashtra | Gondia,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Hingoli,974,2.2,2.6,2.6,0.0,0.0,0.0,1.2
+Maharashtra | Jalgaon,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Jalna,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Kolhapur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Latur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Mumbai,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Mumbai Suburban,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Nagpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Nanded,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Nandurbar,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Maharashtra | Nashik,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Osmanabad,974,0.0,2.6,1.8,0.0,0.0,0.0,0.7
+Maharashtra | Palghar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Parbhani,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Pune,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Raigad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Ratnagiri,974,0.0,1.8,0.0,0.0,0.0,0.0,0.3
+Maharashtra | Sangli,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Satara,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Sindhudurg,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Solapur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Thane,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maharashtra | Wardha,974,0.0,2.1,0.0,0.0,0.0,0.0,0.4
+Maharashtra | Washim,974,0.0,6.9,13.3,0.0,0.0,0.0,3.4
+Maharashtra | Yavatmal,974,0.0,2.1,0.0,0.0,0.0,0.0,0.4
+Manipur | Bishnupur,974,7.1,2.6,0.0,86.6,2.6,0.0,16.5
+Manipur | Chandel,938,100.0,100.0,22.0,100.0,11.0,100.0,72.2
+Manipur | Churachandpur,974,2.6,17.7,19.6,2.6,0.3,0.0,7.1
+Manipur | Imphal East,974,0.0,0.0,0.0,2.6,0.0,0.0,0.4
+Manipur | Imphal West,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manipur | Senapati,974,2.6,99.8,2.6,100.0,2.6,0.0,34.6
+Manipur | Tamenglong,949,100.0,100.0,0.0,100.0,12.0,100.0,68.7
+Manipur | Thoubal,974,2.6,0.0,2.6,16.6,0.0,0.0,3.6
+Manipur | Ukhrul,944,89.3,100.0,100.0,100.0,0.0,100.0,81.6
+Meghalaya | East Garo Hills,816,100.0,100.0,100.0,96.8,1.8,100.0,83.1
+Meghalaya | East Jaintia Hills,949,84.4,100.0,31.0,100.0,0.0,100.0,69.2
+Meghalaya | East Khasi Hills,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Meghalaya | North Garo Hills,949,100.0,100.0,1.7,21.9,12.0,100.0,55.9
+Meghalaya | Ri-Bhoi,949,31.9,100.0,0.2,0.3,0.0,100.0,38.7
+Meghalaya | South Garo Hills,807,100.0,100.0,0.0,100.0,99.4,100.0,83.2
+Meghalaya | West Garo Hills,974,2.6,2.6,2.6,2.7,0.9,0.0,1.9
+Meghalaya | West Jaintia Hills,965,12.8,100.0,33.3,100.0,1.7,26.5,45.7
+Meghalaya | West Khasi Hills,949,100.0,100.0,85.9,99.8,1.7,100.0,81.2
+Mizoram | Aizawl,974,0.2,0.9,2.6,0.0,0.0,0.0,0.6
+Mizoram | Champhai,949,100.0,100.0,98.9,100.0,0.0,51.8,75.1
+Mizoram | Kolasib,949,68.1,100.0,100.0,73.4,0.0,69.5,68.5
+Mizoram | Lawngtlai,910,100.0,100.0,100.0,100.0,0.0,100.0,83.3
+Mizoram | Lunglei,971,32.3,100.0,77.4,100.0,2.3,6.8,53.1
+Mizoram | Mamit,891,100.0,100.0,100.0,8.1,5.5,100.0,68.9
+Mizoram | Saiha,916,100.0,100.0,100.0,100.0,0.0,100.0,83.3
+Mizoram | Serchhip,941,100.0,100.0,94.5,100.0,0.0,100.0,82.4
+Nagaland | Dimapur,974,0.0,0.3,0.0,0.0,0.0,0.0,0.0
+Nagaland | Kohima,974,2.6,20.5,0.0,2.6,0.0,0.0,4.3
+Nagaland | Mokokchung,951,13.5,100.0,0.2,0.2,0.2,25.9,23.3
+Nagaland | Mon,836,100.0,100.0,100.0,100.0,0.0,100.0,83.3
+Nagaland | Peren,518,100.0,100.0,100.0,100.0,0.0,100.0,83.3
+Nagaland | Phek,836,100.0,100.0,100.0,100.0,0.0,100.0,83.3
+Nagaland | Tuensang,943,100.0,100.0,100.0,100.0,0.0,100.0,83.3
+Nagaland | Wokha,881,100.0,100.0,100.0,100.0,0.0,100.0,83.3
+Nagaland | Zunheboto,688,100.0,100.0,100.0,100.0,0.0,100.0,83.3
+Odisha | Angul,974,0.0,0.5,0.0,0.0,0.0,0.0,0.1
+Odisha | Balangir,974,0.0,2.1,0.0,0.0,0.0,0.0,0.4
+Odisha | Balasore,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odisha | Bargarh,974,0.0,2.2,2.3,0.0,0.0,0.0,0.8
+Odisha | Bhadrak,974,0.0,0.0,2.6,0.0,0.0,0.0,0.4
+Odisha | Boudh,949,100.0,100.0,95.3,100.0,0.0,56.2,75.2
+Odisha | Cuttack,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odisha | Deogarh,949,95.4,100.0,0.8,0.0,0.0,100.0,49.4
+Odisha | Dhenkanal,974,0.9,2.6,2.6,0.0,0.0,0.0,1.0
+Odisha | Gajapati,973,2.5,82.1,2.4,2.5,0.5,2.0,15.3
+Odisha | Ganjam,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odisha | Jagatsinghpur,974,2.1,0.3,0.0,0.0,0.0,0.0,0.4
+Odisha | Jajpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odisha | Jharsuguda,974,0.0,2.6,1.4,0.0,0.0,0.0,0.7
+Odisha | Kalahandi,974,2.6,2.6,0.9,0.0,0.0,0.0,1.0
+Odisha | Kandhamal,974,2.6,2.7,2.6,2.6,0.8,0.1,1.9
+Odisha | Kendrapara,974,2.5,2.3,0.0,2.5,0.0,0.0,1.2
+Odisha | Kendujhar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odisha | Khordha,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odisha | Koraput,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Odisha | Malkangiri,949,55.4,100.0,34.7,0.0,0.0,18.5,34.8
+Odisha | Mayurbhanj,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odisha | Nabarangpur,974,2.6,7.3,26.0,2.0,0.3,0.0,6.4
+Odisha | Nayagarh,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Odisha | Nuapada,970,2.2,27.1,2.2,2.2,2.2,5.2,6.9
+Odisha | Puri,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odisha | Rayagada,974,2.1,2.6,2.6,0.0,0.0,0.0,1.2
+Odisha | Sambalpur,974,0.0,0.2,0.0,0.0,0.0,0.0,0.0
+Odisha | Subarnapur,974,2.6,11.1,0.0,2.4,1.0,0.7,3.0
+Odisha | Sundargarh,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Puducherry | Karaikal,974,1.8,3.8,2.6,0.0,0.3,0.0,1.4
+Puducherry | Pondicherry,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab | Amritsar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab | Barnala,974,0.1,2.6,3.4,0.0,0.0,0.0,1.0
+Punjab | Bathinda,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab | Faridkot,974,0.0,2.3,0.0,0.0,0.0,0.0,0.4
+Punjab | Fatehgarh Sahib,974,0.0,2.6,1.4,0.0,0.0,0.0,0.7
+Punjab | Fazilka,974,0.0,1.1,0.0,0.0,0.0,0.0,0.2
+Punjab | Ferozepur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Punjab | Gurdaspur,974,0.0,2.3,0.0,0.0,0.0,0.0,0.4
+Punjab | Hoshiarpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab | Jalandhar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab | Kapurthala,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab | Ludhiana,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab | Mansa,974,1.6,2.6,2.6,0.0,0.0,0.0,1.1
+Punjab | Moga,974,0.0,0.0,0.5,0.0,0.0,0.0,0.1
+Punjab | Pathankot,974,0.0,2.6,2.2,0.0,0.0,0.0,0.8
+Punjab | Patiala,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab | Rupnagar,974,0.0,2.3,1.4,0.0,0.0,0.0,0.6
+Punjab | Sahibzada Ajit Singh Nagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab | Sangrur,974,0.0,0.4,0.0,0.0,0.0,0.0,0.1
+Punjab | Shaheed Bhagat Singh Nagar,974,0.0,2.6,7.7,0.0,0.0,0.0,1.7
+Punjab | Sri Muktsar Sahib,974,0.0,2.6,0.8,0.0,0.0,0.0,0.6
+Punjab | Tarn Taran,974,1.1,2.6,5.2,0.0,0.0,0.0,1.5
+Rajasthan | Ajmer,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Alwar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Banswara,974,1.5,2.6,0.5,0.0,0.0,0.0,0.8
+Rajasthan | Baran,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Rajasthan | Barmer,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Bharatpur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Rajasthan | Bhilwara,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Bikaner,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Bundi,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Rajasthan | Chittaurgarh,974,0.0,2.4,0.0,0.0,0.0,0.0,0.4
+Rajasthan | Churu,974,0.0,1.4,0.0,0.0,0.0,0.0,0.2
+Rajasthan | Dausa,974,0.0,2.0,0.0,0.0,0.0,0.0,0.3
+Rajasthan | Dhaulpur,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Rajasthan | Dungarpur,974,2.6,2.6,2.4,0.0,0.0,0.0,1.3
+Rajasthan | Hanumangarh,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Jaipur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Jaisalmer,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Rajasthan | Jalore,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Rajasthan | Jhalawar,974,2.4,2.6,0.0,0.0,0.0,0.0,0.8
+Rajasthan | Jhunjhunu,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Rajasthan | Jodhpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Karauli,974,2.6,2.6,2.6,0.0,0.0,0.0,1.3
+Rajasthan | Kota,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Nagaur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Pali,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Pratapgarh,974,2.6,16.3,2.7,2.1,0.0,0.0,4.0
+Rajasthan | Rajsamand,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Rajasthan | Sawai Madhopur,974,0.0,2.4,0.2,0.0,0.0,0.0,0.4
+Rajasthan | Sikar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Sirohi,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Rajasthan | Sri Ganganagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajasthan | Tonk,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Rajasthan | Udaipur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sikkim | East Sikkim,974,2.6,0.7,0.0,0.8,0.0,0.0,0.7
+Sikkim | North Sikkim,945,100.0,100.0,13.9,100.0,13.3,100.0,71.2
+Sikkim | South Sikkim,974,2.6,86.7,2.6,43.9,0.6,0.7,22.8
+Sikkim | West Sikkim,949,12.5,89.1,0.0,100.0,0.0,100.0,50.3
+Tamil Nadu | Ariyalur,974,2.4,2.6,0.9,0.0,0.0,0.0,1.0
+Tamil Nadu | Chennai,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Coimbatore,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Cuddalore,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Dharmapuri,974,0.0,2.4,1.8,0.0,0.0,0.0,0.7
+Tamil Nadu | Dindigul,974,0.0,2.2,0.0,0.0,0.0,0.0,0.4
+Tamil Nadu | Erode,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Kanchipuram,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Kanyakumari,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Karur,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Tamil Nadu | Krishnagiri,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Madurai,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Nagapattinam,974,0.0,2.6,2.0,0.0,0.0,0.0,0.8
+Tamil Nadu | Namakkal,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Tamil Nadu | Nilgiris,974,0.0,2.4,0.0,0.0,0.0,0.0,0.4
+Tamil Nadu | Perambalur,974,1.7,82.2,3.0,0.0,0.0,0.0,14.5
+Tamil Nadu | Pudukkottai,974,0.0,2.6,2.1,0.0,0.0,0.0,0.8
+Tamil Nadu | Ramanathapuram,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Tamil Nadu | Salem,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Sivaganga,974,0.0,2.6,0.1,0.0,0.0,0.0,0.4
+Tamil Nadu | Thanjavur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Theni,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Tamil Nadu | Thiruvarur,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Tamil Nadu | Thoothukudi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Tiruchirappalli,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Tirunelveli,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Tiruppur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Tiruvallur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Tiruvannamalai,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Tamil Nadu | Vellore,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tamil Nadu | Villupuram,974,0.0,2.4,0.0,0.0,0.0,0.0,0.4
+Tamil Nadu | Virudhunagar,974,0.0,0.6,0.0,0.0,0.0,0.0,0.1
+Telangana | Adilabad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana | Hyderabad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana | Karimnagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana | Khammam,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana | Mahabubnagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana | Medak,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana | Nalgonda,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana | Nizamabad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana | Ranga Reddy,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana | Warangal,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tripura | Dhalai,971,34.3,98.9,5.4,2.3,2.3,6.7,25.0
+Tripura | Gomati,974,2.6,2.6,2.6,2.6,1.6,0.7,2.1
+Tripura | Khowai,949,24.0,100.0,7.4,0.0,0.0,33.1,27.4
+Tripura | North Tripura,974,2.6,2.6,2.6,2.6,2.3,0.2,2.2
+Tripura | Sipahijala,974,2.7,2.6,0.0,2.6,1.5,0.2,1.6
+Tripura | South Tripura,974,13.2,24.0,24.5,25.6,2.6,1.3,15.2
+Tripura | Unakoti,950,96.8,100.0,0.1,1.5,0.1,27.7,37.7
+Tripura | West Tripura,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Agra,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Aligarh,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Ambedkar Nagar,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Uttar Pradesh | Amethi,974,2.1,2.6,2.9,0.0,0.0,0.0,1.3
+Uttar Pradesh | Amroha,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Auraiya,974,2.1,2.6,0.0,0.0,0.0,0.0,0.8
+Uttar Pradesh | Ayodhya,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Azamgarh,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Badaun,974,1.3,2.6,0.0,0.0,0.0,0.0,0.6
+Uttar Pradesh | Bagpat,974,2.6,14.0,1.8,0.0,0.0,0.0,3.1
+Uttar Pradesh | Bahraich,974,0.0,2.6,23.3,0.0,0.0,0.0,4.3
+Uttar Pradesh | Ballia,974,0.0,2.1,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Balrampur,974,2.6,2.6,2.6,2.4,0.0,0.0,1.7
+Uttar Pradesh | Banda,974,1.5,2.6,21.6,0.0,0.0,0.0,4.3
+Uttar Pradesh | Barabanki,974,0.0,2.1,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Bareilly,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Basti,974,0.0,2.4,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Bijnor,974,0.0,0.7,0.0,0.0,0.0,0.0,0.1
+Uttar Pradesh | Bulandshahar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Chandauli,974,0.0,2.6,6.4,0.0,0.0,0.0,1.5
+Uttar Pradesh | Chitrakoot,974,17.1,3.2,30.1,0.0,0.3,0.0,8.5
+Uttar Pradesh | Deoria,974,0.0,0.0,1.1,0.0,0.0,0.0,0.2
+Uttar Pradesh | Etah,974,2.6,2.6,2.1,0.0,0.0,0.0,1.2
+Uttar Pradesh | Etawah,974,0.0,2.1,0.2,0.0,0.0,0.0,0.4
+Uttar Pradesh | Farrukhabad,974,0.1,2.6,2.6,0.0,0.0,0.0,0.9
+Uttar Pradesh | Fatehpur,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Uttar Pradesh | Firozabad,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Uttar Pradesh | Gautam Buddh Nagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Ghaziabad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Ghazipur,974,0.0,2.1,2.6,0.0,0.0,0.0,0.8
+Uttar Pradesh | Gonda,974,0.0,2.4,2.6,0.0,0.0,0.0,0.8
+Uttar Pradesh | Gorakhpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Hamirpur,974,2.6,14.0,2.6,0.0,0.0,0.0,3.2
+Uttar Pradesh | Hapur,974,0.0,2.6,0.2,0.0,0.0,0.0,0.5
+Uttar Pradesh | Hardoi,974,0.0,0.0,2.3,0.0,0.0,0.0,0.4
+Uttar Pradesh | Hathras,974,1.7,2.6,2.6,0.0,0.0,0.0,1.2
+Uttar Pradesh | Jalaun,974,0.0,2.6,2.1,0.0,0.0,0.0,0.8
+Uttar Pradesh | Jaunpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Jhansi,974,0.0,0.5,0.0,0.0,0.0,0.0,0.1
+Uttar Pradesh | Kannauj,974,2.6,2.6,29.6,0.0,0.0,0.0,5.8
+Uttar Pradesh | Kanpur Dehat,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Uttar Pradesh | Kanpur Nagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Kanshi Ram Nagar,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Uttar Pradesh | Kaushambi,974,2.6,9.1,80.2,0.0,0.0,0.0,15.3
+Uttar Pradesh | Kushinagar,974,0.0,1.3,0.0,0.0,0.0,0.0,0.2
+Uttar Pradesh | Lakhimpur Kheri,974,0.0,2.1,2.6,0.0,0.0,0.0,0.8
+Uttar Pradesh | Lalitpur,974,2.6,2.6,0.0,0.0,0.0,0.0,0.9
+Uttar Pradesh | Lucknow,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Maharajganj,974,0.0,2.6,2.6,0.0,0.0,0.0,0.9
+Uttar Pradesh | Mahoba,974,2.6,16.1,20.0,0.0,0.0,0.0,6.4
+Uttar Pradesh | Mainpuri,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Mathura,974,0.0,0.3,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Mau,974,0.0,2.0,0.0,0.0,0.0,0.0,0.3
+Uttar Pradesh | Meerut,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Mirzapur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Moradabad,974,0.0,0.4,0.0,0.0,0.0,0.0,0.1
+Uttar Pradesh | Muzaffarnagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Pilibhit,974,2.0,2.6,2.6,0.0,0.0,0.0,1.2
+Uttar Pradesh | Pratapgarh,974,0.0,1.7,2.5,0.0,0.0,0.0,0.7
+Uttar Pradesh | Prayagraj,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Rae Bareli,974,0.0,2.6,1.2,0.0,0.0,0.0,0.6
+Uttar Pradesh | Rampur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Saharanpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttar Pradesh | Sambhal,974,2.0,2.6,1.6,0.0,0.0,0.0,1.0
+Uttar Pradesh | Sant Kabir Nagar,974,2.1,2.6,2.6,0.3,0.0,0.0,1.3
+Uttar Pradesh | Sant Ravidas Nagar,974,2.6,2.6,53.8,0.0,0.0,0.0,9.8
+Uttar Pradesh | Shahjahanpur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Shamli,974,2.6,2.6,21.1,0.0,0.0,0.0,4.4
+Uttar Pradesh | Shrawasti,974,5.5,2.6,23.8,2.6,1.3,0.0,6.0
+Uttar Pradesh | Siddharthnagar,974,1.0,2.6,0.0,0.0,0.0,0.0,0.6
+Uttar Pradesh | Sitapur,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Sonbhadra,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Sultanpur,974,0.0,0.0,2.6,0.0,0.0,0.0,0.4
+Uttar Pradesh | Unnao,974,0.0,2.6,0.0,0.0,0.0,0.0,0.4
+Uttar Pradesh | Varanasi,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttarakhand | Almora,974,2.6,32.8,2.6,2.6,0.3,0.0,6.8
+Uttarakhand | Bageshwar,962,97.0,100.0,25.2,100.0,1.4,28.6,58.7
+Uttarakhand | Chamoli,974,20.8,50.4,2.6,3.0,2.6,0.0,13.2
+Uttarakhand | Champawat,974,4.3,100.0,90.2,2.6,2.6,1.2,33.5
+Uttarakhand | Dehradun,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttarakhand | Haridwar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttarakhand | Nainital,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttarakhand | Pauri Garhwal,974,2.0,2.6,0.0,0.0,0.0,0.0,0.8
+Uttarakhand | Pithoragarh,974,2.6,99.1,2.6,2.6,0.3,0.0,17.9
+Uttarakhand | Rudraprayag,972,24.2,100.0,0.6,9.9,2.4,16.2,25.5
+Uttarakhand | Tehri Garhwal,974,2.6,99.4,1.1,12.7,0.3,0.0,19.3
+Uttarakhand | Udham Singh Nagar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttarakhand | Uttarkashi,974,71.7,100.0,2.6,2.6,2.6,0.7,30.0
+West Bengal | Alipurduar,974,0.0,0.2,0.0,0.0,0.0,0.0,0.0
+West Bengal | Bankura,974,0.0,0.2,0.0,0.0,0.0,0.0,0.0
+West Bengal | Bardhaman,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Birbhum,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Cooch Behar,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Dakshin Dinajpur,974,0.0,0.6,0.0,0.0,0.0,0.0,0.1
+West Bengal | Darjeeling,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Hooghly,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Howrah,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Jalpaiguri,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Kolkata,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Malda,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Murshidabad,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Nadia,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | North 24 Parganas,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Purba Medinipur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Purulia,974,0.0,1.8,0.0,0.0,0.0,0.0,0.3
+West Bengal | South 24 Parganas,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | Uttar Dinajpur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Bengal | West Medinipur,974,0.0,0.0,0.0,0.0,0.0,0.0,0.0

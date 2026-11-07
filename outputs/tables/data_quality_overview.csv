@@ -1,0 +1,5 @@
+level,rows,regions,date_min,date_max,retail_and_recreation_missing_pct,grocery_and_pharmacy_missing_pct,parks_missing_pct,transit_stations_missing_pct,workplaces_missing_pct,residential_missing_pct
+national,130824,135,2020-02-15,2022-10-15,1.84,1.89,2.09,1.1,0.77,2.15
+sub_region_1,1711570,1872,2020-02-15,2022-10-15,17.99,20.49,28.06,29.22,2.46,22.63
+metro_area,62941,65,2020-02-15,2022-10-15,0.29,0.28,1.02,0.28,0.0,0.0
+sub_region_2,9824690,11204,2020-02-15,2022-10-15,42.3,45.36,58.56,55.18,3.75,41.67

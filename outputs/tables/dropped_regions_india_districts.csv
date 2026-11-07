@@ -1,0 +1,101 @@
+region_id,retail_and_recreation,grocery_and_pharmacy,parks,transit_stations,workplaces,residential
+India | Andaman and Nicobar Islands | North and Middle Andaman,1.0,1.0,0.994,1.0,0.296,1.0
+India | Andaman and Nicobar Islands | South Andaman,0.026,1.0,0.0,0.0,0.003,0.003
+India | Arunachal Pradesh | East Kameng,1.0,1.0,0.026,1.0,0.181,1.0
+India | Arunachal Pradesh | East Siang,0.172,0.831,0.996,0.352,0.026,0.828
+India | Arunachal Pradesh | Tawang,1.0,1.0,1.0,1.0,0.203,1.0
+India | Arunachal Pradesh | West Kameng,0.694,1.0,1.0,1.0,0.026,0.657
+India | Assam | Dima Hasao,0.311,0.998,0.026,0.026,0.026,0.092
+India | Bihar | Arwal,0.026,1.0,0.026,0.026,0.026,0.001
+India | Bihar | Jehanabad,0.026,0.026,0.393,0.0,0.0,0.0
+India | Bihar | Khagaria,0.026,0.773,0.054,0.0,0.0,0.0
+India | Bihar | Sheohar,0.652,0.292,1.0,0.026,0.026,0.055
+India | Chhattisgarh | Bemetara,0.026,0.027,0.109,0.944,0.003,0.0
+India | Chhattisgarh | Bijapur,1.0,1.0,0.026,0.975,0.026,0.81
+India | Chhattisgarh | Dantewada,0.027,1.0,0.285,0.0,0.007,0.003
+India | Chhattisgarh | Gariaband,0.967,0.764,1.0,1.0,0.026,0.441
+India | Chhattisgarh | Kawardha,0.026,0.518,0.004,0.026,0.0,0.0
+India | Chhattisgarh | Kondagaon,0.026,1.0,0.175,0.026,0.026,0.064
+India | Chhattisgarh | Mungeli,0.026,0.026,0.975,0.051,0.026,0.017
+India | Chhattisgarh | Narayanpur,1.0,1.0,1.0,0.026,0.043,1.0
+India | Chhattisgarh | Sukma,1.0,1.0,0.713,0.026,0.026,0.99
+India | Daman and Diu | Diu,0.687,1.0,0.027,0.034,0.026,1.0
+India | Gujarat | Chhota Udaipur,0.026,0.768,0.026,0.0,0.003,0.0
+India | Gujarat | Dang,0.985,1.0,0.034,0.026,0.032,1.0
+India | Gujarat | Mahisagar,0.026,1.0,0.199,0.0,0.0,0.0
+India | Gujarat | Narmada,0.027,1.0,0.004,0.006,0.003,0.004
+India | Himachal Pradesh | Bilaspur,0.026,0.54,0.026,0.0,0.0,0.0
+India | Himachal Pradesh | Chamba,0.026,0.908,0.026,0.026,0.003,0.0
+India | Himachal Pradesh | Kinnaur,1.0,1.0,0.433,0.026,0.026,0.676
+India | Jharkhand | Chatra,0.026,0.424,0.249,0.026,0.011,0.0
+India | Jharkhand | Garhwa,0.026,0.281,1.0,0.0,0.0,0.0
+India | Jharkhand | Godda,0.026,0.408,0.045,0.0,0.0,0.0
+India | Jharkhand | Gumla,0.026,0.917,0.026,0.026,0.003,0.0
+India | Jharkhand | Jamtara,0.026,0.627,0.333,0.0,0.005,0.0
+India | Jharkhand | Khunti,0.026,0.395,0.348,0.026,0.026,0.08
+India | Jharkhand | Koderma,0.026,0.539,0.124,0.0,0.0,0.0
+India | Jharkhand | Latehar,0.026,1.0,0.0,0.0,0.026,0.0
+India | Jharkhand | Lohardaga,0.026,0.308,0.199,0.026,0.026,0.013
+India | Jharkhand | Simdega,0.609,1.0,1.0,0.026,0.026,0.287
+India | Karnataka | Chamarajanagar,0.026,0.518,0.023,0.0,0.0,0.0
+India | Kerala | Mahe,1.0,1.0,0.095,0.026,0.043,1.0
+India | Lakshadweep | Lakshadweep,1.0,1.0,0.026,0.975,0.026,0.998
+India | Madhya Pradesh | Agar,0.026,0.357,0.238,0.003,0.001,0.0
+India | Madhya Pradesh | Alirajpur,0.116,1.0,0.2,0.026,0.026,0.057
+India | Madhya Pradesh | Anuppur,0.026,0.8,0.026,0.0,0.0,0.0
+India | Madhya Pradesh | Ashoknagar,0.026,0.852,0.0,0.0,0.0,0.0
+India | Madhya Pradesh | Datia,0.026,0.848,0.0,0.02,0.0,0.0
+India | Madhya Pradesh | Dindori,0.026,1.0,0.052,0.026,0.026,0.076
+India | Madhya Pradesh | Jhabua,0.026,0.703,0.719,0.0,0.0,0.0
+India | Madhya Pradesh | Panna,0.026,0.871,0.026,0.023,0.001,0.0
+India | Madhya Pradesh | Sheopur,0.251,1.0,0.0,0.026,0.013,0.008
+India | Madhya Pradesh | Sidhi,0.026,0.945,0.026,0.002,0.0,0.0
+India | Madhya Pradesh | Umaria,0.026,0.991,0.054,0.0,0.007,0.0
+India | Manipur | Bishnupur,0.071,0.026,0.0,0.866,0.026,0.0
+India | Manipur | Chandel,1.0,1.0,0.248,1.0,0.143,1.0
+India | Manipur | Senapati,0.026,0.998,0.026,1.0,0.026,0.0
+India | Manipur | Tamenglong,1.0,1.0,0.026,1.0,0.143,1.0
+India | Manipur | Ukhrul,0.896,1.0,1.0,1.0,0.031,1.0
+India | Meghalaya | East Garo Hills,1.0,1.0,1.0,0.973,0.178,1.0
+India | Meghalaya | East Jaintia Hills,0.848,1.0,0.328,1.0,0.026,1.0
+India | Meghalaya | North Garo Hills,1.0,1.0,0.042,0.239,0.143,1.0
+India | Meghalaya | Ri-Bhoi,0.337,1.0,0.028,0.029,0.026,1.0
+India | Meghalaya | South Garo Hills,1.0,1.0,0.171,1.0,0.995,1.0
+India | Meghalaya | West Jaintia Hills,0.137,1.0,0.339,1.0,0.026,0.272
+India | Meghalaya | West Khasi Hills,1.0,1.0,0.862,0.998,0.042,1.0
+India | Mizoram | Champhai,1.0,1.0,0.99,1.0,0.026,0.531
+India | Mizoram | Kolasib,0.689,1.0,1.0,0.741,0.026,0.703
+India | Mizoram | Lawngtlai,1.0,1.0,1.0,1.0,0.066,1.0
+India | Mizoram | Lunglei,0.325,1.0,0.775,1.0,0.026,0.071
+India | Mizoram | Mamit,1.0,1.0,1.0,0.159,0.136,1.0
+India | Mizoram | Saiha,1.0,1.0,1.0,1.0,0.06,1.0
+India | Mizoram | Serchhip,1.0,1.0,0.947,1.0,0.034,1.0
+India | Nagaland | Mokokchung,0.155,1.0,0.026,0.026,0.026,0.276
+India | Nagaland | Mon,1.0,1.0,1.0,1.0,0.142,1.0
+India | Nagaland | Peren,1.0,1.0,1.0,1.0,0.468,1.0
+India | Nagaland | Phek,1.0,1.0,1.0,1.0,0.142,1.0
+India | Nagaland | Tuensang,1.0,1.0,1.0,1.0,0.032,1.0
+India | Nagaland | Wokha,1.0,1.0,1.0,1.0,0.095,1.0
+India | Nagaland | Zunheboto,1.0,1.0,1.0,1.0,0.294,1.0
+India | Odisha | Boudh,1.0,1.0,0.954,1.0,0.026,0.573
+India | Odisha | Deogarh,0.955,1.0,0.034,0.026,0.026,1.0
+India | Odisha | Gajapati,0.026,0.821,0.025,0.026,0.006,0.021
+India | Odisha | Malkangiri,0.566,1.0,0.363,0.026,0.026,0.206
+India | Sikkim | North Sikkim,1.0,1.0,0.164,1.0,0.159,1.0
+India | Sikkim | South Sikkim,0.026,0.867,0.026,0.439,0.006,0.007
+India | Sikkim | West Sikkim,0.148,0.894,0.026,1.0,0.026,1.0
+India | Tamil Nadu | Perambalur,0.017,0.822,0.03,0.0,0.0,0.0
+India | Tripura | Dhalai,0.345,0.989,0.056,0.026,0.026,0.07
+India | Tripura | Khowai,0.26,1.0,0.098,0.026,0.026,0.348
+India | Tripura | Unakoti,0.969,1.0,0.026,0.039,0.026,0.295
+India | Uttar Pradesh | Chitrakoot,0.171,0.032,0.301,0.0,0.003,0.0
+India | Uttar Pradesh | Kaushambi,0.026,0.091,0.802,0.0,0.0,0.0
+India | Uttar Pradesh | Sant Ravidas Nagar,0.026,0.026,0.538,0.0,0.0,0.0
+India | Uttarakhand | Almora,0.026,0.328,0.026,0.026,0.003,0.0
+India | Uttarakhand | Bageshwar,0.97,1.0,0.261,1.0,0.026,0.295
+India | Uttarakhand | Chamoli,0.208,0.504,0.026,0.03,0.026,0.0
+India | Uttarakhand | Champawat,0.043,1.0,0.902,0.026,0.026,0.012
+India | Uttarakhand | Pithoragarh,0.026,0.991,0.026,0.026,0.003,0.0
+India | Uttarakhand | Rudraprayag,0.243,1.0,0.008,0.101,0.026,0.163
+India | Uttarakhand | Tehri Garhwal,0.026,0.994,0.011,0.127,0.003,0.0
+India | Uttarakhand | Uttarkashi,0.717,1.0,0.026,0.026,0.026,0.007

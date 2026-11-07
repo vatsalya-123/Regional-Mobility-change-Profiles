@@ -1,0 +1,5 @@
+region_id,retail_and_recreation,grocery_and_pharmacy,parks,transit_stations,workplaces,residential
+Guinea-Bissau,0.946,0.978,0.686,1.0,0.026,1.0
+Liechtenstein,0.898,0.95,1.0,0.085,0.306,1.0
+Réunion,0.565,0.617,0.393,0.194,0.605,1.0
+Vietnam,0.0,0.0,0.0,0.0,0.371,0.0
