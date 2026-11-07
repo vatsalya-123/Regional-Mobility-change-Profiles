@@ -130,26 +130,34 @@ with tab1:
 # ---------------------------------------------------------------- validation
 with tab2:
     st.subheader("Validation metrics across k")
-    st.caption("Precomputed grid from src/cluster.py. Silhouette and Davies-Bouldin are "
-               "compared within a distance, not across Euclidean and Manhattan.")
+    st.caption("Precomputed grid from src/cluster.py. Read each algorithm's own curve: "
+               "Euclidean and Manhattan values are in different units, so compare where "
+               "each line bends or peaks, not the gap between the two lines.")
     metrics = read_table("clustering_metrics.csv")
+    cand = read_table(f"candidates_{scope}.csv")
+    m = None
+    c = None
     if metrics is not None:
         m = metrics[(metrics["scope"] == scope) & (metrics["feature_set"] == feature_set)
                     & (metrics["scaler"] == scaler)]
         for col, title in [("silhouette", "Silhouette (higher is better)"),
                            ("davies_bouldin", "Davies-Bouldin (lower is better)"),
                            ("wcss", "WCSS / total within-cluster distance (look for the elbow)")]:
-            f = px.line(m, x="k", y=col, color="distance", markers=True, title=title)
+            f = px.line(m, x="k", y=col, color="distance", title=title, **LINE_KW)
             f.add_vline(x=k, line_dash="dot")
             st.plotly_chart(f, width="stretch")
-    cand = read_table(f"candidates_{scope}.csv")
     if cand is not None:
         c = cand[(cand["feature_set"] == feature_set) & (cand["scaler"] == scaler)]
-        f = px.line(c, x="k", y="stability_ari", color="distance", markers=True,
-                    title="Stability: mean ARI over 80% subsamples (closer to 1 is more stable)")
+        f = px.line(c, x="k", y="stability_ari", color="distance",
+                    title="Stability: mean ARI over 80% subsamples (closer to 1 is more stable)",
+                    **LINE_KW)
         f.add_vline(x=k, line_dash="dot")
         st.plotly_chart(f, width="stretch")
-
+    if m is not None and c is not None:
+        sel = m[m["k"] == k][["distance", "silhouette", "davies_bouldin", "min_cluster_size"]]
+        sel = sel.merge(c[c["k"] == k][["distance", "stability_ari"]], on="distance", how="left")
+        st.subheader(f"Metrics at k = {k}")
+        st.dataframe(sel.round(3), hide_index=True, width="stretch")
 # ----------------------------------------------------------------- over time
 with tab3:
     st.subheader("Behavioural states over pandemic periods")
