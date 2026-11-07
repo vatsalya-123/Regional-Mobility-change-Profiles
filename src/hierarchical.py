@@ -32,6 +32,9 @@ def main():
     base = load_features(processed / f"{args.scope}_features_region.parquet", args.feature_set)
     X = SCALERS[args.scaler]().fit_transform(base.to_numpy())
     ref = fit_euclidean(X, args.k, cfg["clustering"]["n_init"], cfg["project"]["random_seed"])[0]
+    order = (base.assign(c=ref).groupby("c")["trough_depth"].mean()
+        .sort_values(ascending=False).index)
+    ref = np.array([{old: new for new, old in enumerate(order)}[v] for v in ref])
 
     dists = {"euclidean": pdist(X, "euclidean"), "cityblock": pdist(X, "cityblock")}
     combos = [("ward", "euclidean"), ("average", "euclidean"), ("complete", "euclidean"),

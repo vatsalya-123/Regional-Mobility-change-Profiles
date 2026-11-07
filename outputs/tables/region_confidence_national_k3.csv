@@ -1,0 +1,127 @@
+region_id,cluster,silhouette,membership_confidence,borderline
+Turkey,2,0.012,0.56,True
+Pakistan,2,0.036,0.68,True
+Canada,1,0.017,0.72,True
+Lebanon,1,0.016,0.74,True
+New Zealand,1,0.003,0.74,True
+Mexico,1,0.016,0.78,True
+Rwanda,2,0.089,0.78,True
+Belgium,2,0.043,0.8,True
+North Macedonia,1,0.059,0.84,True
+Gabon,1,0.088,0.88,True
+Bangladesh,2,0.187,0.96,False
+Egypt,1,0.059,0.96,True
+Kyrgyzstan,1,0.081,0.98,True
+Namibia,1,0.151,0.98,False
+Fiji,1,0.213,0.98,False
+Austria,1,0.117,0.98,False
+Botswana,0,0.243,1.0,False
+Brazil,1,0.195,1.0,False
+Burkina Faso,0,0.504,1.0,False
+Bulgaria,1,0.397,1.0,False
+Cambodia,1,0.254,1.0,False
+Cameroon,0,0.3,1.0,False
+Cape Verde,2,0.306,1.0,False
+Chile,2,0.379,1.0,False
+Colombia,2,0.427,1.0,False
+Bahrain,1,0.357,1.0,False
+Belarus,1,0.433,1.0,False
+Barbados,2,0.368,1.0,False
+Aruba,2,0.216,1.0,False
+Argentina,2,0.38,1.0,False
+Australia,1,0.249,1.0,False
+Angola,0,0.338,1.0,False
+Ecuador,2,0.462,1.0,False
+Dominican Republic,2,0.454,1.0,False
+Denmark,1,0.454,1.0,False
+Côte d'Ivoire,0,0.478,1.0,False
+Czechia,1,0.459,1.0,False
+Finland,1,0.38,1.0,False
+Estonia,1,0.464,1.0,False
+El Salvador,2,0.445,1.0,False
+Ghana,0,0.123,1.0,False
+Greece,1,0.244,1.0,False
+Guatemala,2,0.455,1.0,False
+Haiti,1,0.201,1.0,False
+Honduras,2,0.474,1.0,False
+Hong Kong,1,0.434,1.0,False
+France,2,0.274,1.0,False
+Germany,1,0.462,1.0,False
+India,2,0.381,1.0,False
+Hungary,1,0.414,1.0,False
+Indonesia,1,0.217,1.0,False
+Iraq,0,0.328,1.0,False
+Italy,2,0.347,1.0,False
+Jamaica,1,0.115,1.0,False
+Ireland,2,0.243,1.0,False
+Israel,1,0.176,1.0,False
+Jordan,2,0.312,1.0,False
+Costa Rica,2,0.189,1.0,False
+Croatia,1,0.192,1.0,False
+Belize,2,0.16,1.0,False
+Benin,0,0.397,1.0,False
+Bolivia,2,0.418,1.0,False
+Bosnia and Herzegovina,1,0.33,1.0,False
+Antigua and Barbuda,2,0.28,1.0,False
+Libya,0,0.409,1.0,False
+Latvia,1,0.473,1.0,False
+Laos,1,0.334,1.0,False
+Kuwait,2,0.399,1.0,False
+Kazakhstan,1,0.305,1.0,False
+Kenya,0,0.186,1.0,False
+Japan,1,0.465,1.0,False
+Malta,1,0.143,1.0,False
+Moldova,1,0.301,1.0,False
+Mauritius,2,0.403,1.0,False
+Mongolia,0,0.376,1.0,False
+Morocco,2,0.399,1.0,False
+Myanmar (Burma),1,0.184,1.0,False
+Mozambique,0,0.14,1.0,False
+Mali,0,0.41,1.0,False
+Lithuania,1,0.373,1.0,False
+Netherlands,1,0.332,1.0,False
+Nepal,2,0.277,1.0,False
+Nigeria,0,0.162,1.0,False
+Nicaragua,1,0.286,1.0,False
+Norway,1,0.445,1.0,False
+Oman,2,0.146,1.0,False
+Panama,2,0.446,1.0,False
+Papua New Guinea,0,0.44,1.0,False
+Paraguay,2,0.224,1.0,False
+Peru,2,0.437,1.0,False
+Philippines,2,0.458,1.0,False
+Poland,1,0.353,1.0,False
+Portugal,2,0.376,1.0,False
+Puerto Rico,2,0.261,1.0,False
+Malaysia,2,0.345,1.0,False
+Luxembourg,2,0.283,1.0,False
+Romania,1,0.222,1.0,False
+Qatar,1,0.171,1.0,False
+Saudi Arabia,2,0.382,1.0,False
+Russia,1,0.465,1.0,False
+Singapore,2,0.202,1.0,False
+Slovakia,1,0.279,1.0,False
+Slovenia,1,0.222,1.0,False
+Senegal,1,0.218,1.0,False
+South Korea,1,0.342,1.0,False
+Spain,2,0.355,1.0,False
+Sri Lanka,2,0.322,1.0,False
+Sweden,1,0.426,1.0,False
+Switzerland,1,0.321,1.0,False
+Taiwan,1,0.375,1.0,False
+Tajikistan,1,0.405,1.0,False
+South Africa,2,0.345,1.0,False
+Tanzania,0,0.343,1.0,False
+Thailand,1,0.409,1.0,False
+Togo,0,0.248,1.0,False
+The Bahamas,2,0.366,1.0,False
+Trinidad and Tobago,2,0.117,1.0,False
+Uganda,2,0.237,1.0,False
+United Arab Emirates,2,0.277,1.0,False
+United Kingdom,2,0.24,1.0,False
+United States,1,0.234,1.0,False
+Uruguay,1,0.135,1.0,False
+Venezuela,2,0.171,1.0,False
+Yemen,0,0.493,1.0,False
+Zambia,0,0.463,1.0,False
+Zimbabwe,0,0.296,1.0,False

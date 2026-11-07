@@ -1,0 +1,22 @@
+|--- transit_stations__first_wave_mean <= -47.95
+|   |--- residential__first_wave_mean <= 16.63
+|   |   |--- grocery_and_pharmacy__late_mean <= 45.55
+|   |   |   |--- class: 1
+|   |   |--- grocery_and_pharmacy__late_mean >  45.55
+|   |   |   |--- class: 2
+|   |--- residential__first_wave_mean >  16.63
+|   |   |--- grocery_and_pharmacy__late_mean <= 70.36
+|   |   |   |--- class: 2
+|   |   |--- grocery_and_pharmacy__late_mean >  70.36
+|   |   |   |--- class: 2
+|--- transit_stations__first_wave_mean >  -47.95
+|   |--- grocery_and_pharmacy__late_mean <= 64.83
+|   |   |--- transit_stations__late_mean <= 33.35
+|   |   |   |--- class: 1
+|   |   |--- transit_stations__late_mean >  33.35
+|   |   |   |--- class: 1
+|   |--- grocery_and_pharmacy__late_mean >  64.83
+|   |   |--- residential__late_mean <= 8.83
+|   |   |   |--- class: 0
+|   |   |--- residential__late_mean >  8.83
+|   |   |   |--- class: 0

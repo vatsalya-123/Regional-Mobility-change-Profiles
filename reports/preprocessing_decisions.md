@@ -34,3 +34,5 @@
 
 | D16 | Interpretation limits | Silhouette about 0.3 indicates weak separation. Values are changes against a fixed baseline. Clusters are exploratory profiles, not categories. | Responsible-use requirement. |
 
+| D17 | Hierarchical comparison | Ward, complete and average linkage (Euclidean), plus complete and average (Manhattan), cut at k=3, compared with K-Means via ARI, cophenetic correlation and silhouette. | Tests whether the grouping depends on the algorithm. Ward and complete agree with K-Means for 83 to 85% of countries. Average linkage is rejected because it chains (clusters of size 2 and 3). |
+
