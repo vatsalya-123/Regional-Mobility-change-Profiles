@@ -1,0 +1,525 @@
+region_id,pre_pandemic,first_wave,reopening_2020,winter_wave,delta_wave,omicron_wave,late_pandemic
+India | Andhra Pradesh | Anantapuram,1,0,0,1,0,2,2
+India | Andhra Pradesh | Chittoor,1,0,0,1,0,1,2
+India | Andhra Pradesh | East Godavari,1,0,0,1,0,1,2
+India | Andhra Pradesh | Guntur,1,0,0,1,0,1,2
+India | Andhra Pradesh | Krishna,1,0,0,1,0,1,1
+India | Andhra Pradesh | Kurnool,1,0,0,1,1,1,2
+India | Andhra Pradesh | Prakasam,1,0,0,1,1,2,2
+India | Andhra Pradesh | Sri Potti Sriramulu Nellore District,1,0,0,1,1,1,2
+India | Andhra Pradesh | Srikakulam,1,0,0,1,0,1,2
+India | Andhra Pradesh | Vishakhapatnam,1,0,0,1,0,1,1
+India | Andhra Pradesh | Vizianagaram,1,0,0,1,0,1,2
+India | Andhra Pradesh | West Godavari,1,0,0,1,0,1,2
+India | Andhra Pradesh | YSR District,1,0,0,1,1,2,2
+India | Arunachal Pradesh | Papum Pare,1,0,0,1,0,2,2
+India | Assam | Baksa,1,0,1,1,0,2,2
+India | Assam | Barpeta,1,0,1,1,0,2,2
+India | Assam | Cachar,1,0,0,1,0,1,2
+India | Assam | Chirang,1,0,0,1,0,1,2
+India | Assam | Darrang,1,0,0,1,0,2,2
+India | Assam | Dhubri,1,0,1,1,0,2,2
+India | Assam | Dibrugarh,1,0,0,1,0,2,2
+India | Assam | Goalpara,1,0,1,1,0,2,2
+India | Assam | Golaghat,1,0,0,1,0,1,2
+India | Assam | Hailakandi,1,0,1,1,0,2,2
+India | Assam | Jorhat,1,0,0,1,0,1,2
+India | Assam | Kamrup,1,0,0,1,0,1,2
+India | Assam | Kamrup Metropolitan,1,0,0,1,0,1,1
+India | Assam | Karbi Anglong,1,0,0,1,0,1,2
+India | Assam | Karimganj,1,0,0,1,0,2,2
+India | Assam | Kokrajhar,1,0,0,1,0,2,2
+India | Assam | Lakhimpur,1,0,0,1,0,2,2
+India | Assam | Morigaon,1,0,0,1,0,2,2
+India | Assam | Nagaon,1,0,0,1,0,2,2
+India | Assam | Nalbari,1,0,0,1,0,2,2
+India | Assam | Sivasagar,1,0,0,1,0,1,2
+India | Assam | Sonitpur,1,0,0,1,0,2,2
+India | Assam | Tinsukia,1,0,0,1,0,2,2
+India | Bihar | Araria,1,0,1,1,1,2,2
+India | Bihar | Aurangabad,1,0,1,1,1,2,2
+India | Bihar | Banka,1,1,1,1,1,2,2
+India | Bihar | Begusarai,1,0,1,1,1,2,2
+India | Bihar | Bhagalpur,1,0,0,1,0,2,2
+India | Bihar | Bhojpur,1,0,1,1,1,2,2
+India | Bihar | Buxar,1,0,1,1,1,2,2
+India | Bihar | Darbhanga,1,0,1,1,1,2,2
+India | Bihar | Gaya,1,0,0,1,0,2,2
+India | Bihar | Gopalganj,1,0,1,1,1,2,2
+India | Bihar | Jamui,1,0,1,1,1,2,2
+India | Bihar | Kaimur,1,0,1,1,2,2,2
+India | Bihar | Katihar,1,0,1,1,1,2,2
+India | Bihar | Kishanganj,1,0,1,1,0,2,2
+India | Bihar | Madhepura,1,0,1,1,1,2,2
+India | Bihar | Madhubani,1,1,1,1,1,2,2
+India | Bihar | Munger,1,0,1,1,1,2,2
+India | Bihar | Muzaffarpur,1,0,1,1,0,2,2
+India | Bihar | Nalanda,1,0,0,1,1,2,2
+India | Bihar | Nawada,1,0,1,1,1,2,2
+India | Bihar | Pashchim Champaran,1,0,1,1,1,2,2
+India | Bihar | Patna,1,0,0,1,0,1,2
+India | Bihar | Purnia,1,0,1,1,1,2,2
+India | Bihar | Purvi Champaran,1,0,1,1,1,2,2
+India | Bihar | Rohtas,1,0,1,1,1,2,2
+India | Bihar | Saharsa,1,0,1,1,1,2,2
+India | Bihar | Samastipur,1,0,1,1,1,2,2
+India | Bihar | Saran,1,0,1,1,1,2,2
+India | Bihar | Siwan,1,0,1,1,1,2,2
+India | Bihar | Supaul,1,0,1,1,1,2,2
+India | Bihar | Vaishali,1,0,1,1,1,2,2
+India | Chhattisgarh | Balod,1,0,0,1,0,2,2
+India | Chhattisgarh | Baloda Bazar,1,0,1,1,0,2,2
+India | Chhattisgarh | Balrampur,1,0,1,1,0,2,2
+India | Chhattisgarh | Bastar,1,0,0,1,0,2,2
+India | Chhattisgarh | Bilaspur,1,0,0,1,0,2,2
+India | Chhattisgarh | Dhamtari,1,0,0,1,0,2,2
+India | Chhattisgarh | Durg,1,0,0,1,0,1,2
+India | Chhattisgarh | Janjgir-Champa,1,0,0,1,0,2,2
+India | Chhattisgarh | Jashpur,1,0,1,1,0,2,2
+India | Chhattisgarh | Kanker,1,0,1,1,0,1,2
+India | Chhattisgarh | Korba,1,0,0,1,0,2,2
+India | Chhattisgarh | Koriya,1,0,1,1,0,1,2
+India | Chhattisgarh | Mahasamund,1,0,1,1,0,2,2
+India | Chhattisgarh | Raigarh,1,0,0,1,0,2,2
+India | Chhattisgarh | Raipur,1,0,0,0,0,1,2
+India | Chhattisgarh | Rajnandgaon,1,0,0,1,0,2,2
+India | Chhattisgarh | Surajpur,1,0,0,1,0,2,2
+India | Chhattisgarh | Surguja,1,0,0,1,0,2,2
+India | Dadra and Nagar Haveli | Dadra and Nagar Haveli,1,0,1,1,0,1,2
+India | Daman and Diu | Daman,1,0,0,1,0,1,2
+India | Delhi | Central Delhi,1,0,0,0,0,1,1
+India | Delhi | East Delhi,1,0,0,0,0,1,1
+India | Delhi | New Delhi,1,0,0,0,0,1,1
+India | Delhi | North Delhi,1,0,0,1,0,1,1
+India | Delhi | North East Delhi,1,0,0,1,0,1,1
+India | Delhi | North West Delhi,1,0,0,1,0,1,1
+India | Delhi | Shahdara,1,0,0,1,0,1,1
+India | Delhi | South Delhi,1,0,0,0,0,1,1
+India | Delhi | South East Delhi,1,0,0,0,0,1,1
+India | Delhi | South West Delhi,1,0,0,0,0,1,1
+India | Delhi | West Delhi,1,0,0,0,0,1,1
+India | Goa | North Goa,1,0,0,0,0,1,1
+India | Goa | South Goa,1,0,0,1,0,1,1
+India | Gujarat | Ahmedabad,1,0,0,0,0,1,1
+India | Gujarat | Amreli,1,0,1,1,1,1,2
+India | Gujarat | Anand,1,0,0,0,0,1,2
+India | Gujarat | Aravalli,1,0,0,1,1,1,2
+India | Gujarat | Banaskantha,1,0,1,1,0,2,2
+India | Gujarat | Bharuch,1,0,0,1,1,1,2
+India | Gujarat | Bhavnagar,1,0,1,1,1,1,2
+India | Gujarat | Botad,1,0,1,1,1,2,2
+India | Gujarat | Dahod,1,0,0,1,1,1,2
+India | Gujarat | Devbhoomi Dwarka,1,0,0,1,1,2,2
+India | Gujarat | Gandhinagar,1,0,0,0,0,1,1
+India | Gujarat | Gir Somnath,1,0,1,1,0,1,2
+India | Gujarat | Jamnagar,1,0,0,0,0,1,1
+India | Gujarat | Junagadh,1,0,0,1,0,1,2
+India | Gujarat | Kheda,1,0,0,0,0,1,2
+India | Gujarat | Kutch,1,0,1,1,1,1,2
+India | Gujarat | Mehsana,1,0,0,1,0,1,2
+India | Gujarat | Morbi,1,0,0,1,0,1,2
+India | Gujarat | Navsari,1,0,0,0,0,1,2
+India | Gujarat | Panchmahal,1,0,0,1,1,2,2
+India | Gujarat | Patan,1,0,0,1,1,2,2
+India | Gujarat | Porbandar,1,0,0,1,0,1,2
+India | Gujarat | Rajkot,1,0,0,1,0,1,1
+India | Gujarat | Sabarkatha,1,0,0,1,1,1,2
+India | Gujarat | Surat,1,0,0,1,0,1,1
+India | Gujarat | Surendranagar,1,0,0,1,0,1,2
+India | Gujarat | Tapi,1,0,0,1,0,2,2
+India | Gujarat | Vadodara,1,0,0,0,0,1,1
+India | Gujarat | Valsad,1,0,0,1,0,1,2
+India | Haryana | Ambala,1,0,0,0,0,1,1
+India | Haryana | Bhiwani,1,0,1,1,1,1,2
+India | Haryana | Faridabad,1,0,0,1,0,1,1
+India | Haryana | Fatehabad,1,0,1,1,1,1,2
+India | Haryana | Gurgaon,1,0,0,0,0,1,1
+India | Haryana | Hisar,1,0,0,1,0,1,1
+India | Haryana | Jhajjar,1,0,1,1,1,1,2
+India | Haryana | Jind,1,0,1,1,1,1,2
+India | Haryana | Kaithal,1,0,1,1,1,1,2
+India | Haryana | Karnal,1,0,0,1,0,1,1
+India | Haryana | Kurukshetra,1,0,0,1,0,1,2
+India | Haryana | Mahendragarh,1,0,1,1,1,1,2
+India | Haryana | Mewat,1,0,1,1,1,2,2
+India | Haryana | Palwal,1,0,1,1,0,1,2
+India | Haryana | Panchkula,1,0,0,1,0,1,1
+India | Haryana | Panipat,1,0,1,1,1,1,2
+India | Haryana | Rewari,1,0,0,1,0,1,2
+India | Haryana | Rohtak,1,0,0,1,0,1,1
+India | Haryana | Sirsa,1,0,1,1,1,1,2
+India | Haryana | Sonepat,1,0,0,1,0,1,2
+India | Haryana | Yamuna Nagar,1,0,0,1,1,1,2
+India | Himachal Pradesh | Hamirpur,1,0,1,1,0,1,2
+India | Himachal Pradesh | Kangra,1,0,1,1,0,2,2
+India | Himachal Pradesh | Kullu,1,0,1,1,0,2,2
+India | Himachal Pradesh | Mandi,1,0,1,1,0,1,2
+India | Himachal Pradesh | Shimla,1,0,1,1,0,2,2
+India | Himachal Pradesh | Sirmaur,1,0,1,1,1,2,2
+India | Himachal Pradesh | Solan,1,0,1,1,1,1,2
+India | Himachal Pradesh | Una,1,0,1,1,0,1,2
+India | Jharkhand | Bokaro,1,0,0,1,0,2,2
+India | Jharkhand | Deoghar,1,0,0,1,0,2,2
+India | Jharkhand | Dhanbad,1,0,0,1,0,2,2
+India | Jharkhand | Dumka,1,0,1,1,0,2,2
+India | Jharkhand | East Singhbhum,1,0,0,1,0,1,1
+India | Jharkhand | Giridih,1,0,1,1,2,2,2
+India | Jharkhand | Hazaribagh,1,0,1,1,0,2,2
+India | Jharkhand | Pakur,1,0,1,1,0,2,2
+India | Jharkhand | Palamu,1,0,1,1,1,2,2
+India | Jharkhand | Ramgarh,1,0,1,1,0,1,2
+India | Jharkhand | Ranchi,1,0,0,0,0,1,1
+India | Jharkhand | Sahibganj,1,0,1,1,1,2,2
+India | Jharkhand | Seraikela Kharsawan,1,0,0,1,0,2,2
+India | Jharkhand | West Singhbhum,1,0,0,1,0,2,2
+India | Karnataka | Bagalkot,1,0,0,1,0,2,2
+India | Karnataka | Bangalore Rural,1,0,0,1,0,2,2
+India | Karnataka | Bangalore Urban,1,0,0,0,0,1,1
+India | Karnataka | Belagavi,1,0,0,1,0,2,2
+India | Karnataka | Bellary,1,0,0,1,0,1,2
+India | Karnataka | Bidar,1,0,0,1,0,2,2
+India | Karnataka | Bijapur,1,0,1,1,0,2,2
+India | Karnataka | Chikballapur,1,0,1,1,0,2,2
+India | Karnataka | Chikkamagaluru,1,0,1,1,0,2,2
+India | Karnataka | Chitradurga,1,0,1,1,0,2,2
+India | Karnataka | Dakshina Kannada,1,0,0,1,0,1,2
+India | Karnataka | Davanagere,1,0,0,1,0,2,2
+India | Karnataka | Dharwad,1,0,0,1,0,1,2
+India | Karnataka | Gadag,1,0,1,1,0,2,2
+India | Karnataka | Gulbarga,1,0,0,1,0,1,2
+India | Karnataka | Hassan,1,0,0,1,0,2,2
+India | Karnataka | Haveri,1,0,0,1,0,2,2
+India | Karnataka | Kodagu,1,0,0,1,0,2,2
+India | Karnataka | Kolar,1,0,1,1,0,2,2
+India | Karnataka | Koppal,1,0,1,1,0,2,2
+India | Karnataka | Mandya,1,0,0,1,0,1,2
+India | Karnataka | Mysuru,1,0,0,1,0,1,1
+India | Karnataka | Raichur,1,0,0,1,0,2,2
+India | Karnataka | Ramanagara,1,0,1,1,0,2,2
+India | Karnataka | Shimoga,1,0,0,1,0,2,2
+India | Karnataka | Tumkur,1,0,0,1,0,2,2
+India | Karnataka | Udupi,1,0,0,1,0,1,2
+India | Karnataka | Uttara Kannada,1,0,0,1,0,2,2
+India | Karnataka | Yadgir,1,0,1,1,0,2,2
+India | Kerala | Alappuzha,1,0,0,1,0,2,2
+India | Kerala | Ernakulam,1,0,0,0,0,1,2
+India | Kerala | Idukki,1,0,0,1,0,2,2
+India | Kerala | Kannur,1,0,0,1,0,2,2
+India | Kerala | Kasaragod,1,0,0,1,0,2,2
+India | Kerala | Kollam,1,0,0,1,0,2,2
+India | Kerala | Kottayam,1,0,0,0,0,2,2
+India | Kerala | Kozhikode,1,0,0,0,0,2,2
+India | Kerala | Malappuram,1,0,0,1,0,2,2
+India | Kerala | Palakkad,1,0,0,1,0,2,2
+India | Kerala | Pathanamthitta,1,0,0,1,0,2,2
+India | Kerala | Thiruvananthapuram,1,0,0,0,0,1,2
+India | Kerala | Thrissur,1,0,0,0,0,2,2
+India | Kerala | Wayanad,1,0,0,1,0,2,2
+India | Madhya Pradesh | Balaghat,1,0,0,1,0,2,2
+India | Madhya Pradesh | Barwani,1,0,1,1,0,2,2
+India | Madhya Pradesh | Betul,1,0,0,1,0,2,2
+India | Madhya Pradesh | Bhind,1,0,1,1,1,1,2
+India | Madhya Pradesh | Bhopal,1,0,0,0,0,1,1
+India | Madhya Pradesh | Burhanpur,1,0,1,1,1,2,2
+India | Madhya Pradesh | Chhatarpur,1,0,1,1,0,2,2
+India | Madhya Pradesh | Chhindwara,1,0,0,1,0,2,2
+India | Madhya Pradesh | Damoh,1,0,1,1,1,2,2
+India | Madhya Pradesh | Dewas,1,0,0,1,0,1,2
+India | Madhya Pradesh | Dhar,1,0,1,1,0,2,2
+India | Madhya Pradesh | Guna,1,0,1,1,0,2,2
+India | Madhya Pradesh | Gwalior,1,0,0,0,0,1,1
+India | Madhya Pradesh | Harda,1,0,0,1,0,2,2
+India | Madhya Pradesh | Hoshangabad,1,0,0,1,0,2,2
+India | Madhya Pradesh | Indore,1,0,0,1,0,1,1
+India | Madhya Pradesh | Jabalpur,1,0,0,1,0,1,2
+India | Madhya Pradesh | Katni,1,0,0,1,0,1,2
+India | Madhya Pradesh | Khandwa,1,0,0,1,0,2,2
+India | Madhya Pradesh | Khargone,1,0,1,1,0,2,2
+India | Madhya Pradesh | Mandla,1,0,1,1,0,2,2
+India | Madhya Pradesh | Mandsaur,1,0,1,1,0,2,2
+India | Madhya Pradesh | Morena,1,0,1,1,0,1,2
+India | Madhya Pradesh | Narsinghpur,1,0,0,1,0,1,2
+India | Madhya Pradesh | Neemuch,1,0,1,1,0,2,2
+India | Madhya Pradesh | Raisen,1,0,1,1,0,2,2
+India | Madhya Pradesh | Rajgarh,1,0,1,1,0,2,2
+India | Madhya Pradesh | Ratlam,1,0,0,1,0,1,2
+India | Madhya Pradesh | Rewa,1,0,1,1,0,2,2
+India | Madhya Pradesh | Sagar,1,0,0,1,0,2,2
+India | Madhya Pradesh | Satna,1,0,0,1,0,2,2
+India | Madhya Pradesh | Sehore,1,0,1,1,0,2,2
+India | Madhya Pradesh | Seoni,1,0,0,1,0,2,2
+India | Madhya Pradesh | Shahdol,1,0,0,1,0,2,2
+India | Madhya Pradesh | Shivpuri,1,0,1,1,0,2,2
+India | Madhya Pradesh | Singrauli,1,0,0,1,0,2,2
+India | Madhya Pradesh | Tikamgarh,1,0,1,1,0,2,2
+India | Madhya Pradesh | Ujjain,1,0,0,1,0,2,2
+India | Madhya Pradesh | Vidisha,1,0,0,1,0,2,2
+India | Maharashtra | Ahmednagar,1,0,0,1,0,2,2
+India | Maharashtra | Akola,1,0,0,1,0,2,2
+India | Maharashtra | Amravati,1,0,0,0,0,1,2
+India | Maharashtra | Aurangabad district,1,0,0,1,0,1,2
+India | Maharashtra | Beed,1,0,0,1,0,2,2
+India | Maharashtra | Bhandara,1,0,0,1,0,2,2
+India | Maharashtra | Buldhana,1,0,0,1,0,2,2
+India | Maharashtra | Chandrapur,1,0,0,1,0,2,2
+India | Maharashtra | Dhule,1,0,0,1,0,2,2
+India | Maharashtra | Gadchiroli,1,0,0,1,0,1,2
+India | Maharashtra | Gondia,1,0,0,1,0,1,2
+India | Maharashtra | Hingoli,1,0,0,1,0,2,2
+India | Maharashtra | Jalgaon,1,0,0,1,0,1,2
+India | Maharashtra | Jalna,1,0,0,1,0,2,2
+India | Maharashtra | Kolhapur,1,0,0,1,0,2,2
+India | Maharashtra | Latur,1,0,0,1,0,2,2
+India | Maharashtra | Mumbai,1,0,0,0,0,1,1
+India | Maharashtra | Mumbai Suburban,1,0,0,0,0,1,1
+India | Maharashtra | Nagpur,1,0,0,0,0,1,2
+India | Maharashtra | Nanded,1,0,0,1,0,2,2
+India | Maharashtra | Nandurbar,1,0,0,1,0,2,2
+India | Maharashtra | Nashik,1,0,0,1,0,1,2
+India | Maharashtra | Osmanabad,1,0,0,1,0,2,2
+India | Maharashtra | Palghar,1,0,0,0,0,1,1
+India | Maharashtra | Parbhani,1,0,0,1,0,2,2
+India | Maharashtra | Pune,1,0,0,0,0,1,1
+India | Maharashtra | Raigad,1,0,0,0,0,1,1
+India | Maharashtra | Ratnagiri,1,0,0,1,0,2,2
+India | Maharashtra | Sangli,1,0,0,1,0,2,2
+India | Maharashtra | Satara,1,0,0,1,0,2,2
+India | Maharashtra | Sindhudurg,1,0,0,1,0,2,2
+India | Maharashtra | Solapur,1,0,0,1,0,2,2
+India | Maharashtra | Thane,1,0,0,0,0,1,1
+India | Maharashtra | Wardha,1,0,0,0,0,1,2
+India | Maharashtra | Washim,1,0,0,1,0,2,2
+India | Maharashtra | Yavatmal,1,0,0,1,0,2,2
+India | Manipur | Churachandpur,1,0,0,0,0,2,2
+India | Manipur | Imphal East,1,0,0,1,0,1,2
+India | Manipur | Imphal West,1,0,0,0,0,1,1
+India | Manipur | Thoubal,1,1,1,1,0,1,2
+India | Meghalaya | East Khasi Hills,1,0,0,1,0,1,2
+India | Meghalaya | West Garo Hills,1,0,1,1,0,2,2
+India | Mizoram | Aizawl,1,0,0,0,0,1,1
+India | Nagaland | Dimapur,1,0,0,0,0,1,2
+India | Nagaland | Kohima,1,0,0,0,0,1,2
+India | Odisha | Angul,1,0,0,0,0,2,2
+India | Odisha | Balangir,1,0,0,1,0,2,2
+India | Odisha | Balasore,1,0,0,1,0,2,2
+India | Odisha | Bargarh,1,0,0,1,0,2,2
+India | Odisha | Bhadrak,1,0,0,1,0,2,2
+India | Odisha | Cuttack,1,0,0,0,0,1,2
+India | Odisha | Dhenkanal,1,0,0,0,0,2,2
+India | Odisha | Ganjam,1,0,0,1,0,1,2
+India | Odisha | Jagatsinghpur,1,0,0,1,0,2,2
+India | Odisha | Jajpur,1,0,0,1,0,2,2
+India | Odisha | Jharsuguda,1,0,0,1,0,1,2
+India | Odisha | Kalahandi,1,0,0,1,0,2,2
+India | Odisha | Kandhamal,1,0,0,1,1,2,2
+India | Odisha | Kendrapara,1,0,1,1,0,2,2
+India | Odisha | Kendujhar,1,0,0,1,0,2,2
+India | Odisha | Khordha,1,0,0,0,0,1,1
+India | Odisha | Koraput,1,0,0,1,0,2,2
+India | Odisha | Mayurbhanj,1,0,0,1,0,2,2
+India | Odisha | Nayagarh,1,0,0,1,0,2,2
+India | Odisha | Nuapada,1,0,1,1,0,2,2
+India | Odisha | Puri,1,0,0,0,0,2,2
+India | Odisha | Rayagada,1,0,0,1,0,2,2
+India | Odisha | Sambalpur,1,0,0,0,0,1,2
+India | Odisha | Subarnapur,1,0,1,1,0,2,2
+India | Odisha | Sundargarh,1,0,0,1,0,1,2
+India | Puducherry | Karaikal,1,0,0,1,1,2,2
+India | Puducherry | Pondicherry,1,0,0,0,0,1,1
+India | Punjab | Amritsar,1,0,0,1,1,1,1
+India | Punjab | Barnala,1,0,0,1,1,1,2
+India | Punjab | Bathinda,1,0,0,1,1,1,2
+India | Punjab | Faridkot,1,0,0,1,1,1,1
+India | Punjab | Fatehgarh Sahib,1,0,1,1,1,1,2
+India | Punjab | Fazilka,1,0,0,1,1,1,2
+India | Punjab | Ferozepur,1,0,0,1,1,1,2
+India | Punjab | Gurdaspur,1,0,0,1,1,1,2
+India | Punjab | Hoshiarpur,1,0,1,1,1,1,2
+India | Punjab | Jalandhar,1,0,0,1,1,1,1
+India | Punjab | Kapurthala,1,0,0,0,0,1,1
+India | Punjab | Ludhiana,1,0,0,1,1,1,1
+India | Punjab | Mansa,1,0,1,1,1,2,2
+India | Punjab | Moga,1,0,0,1,1,1,1
+India | Punjab | Pathankot,1,0,0,1,0,1,2
+India | Punjab | Patiala,1,0,0,1,1,1,1
+India | Punjab | Rupnagar,1,0,0,1,1,1,2
+India | Punjab | Sahibzada Ajit Singh Nagar,1,0,0,1,0,1,1
+India | Punjab | Sangrur,1,0,1,1,1,1,2
+India | Punjab | Shaheed Bhagat Singh Nagar,1,0,1,1,1,1,2
+India | Punjab | Sri Muktsar Sahib,1,0,1,1,1,1,2
+India | Punjab | Tarn Taran,1,0,1,1,1,1,2
+India | Rajasthan | Ajmer,1,0,0,1,0,2,2
+India | Rajasthan | Alwar,1,0,0,1,0,1,2
+India | Rajasthan | Banswara,1,0,1,1,0,2,2
+India | Rajasthan | Baran,1,0,1,1,0,2,2
+India | Rajasthan | Barmer,1,0,1,1,0,2,2
+India | Rajasthan | Bharatpur,1,0,1,1,0,2,2
+India | Rajasthan | Bhilwara,1,0,1,1,0,2,2
+India | Rajasthan | Bikaner,1,0,0,1,0,1,2
+India | Rajasthan | Bundi,1,0,1,1,0,2,2
+India | Rajasthan | Chittaurgarh,1,0,1,1,0,2,2
+India | Rajasthan | Churu,1,0,1,1,1,2,2
+India | Rajasthan | Dausa,1,0,1,0,0,2,2
+India | Rajasthan | Dhaulpur,1,0,1,1,0,2,2
+India | Rajasthan | Dungarpur,1,0,1,1,0,2,2
+India | Rajasthan | Hanumangarh,1,0,1,1,1,2,2
+India | Rajasthan | Jaipur,1,0,0,0,0,1,1
+India | Rajasthan | Jaisalmer,1,0,1,1,0,2,2
+India | Rajasthan | Jalore,1,0,1,1,1,2,2
+India | Rajasthan | Jhalawar,1,0,1,1,0,2,2
+India | Rajasthan | Jhunjhunu,1,0,1,1,0,2,2
+India | Rajasthan | Jodhpur,1,0,0,1,0,1,2
+India | Rajasthan | Karauli,1,0,1,1,0,2,2
+India | Rajasthan | Kota,1,0,0,0,0,1,2
+India | Rajasthan | Nagaur,1,0,1,1,1,2,2
+India | Rajasthan | Pali,1,0,1,1,1,1,2
+India | Rajasthan | Pratapgarh,1,0,1,1,0,2,2
+India | Rajasthan | Rajsamand,1,0,1,1,0,2,2
+India | Rajasthan | Sawai Madhopur,1,0,0,0,0,2,2
+India | Rajasthan | Sikar,1,0,1,1,0,2,2
+India | Rajasthan | Sirohi,1,0,1,1,1,2,2
+India | Rajasthan | Sri Ganganagar,1,0,0,1,0,1,2
+India | Rajasthan | Tonk,1,0,1,1,0,2,2
+India | Rajasthan | Udaipur,1,0,0,1,0,1,2
+India | Sikkim | East Sikkim,1,0,0,1,0,2,2
+India | Tamil Nadu | Ariyalur,1,0,1,1,1,2,2
+India | Tamil Nadu | Chennai,1,0,0,0,0,1,1
+India | Tamil Nadu | Coimbatore,1,0,0,0,0,1,1
+India | Tamil Nadu | Cuddalore,1,0,0,1,0,2,2
+India | Tamil Nadu | Dharmapuri,1,0,0,1,0,2,2
+India | Tamil Nadu | Dindigul,1,0,0,1,0,2,2
+India | Tamil Nadu | Erode,1,0,0,1,0,2,2
+India | Tamil Nadu | Kanchipuram,1,0,0,0,0,1,1
+India | Tamil Nadu | Kanyakumari,1,0,0,1,0,2,2
+India | Tamil Nadu | Karur,1,0,0,1,0,1,2
+India | Tamil Nadu | Krishnagiri,1,0,0,1,0,2,2
+India | Tamil Nadu | Madurai,1,0,0,1,0,1,2
+India | Tamil Nadu | Nagapattinam,1,0,1,1,0,2,2
+India | Tamil Nadu | Namakkal,1,0,0,1,0,2,2
+India | Tamil Nadu | Nilgiris,1,0,0,1,0,2,2
+India | Tamil Nadu | Pudukkottai,1,0,0,1,0,2,2
+India | Tamil Nadu | Ramanathapuram,1,0,1,1,0,2,2
+India | Tamil Nadu | Salem,1,0,0,1,0,2,2
+India | Tamil Nadu | Sivaganga,1,0,0,1,0,2,2
+India | Tamil Nadu | Thanjavur,1,0,0,1,0,2,2
+India | Tamil Nadu | Theni,1,0,0,1,1,2,2
+India | Tamil Nadu | Thiruvarur,1,0,1,1,0,2,2
+India | Tamil Nadu | Thoothukudi,1,0,0,1,0,2,2
+India | Tamil Nadu | Tiruchirappalli,1,0,0,1,0,1,2
+India | Tamil Nadu | Tirunelveli,1,0,0,1,1,2,2
+India | Tamil Nadu | Tiruppur,1,0,0,1,0,2,2
+India | Tamil Nadu | Tiruvallur,1,0,0,0,0,1,1
+India | Tamil Nadu | Tiruvannamalai,1,0,0,1,0,2,2
+India | Tamil Nadu | Vellore,1,0,0,1,0,1,2
+India | Tamil Nadu | Villupuram,1,0,0,1,0,2,2
+India | Tamil Nadu | Virudhunagar,1,0,0,1,0,2,2
+India | Telangana | Adilabad,1,0,0,1,0,2,2
+India | Telangana | Hyderabad,1,0,0,0,0,1,1
+India | Telangana | Karimnagar,1,0,0,1,0,1,2
+India | Telangana | Khammam,1,0,0,1,0,1,2
+India | Telangana | Mahabubnagar,1,0,0,1,0,2,2
+India | Telangana | Medak,1,0,0,1,0,1,2
+India | Telangana | Nalgonda,1,0,0,1,0,2,2
+India | Telangana | Nizamabad,1,0,0,1,1,2,2
+India | Telangana | Ranga Reddy,1,0,0,0,0,1,1
+India | Telangana | Warangal,1,0,0,1,0,1,2
+India | Tripura | Gomati,1,0,0,1,0,2,2
+India | Tripura | North Tripura,1,0,0,1,0,2,2
+India | Tripura | Sipahijala,1,0,1,1,0,2,2
+India | Tripura | West Tripura,1,0,0,1,0,1,2
+India | Uttar Pradesh | Agra,1,0,0,1,0,1,2
+India | Uttar Pradesh | Aligarh,1,0,0,1,0,1,2
+India | Uttar Pradesh | Ambedkar Nagar,1,0,1,1,1,2,2
+India | Uttar Pradesh | Amethi,1,0,1,1,1,2,2
+India | Uttar Pradesh | Amroha,1,0,1,1,1,2,2
+India | Uttar Pradesh | Auraiya,1,0,1,1,1,2,2
+India | Uttar Pradesh | Ayodhya,1,0,1,1,1,2,2
+India | Uttar Pradesh | Azamgarh,1,0,1,1,1,2,2
+India | Uttar Pradesh | Badaun,1,0,1,1,1,2,2
+India | Uttar Pradesh | Bagpat,1,0,1,1,1,2,2
+India | Uttar Pradesh | Bahraich,1,0,1,1,1,2,2
+India | Uttar Pradesh | Ballia,1,0,1,1,1,2,2
+India | Uttar Pradesh | Balrampur,1,0,1,1,1,2,2
+India | Uttar Pradesh | Banda,1,0,1,1,1,2,2
+India | Uttar Pradesh | Barabanki,1,0,1,1,0,2,2
+India | Uttar Pradesh | Bareilly,1,0,0,1,0,2,2
+India | Uttar Pradesh | Basti,1,0,1,1,1,2,2
+India | Uttar Pradesh | Bijnor,1,0,1,1,1,2,2
+India | Uttar Pradesh | Bulandshahar,1,0,1,1,1,2,2
+India | Uttar Pradesh | Chandauli,1,0,0,1,0,2,2
+India | Uttar Pradesh | Deoria,1,0,1,1,1,2,2
+India | Uttar Pradesh | Etah,1,0,1,1,1,2,2
+India | Uttar Pradesh | Etawah,1,0,0,1,0,2,2
+India | Uttar Pradesh | Farrukhabad,1,0,1,1,0,2,2
+India | Uttar Pradesh | Fatehpur,1,0,1,1,0,2,2
+India | Uttar Pradesh | Firozabad,1,0,1,1,1,2,2
+India | Uttar Pradesh | Gautam Buddh Nagar,1,0,0,0,0,1,1
+India | Uttar Pradesh | Ghaziabad,1,0,0,0,0,1,1
+India | Uttar Pradesh | Ghazipur,1,0,1,1,1,2,2
+India | Uttar Pradesh | Gonda,1,0,1,1,0,2,2
+India | Uttar Pradesh | Gorakhpur,1,0,0,1,0,2,2
+India | Uttar Pradesh | Hamirpur,1,0,1,1,1,2,2
+India | Uttar Pradesh | Hapur,1,0,0,1,1,2,2
+India | Uttar Pradesh | Hardoi,1,0,1,1,0,2,2
+India | Uttar Pradesh | Hathras,1,0,1,1,1,2,2
+India | Uttar Pradesh | Jalaun,1,0,1,1,1,2,2
+India | Uttar Pradesh | Jaunpur,1,0,1,1,1,2,2
+India | Uttar Pradesh | Jhansi,1,0,0,1,0,2,2
+India | Uttar Pradesh | Kanpur Dehat,1,0,1,1,1,2,2
+India | Uttar Pradesh | Kanpur Nagar,1,0,0,1,0,1,1
+India | Uttar Pradesh | Kanshi Ram Nagar,1,0,1,1,1,2,2
+India | Uttar Pradesh | Kushinagar,1,1,1,1,1,2,2
+India | Uttar Pradesh | Lakhimpur Kheri,1,0,1,1,0,2,2
+India | Uttar Pradesh | Lalitpur,1,0,0,1,1,2,2
+India | Uttar Pradesh | Lucknow,1,0,0,1,0,1,1
+India | Uttar Pradesh | Maharajganj,1,0,1,1,1,2,2
+India | Uttar Pradesh | Mahoba,1,0,1,1,1,2,2
+India | Uttar Pradesh | Mainpuri,1,0,1,1,1,2,2
+India | Uttar Pradesh | Mathura,1,0,0,1,1,2,2
+India | Uttar Pradesh | Mau,1,0,1,1,1,2,2
+India | Uttar Pradesh | Meerut,1,0,0,1,0,1,2
+India | Uttar Pradesh | Mirzapur,1,0,1,1,0,2,2
+India | Uttar Pradesh | Moradabad,1,0,0,1,1,2,2
+India | Uttar Pradesh | Muzaffarnagar,1,0,0,1,1,1,2
+India | Uttar Pradesh | Pilibhit,1,0,1,1,0,2,2
+India | Uttar Pradesh | Pratapgarh,1,0,1,1,1,2,2
+India | Uttar Pradesh | Prayagraj,1,0,0,0,0,2,2
+India | Uttar Pradesh | Rae Bareli,1,0,1,1,0,2,2
+India | Uttar Pradesh | Rampur,1,0,1,1,1,2,2
+India | Uttar Pradesh | Saharanpur,1,0,0,1,1,1,2
+India | Uttar Pradesh | Sambhal,1,0,1,1,1,2,2
+India | Uttar Pradesh | Sant Kabir Nagar,1,0,1,1,1,2,2
+India | Uttar Pradesh | Shahjahanpur,1,0,1,1,0,2,2
+India | Uttar Pradesh | Shamli,1,0,1,1,1,2,2
+India | Uttar Pradesh | Shrawasti,1,1,1,1,0,2,2
+India | Uttar Pradesh | Siddharthnagar,1,1,1,1,1,2,2
+India | Uttar Pradesh | Sitapur,1,0,1,1,1,2,2
+India | Uttar Pradesh | Sonbhadra,1,0,0,1,1,2,2
+India | Uttar Pradesh | Sultanpur,1,0,1,1,0,2,2
+India | Uttar Pradesh | Unnao,1,0,1,1,0,2,2
+India | Uttar Pradesh | Varanasi,1,0,0,1,0,1,2
+India | Uttarakhand | Dehradun,1,0,0,1,0,2,2
+India | Uttarakhand | Haridwar,1,0,0,1,1,2,2
+India | Uttarakhand | Nainital,1,0,0,1,0,2,2
+India | Uttarakhand | Pauri Garhwal,1,0,1,1,0,2,2
+India | Uttarakhand | Udham Singh Nagar,1,0,1,1,1,2,2
+India | West Bengal | Alipurduar,1,0,0,1,0,2,2
+India | West Bengal | Bankura,1,0,1,1,0,2,2
+India | West Bengal | Bardhaman,1,0,0,1,0,1,2
+India | West Bengal | Birbhum,1,0,0,1,0,1,2
+India | West Bengal | Cooch Behar,1,0,0,1,0,2,2
+India | West Bengal | Dakshin Dinajpur,1,0,0,1,0,1,2
+India | West Bengal | Darjeeling,1,0,0,1,0,1,1
+India | West Bengal | Hooghly,1,0,0,1,0,1,2
+India | West Bengal | Howrah,1,0,0,1,0,1,1
+India | West Bengal | Jalpaiguri,1,0,0,1,0,1,2
+India | West Bengal | Kolkata,1,0,0,0,0,1,1
+India | West Bengal | Malda,1,0,0,1,1,1,2
+India | West Bengal | Murshidabad,1,0,1,1,1,2,2
+India | West Bengal | Nadia,1,0,0,1,0,1,2
+India | West Bengal | North 24 Parganas,1,0,0,0,0,1,1
+India | West Bengal | Purba Medinipur,1,0,0,1,0,2,2
+India | West Bengal | Purulia,1,0,0,1,0,2,2
+India | West Bengal | South 24 Parganas,1,0,0,1,0,1,2
+India | West Bengal | Uttar Dinajpur,1,0,1,1,0,2,2
+India | West Bengal | West Medinipur,1,0,0,1,0,2,2

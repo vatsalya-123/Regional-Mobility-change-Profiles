@@ -50,3 +50,7 @@
 
 | D24 | India districts | k=3 results are stable (ARI 0.92 to 0.96) with silhouette 0.16 to 0.35. Retained districts are those with enough Location History data. | Weak separation and urban coverage bias are stated as limitations. |
 
+| D23 | Outlier rule | Regions with a robust z-score above 10 on any profile feature are excluded from model fitting and listed in outputs/tables/excluded_outlier_regions.csv. | National max is 7.9 and India districts 9.0 (no exclusions). India states: Jammu and Kashmir scores 35.8 against 3.3 for the next state. Global states: J&K 31.1 and two Greek island regions at 17.1 and 12.3. Likely baseline or seasonal artifacts (untested). |
+
+| D25 | District geography check | The clusters are not given location, yet Delhi's 11 districts all fall in the deep-dip cluster and 54 of 71 Uttar Pradesh districts in the strong-rebound cluster. | Independent sanity check. No causal explanation claimed. |
+

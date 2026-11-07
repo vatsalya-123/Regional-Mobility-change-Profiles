@@ -1,0 +1,525 @@
+region_id,n_state_changes
+India | West Bengal | Bardhaman,5
+India | Gujarat | Porbandar,5
+India | Andhra Pradesh | Vizianagaram,5
+India | Andhra Pradesh | West Godavari,5
+India | Gujarat | Gir Somnath,5
+India | Gujarat | Junagadh,5
+India | Gujarat | Mehsana,5
+India | Assam | Cachar,5
+India | Assam | Chirang,5
+India | Gujarat | Morbi,5
+India | Dadra and Nagar Haveli | Dadra and Nagar Haveli,5
+India | Daman and Diu | Daman,5
+India | Himachal Pradesh | Mandi,5
+India | Assam | Golaghat,5
+India | Tamil Nadu | Vellore,5
+India | Assam | Jorhat,5
+India | Tripura | West Tripura,5
+India | Uttar Pradesh | Agra,5
+India | Uttar Pradesh | Aligarh,5
+India | Haryana | Kurukshetra,5
+India | Gujarat | Surendranagar,5
+India | Assam | Kamrup,5
+India | Tamil Nadu | Tiruchirappalli,5
+India | Assam | Karbi Anglong,5
+India | Telangana | Karimnagar,5
+India | Telangana | Khammam,5
+India | Haryana | Palwal,5
+India | Bihar | Patna,5
+India | Telangana | Medak,5
+India | Rajasthan | Sri Ganganagar,5
+India | Assam | Sivasagar,5
+India | Telangana | Warangal,5
+India | Gujarat | Valsad,5
+India | Rajasthan | Udaipur,5
+India | Himachal Pradesh | Una,5
+India | Tamil Nadu | Madurai,5
+India | Chhattisgarh | Durg,5
+India | Haryana | Rewari,5
+India | Rajasthan | Jodhpur,5
+India | Chhattisgarh | Kanker,5
+India | Haryana | Sonepat,5
+India | Chhattisgarh | Koriya,5
+India | Himachal Pradesh | Hamirpur,5
+India | Jharkhand | Ramgarh,5
+India | Tamil Nadu | Karur,5
+India | Uttar Pradesh | Meerut,5
+India | Karnataka | Udupi,5
+India | Karnataka | Bellary,5
+India | Karnataka | Dakshina Kannada,5
+India | Karnataka | Dharwad,5
+India | Karnataka | Gulbarga,5
+India | Karnataka | Mandya,5
+India | Rajasthan | Bikaner,5
+India | Madhya Pradesh | Dewas,5
+India | Madhya Pradesh | Jabalpur,5
+India | Rajasthan | Alwar,5
+India | Maharashtra | Gadchiroli,5
+India | Madhya Pradesh | Katni,5
+India | Madhya Pradesh | Morena,5
+India | Madhya Pradesh | Narsinghpur,5
+India | Madhya Pradesh | Ratlam,5
+India | Maharashtra | Nashik,5
+India | Maharashtra | Aurangabad district,5
+India | Manipur | Imphal East,5
+India | Meghalaya | East Khasi Hills,5
+India | Punjab | Pathankot,5
+India | Maharashtra | Gondia,5
+India | Maharashtra | Jalgaon,5
+India | Odisha | Jharsuguda,5
+India | Odisha | Sundargarh,5
+India | Uttar Pradesh | Varanasi,5
+India | West Bengal | South 24 Parganas,5
+India | Andhra Pradesh | Guntur,5
+India | Andhra Pradesh | East Godavari,5
+India | Andhra Pradesh | Chittoor,5
+India | Odisha | Ganjam,5
+India | West Bengal | Birbhum,5
+India | West Bengal | Dakshin Dinajpur,5
+India | West Bengal | Hooghly,5
+India | West Bengal | Jalpaiguri,5
+India | West Bengal | Nadia,5
+India | Andhra Pradesh | Srikakulam,5
+India | Uttar Pradesh | Pilibhit,4
+India | Uttar Pradesh | Rae Bareli,4
+India | Chhattisgarh | Surajpur,4
+India | Chhattisgarh | Surguja,4
+India | Tripura | North Tripura,4
+India | Tripura | Sipahijala,4
+India | Uttar Pradesh | Barabanki,4
+India | Uttar Pradesh | Bareilly,4
+India | Uttar Pradesh | Chandauli,4
+India | Uttar Pradesh | Etawah,4
+India | Uttar Pradesh | Farrukhabad,4
+India | Uttar Pradesh | Fatehpur,4
+India | Tripura | Gomati,4
+India | Delhi | North Delhi,4
+India | Delhi | North East Delhi,4
+India | Delhi | North West Delhi,4
+India | Delhi | Shahdara,4
+India | Goa | South Goa,4
+India | Chhattisgarh | Dhamtari,4
+India | Chhattisgarh | Janjgir-Champa,4
+India | Chhattisgarh | Jashpur,4
+India | Chhattisgarh | Korba,4
+India | Chhattisgarh | Mahasamund,4
+India | Chhattisgarh | Raigarh,4
+India | Chhattisgarh | Rajnandgaon,4
+India | Gujarat | Banaskantha,4
+India | Tamil Nadu | Tiruvannamalai,4
+India | Tamil Nadu | Villupuram,4
+India | Tamil Nadu | Virudhunagar,4
+India | Telangana | Adilabad,4
+India | Telangana | Mahabubnagar,4
+India | Telangana | Nalgonda,4
+India | Haryana | Faridabad,4
+India | Haryana | Hisar,4
+India | Tamil Nadu | Krishnagiri,4
+India | Tamil Nadu | Nagapattinam,4
+India | Tamil Nadu | Namakkal,4
+India | Tamil Nadu | Nilgiris,4
+India | Tamil Nadu | Pudukkottai,4
+India | Tamil Nadu | Ramanathapuram,4
+India | Tamil Nadu | Salem,4
+India | Tamil Nadu | Sivaganga,4
+India | Tamil Nadu | Thanjavur,4
+India | Tamil Nadu | Thiruvarur,4
+India | Tamil Nadu | Thoothukudi,4
+India | Tamil Nadu | Tiruppur,4
+India | Rajasthan | Tonk,4
+India | Sikkim | East Sikkim,4
+India | Tamil Nadu | Cuddalore,4
+India | Tamil Nadu | Dharmapuri,4
+India | Tamil Nadu | Dindigul,4
+India | Tamil Nadu | Erode,4
+India | Tamil Nadu | Kanyakumari,4
+India | Gujarat | Rajkot,4
+India | Gujarat | Surat,4
+India | Gujarat | Tapi,4
+India | Jharkhand | Dhanbad,4
+India | Jharkhand | Dumka,4
+India | Jharkhand | East Singhbhum,4
+India | Jharkhand | Hazaribagh,4
+India | Jharkhand | Pakur,4
+India | Haryana | Karnal,4
+India | Haryana | Panchkula,4
+India | Haryana | Rohtak,4
+India | Himachal Pradesh | Kangra,4
+India | Rajasthan | Sikar,4
+India | Karnataka | Davanagere,4
+India | Rajasthan | Dhaulpur,4
+India | Rajasthan | Dungarpur,4
+India | Rajasthan | Jaisalmer,4
+India | Rajasthan | Jhalawar,4
+India | Rajasthan | Jhunjhunu,4
+India | Rajasthan | Karauli,4
+India | Rajasthan | Pratapgarh,4
+India | Rajasthan | Rajsamand,4
+India | Himachal Pradesh | Kullu,4
+India | Himachal Pradesh | Shimla,4
+India | Jharkhand | Bokaro,4
+India | Jharkhand | Deoghar,4
+India | Karnataka | Shimoga,4
+India | Karnataka | Tumkur,4
+India | Uttar Pradesh | Shahjahanpur,4
+India | Karnataka | Uttara Kannada,4
+India | Jharkhand | Seraikela Kharsawan,4
+India | Jharkhand | West Singhbhum,4
+India | Karnataka | Bagalkot,4
+India | Karnataka | Bangalore Rural,4
+India | Karnataka | Belagavi,4
+India | Arunachal Pradesh | Papum Pare,4
+India | Karnataka | Bidar,4
+India | Karnataka | Bijapur,4
+India | Karnataka | Chikballapur,4
+India | Karnataka | Chikkamagaluru,4
+India | Karnataka | Chitradurga,4
+India | Assam | Baksa,4
+India | Kerala | Palakkad,4
+India | Kerala | Pathanamthitta,4
+India | Kerala | Wayanad,4
+India | Madhya Pradesh | Balaghat,4
+India | Assam | Barpeta,4
+India | Karnataka | Gadag,4
+India | Assam | Darrang,4
+India | Karnataka | Hassan,4
+India | Karnataka | Haveri,4
+India | Karnataka | Kodagu,4
+India | Karnataka | Kolar,4
+India | Karnataka | Koppal,4
+India | Assam | Dhubri,4
+India | Karnataka | Mysuru,4
+India | Karnataka | Raichur,4
+India | Karnataka | Ramanagara,4
+India | Rajasthan | Banswara,4
+India | Rajasthan | Baran,4
+India | Rajasthan | Barmer,4
+India | Rajasthan | Bharatpur,4
+India | Rajasthan | Bhilwara,4
+India | Assam | Dibrugarh,4
+India | Rajasthan | Bundi,4
+India | Rajasthan | Chittaurgarh,4
+India | Rajasthan | Dausa,4
+India | Karnataka | Yadgir,4
+India | Kerala | Alappuzha,4
+India | Kerala | Idukki,4
+India | Kerala | Kannur,4
+India | Kerala | Kasaragod,4
+India | Kerala | Kollam,4
+India | Kerala | Malappuram,4
+India | Madhya Pradesh | Satna,4
+India | Madhya Pradesh | Sehore,4
+India | Madhya Pradesh | Seoni,4
+India | Madhya Pradesh | Barwani,4
+India | Madhya Pradesh | Betul,4
+India | Madhya Pradesh | Chhatarpur,4
+India | Madhya Pradesh | Chhindwara,4
+India | Assam | Goalpara,4
+India | Madhya Pradesh | Dhar,4
+India | Madhya Pradesh | Guna,4
+India | Madhya Pradesh | Harda,4
+India | Madhya Pradesh | Hoshangabad,4
+India | Madhya Pradesh | Indore,4
+India | Assam | Hailakandi,4
+India | Rajasthan | Ajmer,4
+India | Andhra Pradesh | Vishakhapatnam,4
+India | Maharashtra | Chandrapur,4
+India | Maharashtra | Dhule,4
+India | Bihar | Bhagalpur,4
+India | Bihar | Gaya,4
+India | Madhya Pradesh | Khandwa,4
+India | Madhya Pradesh | Khargone,4
+India | Madhya Pradesh | Mandla,4
+India | Madhya Pradesh | Mandsaur,4
+India | Bihar | Kishanganj,4
+India | Bihar | Muzaffarpur,4
+India | Madhya Pradesh | Neemuch,4
+India | Madhya Pradesh | Raisen,4
+India | Madhya Pradesh | Rajgarh,4
+India | Assam | Kamrup Metropolitan,4
+India | Madhya Pradesh | Rewa,4
+India | Madhya Pradesh | Sagar,4
+India | Maharashtra | Nandurbar,4
+India | Assam | Karimganj,4
+India | Maharashtra | Osmanabad,4
+India | Maharashtra | Parbhani,4
+India | Madhya Pradesh | Shahdol,4
+India | Madhya Pradesh | Shivpuri,4
+India | Madhya Pradesh | Singrauli,4
+India | Madhya Pradesh | Tikamgarh,4
+India | Madhya Pradesh | Ujjain,4
+India | Madhya Pradesh | Vidisha,4
+India | Maharashtra | Ahmednagar,4
+India | Maharashtra | Akola,4
+India | Assam | Kokrajhar,4
+India | Maharashtra | Beed,4
+India | Maharashtra | Bhandara,4
+India | Maharashtra | Buldhana,4
+India | Maharashtra | Sindhudurg,4
+India | Maharashtra | Solapur,4
+India | Maharashtra | Washim,4
+India | Maharashtra | Yavatmal,4
+India | Assam | Lakhimpur,4
+India | Assam | Morigaon,4
+India | Meghalaya | West Garo Hills,4
+India | Assam | Nagaon,4
+India | Punjab | Sahibzada Ajit Singh Nagar,4
+India | Assam | Nalbari,4
+India | Maharashtra | Hingoli,4
+India | Assam | Sonitpur,4
+India | Maharashtra | Jalna,4
+India | Maharashtra | Kolhapur,4
+India | Maharashtra | Latur,4
+India | Maharashtra | Nanded,4
+India | Odisha | Jagatsinghpur,4
+India | Odisha | Jajpur,4
+India | Assam | Tinsukia,4
+India | Odisha | Kalahandi,4
+India | Odisha | Kendrapara,4
+India | Odisha | Kendujhar,4
+India | Odisha | Koraput,4
+India | Odisha | Mayurbhanj,4
+India | Odisha | Nayagarh,4
+India | Odisha | Nuapada,4
+India | Odisha | Rayagada,4
+India | Odisha | Subarnapur,4
+India | Chhattisgarh | Balod,4
+India | Maharashtra | Ratnagiri,4
+India | Maharashtra | Sangli,4
+India | Maharashtra | Satara,4
+India | Andhra Pradesh | Anantapuram,4
+India | Uttar Pradesh | Sultanpur,4
+India | Uttar Pradesh | Unnao,4
+India | Chhattisgarh | Baloda Bazar,4
+India | Uttarakhand | Dehradun,4
+India | Uttarakhand | Nainital,4
+India | Uttarakhand | Pauri Garhwal,4
+India | West Bengal | Alipurduar,4
+India | West Bengal | Purulia,4
+India | Chhattisgarh | Balrampur,4
+India | West Bengal | Uttar Dinajpur,4
+India | Andhra Pradesh | Krishna,4
+India | Chhattisgarh | Bastar,4
+India | Chhattisgarh | Bilaspur,4
+India | Uttar Pradesh | Gonda,4
+India | Uttar Pradesh | Gorakhpur,4
+India | West Bengal | West Medinipur,4
+India | Uttar Pradesh | Hardoi,4
+India | West Bengal | Cooch Behar,4
+India | Uttar Pradesh | Jhansi,4
+India | West Bengal | Darjeeling,4
+India | Uttar Pradesh | Kanpur Nagar,4
+India | West Bengal | Howrah,4
+India | Uttar Pradesh | Lakhimpur Kheri,4
+India | Uttar Pradesh | Lucknow,4
+India | West Bengal | Purba Medinipur,4
+India | Uttar Pradesh | Mirzapur,4
+India | Odisha | Balangir,4
+India | Odisha | Balasore,4
+India | Odisha | Bargarh,4
+India | Odisha | Bhadrak,4
+India | West Bengal | Bankura,4
+India | Andhra Pradesh | YSR District,3
+India | West Bengal | Malda,3
+India | West Bengal | Murshidabad,3
+India | Odisha | Cuttack,3
+India | Nagaland | Dimapur,3
+India | Nagaland | Kohima,3
+India | Manipur | Thoubal,3
+India | Puducherry | Karaikal,3
+India | Punjab | Barnala,3
+India | Odisha | Sambalpur,3
+India | Odisha | Kandhamal,3
+India | Rajasthan | Pali,3
+India | Jharkhand | Giridih,3
+India | Haryana | Jind,3
+India | Rajasthan | Nagaur,3
+India | Himachal Pradesh | Sirmaur,3
+India | Punjab | Bathinda,3
+India | Maharashtra | Wardha,3
+India | Punjab | Fatehgarh Sahib,3
+India | Punjab | Mansa,3
+India | Punjab | Rupnagar,3
+India | Maharashtra | Nagpur,3
+India | Punjab | Hoshiarpur,3
+India | Punjab | Gurdaspur,3
+India | Punjab | Ferozepur,3
+India | Punjab | Fazilka,3
+India | Jharkhand | Palamu,3
+India | Jharkhand | Sahibganj,3
+India | Rajasthan | Kota,3
+India | Rajasthan | Jalore,3
+India | Rajasthan | Hanumangarh,3
+India | Himachal Pradesh | Solan,3
+India | Rajasthan | Churu,3
+India | Kerala | Thiruvananthapuram,3
+India | Kerala | Ernakulam,3
+India | Punjab | Shaheed Bhagat Singh Nagar,3
+India | Punjab | Sri Muktsar Sahib,3
+India | Punjab | Tarn Taran,3
+India | Punjab | Sangrur,3
+India | Madhya Pradesh | Burhanpur,3
+India | Madhya Pradesh | Damoh,3
+India | Madhya Pradesh | Bhind,3
+India | Maharashtra | Amravati,3
+India | Telangana | Nizamabad,3
+India | Gujarat | Anand,3
+India | Gujarat | Aravalli,3
+India | Chhattisgarh | Raipur,3
+India | Gujarat | Amreli,3
+India | Uttar Pradesh | Ballia,3
+India | Uttar Pradesh | Bahraich,3
+India | Uttar Pradesh | Banda,3
+India | Gujarat | Dahod,3
+India | Gujarat | Botad,3
+India | Gujarat | Bharuch,3
+India | Gujarat | Panchmahal,3
+India | Gujarat | Kheda,3
+India | Gujarat | Kutch,3
+India | Gujarat | Devbhoomi Dwarka,3
+India | Gujarat | Navsari,3
+India | Haryana | Fatehabad,3
+India | Haryana | Jhajjar,3
+India | Tamil Nadu | Theni,3
+India | Tamil Nadu | Tirunelveli,3
+India | Gujarat | Bhavnagar,3
+India | Haryana | Bhiwani,3
+India | Gujarat | Sabarkatha,3
+India | Gujarat | Patan,3
+India | Tamil Nadu | Ariyalur,3
+India | Rajasthan | Sirohi,3
+India | Haryana | Yamuna Nagar,3
+India | Haryana | Sirsa,3
+India | Haryana | Panipat,3
+India | Haryana | Mewat,3
+India | Haryana | Mahendragarh,3
+India | Haryana | Kaithal,3
+India | Andhra Pradesh | Prakasam,3
+India | Andhra Pradesh | Sri Potti Sriramulu Nellore District,3
+India | Bihar | Aurangabad,3
+India | Uttar Pradesh | Sambhal,3
+India | Bihar | Buxar,3
+India | Bihar | Bhojpur,3
+India | Bihar | Darbhanga,3
+India | Bihar | Gopalganj,3
+India | Bihar | Madhepura,3
+India | Bihar | Jamui,3
+India | Bihar | Kaimur,3
+India | Bihar | Katihar,3
+India | Bihar | Nalanda,3
+India | Bihar | Munger,3
+India | Bihar | Araria,3
+India | Bihar | Nawada,3
+India | Andhra Pradesh | Kurnool,3
+India | Uttarakhand | Udham Singh Nagar,3
+India | Uttarakhand | Haridwar,3
+India | Bihar | Begusarai,3
+India | Uttar Pradesh | Jaunpur,3
+India | Uttar Pradesh | Kanpur Dehat,3
+India | Uttar Pradesh | Kanshi Ram Nagar,3
+India | Uttar Pradesh | Lalitpur,3
+India | Uttar Pradesh | Moradabad,3
+India | Uttar Pradesh | Mau,3
+India | Uttar Pradesh | Mahoba,3
+India | Uttar Pradesh | Mainpuri,3
+India | Uttar Pradesh | Muzaffarnagar,3
+India | Uttar Pradesh | Saharanpur,3
+India | Uttar Pradesh | Rampur,3
+India | Uttar Pradesh | Pratapgarh,3
+India | Uttar Pradesh | Bijnor,3
+India | Uttar Pradesh | Basti,3
+India | Uttar Pradesh | Bulandshahar,3
+India | Uttar Pradesh | Balrampur,3
+India | Uttar Pradesh | Auraiya,3
+India | Uttar Pradesh | Amroha,3
+India | Uttar Pradesh | Amethi,3
+India | Uttar Pradesh | Ambedkar Nagar,3
+India | Uttar Pradesh | Bagpat,3
+India | Uttar Pradesh | Badaun,3
+India | Uttar Pradesh | Ayodhya,3
+India | Uttar Pradesh | Azamgarh,3
+India | Uttar Pradesh | Jalaun,3
+India | Uttar Pradesh | Hathras,3
+India | Uttar Pradesh | Maharajganj,3
+India | Uttar Pradesh | Mathura,3
+India | Uttar Pradesh | Hamirpur,3
+India | Uttar Pradesh | Hapur,3
+India | Bihar | Vaishali,3
+India | Bihar | Supaul,3
+India | Bihar | Samastipur,3
+India | Bihar | Saharsa,3
+India | Bihar | Siwan,3
+India | Bihar | Saran,3
+India | Bihar | Purvi Champaran,3
+India | Bihar | Rohtas,3
+India | Bihar | Pashchim Champaran,3
+India | Bihar | Purnia,3
+India | Uttar Pradesh | Ghazipur,3
+India | Uttar Pradesh | Firozabad,3
+India | Uttar Pradesh | Etah,3
+India | Uttar Pradesh | Deoria,3
+India | Uttar Pradesh | Shamli,3
+India | Uttar Pradesh | Sant Kabir Nagar,3
+India | Uttar Pradesh | Sonbhadra,3
+India | Uttar Pradesh | Sitapur,3
+India | Karnataka | Bangalore Urban,2
+India | Madhya Pradesh | Bhopal,2
+India | Kerala | Kottayam,2
+India | Kerala | Kozhikode,2
+India | Madhya Pradesh | Gwalior,2
+India | Maharashtra | Pune,2
+India | Punjab | Jalandhar,2
+India | Punjab | Moga,2
+India | Punjab | Patiala,2
+India | Maharashtra | Mumbai,2
+India | Maharashtra | Mumbai Suburban,2
+India | Odisha | Puri,2
+India | Punjab | Faridkot,2
+India | Manipur | Imphal West,2
+India | Maharashtra | Thane,2
+India | Manipur | Churachandpur,2
+India | Maharashtra | Raigad,2
+India | Odisha | Khordha,2
+India | Puducherry | Pondicherry,2
+India | Punjab | Amritsar,2
+India | Punjab | Ludhiana,2
+India | Punjab | Kapurthala,2
+India | Maharashtra | Palghar,2
+India | West Bengal | Kolkata,2
+India | Mizoram | Aizawl,2
+India | West Bengal | North 24 Parganas,2
+India | Odisha | Angul,2
+India | Odisha | Dhenkanal,2
+India | Rajasthan | Sawai Madhopur,2
+India | Jharkhand | Ranchi,2
+India | Kerala | Thrissur,2
+India | Rajasthan | Jaipur,2
+India | Delhi | Central Delhi,2
+India | Delhi | South Delhi,2
+India | Delhi | New Delhi,2
+India | Delhi | East Delhi,2
+India | Delhi | South East Delhi,2
+India | Goa | North Goa,2
+India | Delhi | West Delhi,2
+India | Delhi | South West Delhi,2
+India | Tamil Nadu | Chennai,2
+India | Haryana | Gurgaon,2
+India | Gujarat | Jamnagar,2
+India | Gujarat | Gandhinagar,2
+India | Haryana | Ambala,2
+India | Gujarat | Vadodara,2
+India | Tamil Nadu | Coimbatore,2
+India | Tamil Nadu | Kanchipuram,2
+India | Gujarat | Ahmedabad,2
+India | Tamil Nadu | Tiruvallur,2
+India | Telangana | Hyderabad,2
+India | Telangana | Ranga Reddy,2
+India | Uttar Pradesh | Shrawasti,2
+India | Uttar Pradesh | Gautam Buddh Nagar,2
+India | Uttar Pradesh | Ghaziabad,2
+India | Uttar Pradesh | Prayagraj,2
+India | Uttar Pradesh | Kushinagar,1
+India | Bihar | Madhubani,1
+India | Bihar | Banka,1
+India | Uttar Pradesh | Siddharthnagar,1

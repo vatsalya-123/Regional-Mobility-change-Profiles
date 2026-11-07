@@ -1,0 +1,8 @@
+period,0,1,2
+pre_pandemic,0.0,1.0,0.0
+first_wave,0.989,0.011,0.0
+reopening_2020,0.632,0.368,0.0
+winter_wave,0.122,0.878,0.0
+delta_wave,0.737,0.26,0.004
+omicron_wave,0.0,0.385,0.615
+late_pandemic,0.0,0.132,0.868

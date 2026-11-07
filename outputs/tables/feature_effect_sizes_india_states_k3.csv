@@ -1,0 +1,13 @@
+feature,H,p_value,epsilon_sq
+trough_depth,23.4279,0.0,0.7557
+workplaces__late_mean,21.5248,0.0,0.6943
+residential__first_wave_mean,21.5248,0.0,0.6943
+workplaces__first_wave_mean,21.2864,0.0,0.6867
+retail_and_recreation__late_mean,20.7048,0.0,0.6679
+residential__late_mean,20.0197,0.0,0.6458
+retail_and_recreation__first_wave_mean,17.6182,0.0001,0.5683
+transit_stations__first_wave_mean,10.4938,0.0053,0.3385
+grocery_and_pharmacy__first_wave_mean,8.7712,0.0125,0.2829
+grocery_and_pharmacy__late_mean,7.8973,0.0193,0.2548
+transit_stations__late_mean,7.691,0.0214,0.2481
+recovery_days,6.4486,0.0398,0.208

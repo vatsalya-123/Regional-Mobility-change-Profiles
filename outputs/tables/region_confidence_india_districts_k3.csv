@@ -1,0 +1,525 @@
+region_id,cluster,silhouette,membership_confidence,borderline
+India | Bihar | Nalanda,0,-0.054,0.48,True
+India | Tamil Nadu | Madurai,1,0.01,0.52,True
+India | Rajasthan | Hanumangarh,1,0.062,0.52,True
+India | Karnataka | Ramanagara,0,-0.043,0.56,True
+India | Bihar | Muzaffarpur,1,0.06,0.6,True
+India | Bihar | Rohtas,1,0.071,0.6,True
+India | Rajasthan | Rajsamand,1,0.065,0.6,True
+India | West Bengal | South 24 Parganas,1,0.021,0.6,True
+India | West Bengal | Murshidabad,0,-0.053,0.66,True
+India | Karnataka | Mysuru,2,-0.005,0.68,True
+India | Tamil Nadu | Virudhunagar,1,0.075,0.7,True
+India | Tripura | Gomati,1,0.057,0.7,True
+India | Tamil Nadu | Tirunelveli,1,0.087,0.74,True
+India | Uttar Pradesh | Prayagraj,1,0.046,0.8,True
+India | Tamil Nadu | Tiruchirappalli,1,0.057,0.8,True
+India | Tripura | West Tripura,1,0.04,0.8,True
+India | Haryana | Rewari,1,0.054,0.8,True
+India | Daman and Diu | Daman,1,0.053,0.8,True
+India | West Bengal | Darjeeling,1,0.044,0.8,True
+India | Haryana | Rohtak,2,0.017,0.8,True
+India | Karnataka | Dakshina Kannada,2,0.021,0.82,True
+India | West Bengal | Alipurduar,0,-0.041,0.82,True
+India | Madhya Pradesh | Mandsaur,1,0.086,0.82,True
+India | Uttar Pradesh | Varanasi,2,0.023,0.84,True
+India | Haryana | Kurukshetra,2,0.025,0.84,True
+India | Nagaland | Dimapur,1,0.06,0.9,True
+India | Punjab | Sri Muktsar Sahib,1,0.095,0.92,True
+India | Tamil Nadu | Vellore,1,0.089,0.92,True
+India | Jharkhand | Ramgarh,1,0.09,0.92,True
+India | Punjab | Shaheed Bhagat Singh Nagar,1,0.092,0.92,True
+India | Punjab | Faridkot,1,0.097,0.92,True
+India | Punjab | Hoshiarpur,1,0.083,0.92,True
+India | Assam | Baksa,0,-0.02,0.92,True
+India | Puducherry | Pondicherry,2,0.083,0.94,True
+India | Chhattisgarh | Koriya,1,0.123,0.94,False
+India | Punjab | Bathinda,2,0.13,0.94,False
+India | Punjab | Pathankot,2,0.12,0.94,False
+India | Punjab | Moga,2,0.049,0.94,True
+India | Chhattisgarh | Durg,2,0.102,0.94,False
+India | Tamil Nadu | Dindigul,1,0.171,0.94,False
+India | Rajasthan | Dausa,1,0.146,0.94,False
+India | Tamil Nadu | Cuddalore,1,0.127,0.94,False
+India | Rajasthan | Sikar,1,0.127,0.94,False
+India | Chhattisgarh | Kanker,1,0.086,0.94,True
+India | Bihar | Patna,2,0.178,0.94,False
+India | Tamil Nadu | Sivaganga,1,0.094,0.94,True
+India | Rajasthan | Pali,1,0.149,0.94,False
+India | Tamil Nadu | Pudukkottai,1,0.133,0.94,False
+India | Rajasthan | Jodhpur,2,0.156,0.94,False
+India | Mizoram | Aizawl,2,0.044,0.94,True
+India | Manipur | Churachandpur,1,0.074,0.94,True
+India | Manipur | Imphal West,2,0.096,0.94,True
+India | Odisha | Koraput,1,0.12,0.94,False
+India | Maharashtra | Nandurbar,1,0.184,0.94,False
+India | Odisha | Bhadrak,1,0.109,0.94,False
+India | Tamil Nadu | Theni,1,0.199,0.94,False
+India | Tamil Nadu | Namakkal,1,0.135,0.94,False
+India | Bihar | Bhagalpur,1,0.125,0.94,False
+India | Tamil Nadu | Dharmapuri,1,0.092,0.94,True
+India | Rajasthan | Udaipur,2,0.236,0.94,False
+India | Tamil Nadu | Nilgiris,1,0.144,0.94,False
+India | Uttar Pradesh | Meerut,2,0.096,0.94,True
+India | Telangana | Mahabubnagar,1,0.2,0.94,False
+India | Bihar | Gaya,1,0.124,0.94,False
+India | Karnataka | Gadag,1,0.108,0.94,False
+India | Karnataka | Hassan,1,0.186,0.94,False
+India | Haryana | Karnal,2,0.152,0.94,False
+India | Karnataka | Bijapur,1,0.174,0.94,False
+India | Haryana | Bhiwani,1,0.135,0.94,False
+India | Karnataka | Tumkur,1,0.176,0.94,False
+India | Kerala | Malappuram,1,0.145,0.94,False
+India | Karnataka | Uttara Kannada,1,0.204,0.94,False
+India | Madhya Pradesh | Dhar,1,0.088,0.94,True
+India | Karnataka | Raichur,1,0.134,0.94,False
+India | Gujarat | Valsad,2,0.211,0.94,False
+India | Gujarat | Tapi,1,0.188,0.94,False
+India | Gujarat | Kheda,2,0.082,0.94,True
+India | Madhya Pradesh | Chhindwara,1,0.084,0.94,True
+India | Madhya Pradesh | Betul,1,0.211,0.94,False
+India | Odisha | Kendujhar,1,0.158,0.94,False
+India | Madhya Pradesh | Harda,1,0.101,0.94,False
+India | Maharashtra | Aurangabad district,2,0.092,0.94,True
+India | Madhya Pradesh | Jabalpur,2,0.094,0.94,True
+India | Madhya Pradesh | Ujjain,2,0.172,0.94,False
+India | Maharashtra | Bhandara,1,0.123,0.94,False
+India | Maharashtra | Buldhana,1,0.167,0.94,False
+India | Gujarat | Jamnagar,2,0.076,0.94,True
+India | Haryana | Ambala,2,0.196,0.94,False
+India | Kerala | Thiruvananthapuram,2,0.148,0.94,False
+India | Madhya Pradesh | Balaghat,1,0.224,0.94,False
+India | Odisha | Cuttack,2,0.163,0.94,False
+India | Gujarat | Botad,1,0.158,0.94,False
+India | Goa | South Goa,2,0.248,0.94,False
+India | Goa | North Goa,2,0.131,0.94,False
+India | Maharashtra | Yavatmal,1,0.147,0.94,False
+India | Maharashtra | Sindhudurg,1,0.116,0.94,False
+India | Karnataka | Bagalkot,1,0.138,0.94,False
+India | Haryana | Sirsa,1,0.145,0.94,False
+India | Jharkhand | East Singhbhum,2,0.105,0.94,False
+India | Uttarakhand | Nainital,1,0.147,0.94,False
+India | West Bengal | Hooghly,2,0.112,0.94,False
+India | Haryana | Sonepat,2,0.176,0.94,False
+India | West Bengal | Dakshin Dinajpur,1,0.184,0.94,False
+India | Assam | Darrang,1,0.127,0.94,False
+India | Telangana | Nalgonda,1,0.229,0.94,False
+India | Uttar Pradesh | Etawah,1,0.147,0.94,False
+India | Karnataka | Belagavi,1,0.232,0.94,False
+India | Telangana | Nizamabad,1,0.22,0.94,False
+India | Assam | Morigaon,1,0.117,0.94,False
+India | Assam | Kokrajhar,1,0.098,0.94,True
+India | Karnataka | Chikkamagaluru,0,0.006,0.96,True
+India | Gujarat | Navsari,2,0.242,0.96,False
+India | Rajasthan | Banswara,0,-0.031,0.96,True
+India | Andhra Pradesh | Krishna,2,0.243,0.96,False
+India | Madhya Pradesh | Morena,0,0.0,0.96,True
+India | Madhya Pradesh | Chhatarpur,0,-0.028,0.96,True
+India | Karnataka | Chikballapur,0,-0.019,0.96,True
+India | Haryana | Mahendragarh,0,-0.003,0.96,True
+India | Gujarat | Gir Somnath,0,-0.011,0.96,True
+India | Gujarat | Anand,2,0.269,0.96,False
+India | Chhattisgarh | Korba,1,0.236,0.96,False
+India | Rajasthan | Tonk,0,-0.024,0.96,True
+India | Bihar | Kishanganj,1,0.187,0.96,False
+India | Uttar Pradesh | Bulandshahar,0,-0.006,0.96,True
+India | Chhattisgarh | Surguja,1,0.18,0.96,False
+India | Tamil Nadu | Ramanathapuram,0,-0.009,0.96,True
+India | Chhattisgarh | Bilaspur,1,0.129,0.98,False
+India | Assam | Nagaon,1,0.261,0.98,False
+India | Haryana | Jind,1,0.139,0.98,False
+India | Gujarat | Morbi,1,0.114,0.98,False
+India | Odisha | Balangir,1,0.251,0.98,False
+India | Meghalaya | East Khasi Hills,1,0.108,0.98,False
+India | Maharashtra | Ratnagiri,1,0.269,0.98,False
+India | Odisha | Bargarh,1,0.205,0.98,False
+India | Gujarat | Dahod,1,0.201,0.98,False
+India | Maharashtra | Sangli,1,0.252,0.98,False
+India | Tripura | North Tripura,1,0.2,0.98,False
+India | Assam | Kamrup Metropolitan,2,0.282,0.98,False
+India | West Bengal | Purba Medinipur,1,0.249,0.98,False
+India | Uttar Pradesh | Kanpur Nagar,2,0.228,0.98,False
+India | Rajasthan | Chittaurgarh,0,-0.009,0.98,True
+India | Rajasthan | Kota,2,0.294,0.98,False
+India | Punjab | Sangrur,1,0.114,0.98,False
+India | Jharkhand | West Singhbhum,1,0.281,0.98,False
+India | Andhra Pradesh | Prakasam,1,0.286,0.98,False
+India | Andhra Pradesh | Vishakhapatnam,2,0.288,0.98,False
+India | Himachal Pradesh | Kullu,1,0.196,0.98,False
+India | Himachal Pradesh | Mandi,0,0.025,0.98,True
+India | Himachal Pradesh | Hamirpur,0,0.008,0.98,True
+India | West Bengal | Cooch Behar,1,0.235,0.98,False
+India | West Bengal | Kolkata,2,0.531,1.0,False
+India | West Bengal | Jalpaiguri,1,0.155,1.0,False
+India | West Bengal | Howrah,2,0.455,1.0,False
+India | West Bengal | Birbhum,1,0.388,1.0,False
+India | West Bengal | Bardhaman,1,0.441,1.0,False
+India | West Bengal | Bankura,0,0.138,1.0,False
+India | Uttarakhand | Udham Singh Nagar,1,0.257,1.0,False
+India | Uttarakhand | Pauri Garhwal,0,0.14,1.0,False
+India | Uttarakhand | Haridwar,1,0.31,1.0,False
+India | Uttarakhand | Dehradun,1,0.136,1.0,False
+India | Assam | Chirang,1,0.39,1.0,False
+India | Assam | Cachar,1,0.376,1.0,False
+India | Assam | Barpeta,0,0.153,1.0,False
+India | Arunachal Pradesh | Papum Pare,1,0.319,1.0,False
+India | Andhra Pradesh | YSR District,1,0.405,1.0,False
+India | Andhra Pradesh | West Godavari,1,0.461,1.0,False
+India | Andhra Pradesh | Vizianagaram,1,0.453,1.0,False
+India | Andhra Pradesh | Srikakulam,1,0.399,1.0,False
+India | Andhra Pradesh | Sri Potti Sriramulu Nellore District,1,0.388,1.0,False
+India | Andhra Pradesh | Kurnool,1,0.409,1.0,False
+India | West Bengal | Malda,1,0.289,1.0,False
+India | Jharkhand | Dumka,0,0.11,1.0,False
+India | Jharkhand | Dhanbad,1,0.417,1.0,False
+India | Jharkhand | Deoghar,0,-0.009,1.0,True
+India | Jharkhand | Bokaro,1,0.386,1.0,False
+India | Himachal Pradesh | Una,1,0.36,1.0,False
+India | Himachal Pradesh | Solan,1,0.382,1.0,False
+India | Himachal Pradesh | Sirmaur,0,0.188,1.0,False
+India | Himachal Pradesh | Shimla,0,0.081,1.0,True
+India | Himachal Pradesh | Kangra,0,0.182,1.0,False
+India | Haryana | Yamuna Nagar,1,0.23,1.0,False
+India | Karnataka | Bidar,1,0.28,1.0,False
+India | Karnataka | Bellary,1,0.255,1.0,False
+India | Karnataka | Bangalore Urban,2,0.452,1.0,False
+India | Karnataka | Bangalore Rural,1,0.314,1.0,False
+India | Jharkhand | Seraikela Kharsawan,1,0.314,1.0,False
+India | Jharkhand | Sahibganj,0,0.363,1.0,False
+India | Jharkhand | Ranchi,2,0.322,1.0,False
+India | Jharkhand | Palamu,0,0.257,1.0,False
+India | Jharkhand | Pakur,0,0.15,1.0,False
+India | Jharkhand | Hazaribagh,0,0.053,1.0,True
+India | Jharkhand | Giridih,0,0.257,1.0,False
+India | Karnataka | Mandya,1,0.314,1.0,False
+India | Karnataka | Koppal,0,0.074,1.0,True
+India | Karnataka | Kolar,0,0.043,1.0,True
+India | Karnataka | Kodagu,1,0.293,1.0,False
+India | Karnataka | Haveri,0,0.083,1.0,True
+India | Karnataka | Gulbarga,1,0.419,1.0,False
+India | Karnataka | Dharwad,1,0.193,1.0,False
+India | Karnataka | Davanagere,1,0.389,1.0,False
+India | Karnataka | Chitradurga,0,0.184,1.0,False
+India | Haryana | Panipat,1,0.147,1.0,False
+India | Haryana | Panchkula,2,0.476,1.0,False
+India | Haryana | Palwal,1,0.26,1.0,False
+India | Haryana | Mewat,0,0.29,1.0,False
+India | Haryana | Kaithal,1,0.326,1.0,False
+India | Haryana | Jhajjar,1,0.261,1.0,False
+India | Haryana | Hisar,1,0.139,1.0,False
+India | Haryana | Gurgaon,2,0.525,1.0,False
+India | Haryana | Fatehabad,1,0.348,1.0,False
+India | Haryana | Faridabad,2,0.472,1.0,False
+India | Kerala | Kozhikode,1,0.272,1.0,False
+India | Kerala | Kottayam,1,0.225,1.0,False
+India | Kerala | Kollam,1,0.36,1.0,False
+India | Kerala | Kasaragod,1,0.287,1.0,False
+India | Kerala | Kannur,1,0.287,1.0,False
+India | Kerala | Idukki,1,0.356,1.0,False
+India | Kerala | Ernakulam,2,0.284,1.0,False
+India | Kerala | Alappuzha,1,0.298,1.0,False
+India | Karnataka | Yadgir,0,0.042,1.0,True
+India | Karnataka | Udupi,1,0.347,1.0,False
+India | Karnataka | Shimoga,1,0.379,1.0,False
+India | Gujarat | Vadodara,2,0.505,1.0,False
+India | Gujarat | Surendranagar,1,0.343,1.0,False
+India | Gujarat | Surat,2,0.425,1.0,False
+India | Gujarat | Sabarkatha,1,0.415,1.0,False
+India | Gujarat | Rajkot,2,0.3,1.0,False
+India | Gujarat | Porbandar,1,0.299,1.0,False
+India | Gujarat | Patan,1,0.311,1.0,False
+India | Gujarat | Panchmahal,1,0.342,1.0,False
+India | Gujarat | Mehsana,1,0.371,1.0,False
+India | Gujarat | Kutch,1,0.357,1.0,False
+India | Madhya Pradesh | Dewas,1,0.361,1.0,False
+India | Madhya Pradesh | Damoh,0,0.287,1.0,False
+India | Madhya Pradesh | Burhanpur,1,0.204,1.0,False
+India | Madhya Pradesh | Bhopal,2,0.532,1.0,False
+India | Madhya Pradesh | Bhind,0,0.161,1.0,False
+India | Madhya Pradesh | Barwani,0,0.167,1.0,False
+India | Kerala | Wayanad,1,0.238,1.0,False
+India | Kerala | Thrissur,1,0.319,1.0,False
+India | Kerala | Pathanamthitta,1,0.389,1.0,False
+India | Kerala | Palakkad,1,0.353,1.0,False
+India | Madhya Pradesh | Rajgarh,0,0.319,1.0,False
+India | Madhya Pradesh | Raisen,0,0.059,1.0,True
+India | Madhya Pradesh | Neemuch,1,0.358,1.0,False
+India | Madhya Pradesh | Narsinghpur,1,0.355,1.0,False
+India | Madhya Pradesh | Mandla,0,0.204,1.0,False
+India | Madhya Pradesh | Khargone,1,0.278,1.0,False
+India | Madhya Pradesh | Khandwa,1,0.312,1.0,False
+India | Madhya Pradesh | Katni,1,0.23,1.0,False
+India | Madhya Pradesh | Indore,2,0.412,1.0,False
+India | Madhya Pradesh | Hoshangabad,1,0.337,1.0,False
+India | Madhya Pradesh | Gwalior,2,0.454,1.0,False
+India | Madhya Pradesh | Guna,0,0.019,1.0,True
+India | Maharashtra | Amravati,1,0.238,1.0,False
+India | Maharashtra | Akola,1,0.319,1.0,False
+India | Maharashtra | Ahmednagar,1,0.417,1.0,False
+India | Madhya Pradesh | Vidisha,1,0.149,1.0,False
+India | Madhya Pradesh | Tikamgarh,0,0.309,1.0,False
+India | Madhya Pradesh | Singrauli,0,0.143,1.0,False
+India | Madhya Pradesh | Shivpuri,0,0.168,1.0,False
+India | Madhya Pradesh | Shahdol,1,0.367,1.0,False
+India | Madhya Pradesh | Seoni,0,0.008,1.0,True
+India | Madhya Pradesh | Sehore,0,0.062,1.0,True
+India | Madhya Pradesh | Satna,1,0.276,1.0,False
+India | Madhya Pradesh | Sagar,1,0.373,1.0,False
+India | Madhya Pradesh | Rewa,0,0.08,1.0,True
+India | Madhya Pradesh | Ratlam,1,0.344,1.0,False
+India | Maharashtra | Nanded,1,0.412,1.0,False
+India | Maharashtra | Nagpur,2,0.331,1.0,False
+India | Maharashtra | Mumbai Suburban,2,0.474,1.0,False
+India | Maharashtra | Mumbai,2,0.454,1.0,False
+India | Maharashtra | Latur,1,0.342,1.0,False
+India | Maharashtra | Kolhapur,1,0.359,1.0,False
+India | Maharashtra | Jalna,1,0.302,1.0,False
+India | Maharashtra | Jalgaon,1,0.42,1.0,False
+India | Maharashtra | Hingoli,0,0.048,1.0,True
+India | Maharashtra | Gondia,1,0.353,1.0,False
+India | Maharashtra | Gadchiroli,1,0.333,1.0,False
+India | Maharashtra | Dhule,1,0.283,1.0,False
+India | Maharashtra | Chandrapur,1,0.299,1.0,False
+India | Maharashtra | Beed,0,0.014,1.0,True
+India | Gujarat | Junagadh,1,0.35,1.0,False
+India | Gujarat | Gandhinagar,2,0.407,1.0,False
+India | Gujarat | Devbhoomi Dwarka,0,0.111,1.0,False
+India | Gujarat | Bhavnagar,1,0.277,1.0,False
+India | Gujarat | Bharuch,1,0.213,1.0,False
+India | Gujarat | Banaskantha,1,0.3,1.0,False
+India | Gujarat | Aravalli,1,0.362,1.0,False
+India | Gujarat | Amreli,0,0.116,1.0,False
+India | Gujarat | Ahmedabad,2,0.531,1.0,False
+India | Maharashtra | Washim,0,0.117,1.0,False
+India | Maharashtra | Wardha,1,0.207,1.0,False
+India | Maharashtra | Thane,2,0.489,1.0,False
+India | Maharashtra | Solapur,1,0.309,1.0,False
+India | Maharashtra | Satara,1,0.292,1.0,False
+India | Maharashtra | Raigad,2,0.519,1.0,False
+India | Maharashtra | Pune,2,0.498,1.0,False
+India | Maharashtra | Parbhani,1,0.243,1.0,False
+India | Maharashtra | Palghar,2,0.464,1.0,False
+India | Maharashtra | Osmanabad,0,0.216,1.0,False
+India | Maharashtra | Nashik,1,0.142,1.0,False
+India | Odisha | Dhenkanal,1,0.246,1.0,False
+India | Odisha | Balasore,1,0.366,1.0,False
+India | Odisha | Angul,1,0.28,1.0,False
+India | Nagaland | Kohima,1,0.253,1.0,False
+India | Meghalaya | West Garo Hills,0,0.11,1.0,False
+India | Manipur | Thoubal,0,0.082,1.0,True
+India | Manipur | Imphal East,1,0.159,1.0,False
+India | Delhi | West Delhi,2,0.538,1.0,False
+India | Delhi | South West Delhi,2,0.546,1.0,False
+India | Delhi | South East Delhi,2,0.525,1.0,False
+India | Delhi | South Delhi,2,0.522,1.0,False
+India | Delhi | Shahdara,2,0.481,1.0,False
+India | Delhi | North West Delhi,2,0.531,1.0,False
+India | Delhi | North East Delhi,2,0.233,1.0,False
+India | Delhi | North Delhi,2,0.478,1.0,False
+India | Delhi | New Delhi,2,0.423,1.0,False
+India | Delhi | East Delhi,2,0.517,1.0,False
+India | Delhi | Central Delhi,2,0.494,1.0,False
+India | Dadra and Nagar Haveli | Dadra and Nagar Haveli,1,0.272,1.0,False
+India | Chhattisgarh | Surajpur,0,0.259,1.0,False
+India | Chhattisgarh | Rajnandgaon,1,0.282,1.0,False
+India | Odisha | Sambalpur,1,0.224,1.0,False
+India | Odisha | Rayagada,1,0.305,1.0,False
+India | Odisha | Puri,1,0.282,1.0,False
+India | Odisha | Nuapada,0,0.248,1.0,False
+India | Odisha | Nayagarh,0,0.091,1.0,True
+India | Odisha | Mayurbhanj,0,0.064,1.0,True
+India | Odisha | Khordha,2,0.436,1.0,False
+India | Odisha | Kendrapara,0,0.13,1.0,False
+India | Odisha | Kandhamal,0,0.087,1.0,True
+India | Odisha | Kalahandi,0,0.117,1.0,False
+India | Odisha | Jharsuguda,1,0.376,1.0,False
+India | Odisha | Jajpur,1,0.316,1.0,False
+India | Odisha | Jagatsinghpur,0,0.022,1.0,True
+India | Odisha | Ganjam,1,0.422,1.0,False
+India | Punjab | Ludhiana,2,0.459,1.0,False
+India | Punjab | Kapurthala,2,0.409,1.0,False
+India | Punjab | Jalandhar,2,0.462,1.0,False
+India | Punjab | Gurdaspur,1,0.207,1.0,False
+India | Punjab | Ferozepur,1,0.28,1.0,False
+India | Punjab | Fazilka,1,0.238,1.0,False
+India | Punjab | Fatehgarh Sahib,1,0.233,1.0,False
+India | Punjab | Barnala,1,0.217,1.0,False
+India | Punjab | Amritsar,2,0.442,1.0,False
+India | Puducherry | Karaikal,1,0.393,1.0,False
+India | Odisha | Sundargarh,1,0.389,1.0,False
+India | Odisha | Subarnapur,0,0.223,1.0,False
+India | Chhattisgarh | Raipur,2,0.372,1.0,False
+India | Chhattisgarh | Raigarh,1,0.252,1.0,False
+India | Chhattisgarh | Mahasamund,0,0.176,1.0,False
+India | Chhattisgarh | Jashpur,0,0.238,1.0,False
+India | Chhattisgarh | Janjgir-Champa,0,0.126,1.0,False
+India | Chhattisgarh | Dhamtari,0,0.149,1.0,False
+India | Chhattisgarh | Bastar,1,0.291,1.0,False
+India | Chhattisgarh | Balrampur,0,0.251,1.0,False
+India | Chhattisgarh | Baloda Bazar,0,0.207,1.0,False
+India | Chhattisgarh | Balod,0,0.219,1.0,False
+India | Bihar | Vaishali,0,0.333,1.0,False
+India | Rajasthan | Bharatpur,0,0.23,1.0,False
+India | Rajasthan | Barmer,0,0.149,1.0,False
+India | Rajasthan | Baran,0,0.211,1.0,False
+India | Rajasthan | Alwar,1,0.433,1.0,False
+India | Rajasthan | Ajmer,1,0.182,1.0,False
+India | Punjab | Tarn Taran,1,0.21,1.0,False
+India | Punjab | Sahibzada Ajit Singh Nagar,2,0.49,1.0,False
+India | Punjab | Rupnagar,1,0.167,1.0,False
+India | Punjab | Patiala,2,0.373,1.0,False
+India | Punjab | Mansa,1,0.198,1.0,False
+India | Rajasthan | Karauli,0,0.213,1.0,False
+India | Rajasthan | Jhunjhunu,0,0.188,1.0,False
+India | Rajasthan | Jhalawar,0,0.293,1.0,False
+India | Rajasthan | Jalore,0,0.337,1.0,False
+India | Rajasthan | Jaisalmer,0,0.123,1.0,False
+India | Rajasthan | Jaipur,2,0.453,1.0,False
+India | Rajasthan | Dungarpur,0,0.221,1.0,False
+India | Rajasthan | Dhaulpur,0,0.177,1.0,False
+India | Rajasthan | Churu,0,0.18,1.0,False
+India | Rajasthan | Bundi,0,0.337,1.0,False
+India | Rajasthan | Bikaner,1,0.168,1.0,False
+India | Rajasthan | Bhilwara,1,0.313,1.0,False
+India | Tamil Nadu | Coimbatore,2,0.389,1.0,False
+India | Tamil Nadu | Chennai,2,0.506,1.0,False
+India | Tamil Nadu | Ariyalur,0,0.321,1.0,False
+India | Sikkim | East Sikkim,1,0.251,1.0,False
+India | Rajasthan | Sri Ganganagar,1,0.392,1.0,False
+India | Rajasthan | Sirohi,1,0.284,1.0,False
+India | Rajasthan | Sawai Madhopur,1,0.286,1.0,False
+India | Rajasthan | Pratapgarh,0,0.32,1.0,False
+India | Rajasthan | Nagaur,0,0.301,1.0,False
+India | Bihar | Supaul,0,0.387,1.0,False
+India | Bihar | Siwan,0,0.213,1.0,False
+India | Bihar | Saran,0,0.311,1.0,False
+India | Bihar | Samastipur,0,0.35,1.0,False
+India | Bihar | Saharsa,0,0.204,1.0,False
+India | Bihar | Purvi Champaran,0,0.287,1.0,False
+India | Bihar | Purnia,0,0.342,1.0,False
+India | Bihar | Pashchim Champaran,0,0.391,1.0,False
+India | Bihar | Nawada,0,0.218,1.0,False
+India | Bihar | Munger,0,0.206,1.0,False
+India | Bihar | Madhubani,0,0.366,1.0,False
+India | Bihar | Madhepura,0,0.382,1.0,False
+India | Tamil Nadu | Thanjavur,1,0.375,1.0,False
+India | Tamil Nadu | Salem,1,0.37,1.0,False
+India | Tamil Nadu | Nagapattinam,0,0.155,1.0,False
+India | Tamil Nadu | Krishnagiri,1,0.378,1.0,False
+India | Tamil Nadu | Karur,1,0.319,1.0,False
+India | Tamil Nadu | Kanyakumari,1,0.336,1.0,False
+India | Tamil Nadu | Kanchipuram,2,0.519,1.0,False
+India | Tamil Nadu | Erode,1,0.397,1.0,False
+India | Bihar | Katihar,0,0.27,1.0,False
+India | Bihar | Kaimur,0,0.326,1.0,False
+India | Bihar | Jamui,0,0.346,1.0,False
+India | Bihar | Gopalganj,0,0.399,1.0,False
+India | Bihar | Darbhanga,0,0.216,1.0,False
+India | Bihar | Buxar,0,0.048,1.0,True
+India | Bihar | Bhojpur,0,0.252,1.0,False
+India | Bihar | Begusarai,0,0.229,1.0,False
+India | Bihar | Banka,0,0.297,1.0,False
+India | Bihar | Aurangabad,0,0.128,1.0,False
+India | Bihar | Araria,0,0.381,1.0,False
+India | Assam | Tinsukia,1,0.284,1.0,False
+India | Assam | Sonitpur,0,0.027,1.0,True
+India | Telangana | Khammam,1,0.436,1.0,False
+India | Telangana | Karimnagar,1,0.425,1.0,False
+India | Telangana | Hyderabad,2,0.546,1.0,False
+India | Telangana | Adilabad,1,0.314,1.0,False
+India | Tamil Nadu | Villupuram,0,0.02,1.0,True
+India | Tamil Nadu | Tiruvannamalai,0,0.056,1.0,True
+India | Tamil Nadu | Tiruvallur,2,0.515,1.0,False
+India | Tamil Nadu | Tiruppur,1,0.3,1.0,False
+India | Tamil Nadu | Thoothukudi,1,0.295,1.0,False
+India | Tamil Nadu | Thiruvarur,0,0.121,1.0,False
+India | Uttar Pradesh | Ayodhya,0,0.264,1.0,False
+India | Uttar Pradesh | Auraiya,0,0.218,1.0,False
+India | Uttar Pradesh | Amroha,0,0.297,1.0,False
+India | Uttar Pradesh | Amethi,0,0.398,1.0,False
+India | Uttar Pradesh | Ambedkar Nagar,0,0.349,1.0,False
+India | Uttar Pradesh | Aligarh,1,0.375,1.0,False
+India | Uttar Pradesh | Agra,2,0.314,1.0,False
+India | Tripura | Sipahijala,0,0.125,1.0,False
+India | Telangana | Warangal,1,0.349,1.0,False
+India | Telangana | Ranga Reddy,2,0.536,1.0,False
+India | Telangana | Medak,1,0.275,1.0,False
+India | Uttar Pradesh | Etah,0,0.27,1.0,False
+India | Uttar Pradesh | Deoria,0,0.299,1.0,False
+India | Uttar Pradesh | Chandauli,0,0.171,1.0,False
+India | Uttar Pradesh | Bijnor,0,0.211,1.0,False
+India | Uttar Pradesh | Basti,0,0.354,1.0,False
+India | Uttar Pradesh | Bareilly,1,0.373,1.0,False
+India | Uttar Pradesh | Barabanki,0,0.047,1.0,True
+India | Uttar Pradesh | Banda,0,0.221,1.0,False
+India | Uttar Pradesh | Balrampur,0,0.373,1.0,False
+India | Uttar Pradesh | Ballia,0,0.329,1.0,False
+India | Uttar Pradesh | Bahraich,0,0.295,1.0,False
+India | Uttar Pradesh | Bagpat,0,0.135,1.0,False
+India | Uttar Pradesh | Badaun,0,0.291,1.0,False
+India | Uttar Pradesh | Azamgarh,0,0.383,1.0,False
+India | Uttar Pradesh | Kanpur Dehat,0,0.313,1.0,False
+India | Uttar Pradesh | Jhansi,1,0.417,1.0,False
+India | Uttar Pradesh | Jaunpur,0,0.4,1.0,False
+India | Uttar Pradesh | Jalaun,0,0.251,1.0,False
+India | Uttar Pradesh | Hathras,0,0.276,1.0,False
+India | Uttar Pradesh | Hardoi,0,0.14,1.0,False
+India | Uttar Pradesh | Hapur,1,0.288,1.0,False
+India | Uttar Pradesh | Hamirpur,0,0.186,1.0,False
+India | Uttar Pradesh | Gorakhpur,1,0.33,1.0,False
+India | Uttar Pradesh | Gonda,0,0.315,1.0,False
+India | Uttar Pradesh | Ghazipur,0,0.399,1.0,False
+India | Uttar Pradesh | Ghaziabad,2,0.536,1.0,False
+India | Uttar Pradesh | Gautam Buddh Nagar,2,0.518,1.0,False
+India | Uttar Pradesh | Firozabad,0,0.041,1.0,True
+India | Uttar Pradesh | Fatehpur,0,0.244,1.0,False
+India | Uttar Pradesh | Farrukhabad,0,0.175,1.0,False
+India | Uttar Pradesh | Pilibhit,0,0.306,1.0,False
+India | Uttar Pradesh | Muzaffarnagar,1,0.363,1.0,False
+India | Uttar Pradesh | Moradabad,1,0.137,1.0,False
+India | Uttar Pradesh | Mirzapur,0,0.339,1.0,False
+India | Uttar Pradesh | Mau,0,0.332,1.0,False
+India | Uttar Pradesh | Mathura,0,0.001,1.0,True
+India | Uttar Pradesh | Mainpuri,0,0.343,1.0,False
+India | Uttar Pradesh | Mahoba,0,0.289,1.0,False
+India | Uttar Pradesh | Maharajganj,0,0.33,1.0,False
+India | Uttar Pradesh | Lucknow,2,0.414,1.0,False
+India | Uttar Pradesh | Lalitpur,0,0.323,1.0,False
+India | Uttar Pradesh | Lakhimpur Kheri,0,0.289,1.0,False
+India | Uttar Pradesh | Kushinagar,0,0.374,1.0,False
+India | Uttar Pradesh | Kanshi Ram Nagar,0,0.115,1.0,False
+India | Uttar Pradesh | Unnao,0,0.083,1.0,True
+India | Uttar Pradesh | Sultanpur,0,0.208,1.0,False
+India | Uttar Pradesh | Sonbhadra,0,0.206,1.0,False
+India | Uttar Pradesh | Sitapur,0,0.228,1.0,False
+India | Uttar Pradesh | Siddharthnagar,0,0.365,1.0,False
+India | Uttar Pradesh | Shrawasti,0,0.357,1.0,False
+India | Uttar Pradesh | Shamli,0,0.266,1.0,False
+India | Uttar Pradesh | Shahjahanpur,0,0.167,1.0,False
+India | Uttar Pradesh | Sant Kabir Nagar,0,0.356,1.0,False
+India | Uttar Pradesh | Sambhal,0,0.363,1.0,False
+India | Uttar Pradesh | Saharanpur,1,0.383,1.0,False
+India | Uttar Pradesh | Rampur,0,0.181,1.0,False
+India | Uttar Pradesh | Rae Bareli,0,0.171,1.0,False
+India | Uttar Pradesh | Pratapgarh,0,0.372,1.0,False
+India | Assam | Sivasagar,1,0.319,1.0,False
+India | Assam | Nalbari,0,0.033,1.0,True
+India | Assam | Lakhimpur,0,0.115,1.0,False
+India | Assam | Karimganj,1,0.304,1.0,False
+India | Assam | Karbi Anglong,1,0.282,1.0,False
+India | Assam | Kamrup,1,0.34,1.0,False
+India | Assam | Jorhat,1,0.388,1.0,False
+India | Assam | Hailakandi,0,0.065,1.0,True
+India | Assam | Golaghat,1,0.25,1.0,False
+India | Assam | Goalpara,0,0.09,1.0,True
+India | Assam | Dibrugarh,1,0.282,1.0,False
+India | Assam | Dhubri,0,0.187,1.0,False
+India | Andhra Pradesh | Guntur,1,0.138,1.0,False
+India | West Bengal | Nadia,1,0.438,1.0,False
+India | West Bengal | North 24 Parganas,2,0.539,1.0,False
+India | Andhra Pradesh | East Godavari,1,0.443,1.0,False
+India | West Bengal | Purulia,0,0.016,1.0,True
+India | Andhra Pradesh | Chittoor,1,0.286,1.0,False
+India | West Bengal | Uttar Dinajpur,0,0.085,1.0,True
+India | West Bengal | West Medinipur,1,0.38,1.0,False
+India | Andhra Pradesh | Anantapuram,1,0.414,1.0,False

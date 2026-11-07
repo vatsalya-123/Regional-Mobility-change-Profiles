@@ -1,0 +1,33 @@
+region_id,cluster,silhouette,membership_confidence,borderline
+India | Andhra Pradesh,1,0.284,0.48,True
+India | Madhya Pradesh,1,0.284,0.54,True
+India | Delhi,2,0.526,0.58,True
+India | Chandigarh,2,0.508,0.58,True
+India | Maharashtra,2,0.191,0.58,True
+India | Meghalaya,0,0.209,0.6,True
+India | Nagaland,0,0.05,0.6,True
+India | Sikkim,0,0.173,0.62,True
+India | Himachal Pradesh,0,0.291,0.7,True
+India | Mizoram,0,-0.071,0.72,True
+India | Odisha,0,-0.158,0.78,True
+India | Rajasthan,0,-0.134,0.8,True
+India | Kerala,0,-0.043,0.8,True
+India | Uttar Pradesh,0,-0.073,0.82,True
+India | Uttarakhand,0,0.195,0.86,False
+India | Manipur,0,0.076,0.86,True
+India | Arunachal Pradesh,0,0.249,0.92,False
+India | Bihar,0,0.286,0.92,False
+India | Tamil Nadu,1,0.509,0.96,False
+India | Puducherry,1,0.449,0.96,False
+India | Chhattisgarh,0,0.124,0.96,False
+India | Assam,0,0.104,0.98,False
+India | Jharkhand,0,0.109,0.98,False
+India | Daman and Diu,1,0.438,1.0,False
+India | Karnataka,1,0.506,1.0,False
+India | Goa,1,0.487,1.0,False
+India | Gujarat,1,0.441,1.0,False
+India | Haryana,1,0.473,1.0,False
+India | Punjab,1,0.503,1.0,False
+India | Telangana,1,0.344,1.0,False
+India | Tripura,0,0.198,1.0,False
+India | West Bengal,1,0.533,1.0,False

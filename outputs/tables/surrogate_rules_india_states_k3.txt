@@ -1,0 +1,10 @@
+|--- residential__first_wave_mean <= 16.42
+|   |--- class: 0
+|--- residential__first_wave_mean >  16.42
+|   |--- residential__first_wave_mean <= 23.44
+|   |   |--- trough_depth <= -71.74
+|   |   |   |--- class: 1
+|   |   |--- trough_depth >  -71.74
+|   |   |   |--- class: 1
+|   |--- residential__first_wave_mean >  23.44
+|   |   |--- class: 2
