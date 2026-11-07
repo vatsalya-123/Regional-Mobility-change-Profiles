@@ -18,6 +18,13 @@ features:
     - transit_stations_percent_change_from_baseline
     - workplaces_percent_change_from_baseline
     - residential_percent_change_from_baseline
+  composite_columns:
+       - retail_and_recreation
+       - transit_stations
+       - workplaces
+  min_period_coverage: 0.70
+  smoothing_days: 7
+  recovery_threshold: -10
 
 # Pandemic periods. Editable; we will justify these in the report.
 periods:

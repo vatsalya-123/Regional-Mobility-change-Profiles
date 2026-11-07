@@ -1,0 +1,5 @@
+scope,regions,region_period_rows,summary_rows,summary_dropped,recovery_censored,n_features_summary
+national,131,912,126,5,3,14
+india_states,33,230,33,0,0,14
+india_districts,533,3721,524,9,0,14
+global_states,958,6663,927,31,67,14
