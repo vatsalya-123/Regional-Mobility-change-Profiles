@@ -54,3 +54,13 @@
 
 | D25 | District geography check | The clusters are not given location, yet Delhi's 11 districts all fall in the deep-dip cluster and 54 of 71 Uttar Pradesh districts in the strong-rebound cluster. | Independent sanity check. No causal explanation claimed. |
 
+| D26 | J&K evidence | Jammu and Kashmir shows retail +151% and transit +252% in Feb-Mar 2020 and transit +217% in Apr-Jun 2020 (lockdown), rising to +650% by 2022. | Implausible as behaviour; consistent with an anomalously low baseline. Excluded under rule D23. |
+
+| D27 | India states | n=32 after exclusion. Silhouette 0.25 to 0.31, stability 0.62 to 0.74 at k=3 (0.96 to 0.98 at k=2). Reported as a supporting descriptive analysis. Districts (n=524) are the primary India result. | Small sample makes cluster structure fragile. |
+
+| D28 | Hierarchical, India districts | Ward agrees with K-Means for 73% (ARI 0.39). The 179 mild-dip districts stay together in all 179 cases. Average linkage chains (clusters of 2). | One robust group plus a continuum, as at national level. |
+
+| D29 | Temporal, India | States and districts show a winter-2020/21 lull and a Delta-wave relapse, unlike the national pattern. | Fixed global period windows blur country-specific wave timing (limitation). |
+
+| D30 | Borderline rule | A region is flagged if membership confidence < 0.8 or silhouette < 0.1. India districts: 94 of 524 flagged. | The count depends on the rule when overall silhouette is low, so both components are reported. |
+
