@@ -36,3 +36,9 @@
 
 | D17 | Hierarchical comparison | Ward, complete and average linkage (Euclidean), plus complete and average (Manhattan), cut at k=3, compared with K-Means via ARI, cophenetic correlation and silhouette. | Tests whether the grouping depends on the algorithm. Ward and complete agree with K-Means for 83 to 85% of countries. Average linkage is rejected because it chains (clusters of size 2 and 3). |
 
+| D18 | Feature contribution | Kruskal-Wallis H with epsilon-squared effect sizes, reported descriptively. | Clusters were built from the same features, so p-values are circular and are not interpreted as significance. |
+
+| D19 | Borderline regions | Flagged if membership confidence < 0.8 across 50 subsamples, or silhouette < 0.1. 12 of 126 countries flagged, all on the moderate/deep boundary. | Quantifies the soft boundary. Flagged regions are not assigned confident labels in interpretation. |
+
+| D20 | Surrogate rules | Depth-limited decision tree reproducing the clusters, with 5-fold cross-validated accuracy (0.85). | Descriptive summary only, not a causal model. |
+
