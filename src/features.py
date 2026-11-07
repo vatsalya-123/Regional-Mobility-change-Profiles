@@ -20,7 +20,7 @@ def short(col):
 def period_features(df, scols, periods, min_cov):
     """Mean, volatility and extreme value per region, category and period."""
     df = df.copy()
-    df["is_weekend"] = df["date"].dt.dayofweek >= 5
+    df["is_weekend"] = df["date"].dt.day_of_week >= 5
     region_ids = sorted(df["region_id"].unique())
     frames = []
 

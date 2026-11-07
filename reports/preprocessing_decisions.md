@@ -17,3 +17,12 @@
 | D7 | Standardisation (planned) | StandardScaler vs RobustScaler, compared, applied to the profile vectors. | Features have different scales and outliers. |
 
 | D8 | Known biases | Location History users only. Small or rural regions are withheld. 49% of global states dropped, and 8 countries lose all states. | Clusters describe covered regions, not the world. |
+
+| D9  | Profile features | Per region: first-wave mean and late-pandemic mean for each of the 6 categories, plus trough depth and recovery days (14 features). | Captures the shock, the new normal, and the speed of return. |
+
+| D10 | Recovery | Composite of retail, transit and workplaces, 7-day smoothed. Recovered = within 10 points of baseline after the first-wave trough. Never-recovered regions flagged as censored. | Grocery is essential travel, parks are seasonal, residential moves opposite. |
+
+| D11 | Parks seasonality | Baseline is Jan to Feb 2020, so parks conflate season and pandemic. Run all clustering with and without parks. | Sensitivity test, reported in the stability section. |
+
+| D12 | Min coverage | A region-period needs 70% of days present or it is dropped from the profile table. | Avoids profiles built on little data. |
+
