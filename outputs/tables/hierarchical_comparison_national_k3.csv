@@ -1,0 +1,6 @@
+method,distance,cophenetic,silhouette,ari_vs_kmeans,agreement_pct,n_clusters,min_cluster_size
+ward,euclidean,0.631,0.257,0.559,83.333,3,30
+average,euclidean,0.785,0.413,0.26,56.349,3,2
+complete,euclidean,0.708,0.242,0.561,84.921,3,18
+average,cityblock,0.771,0.297,0.17,52.381,3,3
+complete,cityblock,0.698,0.241,0.424,79.365,3,12

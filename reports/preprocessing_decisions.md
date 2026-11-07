@@ -26,3 +26,11 @@
 
 | D12 | Min coverage | A region-period needs 70% of days present or it is dropped from the profile table. | Avoids profiles built on little data. |
 
+| D13 | Clustering grid | K-Means (Euclidean) and K-Medians (Manhattan, own implementation), k=2..10, Standard vs Robust scaling, with vs without parks. | Tests sensitivity to distance, scaling and the seasonal parks feature. |
+
+| D14 | Primary configuration | K-Means, Euclidean, k=3, RobustScaler, parks excluded. Full feature set kept as sensitivity check. | k=3 has the highest stability (ARI 0.92 to 0.97 across settings) and is supported under Manhattan distance. Robust scaling handles extreme late-period values. Parks excluded for seasonality. |
+
+| D15 | Stability protocol | 50 random 80% subsamples per configuration, ARI against the full-data clustering. | Quantifies how reproducible the grouping is. |
+
+| D16 | Interpretation limits | Silhouette about 0.3 indicates weak separation. Values are changes against a fixed baseline. Clusters are exploratory profiles, not categories. | Responsible-use requirement. |
+
