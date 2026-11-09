@@ -168,11 +168,14 @@ with tab_map:
                 category_orders={"cluster": [f"Cluster {i}" for i in range(k)]},
                 color_discrete_sequence=px.colors.qualitative.Bold,
                 projection="natural earth")
-            fig.update_layout(margin=dict(l=0, r=0, t=10, b=0))
+            fig.update_geos(showcountries=True, countrycolor="#8a8a8a",
+                            showland=True, landcolor="#3a3a3a",
+                            showocean=True, oceancolor="#14171c",
+                            bgcolor="rgba(0,0,0,0)", projection_rotation_lon=0)
+            fig.update_layout(margin=dict(l=0, r=0, t=10, b=0),
+                              paper_bgcolor="rgba(0,0,0,0)")
             st.plotly_chart(fig, width="stretch")
-            st.caption("Grey countries were not clustered: they were dropped for too much "
-                       "missing data or an incomplete profile. Clusters are numbered from "
-                       "the mildest first-wave dip (0) to the deepest.")
+            st.caption("Dark grey countries have no cluster: Google did not publish data for them, or they were dropped for too much missing data or an incomplete profile. Clusters are numbered from the mildest first-wave dip (0) to the deepest.")
             unmatched = map_df[map_df["iso3"].isna()]["country"].tolist()
             if unmatched:
                 st.caption("Not drawn (no ISO code found): " + ", ".join(unmatched))
