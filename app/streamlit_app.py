@@ -26,6 +26,8 @@ CATEGORIES = ["retail_and_recreation", "grocery_and_pharmacy", "parks",
 SCOPES = {"Countries (national)": "national",
           "India states": "india_states",
           "India districts": "india_districts"}
+LINE_KW = dict(markers=True, line_dash="distance",
+               color_discrete_sequence=px.colors.qualitative.Set1)
 
 st.set_page_config(page_title="Mobility change profiles", layout="wide")
 
