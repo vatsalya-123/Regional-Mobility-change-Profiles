@@ -27,6 +27,7 @@ for scope, k in SCOPE_K.items():
         (f"hierarchical_{scope}", mod("src.hierarchical", "--scope", scope, "--k", str(k))),
         (f"interpret_{scope}", mod("src.interpret", "--scope", scope, "--k", str(k))),
         (f"temporal_{scope}", mod("src.temporal", "--scope", scope, "--k", str(TEMPORAL_K[scope]))),
+        (f"holdout_{scope}", mod("src.holdout", "--scope", scope)),
     ]
 STEPS.append(("tests", mod("pytest", "-q")))
 

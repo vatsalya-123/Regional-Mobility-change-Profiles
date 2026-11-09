@@ -28,6 +28,8 @@ SCOPES = {"Countries (national)": "national",
           "India districts": "india_districts"}
 LINE_KW = dict(markers=True, line_dash="distance",
                color_discrete_sequence=px.colors.qualitative.Set1)
+STATE_COLORS = {"Suppressed": "#2c7bb6", "Near baseline": "#abd9e9",
+                "Above baseline": "#fdae61", "Well above baseline": "#d7191c"}
 
 st.set_page_config(page_title="Mobility change profiles", layout="wide")
 
@@ -88,6 +90,66 @@ def country_iso3():
     return codes
 
 
+def describe_clusters(base, labels):
+    """Plain-language name and description for each cluster, computed from its profile.
+    Clusters are numbered from the mildest first-wave dip (0) to the deepest."""
+    prof = base.assign(cluster=labels).groupby("cluster").mean()
+    z = (prof - base.mean()) / base.std()
+    k_ = len(prof)
+    sizes = np.bincount(labels, minlength=k_)
+    late_cols = [c for c in base.columns
+                 if c.endswith("__late_mean") and not c.startswith("residential")]
+    out = {}
+    for c in prof.index:
+        if c == 0:
+            dip = "Mildest dip"
+        elif c == k_ - 1:
+            dip = "Deepest dip"
+        elif k_ == 3:
+            dip = "Intermediate dip"
+        else:
+            dip = f"Dip level {c + 1} of {k_}"
+        rec_z = z.loc[c, "recovery_days"]
+        if rec_z > 0.5:
+            recovery = "slow recovery"
+        elif rec_z < -0.5:
+            recovery = "fast recovery"
+        else:
+            recovery = "average recovery"
+        name = f"Cluster {c}: {dip}, {recovery}"
+        text = (f"{sizes[c]} regions. In the first wave, activity fell to about "
+                f"{abs(prof.loc[c, 'trough_depth']):.0f}% below baseline at its lowest, "
+                f"and took on average {prof.loc[c, 'recovery_days']:.0f} days to return to "
+                f"within 10 points of baseline. In the late period, retail averaged "
+                f"{prof.loc[c, 'retail_and_recreation__late_mean']:+.0f}% and workplaces "
+                f"{prof.loc[c, 'workplaces__late_mean']:+.0f}% versus the Jan-Feb 2020 reference.")
+        if z.loc[c, late_cols].mean() > 0.5:
+            text += " Late-period activity is well above the typical region."
+        out[c] = (name, text)
+    return out
+
+
+def state_labels(scope):
+    """Names for the behavioural states, based on each state's average activity."""
+    f = first_match(f"state_profiles_{scope}_k*.csv")
+    if f is None:
+        return {}
+    sp = pd.read_csv(f, index_col=0)
+    act = sp[["retail_and_recreation__mean", "transit_stations__mean",
+              "workplaces__mean"]].mean(axis=1)
+
+    def label(a):
+        if a < -20:
+            return "Suppressed"
+        if a < 8:
+            return "Near baseline"
+        if a < 45:
+            return "Above baseline"
+        return "Well above baseline"
+
+    return {int(s): f"State {int(s)}: {label(a)}" for s, a in act.items()}
+
+
 # ------------------------------------------------------------------ sidebar
 st.sidebar.title("Settings")
 scope_label = st.sidebar.selectbox("Region level", list(SCOPES))
@@ -102,6 +164,8 @@ k = st.sidebar.slider("Number of clusters (k)", 2, 8, 3)
 
 base = get_features(scope, feature_set)
 labels, Z, evr = run_clustering(scope, feature_set, scaler, distance, k)
+desc = describe_clusters(base, labels)
+cluster_order = [desc[i][0] for i in range(k)]
 
 st.title("Regional mobility change profiles during pandemic periods")
 st.caption("Google COVID-19 Community Mobility Reports, Feb 2020 to Oct 2022. "
@@ -116,15 +180,26 @@ with tab1:
     c1.metric("Regions clustered", len(base))
     c2.metric("PCA variance shown (PC1 + PC2)", f"{evr.sum():.0%}")
     c3.metric("Smallest cluster", int(np.bincount(labels).min()))
-    st.caption("Clusters are numbered from the mildest first-wave dip (0) to the deepest (highest number).")
+
+    st.subheader("What each cluster means")
+    for c in range(k):
+        name, text = desc[c]
+        with st.container(border=True):
+            st.markdown(f"**{name}**")
+            st.write(text)
+    st.caption("Clusters are numbered from the mildest first-wave dip (0) to the deepest. Names are "
+               "descriptive labels generated from each cluster's averages, not official categories. "
+               "Recovery days for regions that never recovered are counted up to the end of the "
+               "data, so averages are lower bounds. The data shows how behaviour changed, not why.")
 
     plot_df = pd.DataFrame({"region": base.index, "PC1": Z[:, 0], "PC2": Z[:, 1],
-                            "cluster": [f"Cluster {c}" for c in labels]})
+                            "cluster": [desc[c][0] for c in labels]})
     fig = px.scatter(plot_df, x="PC1", y="PC2", color="cluster", hover_name="region",
                      color_discrete_sequence=px.colors.qualitative.Bold,
-                     category_orders={"cluster": [f"Cluster {i}" for i in range(k)]},
+                     category_orders={"cluster": cluster_order},
                      labels={"PC1": f"PC1 ({evr[0]:.0%})", "PC2": f"PC2 ({evr[1]:.0%})"})
     fig.update_traces(marker=dict(size=9, opacity=0.8))
+    fig.update_layout(legend=dict(orientation="h", yanchor="top", y=-0.2, title_text=""))
     st.plotly_chart(fig, width="stretch")
 
     profile = base.assign(cluster=labels).groupby("cluster").mean().round(1)
@@ -132,19 +207,28 @@ with tab1:
     profile.index = [f"Cluster {c}" for c in profile.index]
     st.subheader("Cluster profiles (raw feature means)")
     st.dataframe(profile.T, width="stretch")
+    with st.expander("How to read the feature names"):
+        st.markdown("""
+- **first_wave_mean**: average change from the Jan-Feb 2020 baseline during the first wave (Mar-Jun 2020).
+- **late_mean**: average change during the late pandemic period (Apr-Oct 2022).
+- **trough_depth**: the lowest point of overall activity (retail, transit, workplaces) in the first wave. More negative means a deeper dip.
+- **recovery_days**: days from that lowest point until activity was back within 10 points of baseline. Longer means slower recovery.
+- **residential**: time spent at home. It moves in the opposite direction to the other categories.
+""")
 
     z = (base.assign(cluster=labels).groupby("cluster").mean() - base.mean()) / base.std()
     z.index = [f"Cluster {c}" for c in z.index]
     heat = px.imshow(z.T.round(2), color_continuous_scale="RdBu_r", zmin=-2.5, zmax=2.5,
                      aspect="auto", labels=dict(x="Cluster", y="", color="z-score"))
     st.subheader("Cluster signatures (z-scores vs all regions)")
+    st.caption("Red means above the average region on that feature, blue means below.")
     st.plotly_chart(heat, width="stretch")
 
     members = pd.DataFrame({"region": base.index, "cluster": labels}).sort_values(["cluster", "region"])
     with st.expander("Members of each cluster"):
         for c in range(k):
             names = members.loc[members["cluster"] == c, "region"]
-            st.markdown(f"**Cluster {c} ({len(names)})**: " + ", ".join(names))
+            st.markdown(f"**{desc[c][0]} ({len(names)})**: " + ", ".join(names))
     st.download_button("Download assignments (CSV)", members.to_csv(index=False),
                        file_name=f"clusters_{scope}_k{k}.csv")
 
@@ -160,12 +244,12 @@ with tab_map:
             st.warning("Install pycountry to enable the map: pip install pycountry")
         else:
             map_df = pd.DataFrame({"country": base.index,
-                                   "cluster": [f"Cluster {c}" for c in labels]})
+                                   "cluster": [desc[c][0] for c in labels]})
             map_df["iso3"] = map_df["country"].map(iso)
             shown = map_df.dropna(subset=["iso3"])
             fig = px.choropleth(
                 shown, locations="iso3", color="cluster", hover_name="country",
-                category_orders={"cluster": [f"Cluster {i}" for i in range(k)]},
+                category_orders={"cluster": cluster_order},
                 color_discrete_sequence=px.colors.qualitative.Bold,
                 projection="natural earth")
             fig.update_geos(showcountries=True, countrycolor="#8a8a8a",
@@ -173,9 +257,13 @@ with tab_map:
                             showocean=True, oceancolor="#14171c",
                             bgcolor="rgba(0,0,0,0)", projection_rotation_lon=0)
             fig.update_layout(margin=dict(l=0, r=0, t=10, b=0),
-                              paper_bgcolor="rgba(0,0,0,0)")
+                              paper_bgcolor="rgba(0,0,0,0)",
+                              legend=dict(orientation="h", yanchor="top", y=-0.02, title_text=""))
             st.plotly_chart(fig, width="stretch")
-            st.caption("Dark grey countries have no cluster: Google did not publish data for them, or they were dropped for too much missing data or an incomplete profile. Clusters are numbered from the mildest first-wave dip (0) to the deepest.")
+            st.caption("Dark grey countries have no cluster: Google did not publish data for them, "
+                       "or they were dropped for too much missing data or an incomplete profile. "
+                       "Clusters are numbered from the mildest first-wave dip (0) to the deepest. "
+                       "The map shows where behaviour was similar, not why.")
             unmatched = map_df[map_df["iso3"].isna()]["country"].tolist()
             if unmatched:
                 st.caption("Not drawn (no ISO code found): " + ", ".join(unmatched))
@@ -183,6 +271,15 @@ with tab_map:
 # ---------------------------------------------------------------- validation
 with tab2:
     st.subheader("Validation metrics across k")
+    with st.expander("How to read this tab", expanded=True):
+        st.markdown("""
+There are no labels in this problem, so quality is judged from the data itself:
+- **Silhouette** (higher is better): how well each region fits its own cluster compared with the nearest other one. About 0.2 to 0.4 means overlapping groups, not sharply separated ones.
+- **Davies-Bouldin** (lower is better): how compact and separated the clusters are.
+- **WCSS** (look for the elbow): total spread inside clusters. It always falls as k grows, so look for where the drop slows down.
+- **Stability** (closer to 1 is better): repeat the clustering on random 80% subsamples and measure how often the same groups reappear.
+- A good k is one that looks reasonable on several of these at once, not the maximum of a single one.
+""")
     st.caption("Precomputed grid from src/cluster.py. Read each algorithm's own curve: "
                "Euclidean and Manhattan values are in different units, so compare where "
                "each line bends or peaks, not the gap between the two lines.")
@@ -211,27 +308,53 @@ with tab2:
         sel = sel.merge(c[c["k"] == k][["distance", "stability_ari"]], on="distance", how="left")
         st.subheader(f"Metrics at k = {k}")
         st.dataframe(sel.round(3), hide_index=True, width="stretch")
+    hold = read_table(f"holdout_{scope}.csv")
+    if hold is not None:
+        st.subheader("Hold-out validation (fit on 70% of regions, test on the unseen 30%)")
+        st.caption("Prediction strength of about 0.8 or more means the groups found on training "
+                   "regions are also present among regions the model never saw. Mean and "
+                   "10th percentile over 100 random splits (K-Means, parks excluded, robust scaling).")
+        st.dataframe(hold.rename(columns={"ps_mean": "prediction strength (mean)",
+                                          "ps_p10": "prediction strength (10th pct)",
+                                          "ari_mean": "ARI (mean)",
+                                          "ari_p10": "ARI (10th pct)"}),
+                     hide_index=True, width="stretch")
 
 # ----------------------------------------------------------------- over time
 with tab3:
     st.subheader("Behavioural states over pandemic periods")
-    st.caption("Each region-period is assigned a state (0 = most suppressed activity). "
-               "'Above baseline' is relative to a Jan-Feb 2020 reference, not proof of higher mobility.")
+    st.caption("Each region-period is assigned a state, ordered from most suppressed activity (0) "
+               "upward. 'Above baseline' is relative to a Jan-Feb 2020 reference, not proof of "
+               "higher mobility than before the pandemic.")
+    names = state_labels(scope)
     share_file = first_match(f"state_share_by_period_{scope}_k*.csv")
     trans_file = first_match(f"transition_matrix_{scope}_k*.csv")
     if share_file is not None:
-        share = pd.read_csv(share_file, index_col=0)
-        share.columns = [f"State {c}" for c in share.columns]
-        st.plotly_chart(px.bar(share, barmode="stack",
+        share_raw = pd.read_csv(share_file, index_col=0)
+        share = share_raw.copy()
+        share.columns = [names.get(int(c), f"State {c}") for c in share.columns]
+        color_map = {n: STATE_COLORS[n.split(": ", 1)[1]] for n in names.values()}
+        st.plotly_chart(px.bar(share, barmode="stack", color_discrete_map=color_map,
                                labels={"value": "Share of regions", "index": "Period"}),
                         width="stretch")
+        suppressed = share_raw.iloc[:, 0]
+        above_cols = [c for c in share_raw.columns if "above" in names.get(int(c), "").lower()]
+        st.markdown(
+            f"- **Most suppressed period:** {suppressed.idxmax()} "
+            f"({suppressed.max():.0%} of regions in the suppressed state).\n"
+            f"- **By {share_raw.index[-1]}:** {share_raw.iloc[-1][above_cols].sum():.0%} of "
+            f"regions are above their baseline level.")
     if trans_file is not None:
         tm = pd.read_csv(trans_file, index_col=0)
+        tm.index = [names.get(int(i), f"State {i}") for i in tm.index]
+        tm.columns = [names.get(int(c), f"State {c}") for c in tm.columns]
         st.plotly_chart(px.imshow(tm, text_auto=".2f", color_continuous_scale="Blues",
                                   zmin=0, zmax=1,
                                   labels=dict(x="State in next period", y="State in this period"),
                                   title="Transition probabilities between consecutive periods"),
                         width="stretch")
+        st.caption("Each row shows where regions in that state went in the next period. A high "
+                   "value on the diagonal means regions tend to stay in the same state.")
 
 # ----------------------------------------------------------- compare regions
 with tab4:
@@ -255,14 +378,17 @@ with tab4:
         st.plotly_chart(fig, width="stretch")
         st.caption("Shaded bands: pre_pandemic, reopening_2020, delta_wave, late_pandemic. "
                    "The unshaded gaps between them are first_wave, winter_wave and omicron_wave.")
+        lab = pd.Series(labels, index=base.index)
+        lines = [f"**{r}**: {desc[int(lab[r])][0]}" for r in chosen if r in base.index]
+        if lines:
+            st.markdown("  \n".join(lines))
         outside = [r for r in chosen if r not in base.index]
         if outside:
             st.caption("Not clustered (incomplete profile or excluded outlier), so no profile "
                        "is shown for: " + ", ".join(outside))
         idx = base.index.intersection(chosen)
         if len(idx):
-            st.dataframe(base.loc[idx].assign(
-                cluster=pd.Series(labels, index=base.index).loc[idx]).T, width="stretch")
+            st.dataframe(base.loc[idx].assign(cluster=lab.loc[idx]).T, width="stretch")
 
 # ---------------------------------------------------------------- about
 with tab5:
@@ -272,7 +398,14 @@ Daily percent-change-from-baseline values for six place categories were cleaned 
 interpolated, regions with too much missing data dropped), turned into region profiles
 (first-wave means, late-period means, trough depth, recovery time), standardised, and
 clustered with K-Means and K-Medians. Quality was checked with WCSS, Silhouette,
-Davies-Bouldin, subsample stability and agreement with hierarchical clustering.
+Davies-Bouldin, subsample stability, hold-out prediction strength and agreement with
+hierarchical clustering.
+
+### Glossary
+- **Baseline:** Google's reference level, the median for the same weekday between 3 Jan and 6 Feb 2020. All values are percent changes from it.
+- **Cluster:** a group of regions with similar profiles. Clusters here are exploratory, not official categories.
+- **Behavioural state:** a label for one region in one period (suppressed, near baseline, above baseline).
+- **Stability (ARI):** how consistently the same groups reappear when part of the data is removed.
 
 ### Read the results responsibly
 - **Clusters are exploratory.** Silhouette scores of about 0.2 to 0.4 mean groups overlap on a continuum. They are not permanent categories of regions.
