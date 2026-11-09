@@ -148,7 +148,7 @@ def main():
                 print(f"done: {scope} | {fset} | {sname}")
 
     res = pd.DataFrame(rows)
-    res.to_csv(tables / "clustering_metrics.csv", index=False)
+    res.round(6).to_csv(tables / "clustering_metrics.csv", index=False)
 
     keys = ["scope", "feature_set", "scaler", "distance"]
     best = res.loc[res.groupby(keys)["silhouette"].idxmax(),

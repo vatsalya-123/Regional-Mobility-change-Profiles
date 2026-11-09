@@ -44,7 +44,7 @@
 
 | D21 | Behavioural states | K-Means (k=4, RobustScaler) on region-period means of 5 categories (parks excluded), ordered by mean activity. | Pre-pandemic period lands 99% in the near-baseline state, which validates the states. k=4 chosen for interpretability (silhouette prefers k=2). |
 
-| D22 | Transition analysis | Descriptive transition probabilities between consecutive periods. | State 3 exits rest on about 17 observed transitions, so no claim of permanence. "Above baseline" is relative to a Jan-Feb 2020 reference. |
+| D22 | Transition analysis | Descriptive transition probabilities between consecutive periods (national: 882 observations). State 3 has no observed exits, based on about a dozen transitions. "Above baseline" is relative to a Jan-Feb 2020 reference. | Small counts, so no claim of permanence. |
 
 | D23 | India states outlier | Jammu and Kashmir forms a single-region cluster (late retail +614%, grocery +882%), which makes PCA (96.5% on PC1), stability scores and temporal states for that scope uninformative. | Handled with a documented outlier rule decided from the diagnostic in outputs/tables/outlier_diagnostics.csv (to be finalised). |
 
@@ -63,4 +63,8 @@
 | D29 | Temporal, India | States and districts show a winter-2020/21 lull and a Delta-wave relapse, unlike the national pattern. | Fixed global period windows blur country-specific wave timing (limitation). |
 
 | D30 | Borderline rule | A region is flagged if membership confidence < 0.8 or silhouette < 0.1. India districts: 94 of 524 flagged. | The count depends on the rule when overall silhouette is low, so both components are reported. |
+
+| D31 | Reproducibility | Full rebuild from preprocessing (python run_pipeline.py --from preprocess) took 12.1 min on an 8 GB laptop and passed all 21 tests. Rerunning changed only 9 files. | Fixed seeds make results reproducible. Changes traced to a documented code change (temporal analysis restricted to regions with complete profiles) and to the metrics table (checked). |
+
+| D32 | Temporal scope | Temporal state analysis uses only regions present in the clustering profile table (national: 126 countries x 7 periods = 882 observations). | Keeps the temporal and static analyses on the same set of regions. |
 
