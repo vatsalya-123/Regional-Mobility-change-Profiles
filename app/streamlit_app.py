@@ -69,6 +69,25 @@ def first_match(pattern):
     return files[0] if files else None
 
 
+@st.cache_data(show_spinner=False)
+def country_iso3():
+    """Map country names to ISO-3 codes for the choropleth (None if pycountry is missing)."""
+    try:
+        import pycountry
+    except ImportError:
+        return None
+    meta = pd.read_csv(PROCESSED / "national_region_meta.csv", keep_default_na=False)
+    codes = {}
+    for name, code in zip(meta["country_region"], meta["country_region_code"]):
+        try:
+            found = pycountry.countries.get(alpha_2=code)
+        except (KeyError, LookupError):
+            found = None
+        if found is not None:
+            codes[name] = found.alpha_3
+    return codes
+
+
 # ------------------------------------------------------------------ sidebar
 st.sidebar.title("Settings")
 scope_label = st.sidebar.selectbox("Region level", list(SCOPES))
@@ -88,8 +107,8 @@ st.title("Regional mobility change profiles during pandemic periods")
 st.caption("Google COVID-19 Community Mobility Reports, Feb 2020 to Oct 2022. "
            "Clusters are exploratory profiles, not permanent categories.")
 
-tab1, tab2, tab3, tab4, tab5 = st.tabs(
-    ["Clusters", "Validation", "Over time", "Compare regions", "About and limits"])
+tab1, tab_map, tab2, tab3, tab4, tab5 = st.tabs(
+    ["Clusters", "Map", "Validation", "Over time", "Compare regions", "About and limits"])
 
 # ------------------------------------------------------------------ clusters
 with tab1:
@@ -129,6 +148,35 @@ with tab1:
     st.download_button("Download assignments (CSV)", members.to_csv(index=False),
                        file_name=f"clusters_{scope}_k{k}.csv")
 
+# ----------------------------------------------------------------------- map
+with tab_map:
+    st.subheader("Map of country clusters")
+    if scope != "national":
+        st.info("The map is available at the country level. Boundary files for Indian "
+                "states and districts are not included yet.")
+    else:
+        iso = country_iso3()
+        if iso is None:
+            st.warning("Install pycountry to enable the map: pip install pycountry")
+        else:
+            map_df = pd.DataFrame({"country": base.index,
+                                   "cluster": [f"Cluster {c}" for c in labels]})
+            map_df["iso3"] = map_df["country"].map(iso)
+            shown = map_df.dropna(subset=["iso3"])
+            fig = px.choropleth(
+                shown, locations="iso3", color="cluster", hover_name="country",
+                category_orders={"cluster": [f"Cluster {i}" for i in range(k)]},
+                color_discrete_sequence=px.colors.qualitative.Bold,
+                projection="natural earth")
+            fig.update_layout(margin=dict(l=0, r=0, t=10, b=0))
+            st.plotly_chart(fig, width="stretch")
+            st.caption("Grey countries were not clustered: they were dropped for too much "
+                       "missing data or an incomplete profile. Clusters are numbered from "
+                       "the mildest first-wave dip (0) to the deepest.")
+            unmatched = map_df[map_df["iso3"].isna()]["country"].tolist()
+            if unmatched:
+                st.caption("Not drawn (no ISO code found): " + ", ".join(unmatched))
+
 # ---------------------------------------------------------------- validation
 with tab2:
     st.subheader("Validation metrics across k")
@@ -160,6 +208,7 @@ with tab2:
         sel = sel.merge(c[c["k"] == k][["distance", "stability_ari"]], on="distance", how="left")
         st.subheader(f"Metrics at k = {k}")
         st.dataframe(sel.round(3), hide_index=True, width="stretch")
+
 # ----------------------------------------------------------------- over time
 with tab3:
     st.subheader("Behavioural states over pandemic periods")
@@ -186,20 +235,27 @@ with tab4:
     st.subheader("Compare daily trajectories")
     daily = get_daily(scope)
     regions = sorted(daily["region_id"].unique())
-    default = regions[:2] if len(regions) >= 2 else regions
-    chosen = st.multiselect("Regions", regions, default=default)
+    clustered = [r for r in regions if r in base.index]
+    chosen = st.multiselect("Regions", regions, default=clustered[:2])
     category = st.selectbox("Category", CATEGORIES, index=CATEGORIES.index("workplaces"))
     if chosen:
         wide = (daily[daily["region_id"].isin(chosen)]
                 .pivot(index="date", columns="region_id", values=category)
                 .rolling(7, min_periods=3).mean())
-        fig = px.line(wide, labels={"value": "% change from baseline (7-day mean)", "date": ""})
+        fig = px.line(wide, color_discrete_sequence=px.colors.qualitative.Bold,
+                      labels={"value": "% change from baseline (7-day mean)", "date": ""})
         for i, (name, (start, end)) in enumerate(PERIODS.items()):
             if i % 2 == 0:
                 fig.add_vrect(x0=start, x1=end, fillcolor="gray", opacity=0.08, line_width=0,
                               annotation_text=name, annotation_position="top left",
                               annotation_font_size=9)
         st.plotly_chart(fig, width="stretch")
+        st.caption("Shaded bands: pre_pandemic, reopening_2020, delta_wave, late_pandemic. "
+                   "The unshaded gaps between them are first_wave, winter_wave and omicron_wave.")
+        outside = [r for r in chosen if r not in base.index]
+        if outside:
+            st.caption("Not clustered (incomplete profile or excluded outlier), so no profile "
+                       "is shown for: " + ", ".join(outside))
         idx = base.index.intersection(chosen)
         if len(idx):
             st.dataframe(base.loc[idx].assign(

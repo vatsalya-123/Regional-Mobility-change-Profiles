@@ -68,3 +68,5 @@
 
 | D32 | Temporal scope | Temporal state analysis uses only regions present in the clustering profile table (national: 126 countries x 7 periods = 882 observations). | Keeps the temporal and static analyses on the same set of regions. |
 
+| D33 | Numeric precision | Saved metrics are rounded to 6 decimals. | Reruns differed only in the 16th digit of WCSS (floating-point summation order), so rounding keeps diffs clean without affecting any reported value. |
+
