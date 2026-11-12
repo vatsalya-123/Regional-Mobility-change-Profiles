@@ -14,11 +14,11 @@
 
 | D6 | Encoding | No categorical fields enter the clustering matrix. | All clustering features are numeric. Region names are identifiers. |
 
-| D7 | Standardisation (planned) | StandardScaler vs RobustScaler, compared, applied to the profile vectors. | Features have different scales and outliers. |
+| D7 | Standardisation | StandardScaler vs RobustScaler, compared, applied to the profile vectors. | Features have different scales and outliers. |
 
-| D8 | Known biases | Location History users only. Small or rural regions are withheld. 49% of global states dropped, and 8 countries lose all states. | Clusters describe covered regions, not the world. |
+| D8 | Known biases | Regions exceeding the 30% missingness threshold are excluded; 49% of global-state regions are dropped, and 8 countries lose all state-level coverage. | Clusters describe regions with sufficient Google Location History coverage, not the world. |
 
-| D9  | Profile features | Per region: first-wave mean and late-pandemic mean for each of the 6 categories, plus trough depth and recovery days (14 features). | Captures the shock, the new normal, and the speed of return. |
+| D9 | Profile features | Per region: first-wave mean and late-pandemic mean for each of the 6 categories, plus trough depth and recovery days (14 features). | Captures the shock, the new normal, and the speed of return. |
 
 | D10 | Recovery | Composite of retail, transit and workplaces, 7-day smoothed. Recovered = within 10 points of baseline after the first-wave trough. Never-recovered regions flagged as censored. | Grocery is essential travel, parks are seasonal, residential moves opposite. |
 
@@ -28,7 +28,7 @@
 
 | D13 | Clustering grid | K-Means (Euclidean) and K-Medians (Manhattan, own implementation), k=2..10, Standard vs Robust scaling, with vs without parks. | Tests sensitivity to distance, scaling and the seasonal parks feature. |
 
-| D14 | Primary configuration | K-Means, Euclidean, k=3, RobustScaler, parks excluded. Full feature set kept as sensitivity check. | k=3 has the highest stability (ARI 0.92 to 0.97 across settings) and is supported under Manhattan distance. Robust scaling handles extreme late-period values. Parks excluded for seasonality. |
+| D14 | Primary configuration | K-Means, Euclidean, k=3, RobustScaler, parks excluded. | Retained as an interpretable exploratory configuration with strong full-data subsample stability, while acknowledging moderate hold-out reproducibility and the stronger India-district hold-out result at k=2. Robust scaling reduces sensitivity to extreme values; parks are excluded because of baseline seasonality concerns. |
 
 | D15 | Stability protocol | 50 random 80% subsamples per configuration, ARI against the full-data clustering. | Quantifies how reproducible the grouping is. |
 
@@ -46,11 +46,12 @@
 
 | D22 | Transition analysis | Descriptive transition probabilities between consecutive periods (national: 882 observations). State 3 has no observed exits, based on about a dozen transitions. "Above baseline" is relative to a Jan-Feb 2020 reference. | Small counts, so no claim of permanence. |
 
-| D23 | India states outlier | Jammu and Kashmir forms a single-region cluster (late retail +614%, grocery +882%), which makes PCA (96.5% on PC1), stability scores and temporal states for that scope uninformative. | Handled with a documented outlier rule decided from the diagnostic in outputs/tables/outlier_diagnostics.csv (to be finalised). |
-
-| D24 | India districts | k=3 results are stable (ARI 0.92 to 0.96) with silhouette 0.16 to 0.35. Retained districts are those with enough Location History data. | Weak separation and urban coverage bias are stated as limitations. |
 
 | D23 | Outlier rule | Regions with a robust z-score above 10 on any profile feature are excluded from model fitting and listed in outputs/tables/excluded_outlier_regions.csv. | National max is 7.9 and India districts 9.0 (no exclusions). India states: Jammu and Kashmir scores 35.8 against 3.3 for the next state. Global states: J&K 31.1 and two Greek island regions at 17.1 and 12.3. Likely baseline or seasonal artifacts (untested). |
+
+| D23a | India states outlier | Jammu and Kashmir shows extreme late-period mobility values (+614% retail, +882% grocery) and dominates the India-states profile. | Excluded from model fitting under the robust-z-score threshold in D23; documented in outputs/tables/outlier_diagnostics.csv. |
+
+| D24 | India districts | k=3 results are stable (ARI 0.92 to 0.96) with silhouette 0.16 to 0.35. Retained districts are those with enough Location History data. | Weak separation and urban coverage bias are stated as limitations. |
 
 | D25 | District geography check | The clusters are not given location, yet Delhi's 11 districts all fall in the deep-dip cluster and 54 of 71 Uttar Pradesh districts in the strong-rebound cluster. | Independent sanity check. No causal explanation claimed. |
 
@@ -70,3 +71,4 @@
 
 | D33 | Numeric precision | Saved metrics are rounded to 6 decimals. | Reruns differed only in the 16th digit of WCSS (floating-point summation order), so rounding keeps diffs clean without affecting any reported value. |
 
+| D34 | Hold-out validation | National: K=3 mean prediction strength approximately 0.64 and mean ARI 0.69. India districts: 100 random 70/30 splits (367 train, 157 test), using no_parks and RobustScaler. At K=2, mean prediction strength 0.776 and mean ARI 0.746. At K=3, mean prediction strength 0.660 and mean ARI 0.635. No tested K from 2 to 8 achieved mean prediction strength >= 0.8 for India districts. | Hold-out validation measures out-of-sample reproducibility and is distinct from full-data subsample stability. K=2 performs better than K=3 on hold-out validation. K=3 is retained as an interpretable exploratory configuration, not as a strongly generalisable or naturally occurring classification. |

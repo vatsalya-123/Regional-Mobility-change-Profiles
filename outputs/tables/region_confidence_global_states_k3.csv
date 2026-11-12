@@ -1,0 +1,925 @@
+region_id,cluster,silhouette,membership_confidence,borderline
+Indonesia | Aceh,1,-0.134,0.4,True
+Mexico | Sonora,2,-0.077,0.46,True
+Malaysia | Kedah,2,0.141,0.56,True
+Turkey | Sakarya,1,-0.113,0.56,True
+Turkey | Amasya,1,-0.142,0.56,True
+Egypt | Cairo Governorate,2,0.039,0.58,True
+Egypt | Aswan Governorate,1,-0.151,0.64,True
+Ecuador | Santo Domingo de los Tsachilas,2,0.112,0.64,True
+Slovenia | Administrative unit Maribor,0,0.047,0.66,True
+Philippines | Davao Region,1,-0.093,0.66,True
+Ireland | County Kilkenny,0,0.049,0.66,True
+Indonesia | Papua,1,-0.177,0.66,True
+Philippines | Ilocos Region,2,0.08,0.68,True
+Turkey | Çorum,0,0.163,0.68,True
+Brazil | State of Mato Grosso,1,-0.178,0.7,True
+Turkey | Kocaeli,0,0.066,0.72,True
+Turkey | Edirne,1,-0.144,0.72,True
+Mexico | Campeche,2,0.061,0.74,True
+Argentina | San Juan Province,1,-0.088,0.74,True
+Belgium | Flanders,2,-0.046,0.76,True
+Turkey | Kastamonu,1,-0.148,0.76,True
+Turkey | Zonguldak,0,0.075,0.76,True
+Brazil | State of Alagoas,1,-0.141,0.78,True
+Pakistan | Sindh,1,-0.135,0.78,True
+Chile | Atacama,1,-0.105,0.78,True
+Egypt | Ismailia Governorate,1,-0.139,0.78,True
+Austria | Vienna,2,-0.023,0.78,True
+Portugal | Aveiro District,2,0.145,0.8,False
+Philippines | Central Luzon,1,-0.072,0.82,True
+Turkey | Trabzon,2,-0.013,0.82,True
+Indonesia | North Sumatra,1,-0.124,0.82,True
+Argentina | Mendoza Province,1,-0.105,0.82,True
+Poland | Lesser Poland Voivodeship,0,0.085,0.84,True
+Indonesia | South Sulawesi,1,-0.116,0.84,True
+Philippines | MIMAROPA,1,-0.05,0.84,True
+Uganda | Central Region,1,-0.044,0.86,True
+Brazil | State of Rio de Janeiro,0,0.083,0.86,True
+Colombia | Boyaca,1,-0.088,0.88,True
+Poland | Masovian Voivodeship,0,0.088,0.88,True
+Colombia | North Santander,1,-0.075,0.88,True
+Brazil | State of Bahia,2,-0.021,0.88,True
+Saudi Arabia | Al Qassim Province,1,-0.119,0.88,True
+Brazil | State of Paraíba,2,-0.038,0.88,True
+Ireland | County Waterford,0,0.072,0.88,True
+Turkey | Isparta,2,-0.024,0.9,True
+Saudi Arabia | Hail Province,1,-0.136,0.9,True
+Oman | Dhofar Governorate,0,0.199,0.9,False
+Turkey | Aksaray,1,-0.087,0.9,True
+Chile | O'Higgins,1,-0.089,0.9,True
+Turkey | Ordu,1,-0.096,0.92,True
+Mexico | Durango,1,-0.173,0.92,True
+Mexico | Guerrero,2,-0.04,0.92,True
+Turkey | Manisa,1,-0.122,0.92,True
+Turkey | Malatya,1,-0.117,0.92,True
+Ecuador | Los Rios,2,0.144,0.94,False
+Hungary | Veszprém,1,-0.099,0.94,True
+United Kingdom | Lincolnshire,2,-0.035,0.94,True
+Malaysia | Perlis,2,0.15,0.94,False
+Mexico | Nuevo Leon,0,0.1,0.94,False
+Turkey | Çanakkale,1,-0.1,0.94,True
+Turkey | Kayseri,1,-0.06,0.96,True
+Switzerland | Grisons,0,0.059,0.96,True
+Turkey | Erzurum,1,-0.078,0.96,True
+Switzerland | Basel City,0,0.076,0.96,True
+India | Puducherry,2,0.158,0.96,False
+Egypt | Alexandria Governorate,1,-0.117,0.96,True
+Egypt | Port Said Governorate,0,0.11,0.96,False
+Turkey | Bolu,1,-0.073,0.96,True
+Brazil | State of Goiás,0,0.223,0.96,False
+Lithuania | Klaipėda County,0,0.122,0.96,False
+Mexico | State of Mexico,0,0.16,0.96,False
+Mexico | Tlaxcala,1,-0.153,0.96,True
+United Kingdom | Derry and Strabane,2,0.001,0.98,True
+United Kingdom | Northumberland,0,0.081,0.98,True
+Turkey | İzmir,2,-0.004,0.98,True
+Philippines | Western Visayas,2,0.128,0.98,False
+Portugal | Santarém District,2,0.12,0.98,False
+Turkey | Kütahya,1,-0.056,0.98,True
+Turkey | Aydın,1,-0.09,0.98,True
+South Africa | Gauteng,2,0.161,0.98,False
+Malaysia | Pahang,2,0.138,0.98,False
+Romania | Iași County,2,-0.016,0.98,True
+Brazil | State of Espírito Santo,0,0.18,0.98,False
+India | Tamil Nadu,2,0.192,0.98,False
+Greece | Decentralized Administration of Thessaly and Central Greece,0,0.167,0.98,False
+United States | Washington,0,0.172,1.0,False
+United States | Virginia,0,0.242,1.0,False
+United States | Vermont,0,0.259,1.0,False
+United States | Utah,0,0.458,1.0,False
+United States | Texas,0,0.377,1.0,False
+United States | Tennessee,0,0.508,1.0,False
+United States | South Dakota,0,0.375,1.0,False
+United States | South Carolina,0,0.503,1.0,False
+United States | Rhode Island,0,0.175,1.0,False
+United States | Pennsylvania,0,0.193,1.0,False
+United States | Oregon,0,0.297,1.0,False
+United States | Oklahoma,0,0.471,1.0,False
+United States | Ohio,0,0.484,1.0,False
+United States | North Dakota,0,0.525,1.0,False
+United States | North Carolina,0,0.459,1.0,False
+United States | New York,2,0.116,1.0,False
+Argentina | Río Negro,2,0.366,1.0,False
+Argentina | Neuquen,2,0.356,1.0,False
+Argentina | Misiones Province,2,0.177,1.0,False
+Argentina | La Rioja Province,1,0.108,1.0,False
+Argentina | La Pampa,2,0.047,1.0,True
+Argentina | Jujuy,2,0.18,1.0,False
+Argentina | Entre Rios,2,0.237,1.0,False
+Argentina | Corrientes,2,0.217,1.0,False
+Argentina | Cordoba,2,0.354,1.0,False
+Argentina | Chubut Province,2,0.372,1.0,False
+Argentina | Chaco Province,2,0.266,1.0,False
+Argentina | Catamarca Province,1,0.161,1.0,False
+Argentina | Buenos Aires Province,2,0.374,1.0,False
+Argentina | Buenos Aires,2,0.428,1.0,False
+United States | West Virginia,0,0.49,1.0,False
+Colombia | Cundinamarca,2,0.2,1.0,False
+Colombia | Cordoba,1,-0.062,1.0,True
+Colombia | Choco,2,0.206,1.0,False
+Colombia | Cesar,2,0.164,1.0,False
+Colombia | Casanare,1,0.014,1.0,True
+Colombia | Caldas,2,0.396,1.0,False
+Colombia | Bolivar,2,0.313,1.0,False
+Colombia | Bogota,2,0.403,1.0,False
+Colombia | Atlantico,2,0.301,1.0,False
+Colombia | Antioquia,2,0.362,1.0,False
+Chile | Valparaíso,2,0.292,1.0,False
+Chile | Tarapacá,2,0.311,1.0,False
+Chile | Santiago Metropolitan Region,2,0.407,1.0,False
+Chile | Maule,1,0.098,1.0,True
+Czechia | Liberec Region,0,0.527,1.0,False
+Czechia | Karlovy Vary Region,0,0.504,1.0,False
+Czechia | Hradec Králové Region,0,0.492,1.0,False
+Czechia | Central Bohemian Region,0,0.453,1.0,False
+Croatia | Split-Dalmatia County,1,0.09,1.0,True
+Croatia | Primorje-Gorski Kotar County,1,0.071,1.0,True
+Croatia | City of Zagreb,2,0.015,1.0,True
+Colombia | Valle del Cauca,2,0.335,1.0,False
+Colombia | Tolima,2,0.207,1.0,False
+Colombia | Sucre,2,0.257,1.0,False
+Colombia | Santander,2,0.331,1.0,False
+Colombia | Risaralda,2,0.384,1.0,False
+Colombia | Meta,1,-0.008,1.0,True
+Colombia | Magdalena,2,0.137,1.0,False
+Colombia | La Guajira,1,0.128,1.0,False
+Denmark | Region of Southern Denmark,0,0.517,1.0,False
+Denmark | Region Zealand,0,0.523,1.0,False
+Denmark | North Denmark Region,0,0.531,1.0,False
+Denmark | Central Denmark Region,0,0.515,1.0,False
+Denmark | Capital Region of Denmark,0,0.346,1.0,False
+Côte d'Ivoire | Abidjan Autonomous District,1,0.256,1.0,False
+Czechia | Ústí nad Labem Region,0,0.483,1.0,False
+Czechia | Zlín Region,0,0.502,1.0,False
+Czechia | Vysočina Region,0,0.476,1.0,False
+Czechia | South Moravian Region,0,0.516,1.0,False
+Czechia | South Bohemian Region,0,0.497,1.0,False
+Czechia | Prague,0,0.253,1.0,False
+Czechia | Plzeň Region,0,0.456,1.0,False
+Czechia | Pardubice Region,0,0.475,1.0,False
+Czechia | Olomouc Region,0,0.345,1.0,False
+Czechia | Moravian-Silesian Region,0,0.526,1.0,False
+Ecuador | Loja,2,0.214,1.0,False
+Ecuador | Imbabura,2,0.152,1.0,False
+Ecuador | Guayas,2,0.238,1.0,False
+Ecuador | Esmeraldas,2,0.207,1.0,False
+Ecuador | El Oro,1,-0.004,1.0,True
+Ecuador | Cotopaxi,1,0.028,1.0,True
+Ecuador | Chimborazo,2,0.198,1.0,False
+Ecuador | Azuay,2,0.314,1.0,False
+Dominican Republic | Santo Domingo Province,2,0.383,1.0,False
+Dominican Republic | Santiago Province,2,0.302,1.0,False
+Dominican Republic | San Pedro de Macorís Province,2,0.273,1.0,False
+Dominican Republic | Puerto Plata Province,2,0.395,1.0,False
+Dominican Republic | La Vega Province,2,0.278,1.0,False
+Dominican Republic | La Romana Province,2,0.319,1.0,False
+Dominican Republic | La Altagracia Province,2,0.374,1.0,False
+Dominican Republic | Distrito Nacional,2,0.445,1.0,False
+Chile | Magallanes and Chilean Antarctica,2,0.344,1.0,False
+Chile | Los Ríos,2,0.28,1.0,False
+Chile | Los Lagos,2,0.247,1.0,False
+Chile | Coquimbo,2,0.255,1.0,False
+Chile | Bio Bio,2,0.225,1.0,False
+Chile | Aysén,2,0.151,1.0,False
+Chile | Arica y Parinacota,2,0.271,1.0,False
+Chile | Araucania,2,0.351,1.0,False
+Chile | Antofagasta,2,0.184,1.0,False
+Canada | Saskatchewan,0,0.385,1.0,False
+Canada | Quebec,2,0.128,1.0,False
+Canada | Ontario,2,0.126,1.0,False
+Canada | Nova Scotia,0,0.202,1.0,False
+Canada | Newfoundland and Labrador,0,0.353,1.0,False
+Canada | New Brunswick,0,0.429,1.0,False
+Egypt | Luxor Governorate,1,-0.038,1.0,True
+Egypt | Giza Governorate,1,0.117,1.0,False
+Egypt | Gharbia Governorate,1,0.013,1.0,True
+Egypt | El Beheira Governorate,1,0.164,1.0,False
+Egypt | Dakahlia Governorate,1,0.061,1.0,True
+Egypt | Ash Sharqia Governorate,1,0.064,1.0,True
+Egypt | Al Qalyubia Governorate,1,0.164,1.0,False
+Ecuador | Tungurahua,2,0.265,1.0,False
+Ecuador | Pichincha,2,0.364,1.0,False
+Ecuador | Manabí,2,0.25,1.0,False
+Finland | Southwest Finland,0,0.511,1.0,False
+Finland | Pirkanmaa,0,0.322,1.0,False
+Finland | Northern Ostrobothnia,0,0.455,1.0,False
+Finland | North Savo,0,0.497,1.0,False
+Finland | Lapland,0,0.31,1.0,False
+Finland | Central Finland,0,0.441,1.0,False
+Estonia | Harju County,0,0.408,1.0,False
+El Salvador | Sonsonate Department,1,-0.0,1.0,True
+El Salvador | Santa Ana Department,2,0.247,1.0,False
+El Salvador | San Salvador Department,2,0.343,1.0,False
+El Salvador | San Miguel Department,2,0.396,1.0,False
+El Salvador | La Libertad Department,2,0.369,1.0,False
+Egypt | Sohag Governorate,1,0.178,1.0,False
+Egypt | Red Sea Governorate,2,0.341,1.0,False
+Egypt | Menia Governorate,1,0.135,1.0,False
+Germany | Bavaria,0,0.398,1.0,False
+Germany | Baden-Württemberg,0,0.452,1.0,False
+France | Île-de-France,2,0.339,1.0,False
+France | Provence-Alpes-Côte d'Azur,2,0.12,1.0,False
+France | Pays de la Loire,2,0.179,1.0,False
+France | Occitanie,2,0.137,1.0,False
+France | Nouvelle-Aquitaine,2,0.121,1.0,False
+France | Normandy,2,0.078,1.0,True
+France | Hauts-de-France,2,0.23,1.0,False
+France | Grand Est,2,0.281,1.0,False
+France | Corsica,1,0.162,1.0,False
+France | Centre-Val de Loire,2,0.116,1.0,False
+France | Brittany,2,0.087,1.0,True
+France | Bourgogne-Franche-Comté,2,0.107,1.0,False
+France | Auvergne-Rhône-Alpes,2,0.299,1.0,False
+Finland | Uusimaa,0,0.133,1.0,False
+Greece | Decentralized Administration of Epirus and Western Macedonia,0,0.344,1.0,False
+Greece | Decentralized Administration of Attica,0,0.145,1.0,False
+Germany | Thuringia,0,0.514,1.0,False
+Germany | Schleswig-Holstein,0,0.427,1.0,False
+Germany | Saxony-Anhalt,0,0.504,1.0,False
+Germany | Saxony,0,0.53,1.0,False
+Germany | Saarland,0,0.327,1.0,False
+Germany | Rhineland-Palatinate,0,0.49,1.0,False
+Germany | North Rhine-Westphalia,0,0.479,1.0,False
+Germany | Mecklenburg-Vorpommern,0,0.213,1.0,False
+Germany | Lower Saxony,0,0.525,1.0,False
+Germany | Hessen,0,0.35,1.0,False
+Germany | Hamburg,0,0.183,1.0,False
+Germany | Bremen,0,0.37,1.0,False
+Germany | Brandenburg,0,0.519,1.0,False
+Germany | Berlin,0,0.22,1.0,False
+Hungary | Budapest,2,0.09,1.0,True
+Hungary | Borsod-Abaúj-Zemplén,0,0.42,1.0,False
+Honduras | Francisco Morazán Department,2,0.442,1.0,False
+Honduras | Cortés Department,2,0.429,1.0,False
+Honduras | Atlántida Department,2,0.396,1.0,False
+Haiti | Ouest Department,1,0.063,1.0,True
+Guatemala | San Marcos Department,1,0.072,1.0,True
+Guatemala | Sacatepéquez Department,2,0.314,1.0,False
+Guatemala | Quetzaltenango Department,2,0.368,1.0,False
+Guatemala | Huehuetenango Department,1,0.211,1.0,False
+Guatemala | Guatemala Department,2,0.433,1.0,False
+Guatemala | Escuintla Department,1,0.057,1.0,True
+Guatemala | Alta Verapaz Department,1,0.206,1.0,False
+"Greece | Decentralized Administration of Peloponnese, Western Greece and the Ionian",1,0.104,1.0,False
+Greece | Decentralized Administration of Macedonia and Thrace,0,0.262,1.0,False
+India | Daman and Diu,2,0.249,1.0,False
+India | Chhattisgarh,1,0.182,1.0,False
+India | Chandigarh,2,0.41,1.0,False
+India | Bihar,1,0.268,1.0,False
+India | Assam,1,0.173,1.0,False
+India | Arunachal Pradesh,1,0.231,1.0,False
+India | Andhra Pradesh,1,-0.031,1.0,True
+Hungary | Zala County,0,0.235,1.0,False
+Hungary | Pest County,0,0.406,1.0,False
+Hungary | Heves County,0,0.36,1.0,False
+Hungary | Hajdú-Bihar,0,0.488,1.0,False
+Hungary | Gyor-Moson-Sopron,0,0.442,1.0,False
+Hungary | Fejér,0,0.477,1.0,False
+Hungary | Csongrád,0,0.46,1.0,False
+Hungary | Bács-Kiskun,0,0.479,1.0,False
+India | Odisha,1,0.05,1.0,True
+India | Nagaland,1,0.029,1.0,True
+India | Mizoram,1,0.054,1.0,True
+India | Meghalaya,1,0.165,1.0,False
+India | Manipur,1,0.058,1.0,True
+India | Maharashtra,2,0.412,1.0,False
+India | Madhya Pradesh,1,-0.017,1.0,True
+India | Kerala,1,0.166,1.0,False
+India | Karnataka,2,0.305,1.0,False
+India | Jharkhand,1,0.173,1.0,False
+India | Himachal Pradesh,1,0.257,1.0,False
+India | Haryana,2,0.364,1.0,False
+India | Gujarat,2,0.36,1.0,False
+India | Goa,2,0.281,1.0,False
+India | Delhi,2,0.425,1.0,False
+Indonesia | Central Kalimantan,1,-0.032,1.0,True
+Indonesia | Central Java,1,0.116,1.0,False
+Indonesia | Bengkulu,1,-0.002,1.0,True
+Indonesia | Banten,0,0.071,1.0,True
+Indonesia | Bangka Belitung Islands,1,0.08,1.0,True
+Indonesia | Bali,2,0.194,1.0,False
+India | West Bengal,2,0.282,1.0,False
+India | Uttarakhand,1,0.283,1.0,False
+India | Uttar Pradesh,1,0.121,1.0,False
+India | Tripura,1,0.201,1.0,False
+India | Telangana,2,0.373,1.0,False
+India | Sikkim,1,0.152,1.0,False
+India | Rajasthan,1,0.063,1.0,True
+India | Punjab,2,0.308,1.0,False
+Indonesia | South East Sulawesi,1,0.175,1.0,False
+Indonesia | Riau Islands,0,0.103,1.0,False
+Indonesia | Riau,1,0.056,1.0,True
+Indonesia | North Sulawesi,1,-0.061,1.0,True
+Indonesia | North Maluku,1,-0.023,1.0,True
+Indonesia | North Kalimantan,0,0.28,1.0,False
+Indonesia | Maluku,1,-0.112,1.0,True
+Indonesia | Lampung,1,0.143,1.0,False
+Indonesia | Jambi,1,-0.041,1.0,True
+Indonesia | Jakarta,2,0.169,1.0,False
+Indonesia | East Nusa Tenggara,1,0.136,1.0,False
+Indonesia | East Kalimantan,0,0.287,1.0,False
+Indonesia | East Java,1,-0.066,1.0,True
+Indonesia | Central Sulawesi,1,0.17,1.0,False
+Ireland | County Limerick,2,0.235,1.0,False
+Ireland | County Galway,2,0.084,1.0,True
+Ireland | County Dublin,2,0.333,1.0,False
+Ireland | County Donegal,0,0.19,1.0,False
+Ireland | County Cork,2,0.257,1.0,False
+Indonesia | West Sumatra,1,0.158,1.0,False
+Indonesia | West Sulawesi,1,0.145,1.0,False
+Indonesia | West Papua,1,-0.035,1.0,True
+Indonesia | West Nusa Tenggara,1,0.098,1.0,True
+Indonesia | West Kalimantan,0,0.188,1.0,False
+Indonesia | West Java,1,-0.09,1.0,True
+Indonesia | Special Region of Yogyakarta,2,0.134,1.0,False
+Indonesia | South Sumatra,1,-0.009,1.0,True
+Indonesia | South Kalimantan,1,-0.056,1.0,True
+Canada | Manitoba,0,0.262,1.0,False
+Canada | British Columbia,0,0.147,1.0,False
+Canada | Alberta,0,0.125,1.0,False
+Cameroon | Littoral,1,0.157,1.0,False
+Cameroon | Centre,1,0.156,1.0,False
+Cambodia | Sihanoukville,1,-0.008,1.0,True
+Cambodia | Siem Reap Province,2,0.118,1.0,False
+Cambodia | Phnom Penh,0,0.152,1.0,False
+Cambodia | Kandal Province,1,0.112,1.0,False
+Cambodia | Battambang Province,0,0.234,1.0,False
+Bulgaria | Veliko Tarnovo Province,0,0.489,1.0,False
+Bulgaria | Varna,0,0.289,1.0,False
+Bulgaria | Sofia City Province,0,0.185,1.0,False
+Bulgaria | Plovdiv Province,0,0.42,1.0,False
+Bulgaria | Haskovo Province,0,0.391,1.0,False
+Bulgaria | Burgas,1,0.077,1.0,True
+Italy | Campania,2,0.319,1.0,False
+Italy | Calabria,2,0.182,1.0,False
+Italy | Basilicata,2,0.209,1.0,False
+Italy | Apulia,2,0.181,1.0,False
+Italy | Aosta,2,0.315,1.0,False
+Italy | Abruzzo,2,0.232,1.0,False
+Israel | Tel Aviv District,2,0.204,1.0,False
+Israel | South District,0,0.225,1.0,False
+Israel | North District,0,0.405,1.0,False
+Israel | Jerusalem District,2,0.17,1.0,False
+Israel | Haifa District,0,0.205,1.0,False
+Israel | Center District,0,0.083,1.0,True
+Ireland | County Wicklow,2,0.131,1.0,False
+Ireland | County Tipperary,0,0.155,1.0,False
+Ireland | County Meath,0,0.081,1.0,True
+Japan | Aichi,0,0.498,1.0,False
+Jamaica | St. Andrew Parish,0,0.237,1.0,False
+Italy | Veneto,2,0.282,1.0,False
+Italy | Umbria,2,0.204,1.0,False
+Italy | Tuscany,2,0.269,1.0,False
+Italy | Trentino-South Tyrol,2,0.293,1.0,False
+Italy | Sicily,2,0.25,1.0,False
+Italy | Sardinia,2,0.158,1.0,False
+Italy | Piedmont,2,0.356,1.0,False
+Italy | Molise,2,0.175,1.0,False
+Italy | Marche,2,0.234,1.0,False
+Italy | Lombardy,2,0.391,1.0,False
+Italy | Liguria,2,0.204,1.0,False
+Italy | Lazio,2,0.381,1.0,False
+Italy | Friuli-Venezia Giulia,2,0.236,1.0,False
+Italy | Emilia-Romagna,2,0.32,1.0,False
+Japan | Kagawa,0,0.507,1.0,False
+Japan | Iwate,0,0.473,1.0,False
+Japan | Ishikawa,0,0.51,1.0,False
+Japan | Ibaraki,0,0.508,1.0,False
+Japan | Hyogo,0,0.512,1.0,False
+Japan | Hokkaido,0,0.528,1.0,False
+Japan | Hiroshima,0,0.501,1.0,False
+Japan | Gunma,0,0.522,1.0,False
+Japan | Gifu,0,0.523,1.0,False
+Japan | Fukushima,0,0.509,1.0,False
+Japan | Fukuoka,0,0.421,1.0,False
+Japan | Fukui,0,0.488,1.0,False
+Japan | Ehime,0,0.503,1.0,False
+Japan | Chiba,0,0.405,1.0,False
+Japan | Aomori,0,0.479,1.0,False
+Japan | Akita,0,0.463,1.0,False
+Japan | Osaka,0,0.412,1.0,False
+Japan | Okinawa,0,0.389,1.0,False
+Japan | Okayama,0,0.51,1.0,False
+Japan | Oita,0,0.504,1.0,False
+Japan | Niigata,0,0.5,1.0,False
+Japan | Nara,0,0.525,1.0,False
+Japan | Nagasaki,0,0.499,1.0,False
+Japan | Nagano,0,0.522,1.0,False
+Japan | Miyazaki,0,0.469,1.0,False
+Japan | Miyagi,0,0.514,1.0,False
+Japan | Mie,0,0.502,1.0,False
+Japan | Kyoto,0,0.492,1.0,False
+Japan | Kumamoto,0,0.505,1.0,False
+Japan | Kochi,0,0.5,1.0,False
+Japan | Kanagawa,0,0.369,1.0,False
+Japan | Kagoshima,0,0.481,1.0,False
+Kenya | Kajiado County,1,0.233,1.0,False
+Jordan | Amman Governorate,2,0.324,1.0,False
+Japan | Yamanashi,0,0.527,1.0,False
+Japan | Yamaguchi,0,0.511,1.0,False
+Japan | Yamagata,0,0.484,1.0,False
+Japan | Wakayama,0,0.493,1.0,False
+Japan | Toyama,0,0.493,1.0,False
+Japan | Tottori,0,0.482,1.0,False
+Japan | Tokyo,0,0.101,1.0,False
+Japan | Tokushima,0,0.455,1.0,False
+Japan | Tochigi,0,0.516,1.0,False
+Japan | Shizuoka,0,0.504,1.0,False
+Japan | Shimane,0,0.48,1.0,False
+Japan | Shiga,0,0.516,1.0,False
+Japan | Saitama,0,0.481,1.0,False
+Japan | Saga,0,0.501,1.0,False
+Kyrgyzstan | Osh Region,2,0.115,1.0,False
+Kyrgyzstan | Jalal-Abad Region,0,0.126,1.0,False
+Kyrgyzstan | Chüy Region,2,0.023,1.0,True
+Kuwait | Mubarak Al-Kabeer Governorate,2,0.267,1.0,False
+Kuwait | Hawalli Governorate,2,0.344,1.0,False
+Kuwait | Al Jahra Governorate,2,0.134,1.0,False
+Kuwait | Al Farwaniyah Governorate,2,0.372,1.0,False
+Kuwait | Al Asimah Governate,2,0.364,1.0,False
+Kuwait | Al Ahmadi Governorate,2,0.333,1.0,False
+Kenya | Uasin Gishu County,1,0.27,1.0,False
+Kenya | Nakuru County,1,0.281,1.0,False
+Kenya | Nairobi County,1,0.164,1.0,False
+Kenya | Mombasa County,1,0.162,1.0,False
+Kenya | Machakos County,1,0.24,1.0,False
+Kenya | Kisumu County,1,0.299,1.0,False
+Kenya | Kiambu County,1,0.284,1.0,False
+Malaysia | Perak,2,0.142,1.0,False
+Malaysia | Penang,2,0.324,1.0,False
+Malaysia | Negeri Sembilan,2,0.204,1.0,False
+Malaysia | Malacca,2,0.226,1.0,False
+Malaysia | Labuan Federal Territory,2,0.213,1.0,False
+Malaysia | Kelantan,1,0.099,1.0,True
+Malaysia | Johor,2,0.357,1.0,False
+Malaysia | Federal Territory of Kuala Lumpur,2,0.364,1.0,False
+Lithuania | Vilnius County,0,0.185,1.0,False
+Lithuania | Panevėžys County,0,0.411,1.0,False
+Lithuania | Kaunas County,0,0.386,1.0,False
+Lebanon | Mount Lebanon Governorate,2,0.11,1.0,False
+Latvia | Riga,0,0.28,1.0,False
+Mexico | Guanajuato,0,0.312,1.0,False
+Mexico | Colima,0,0.312,1.0,False
+Mexico | Coahuila,0,0.259,1.0,False
+Mexico | Chihuahua,0,0.179,1.0,False
+Mexico | Chiapas,1,-0.054,1.0,True
+Mexico | Baja California Sur,2,0.197,1.0,False
+Mexico | Baja California,0,0.181,1.0,False
+Mexico | Aguascalientes,0,0.134,1.0,False
+Malaysia | Terengganu,1,0.02,1.0,True
+Malaysia | Selangor,2,0.341,1.0,False
+Malaysia | Sarawak,2,0.349,1.0,False
+Malaysia | Sabah,2,0.323,1.0,False
+Malaysia | Putrajaya,2,0.074,1.0,True
+Mexico | Tabasco,1,0.057,1.0,True
+Mexico | Sinaloa,2,0.076,1.0,True
+Mexico | Quintana Roo,2,0.375,1.0,False
+Mexico | Querétaro,0,0.236,1.0,False
+Mexico | Puebla,0,0.185,1.0,False
+Mexico | Oaxaca,1,-0.088,1.0,True
+Mexico | Nayarit,0,0.179,1.0,False
+Mexico | Morelos,0,0.199,1.0,False
+Mexico | Michoacán,0,0.415,1.0,False
+Mexico | Mexico City,2,0.311,1.0,False
+Mexico | Jalisco,0,0.214,1.0,False
+Mexico | Hidalgo,1,0.013,1.0,True
+Netherlands | North Holland,0,0.094,1.0,True
+Netherlands | North Brabant,0,0.337,1.0,False
+Netherlands | Limburg,0,0.49,1.0,False
+Netherlands | Groningen,0,0.338,1.0,False
+Netherlands | Gelderland,0,0.466,1.0,False
+Netherlands | Friesland,0,0.534,1.0,False
+Netherlands | Flevoland,0,0.306,1.0,False
+Netherlands | Drenthe,0,0.51,1.0,False
+Namibia | Khomas Region,1,0.094,1.0,True
+Mozambique | Maputo,1,-0.004,1.0,True
+Mongolia | Ulaanbaatar,1,0.127,1.0,False
+Mexico | Zacatecas,0,0.209,1.0,False
+Mexico | Yucatan,2,0.365,1.0,False
+Mexico | Veracruz,0,0.27,1.0,False
+Mexico | Tamaulipas,0,0.268,1.0,False
+Nicaragua | Managua,1,-0.026,1.0,True
+Nicaragua | Leon,1,0.12,1.0,False
+Nicaragua | Chinandega,1,0.074,1.0,True
+New Zealand | Wellington,2,0.122,1.0,False
+New Zealand | Waikato,0,0.082,1.0,True
+New Zealand | Otago,2,0.231,1.0,False
+New Zealand | Northland,2,0.086,1.0,True
+New Zealand | Manawatu-Wanganui,0,0.224,1.0,False
+New Zealand | Hawke's Bay,0,0.081,1.0,True
+New Zealand | Canterbury,2,0.017,1.0,True
+New Zealand | Bay of Plenty,0,0.109,1.0,False
+New Zealand | Auckland,2,0.136,1.0,False
+Netherlands | Zeeland,0,0.369,1.0,False
+Netherlands | Utrecht,0,0.092,1.0,True
+Netherlands | South Holland,0,0.282,1.0,False
+Netherlands | Overijssel,0,0.403,1.0,False
+Norway | Rogaland,0,0.505,1.0,False
+Norway | Oslo,0,0.087,1.0,True
+Norway | Nordland,0,0.386,1.0,False
+Norway | Møre og Romsdal,0,0.454,1.0,False
+Norway | Innlandet,0,0.482,1.0,False
+Norway | Agder,0,0.481,1.0,False
+Nigeria | Rivers,1,0.325,1.0,False
+Nigeria | Oyo,1,0.256,1.0,False
+Nigeria | Osun,1,0.265,1.0,False
+Nigeria | Ogun State,1,0.286,1.0,False
+Nigeria | Lagos,1,0.039,1.0,True
+Nigeria | Kano,1,0.251,1.0,False
+Nigeria | Kaduna,1,0.277,1.0,False
+Nigeria | Federal Capital Territory,1,0.126,1.0,False
+Nigeria | Anambra,1,0.196,1.0,False
+Nicaragua | Masaya,1,0.078,1.0,True
+Paraguay | Caaguazú Department,1,0.022,1.0,True
+Paraguay | Asunción,2,0.368,1.0,False
+Paraguay | Alto Paraná Department,2,0.298,1.0,False
+Pakistan | Punjab,1,0.278,1.0,False
+Pakistan | Khyber Pakhtunkhwa,1,0.306,1.0,False
+Pakistan | Islamabad Capital Territory,2,0.221,1.0,False
+Pakistan | Balochistan,1,0.27,1.0,False
+Oman | Muscat Governorate,2,0.34,1.0,False
+Oman | Al Batinah North Governorate,0,0.066,1.0,True
+Norway | Viken,0,0.467,1.0,False
+Norway | Vestland,0,0.448,1.0,False
+Norway | Vestfold og Telemark,0,0.511,1.0,False
+Norway | Trøndelag,0,0.457,1.0,False
+Norway | Troms og Finnmark fylke,0,0.448,1.0,False
+Peru | Loreto,2,0.205,1.0,False
+Peru | Lima Region,2,0.35,1.0,False
+Peru | Lima Province,2,0.409,1.0,False
+Peru | Lambayeque,2,0.394,1.0,False
+Peru | La Libertad,2,0.406,1.0,False
+Peru | Junin,2,0.294,1.0,False
+Peru | Ica,2,0.358,1.0,False
+Peru | Huanuco,2,0.301,1.0,False
+Peru | Cusco,2,0.347,1.0,False
+Peru | Callao Region,2,0.421,1.0,False
+Peru | Cajamarca,2,0.219,1.0,False
+Peru | Ayacucho,2,0.192,1.0,False
+Peru | Arequipa,2,0.369,1.0,False
+Peru | Ancash,2,0.372,1.0,False
+Paraguay | Itapúa Department,2,0.274,1.0,False
+Paraguay | Central Department,2,0.127,1.0,False
+Bulgaria | Blagoevgrad Province,0,0.336,1.0,False
+Brazil | State of Tocantins,1,-0.023,1.0,True
+Brazil | State of São Paulo,0,0.188,1.0,False
+Brazil | State of Sergipe,2,0.02,1.0,True
+Brazil | State of Santa Catarina,2,-0.021,1.0,True
+Brazil | State of Roraima,1,-0.036,1.0,True
+Brazil | State of Rondônia,1,-0.068,1.0,True
+Brazil | State of Rio Grande do Sul,0,0.246,1.0,False
+Brazil | State of Rio Grande do Norte,0,0.114,1.0,False
+Brazil | State of Piauí,2,0.212,1.0,False
+Brazil | State of Pernambuco,0,0.112,1.0,False
+Brazil | State of Pará,1,0.146,1.0,False
+Brazil | State of Paraná,0,0.356,1.0,False
+Brazil | State of Minas Gerais,0,0.324,1.0,False
+Philippines | Eastern Visayas,1,0.222,1.0,False
+Philippines | Cordillera Administrative Region,2,0.307,1.0,False
+Philippines | Central Visayas,2,0.344,1.0,False
+Philippines | Caraga,1,0.153,1.0,False
+Philippines | Calabarzon,1,-0.033,1.0,True
+Philippines | Cagayan Valley,1,0.003,1.0,True
+Philippines | Bicol,1,0.136,1.0,False
+Philippines | Autonomous Region in Muslim Mindanao,1,0.232,1.0,False
+Peru | Ucayali,2,0.233,1.0,False
+Peru | Tacna,2,0.43,1.0,False
+Peru | San Martin,2,0.204,1.0,False
+Peru | Puno,2,0.303,1.0,False
+Peru | Piura,2,0.356,1.0,False
+Peru | Moquegua,2,0.31,1.0,False
+Poland | Podkarpackie Voivodeship,0,0.282,1.0,False
+Poland | Opole Voivodeship,0,0.287,1.0,False
+Poland | Lubusz Voivodeship,0,0.233,1.0,False
+Poland | Lublin Voivodeship,0,0.361,1.0,False
+Poland | Lower Silesian Voivodeship,0,0.275,1.0,False
+Poland | Kuyavian-Pomeranian Voivodeship,0,0.286,1.0,False
+Poland | Greater Poland Voivodeship,0,0.396,1.0,False
+Philippines | Zamboanga Peninsula,1,0.115,1.0,False
+Philippines | SOCCSKSARGEN,1,0.207,1.0,False
+Philippines | Northern Mindanao,1,0.106,1.0,False
+Philippines | National Capital Region,2,0.386,1.0,False
+Portugal | Madeira,2,0.377,1.0,False
+Portugal | Lisbon,2,0.423,1.0,False
+Portugal | Leiria District,1,-0.077,1.0,True
+Portugal | Faro District,1,0.157,1.0,False
+Portugal | Coimbra District,2,0.169,1.0,False
+Portugal | Castelo Branco District,1,0.01,1.0,True
+Portugal | Braga,2,0.197,1.0,False
+Portugal | Azores,1,0.114,1.0,False
+Poland | Świętokrzyskie Voivodeship,0,0.283,1.0,False
+Poland | Łódź Voivodeship,0,0.446,1.0,False
+Poland | West Pomeranian Voivodeship,0,0.304,1.0,False
+Poland | Warmian-Masurian Voivodeship,0,0.377,1.0,False
+Poland | Silesian Voivodeship,0,0.427,1.0,False
+Poland | Pomeranian Voivodeship,0,0.346,1.0,False
+Poland | Podlaskie Voivodeship,0,0.437,1.0,False
+Romania | Bucharest,2,0.177,1.0,False
+Romania | Brăila County,0,0.473,1.0,False
+Romania | Brașov County,0,0.098,1.0,True
+Romania | Botoșani County,0,0.348,1.0,False
+Romania | Bihor County,0,0.39,1.0,False
+Romania | Bacău County,0,0.36,1.0,False
+Romania | Argeș County,0,0.374,1.0,False
+Romania | Arad County,0,0.351,1.0,False
+Romania | Alba County,0,0.428,1.0,False
+Puerto Rico | Carolina,2,0.318,1.0,False
+Puerto Rico | Bayamón,2,0.315,1.0,False
+Portugal | Viseu District,1,-0.099,1.0,True
+Portugal | Vila Real District,1,0.03,1.0,True
+Portugal | Setubal,2,0.275,1.0,False
+Portugal | Porto District,2,0.337,1.0,False
+Romania | Maramureș County,0,0.328,1.0,False
+Romania | Ilfov County,0,0.119,1.0,False
+Romania | Ialomița County,0,0.532,1.0,False
+Romania | Hunedoara County,0,0.4,1.0,False
+Romania | Harghita County,0,0.382,1.0,False
+Romania | Gorj County,0,0.427,1.0,False
+Romania | Giurgiu County,0,0.421,1.0,False
+Romania | Galați,0,0.418,1.0,False
+Romania | Dâmbovița County,0,0.477,1.0,False
+Romania | Dolj County,0,0.362,1.0,False
+Romania | Călărași County,0,0.434,1.0,False
+Romania | Constanța County,0,0.417,1.0,False
+Romania | Cluj County,2,0.161,1.0,False
+Romania | Caraș-Severin County,0,0.425,1.0,False
+Romania | Buzău County,0,0.107,1.0,False
+Rwanda | Kigali City,1,0.14,1.0,False
+Romania | Vâlcea County,0,0.447,1.0,False
+Romania | Vrancea County,0,0.439,1.0,False
+Romania | Vaslui County,0,0.442,1.0,False
+Romania | Tulcea County,0,0.47,1.0,False
+Romania | Timiș County,2,0.042,1.0,True
+Romania | Teleorman County,0,0.511,1.0,False
+Romania | Sălaj,0,0.4,1.0,False
+Romania | Suceava County,0,0.132,1.0,False
+Romania | Sibiu,0,0.209,1.0,False
+Romania | Satu Mare County,0,0.414,1.0,False
+Romania | Prahova,0,0.349,1.0,False
+Romania | Olt County,0,0.525,1.0,False
+Romania | Neamț County,0,0.356,1.0,False
+Romania | Mureș County,0,0.36,1.0,False
+Romania | Mehedinți County,0,0.462,1.0,False
+Brazil | State of Mato Grosso do Sul,0,0.308,1.0,False
+Brazil | State of Maranhão,1,0.153,1.0,False
+Brazil | State of Ceará,2,0.101,1.0,False
+Brazil | State of Amazonas,1,-0.051,1.0,True
+Brazil | State of Amapá,1,0.042,1.0,True
+Brazil | State of Acre,1,0.163,1.0,False
+Brazil | Federal District,0,0.219,1.0,False
+Botswana | Gaborone,1,0.244,1.0,False
+Bolivia | Tarija Department,2,0.318,1.0,False
+Bolivia | Santa Cruz Department,2,0.333,1.0,False
+Bolivia | Potosi Department,2,0.226,1.0,False
+Slovakia | Žilina Region,0,0.284,1.0,False
+Slovakia | Trenčín Region,0,0.319,1.0,False
+Slovakia | Prešov Region,0,0.256,1.0,False
+Slovakia | Nitra Region,0,0.378,1.0,False
+Slovakia | Bratislava Region,2,0.008,1.0,True
+Slovakia | Banská Bystrica Region,0,0.377,1.0,False
+Senegal | Dakar Region,0,0.114,1.0,False
+Saudi Arabia | Riyadh Province,2,0.368,1.0,False
+Saudi Arabia | Makkah Province,2,0.402,1.0,False
+Saudi Arabia | Jazan Province,1,0.118,1.0,False
+Saudi Arabia | Eastern Province,2,0.315,1.0,False
+Saudi Arabia | Aseer Province,1,0.131,1.0,False
+Saudi Arabia | Al Madinah Province,2,0.414,1.0,False
+Saudi Arabia | Al Jowf Province,0,0.101,1.0,False
+Spain | Canary Islands,2,0.396,1.0,False
+Spain | Basque Country,2,0.286,1.0,False
+Spain | Balearic Islands,2,0.131,1.0,False
+Spain | Asturias,2,0.261,1.0,False
+Spain | Aragon,2,0.28,1.0,False
+Spain | Andalusia,2,0.338,1.0,False
+South Africa | Western Cape,2,0.386,1.0,False
+South Africa | North West,1,0.253,1.0,False
+South Africa | Mpumalanga,1,0.199,1.0,False
+South Africa | Limpopo,1,0.278,1.0,False
+South Africa | KwaZulu-Natal,2,0.274,1.0,False
+South Africa | Free State,1,0.134,1.0,False
+South Africa | Eastern Cape,2,0.211,1.0,False
+Slovenia | Ljubljana,2,0.05,1.0,True
+Sweden | Västerbotten County,0,0.494,1.0,False
+Sweden | Varmland County,0,0.507,1.0,False
+Sweden | Stockholm County,0,0.308,1.0,False
+Sweden | Skåne County,0,0.524,1.0,False
+Sweden | Dalarna County,0,0.502,1.0,False
+Spain | Valencian Community,2,0.369,1.0,False
+Spain | Region of Murcia,2,0.24,1.0,False
+Spain | Navarre,2,0.305,1.0,False
+Spain | La Rioja,2,0.237,1.0,False
+Spain | Galicia,2,0.26,1.0,False
+Spain | Extremadura,2,0.185,1.0,False
+Spain | Community of Madrid,2,0.366,1.0,False
+Spain | Catalonia,2,0.391,1.0,False
+Spain | Castile-La Mancha,2,0.345,1.0,False
+Spain | Castile and León,2,0.273,1.0,False
+Spain | Cantabria,2,0.258,1.0,False
+The Bahamas | New Providence,2,0.377,1.0,False
+Tanzania | Mwanza Region,1,0.132,1.0,False
+Tanzania | Dar es Salam,1,0.108,1.0,False
+Tanzania | Arusha Region,1,-0.035,1.0,True
+Switzerland | Zurich,0,0.195,1.0,False
+Switzerland | Vaud,0,0.259,1.0,False
+Switzerland | Valais,0,0.26,1.0,False
+Switzerland | Ticino,0,0.187,1.0,False
+Switzerland | Geneva,2,0.191,1.0,False
+Switzerland | Canton of Lucerne,0,0.466,1.0,False
+Switzerland | Canton of Bern,0,0.445,1.0,False
+Switzerland | Aargau,0,0.495,1.0,False
+Sweden | Östergötland County,0,0.495,1.0,False
+Sweden | Västra Götaland County,0,0.506,1.0,False
+Turkey | Elazığ,1,-0.061,1.0,True
+Turkey | Diyarbakır,1,0.064,1.0,True
+Turkey | Denizli,0,0.111,1.0,False
+Turkey | Bursa,2,0.041,1.0,True
+Turkey | Balıkesir,1,0.135,1.0,False
+Turkey | Antalya,1,0.115,1.0,False
+Turkey | Ankara,2,0.033,1.0,True
+Turkey | Afyonkarahisar,1,0.078,1.0,True
+Turkey | Adıyaman,1,0.023,1.0,True
+Turkey | Adana,0,0.141,1.0,False
+Togo | Maritime Region,1,0.229,1.0,False
+Bolivia | Oruro Department,2,0.285,1.0,False
+Bolivia | La Paz Department,2,0.365,1.0,False
+Bolivia | Cochabamba Department,2,0.338,1.0,False
+Bolivia | Chuquisaca Department,2,0.344,1.0,False
+Bolivia | Beni Department,2,0.215,1.0,False
+Belgium | Wallonia,2,0.009,1.0,True
+Belgium | Brussels,2,0.348,1.0,False
+Austria | Vorarlberg,0,0.191,1.0,False
+Austria | Upper Austria,0,0.354,1.0,False
+Austria | Tyrol,2,0.2,1.0,False
+Austria | Styria,0,0.271,1.0,False
+Austria | Salzburg,2,0.128,1.0,False
+Austria | Lower Austria,0,0.304,1.0,False
+Austria | Carinthia,0,0.349,1.0,False
+Turkey | Mardin,1,0.228,1.0,False
+Turkey | Kırklareli,0,0.212,1.0,False
+Turkey | Konya,1,-0.012,1.0,True
+Turkey | Kahramanmaraş,1,0.053,1.0,True
+Turkey | Hatay,1,-0.008,1.0,True
+Turkey | Giresun,0,0.263,1.0,False
+Turkey | Gaziantep,1,0.062,1.0,True
+Turkey | Eskişehir,2,0.035,1.0,True
+Turkey | Yozgat,1,0.051,1.0,True
+Turkey | Yalova,1,-0.007,1.0,True
+Turkey | Van,1,0.216,1.0,False
+Turkey | Tokat,1,0.004,1.0,True
+Turkey | Tekirdağ,1,-0.015,1.0,True
+Turkey | Sivas,1,0.08,1.0,True
+Turkey | Samsun,1,0.042,1.0,True
+Turkey | Osmaniye,1,0.011,1.0,True
+Turkey | Niğde,1,0.131,1.0,False
+Turkey | Nevşehir,1,0.042,1.0,True
+Turkey | Muğla,1,0.209,1.0,False
+Turkey | Mersin,1,0.03,1.0,True
+United Kingdom | Brighton and Hove,2,0.372,1.0,False
+United Kingdom | Belfast,2,0.331,1.0,False
+United Kingdom | Bath and North East Somerset,2,0.37,1.0,False
+United Kingdom | Aberdeenshire,2,0.203,1.0,False
+United Kingdom | Aberdeen City,2,0.35,1.0,False
+United Arab Emirates | Sharjah,1,0.018,1.0,True
+United Arab Emirates | Ras al Khaimah,0,0.191,1.0,False
+United Arab Emirates | Dubai,2,0.334,1.0,False
+United Arab Emirates | Ajman,1,-0.123,1.0,True
+United Arab Emirates | Abu Dhabi,2,0.201,1.0,False
+Turkey | Şanlıurfa,1,0.223,1.0,False
+Turkey | İstanbul,2,0.172,1.0,False
+United Kingdom | Dorset,2,0.168,1.0,False
+United Kingdom | Devon,2,0.147,1.0,False
+United Kingdom | Derbyshire,2,0.118,1.0,False
+United Kingdom | Cumbria,2,0.127,1.0,False
+United Kingdom | County Durham,2,0.09,1.0,True
+United Kingdom | Cornwall,2,0.0,1.0,True
+United Kingdom | Conwy Principal Area,2,0.086,1.0,True
+United Kingdom | Cheshire West and Chester,2,0.31,1.0,False
+United Kingdom | Cheshire East,2,0.297,1.0,False
+United Kingdom | Central Bedfordshire,2,0.213,1.0,False
+United Kingdom | Carmarthenshire,2,0.141,1.0,False
+United Kingdom | Cardiff,2,0.345,1.0,False
+United Kingdom | Cambridgeshire,2,0.365,1.0,False
+United Kingdom | Buckinghamshire,2,0.317,1.0,False
+United Kingdom | Bristol City,2,0.355,1.0,False
+United Kingdom | Kent,2,0.262,1.0,False
+United Kingdom | Isle of Wight,2,0.061,1.0,True
+United Kingdom | Highland Council,2,0.168,1.0,False
+United Kingdom | Hertfordshire,2,0.339,1.0,False
+United Kingdom | Herefordshire,2,0.053,1.0,True
+United Kingdom | Hampshire,2,0.295,1.0,False
+United Kingdom | Greater Manchester,2,0.322,1.0,False
+United Kingdom | Greater London,2,0.346,1.0,False
+United Kingdom | Gloucestershire,2,0.25,1.0,False
+United Kingdom | Glasgow City,2,0.35,1.0,False
+United Kingdom | Fife,2,0.19,1.0,False
+United Kingdom | Essex,2,0.335,1.0,False
+United Kingdom | Edinburgh,2,0.383,1.0,False
+United Kingdom | East Sussex,2,0.162,1.0,False
+United Kingdom | East Riding of Yorkshire,0,0.128,1.0,False
+United Kingdom | Dumfries and Galloway,2,0.005,1.0,True
+United Kingdom | Nottingham,2,0.306,1.0,False
+United Kingdom | Northamptonshire,2,0.188,1.0,False
+United Kingdom | North Yorkshire,2,0.118,1.0,False
+United Kingdom | North Somerset,2,0.356,1.0,False
+United Kingdom | North Lincolnshire,0,0.131,1.0,False
+United Kingdom | North East Lincolnshire,0,0.168,1.0,False
+United Kingdom | Norfolk,2,0.221,1.0,False
+United Kingdom | Milton Keynes,2,0.354,1.0,False
+United Kingdom | Merseyside,2,0.258,1.0,False
+United Kingdom | Medway,2,0.207,1.0,False
+United Kingdom | Leicestershire,2,0.234,1.0,False
+United Kingdom | Leicester,2,0.269,1.0,False
+United Kingdom | Lancashire,2,0.168,1.0,False
+United Kingdom | Kingston upon Hull,2,0.113,1.0,False
+United Kingdom | Stockton-on-Tees,2,0.108,1.0,False
+United Kingdom | Staffordshire,2,0.177,1.0,False
+United Kingdom | Southend-on-Sea,2,0.27,1.0,False
+United Kingdom | Southampton,2,0.271,1.0,False
+United Kingdom | South Yorkshire,2,0.248,1.0,False
+United Kingdom | South Lanarkshire,2,0.194,1.0,False
+United Kingdom | South Gloucestershire,2,0.288,1.0,False
+United Kingdom | Somerset,2,0.032,1.0,True
+United Kingdom | Shropshire,2,0.166,1.0,False
+United Kingdom | Scottish Borders,2,0.035,1.0,True
+United Kingdom | Rhondda Cynon Taff,2,0.19,1.0,False
+United Kingdom | Powys,2,0.035,1.0,True
+United Kingdom | Plymouth,2,0.269,1.0,False
+United Kingdom | Perth and Kinross,2,0.31,1.0,False
+United Kingdom | Oxfordshire,2,0.358,1.0,False
+United Kingdom | Nottinghamshire,2,0.13,1.0,False
+United Kingdom | York,2,0.402,1.0,False
+United Kingdom | Worcestershire,2,0.221,1.0,False
+United Kingdom | Windsor and Maidenhead,2,0.348,1.0,False
+United Kingdom | Wiltshire,2,0.23,1.0,False
+United Kingdom | West Yorkshire,2,0.289,1.0,False
+United Kingdom | West Sussex,2,0.333,1.0,False
+United Kingdom | West Midlands,2,0.298,1.0,False
+United Kingdom | West Berkshire,2,0.36,1.0,False
+United Kingdom | Warwickshire,2,0.289,1.0,False
+United Kingdom | Vale of Glamorgan,2,0.267,1.0,False
+United Kingdom | Tyne and Wear,2,0.285,1.0,False
+United Kingdom | Torbay,2,0.008,1.0,True
+United Kingdom | Swansea,2,0.31,1.0,False
+United Kingdom | Surrey,2,0.348,1.0,False
+United Kingdom | Suffolk,2,0.192,1.0,False
+United Kingdom | Stoke-on-Trent,2,0.217,1.0,False
+United States | Iowa,0,0.482,1.0,False
+United States | Indiana,0,0.484,1.0,False
+United States | Illinois,0,0.226,1.0,False
+United States | Idaho,0,0.469,1.0,False
+United States | Hawaii,2,0.093,1.0,True
+United States | Georgia,0,0.385,1.0,False
+United States | Florida,0,0.163,1.0,False
+United States | District of Columbia,2,0.256,1.0,False
+United States | Delaware,0,0.383,1.0,False
+United States | Connecticut,0,0.336,1.0,False
+United States | Colorado,0,0.219,1.0,False
+United States | California,0,0.079,1.0,True
+United States | Arkansas,0,0.473,1.0,False
+United States | Arizona,0,0.359,1.0,False
+United States | Alaska,0,0.42,1.0,False
+United States | Alabama,0,0.5,1.0,False
+United States | New Mexico,0,0.451,1.0,False
+United States | New Jersey,2,0.11,1.0,False
+United States | New Hampshire,0,0.459,1.0,False
+United States | Nevada,0,0.172,1.0,False
+United States | Nebraska,0,0.484,1.0,False
+United States | Montana,0,0.433,1.0,False
+United States | Missouri,0,0.522,1.0,False
+United States | Mississippi,0,0.469,1.0,False
+United States | Minnesota,0,0.356,1.0,False
+United States | Michigan,0,0.343,1.0,False
+United States | Massachusetts,2,0.072,1.0,True
+United States | Maryland,0,0.108,1.0,False
+United States | Maine,0,0.474,1.0,False
+United States | Louisiana,0,0.482,1.0,False
+United States | Kentucky,0,0.491,1.0,False
+United States | Kansas,0,0.481,1.0,False
+Australia | Western Australia,0,0.481,1.0,False
+Australia | Victoria,0,0.096,1.0,True
+Australia | Tasmania,0,0.343,1.0,False
+Australia | South Australia,0,0.512,1.0,False
+Australia | Queensland,0,0.461,1.0,False
+Australia | Northern Territory,0,0.398,1.0,False
+Australia | New South Wales,0,0.24,1.0,False
+Australia | Australian Capital Territory,0,0.411,1.0,False
+Argentina | Tucumán,2,0.148,1.0,False
+Argentina | Tierra del Fuego Province,2,0.313,1.0,False
+Argentina | Santiago del Estero Province,2,0.202,1.0,False
+Argentina | Santa Fe Province,1,0.054,1.0,True
+Argentina | Santa Cruz Province,2,0.245,1.0,False
+Argentina | San Luis Province,2,0.258,1.0,False
+Argentina | Salta Province,1,0.061,1.0,True
+United States | Wisconsin,0,0.508,1.0,False
+United States | Wyoming,0,0.412,1.0,False
+Uruguay | Canelones Department,0,0.132,1.0,False
+Uruguay | Cerro Largo Department,0,0.372,1.0,False
+Uruguay | Colonia Department,2,-0.023,1.0,True
+Uruguay | Maldonado Department,2,0.26,1.0,False
+Uruguay | Montevideo Department,0,0.238,1.0,False
+Uruguay | Paysandú Department,0,0.259,1.0,False
+Uruguay | Salto Department,0,0.305,1.0,False
+Uruguay | San José Department,0,0.376,1.0,False
+Uruguay | Tacuarembó Department,0,0.316,1.0,False
+Angola | Luanda Province,1,0.269,1.0,False

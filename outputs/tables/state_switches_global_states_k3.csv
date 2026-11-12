@@ -1,0 +1,925 @@
+region_id,n_state_changes
+Canada | Manitoba,6
+Austria | Salzburg,6
+Croatia | Split-Dalmatia County,6
+Austria | Vienna,6
+Slovakia | Prešov Region,6
+Canada | Alberta,6
+United States | Rhode Island,6
+Croatia | Primorje-Gorski Kotar County,6
+Portugal | Faro District,6
+Portugal | Vila Real District,6
+Romania | Constanța County,6
+Finland | Northern Ostrobothnia,6
+Finland | Pirkanmaa,6
+Finland | Uusimaa,6
+Poland | West Pomeranian Voivodeship,6
+Germany | Berlin,6
+"Greece | Decentralized Administration of Peloponnese, Western Greece and the Ionian",6
+Greece | Decentralized Administration of Thessaly and Central Greece,6
+Latvia | Riga,6
+Turkey | Kütahya,5
+Turkey | Kırklareli,5
+Turkey | Malatya,5
+Turkey | Manisa,5
+Turkey | Mersin,5
+Spain | Balearic Islands,5
+Bulgaria | Varna,5
+Czechia | Plzeň Region,5
+Turkey | Adana,5
+Turkey | Adıyaman,5
+Turkey | Aksaray,5
+Turkey | Bolu,5
+Turkey | Bursa,5
+Turkey | Denizli,5
+Turkey | Diyarbakır,5
+Turkey | Çanakkale,5
+Turkey | Çorum,5
+Turkey | İstanbul,5
+Turkey | İzmir,5
+United Kingdom | Conwy Principal Area,5
+Turkey | Edirne,5
+Turkey | Elazığ,5
+Turkey | Erzurum,5
+Turkey | Amasya,5
+Turkey | Ankara,5
+Turkey | Antalya,5
+Turkey | Eskişehir,5
+Turkey | Giresun,5
+Turkey | Hatay,5
+Turkey | Isparta,5
+United Kingdom | Isle of Wight,5
+Turkey | Kahramanmaraş,5
+Bulgaria | Burgas,5
+Turkey | Kastamonu,5
+Turkey | Nevşehir,5
+Slovakia | Trenčín Region,5
+Turkey | Ordu,5
+Turkey | Osmaniye,5
+Portugal | Braga,5
+Portugal | Castelo Branco District,5
+Portugal | Coimbra District,5
+Turkey | Sakarya,5
+Portugal | Leiria District,5
+Portugal | Porto District,5
+Portugal | Santarém District,5
+Czechia | Olomouc Region,5
+Portugal | Viseu District,5
+Romania | Buzău County,5
+Turkey | Tekirdağ,5
+Poland | Podkarpackie Voivodeship,5
+Poland | Podlaskie Voivodeship,5
+Slovakia | Nitra Region,5
+Turkey | Trabzon,5
+Turkey | Yalova,5
+Poland | Pomeranian Voivodeship,5
+Poland | Warmian-Masurian Voivodeship,5
+Indonesia | West Java,5
+Poland | Łódź Voivodeship,5
+Poland | Świętokrzyskie Voivodeship,5
+Portugal | Aveiro District,5
+Turkey | Zonguldak,5
+Poland | Kuyavian-Pomeranian Voivodeship,5
+Poland | Lublin Voivodeship,5
+Poland | Lubusz Voivodeship,5
+Germany | Mecklenburg-Vorpommern,5
+Germany | Schleswig-Holstein,5
+Greece | Decentralized Administration of Epirus and Western Macedonia,5
+Greece | Decentralized Administration of Macedonia and Thrace,5
+France | Brittany,5
+Turkey | Kayseri,5
+Turkey | Kocaeli,5
+Malaysia | Pahang,5
+Malaysia | Perlis,5
+Malaysia | Terengganu,5
+Hungary | Csongrád,5
+Hungary | Gyor-Moson-Sopron,5
+India | Haryana,5
+India | Karnataka,5
+Lithuania | Kaunas County,5
+Lithuania | Panevėžys County,5
+Malaysia | Kedah,5
+Malaysia | Kelantan,5
+Jordan | Amman Governorate,5
+Turkey | Konya,5
+India | Sikkim,5
+India | Telangana,5
+Italy | Calabria,5
+Italy | Sardinia,5
+United Kingdom | Cumbria,4
+Canada | New Brunswick,4
+Canada | Nova Scotia,4
+Canada | Quebec,4
+Canada | Saskatchewan,4
+Switzerland | Canton of Bern,4
+Switzerland | Canton of Lucerne,4
+Switzerland | Grisons,4
+Switzerland | Ticino,4
+Switzerland | Valais,4
+Switzerland | Vaud,4
+Switzerland | Zurich,4
+Turkey | Afyonkarahisar,4
+Turkey | Aydın,4
+Turkey | Balıkesir,4
+Spain | Castile and León,4
+Spain | Castile-La Mancha,4
+Spain | Extremadura,4
+Spain | Galicia,4
+Spain | La Rioja,4
+Spain | Region of Murcia,4
+Sweden | Stockholm County,4
+Croatia | City of Zagreb,4
+Czechia | Hradec Králové Region,4
+Czechia | Karlovy Vary Region,4
+Czechia | Moravian-Silesian Region,4
+Switzerland | Aargau,4
+Switzerland | Basel City,4
+Slovenia | Administrative unit Maribor,4
+Slovenia | Ljubljana,4
+Spain | Andalusia,4
+Spain | Aragon,4
+Spain | Asturias,4
+Spain | Basque Country,4
+Spain | Cantabria,4
+Czechia | Pardubice Region,4
+Czechia | Prague,4
+Czechia | South Moravian Region,4
+Czechia | Zlín Region,4
+Denmark | Capital Region of Denmark,4
+Denmark | Central Denmark Region,4
+Romania | Dolj County,4
+Romania | Iași County,4
+Romania | Ilfov County,4
+Romania | Maramureș County,4
+Romania | Prahova,4
+Romania | Satu Mare County,4
+Romania | Sibiu,4
+Romania | Timiș County,4
+Saudi Arabia | Al Jowf Province,4
+Senegal | Dakar Region,4
+Slovakia | Banská Bystrica Region,4
+Slovakia | Bratislava Region,4
+Spain | Valencian Community,4
+Slovakia | Žilina Region,4
+United States | Wisconsin,4
+Italy | Abruzzo,4
+United States | Ohio,4
+United States | Oregon,4
+United States | Pennsylvania,4
+United States | Utah,4
+United States | Vermont,4
+Portugal | Setubal,4
+United States | Washington,4
+Ireland | County Galway,4
+Romania | Arad County,4
+Romania | Brașov County,4
+Romania | Bucharest,4
+Ireland | County Kilkenny,4
+Romania | Cluj County,4
+Ireland | County Meath,4
+Ireland | County Tipperary,4
+Ireland | County Waterford,4
+Estonia | Harju County,4
+Finland | Central Finland,4
+Finland | Lapland,4
+Ireland | County Wicklow,4
+Italy | Trentino-South Tyrol,4
+Finland | Southwest Finland,4
+United Kingdom | Lincolnshire,4
+United Kingdom | Norfolk,4
+Poland | Silesian Voivodeship,4
+United Kingdom | North East Lincolnshire,4
+United Kingdom | North Lincolnshire,4
+United Kingdom | North Yorkshire,4
+United Kingdom | Northumberland,4
+Austria | Lower Austria,4
+France | Hauts-de-France,4
+France | Normandy,4
+France | Nouvelle-Aquitaine,4
+France | Occitanie,4
+France | Pays de la Loire,4
+France | Provence-Alpes-Côte d'Azur,4
+Germany | Baden-Württemberg,4
+Germany | Bavaria,4
+Austria | Styria,4
+Poland | Greater Poland Voivodeship,4
+Austria | Upper Austria,4
+Poland | Lesser Poland Voivodeship,4
+Poland | Lower Silesian Voivodeship,4
+Austria | Vorarlberg,4
+Belgium | Flanders,4
+Poland | Masovian Voivodeship,4
+Germany | Lower Saxony,4
+Belgium | Wallonia,4
+Germany | North Rhine-Westphalia,4
+Germany | Rhineland-Palatinate,4
+Germany | Saarland,4
+Germany | Saxony,4
+United Kingdom | Powys,4
+Greece | Decentralized Administration of Attica,4
+United Kingdom | Scottish Borders,4
+United Kingdom | Cornwall,4
+France | Auvergne-Rhône-Alpes,4
+France | Bourgogne-Franche-Comté,4
+United States | North Carolina,4
+France | Centre-Val de Loire,4
+France | Corsica,4
+France | Grand Est,4
+Netherlands | Gelderland,4
+Netherlands | Groningen,4
+Netherlands | Limburg,4
+Netherlands | North Brabant,4
+Netherlands | North Holland,4
+Netherlands | Overijssel,4
+Netherlands | South Holland,4
+Netherlands | Utrecht,4
+Norway | Trøndelag,4
+Norway | Viken,4
+United Kingdom | Derbyshire,4
+United Kingdom | Devon,4
+Hungary | Budapest,4
+Germany | Bremen,4
+Germany | Hamburg,4
+Germany | Hessen,4
+Malaysia | Negeri Sembilan,4
+United Kingdom | Dorset,4
+Malaysia | Penang,4
+Malaysia | Perak,4
+United Kingdom | Dumfries and Galloway,4
+Malaysia | Putrajaya,4
+Malaysia | Sarawak,4
+United Kingdom | East Riding of Yorkshire,4
+United Kingdom | East Sussex,4
+United Kingdom | Herefordshire,4
+India | Arunachal Pradesh,4
+India | Assam,4
+India | Chhattisgarh,4
+Netherlands | Drenthe,4
+Netherlands | Flevoland,4
+Netherlands | Friesland,4
+India | Goa,4
+India | Gujarat,4
+United Kingdom | Highland Council,4
+India | Jharkhand,4
+Bulgaria | Blagoevgrad Province,4
+India | Kerala,4
+India | Madhya Pradesh,4
+India | Odisha,4
+India | Puducherry,4
+Lebanon | Mount Lebanon Governorate,4
+Turkey | Muğla,4
+Turkey | Niğde,4
+Lithuania | Vilnius County,4
+Turkey | Samsun,4
+Turkey | Tokat,4
+Malaysia | Malacca,4
+Italy | Tuscany,4
+Italy | Umbria,4
+Italy | Veneto,4
+Japan | Okinawa,4
+Turkey | Van,4
+Kuwait | Al Asimah Governate,4
+Kuwait | Al Jahra Governorate,4
+Kuwait | Mubarak Al-Kabeer Governorate,4
+Kyrgyzstan | Osh Region,4
+Turkey | Yozgat,4
+India | Rajasthan,4
+Bulgaria | Sofia City Province,4
+India | Tamil Nadu,4
+Bulgaria | Veliko Tarnovo Province,4
+India | Tripura,4
+India | West Bengal,4
+United States | New York,4
+United Kingdom | Somerset,4
+United Kingdom | Torbay,4
+United States | Colorado,4
+United States | Connecticut,4
+United States | Delaware,4
+United States | Georgia,4
+United States | Illinois,4
+Australia | New South Wales,4
+Austria | Carinthia,4
+United States | Maryland,4
+United States | Massachusetts,4
+United States | Michigan,4
+United States | Minnesota,4
+United States | New Hampshire,4
+Israel | North District,4
+United Kingdom | Shropshire,4
+Italy | Aosta,4
+Italy | Apulia,4
+Italy | Basilicata,4
+Cambodia | Sihanoukville,4
+Italy | Campania,4
+Italy | Emilia-Romagna,4
+Italy | Friuli-Venezia Giulia,4
+Italy | Lazio,4
+Italy | Liguria,4
+Italy | Marche,4
+Italy | Molise,4
+Italy | Piedmont,4
+Canada | British Columbia,4
+Italy | Sicily,4
+United States | New Mexico,4
+Uruguay | Tacuarembó Department,3
+Uruguay | San José Department,3
+Argentina | Buenos Aires Province,3
+Argentina | Catamarca Province,3
+Argentina | Chaco Province,3
+Uruguay | Paysandú Department,3
+Argentina | Cordoba,3
+Argentina | Tucumán,3
+Argentina | Tierra del Fuego Province,3
+Argentina | Santiago del Estero Province,3
+Argentina | Santa Fe Province,3
+Argentina | Santa Cruz Province,3
+Argentina | San Luis Province,3
+Argentina | San Juan Province,3
+Ireland | County Donegal,3
+Indonesia | West Sumatra,3
+Indonesia | West Sulawesi,3
+Indonesia | West Papua,3
+Indonesia | West Nusa Tenggara,3
+Indonesia | South Sumatra,3
+Indonesia | South Sulawesi,3
+Bolivia | Potosi Department,3
+Bolivia | Oruro Department,3
+Bolivia | La Paz Department,3
+Bolivia | Cochabamba Department,3
+Bolivia | Chuquisaca Department,3
+Bolivia | Beni Department,3
+Indonesia | Riau,3
+Indonesia | Papua,3
+Indonesia | North Sumatra,3
+Indonesia | North Sulawesi,3
+Indonesia | North Maluku,3
+Indonesia | North Kalimantan,3
+Indonesia | Maluku,3
+Indonesia | Lampung,3
+Indonesia | Jambi,3
+Indonesia | East Nusa Tenggara,3
+Indonesia | East Kalimantan,3
+Indonesia | East Java,3
+Brazil | State of Minas Gerais,3
+Brazil | State of Mato Grosso do Sul,3
+Brazil | State of Mato Grosso,3
+Brazil | State of Maranhão,3
+Brazil | State of Goiás,3
+Brazil | State of Espírito Santo,3
+Brazil | State of Ceará,3
+Brazil | State of Bahia,3
+Brazil | State of Amazonas,3
+Indonesia | South Kalimantan,3
+Indonesia | South East Sulawesi,3
+Brazil | State of Amapá,3
+Brazil | State of Alagoas,3
+Brazil | State of Acre,3
+Brazil | Federal District,3
+Botswana | Gaborone,3
+Bolivia | Tarija Department,3
+Bolivia | Santa Cruz Department,3
+United Arab Emirates | Sharjah,3
+United Arab Emirates | Dubai,3
+United Arab Emirates | Ajman,3
+United Arab Emirates | Abu Dhabi,3
+Uganda | Central Region,3
+Turkey | Şanlıurfa,3
+Turkey | Sivas,3
+Brazil | State of Tocantins,3
+Brazil | State of São Paulo,3
+Brazil | State of Sergipe,3
+Brazil | State of Santa Catarina,3
+Brazil | State of Roraima,3
+Brazil | State of Rondônia,3
+Brazil | State of Rio de Janeiro,3
+Brazil | State of Rio Grande do Sul,3
+Brazil | State of Rio Grande do Norte,3
+Brazil | State of Piauí,3
+Brazil | State of Pernambuco,3
+Brazil | State of Pará,3
+Brazil | State of Paraíba,3
+Brazil | State of Paraná,3
+Turkey | Mardin,3
+Turkey | Gaziantep,3
+Chile | Maule,3
+Chile | Bio Bio,3
+Chile | Antofagasta,3
+Colombia | La Guajira,3
+Colombia | Cundinamarca,3
+Colombia | Cordoba,3
+Colombia | Choco,3
+Colombia | Cesar,3
+Colombia | Casanare,3
+Colombia | Caldas,3
+Colombia | Boyaca,3
+Colombia | Bolivar,3
+Colombia | Bogota,3
+Colombia | Atlantico,3
+Colombia | Antioquia,3
+Chile | O'Higgins,3
+Togo | Maritime Region,3
+India | Uttar Pradesh,3
+Kenya | Uasin Gishu County,3
+Kenya | Nakuru County,3
+Kenya | Nairobi County,3
+Kenya | Mombasa County,3
+Kenya | Machakos County,3
+Kenya | Kisumu County,3
+Kenya | Kiambu County,3
+Kenya | Kajiado County,3
+India | Punjab,3
+India | Mizoram,3
+India | Meghalaya,3
+India | Manipur,3
+India | Himachal Pradesh,3
+Indonesia | Central Sulawesi,3
+Indonesia | Central Kalimantan,3
+Indonesia | Central Java,3
+Indonesia | Bengkulu,3
+Indonesia | Bangka Belitung Islands,3
+India | Uttarakhand,3
+Colombia | Valle del Cauca,3
+Colombia | Tolima,3
+Colombia | Sucre,3
+Colombia | Santander,3
+Colombia | Risaralda,3
+Colombia | North Santander,3
+Colombia | Meta,3
+Colombia | Magdalena,3
+Mexico | Guanajuato,3
+Mexico | Durango,3
+Mexico | Colima,3
+Mexico | Coahuila,3
+Mexico | Chihuahua,3
+Mexico | Chiapas,3
+Mexico | Campeche,3
+Mexico | Baja California Sur,3
+Mexico | Baja California,3
+Mexico | Aguascalientes,3
+Lithuania | Klaipėda County,3
+Mexico | Tabasco,3
+Mexico | State of Mexico,3
+Mexico | Sonora,3
+Mexico | Sinaloa,3
+Mexico | Quintana Roo,3
+Mexico | Querétaro,3
+Mexico | Puebla,3
+Mexico | Oaxaca,3
+Mexico | Nuevo Leon,3
+Mexico | Morelos,3
+Mexico | Michoacán,3
+Mexico | Jalisco,3
+Mexico | Hidalgo,3
+Mexico | Guerrero,3
+Côte d'Ivoire | Abidjan Autonomous District,3
+Czechia | Vysočina Region,3
+Mexico | Zacatecas,3
+Mexico | Yucatan,3
+Mexico | Veracruz,3
+Mexico | Tlaxcala,3
+India | Daman and Diu,3
+India | Bihar,3
+India | Andhra Pradesh,3
+Hungary | Zala County,3
+Hungary | Veszprém,3
+Hungary | Heves County,3
+Mexico | Tamaulipas,3
+South Africa | North West,3
+South Africa | Mpumalanga,3
+South Africa | Limpopo,3
+South Africa | KwaZulu-Natal,3
+South Africa | Gauteng,3
+South Africa | Free State,3
+South Africa | Eastern Cape,3
+Saudi Arabia | Riyadh Province,3
+Saudi Arabia | Makkah Province,3
+Saudi Arabia | Jazan Province,3
+Saudi Arabia | Hail Province,3
+Saudi Arabia | Eastern Province,3
+Saudi Arabia | Aseer Province,3
+Saudi Arabia | Al Qassim Province,3
+Saudi Arabia | Al Madinah Province,3
+Nicaragua | Managua,3
+Nicaragua | Leon,3
+Nicaragua | Chinandega,3
+New Zealand | Manawatu-Wanganui,3
+Netherlands | Zeeland,3
+Namibia | Khomas Region,3
+Mozambique | Maputo,3
+Mongolia | Ulaanbaatar,3
+Nigeria | Rivers,3
+Nigeria | Oyo,3
+Nigeria | Osun,3
+Nigeria | Ogun State,3
+Nigeria | Lagos,3
+Nigeria | Kano,3
+Nigeria | Kaduna,3
+Nigeria | Federal Capital Territory,3
+Nigeria | Anambra,3
+Nicaragua | Masaya,3
+Ecuador | Los Rios,3
+Ecuador | Loja,3
+Ecuador | Imbabura,3
+Ecuador | Guayas,3
+Ecuador | Esmeraldas,3
+Ecuador | El Oro,3
+Ecuador | Cotopaxi,3
+Ecuador | Chimborazo,3
+Ecuador | Azuay,3
+Dominican Republic | Santiago Province,3
+Dominican Republic | San Pedro de Macorís Province,3
+Dominican Republic | La Romana Province,3
+Dominican Republic | La Altagracia Province,3
+Paraguay | Central Department,3
+Paraguay | Caaguazú Department,3
+Pakistan | Sindh,3
+Pakistan | Punjab,3
+Pakistan | Khyber Pakhtunkhwa,3
+Pakistan | Islamabad Capital Territory,3
+Pakistan | Balochistan,3
+Oman | Dhofar Governorate,3
+Peru | Moquegua,3
+Peru | Loreto,3
+Peru | Lambayeque,3
+Peru | La Libertad,3
+Peru | Huanuco,3
+Peru | Cusco,3
+Peru | Cajamarca,3
+Peru | Ayacucho,3
+Peru | Ancash,3
+Rwanda | Kigali City,3
+Romania | Călărași County,3
+Egypt | Luxor Governorate,3
+Egypt | Ismailia Governorate,3
+Egypt | Giza Governorate,3
+Egypt | Gharbia Governorate,3
+Egypt | Dakahlia Governorate,3
+Egypt | Cairo Governorate,3
+Egypt | Aswan Governorate,3
+Egypt | Ash Sharqia Governorate,3
+Egypt | Alexandria Governorate,3
+Guatemala | Alta Verapaz Department,3
+Philippines | Ilocos Region,3
+Philippines | Eastern Visayas,3
+Philippines | Davao Region,3
+Philippines | Central Luzon,3
+Philippines | Caraga,3
+Philippines | Calabarzon,3
+Philippines | Cagayan Valley,3
+Philippines | Bicol,3
+Philippines | Autonomous Region in Muslim Mindanao,3
+Peru | Ucayali,3
+Peru | San Martin,3
+Peru | Puno,3
+Hungary | Borsod-Abaúj-Zemplén,3
+Honduras | Francisco Morazán Department,3
+Honduras | Cortés Department,3
+Honduras | Atlántida Department,3
+Guatemala | San Marcos Department,3
+Guatemala | Quetzaltenango Department,3
+Guatemala | Huehuetenango Department,3
+Guatemala | Escuintla Department,3
+Egypt | Al Qalyubia Governorate,3
+Ecuador | Tungurahua,3
+Ecuador | Santo Domingo de los Tsachilas,3
+Ecuador | Pichincha,3
+Ecuador | Manabí,3
+Portugal | Azores,3
+El Salvador | Sonsonate Department,3
+El Salvador | Santa Ana Department,3
+El Salvador | San Salvador Department,3
+El Salvador | La Libertad Department,3
+Egypt | Red Sea Governorate,3
+Egypt | Port Said Governorate,3
+Poland | Opole Voivodeship,3
+Philippines | Zamboanga Peninsula,3
+Philippines | Western Visayas,3
+Philippines | SOCCSKSARGEN,3
+Philippines | Northern Mindanao,3
+Philippines | MIMAROPA,3
+Argentina | Corrientes,3
+Uruguay | Maldonado Department,3
+Angola | Luanda Province,3
+Argentina | Salta Province,3
+Argentina | Neuquen,3
+Argentina | Misiones Province,3
+Argentina | Mendoza Province,3
+Argentina | La Rioja Province,3
+Argentina | La Pampa,3
+Argentina | Jujuy,3
+Argentina | Entre Rios,3
+Argentina | Buenos Aires,2
+Argentina | Río Negro,2
+United States | North Dakota,2
+Argentina | Chubut Province,2
+Australia | Western Australia,2
+Australia | Victoria,2
+United States | Hawaii,2
+United States | Florida,2
+United States | Arizona,2
+United States | Alaska,2
+United Kingdom | York,2
+United Kingdom | Worcestershire,2
+United Kingdom | Windsor and Maidenhead,2
+United Kingdom | Wiltshire,2
+United Kingdom | West Yorkshire,2
+Haiti | Ouest Department,2
+Guatemala | Sacatepéquez Department,2
+Guatemala | Guatemala Department,2
+Romania | Brăila County,2
+Romania | Botoșani County,2
+Romania | Bihor County,2
+Romania | Bacău County,2
+Romania | Argeș County,2
+Romania | Alba County,2
+Puerto Rico | Carolina,2
+Puerto Rico | Bayamón,2
+Portugal | Madeira,2
+Portugal | Lisbon,2
+Finland | North Savo,2
+El Salvador | San Miguel Department,2
+Egypt | Sohag Governorate,2
+Romania | Harghita County,2
+Romania | Gorj County,2
+Romania | Galați,2
+Romania | Dâmbovița County,2
+Romania | Caraș-Severin County,2
+Philippines | Cordillera Administrative Region,2
+Philippines | Central Visayas,2
+Peru | Tacna,2
+France | Île-de-France,2
+Germany | Thuringia,2
+Germany | Saxony-Anhalt,2
+Germany | Brandenburg,2
+Hungary | Bács-Kiskun,2
+Peru | Ica,2
+Peru | Callao Region,2
+Peru | Arequipa,2
+Romania | Vâlcea County,2
+Romania | Vrancea County,2
+Romania | Vaslui County,2
+Romania | Tulcea County,2
+Romania | Sălaj,2
+Romania | Suceava County,2
+Romania | Olt County,2
+Romania | Neamț County,2
+Romania | Mureș County,2
+Romania | Mehedinți County,2
+Romania | Hunedoara County,2
+Dominican Republic | Santo Domingo Province,2
+Dominican Republic | Puerto Plata Province,2
+Dominican Republic | La Vega Province,2
+Paraguay | Itapúa Department,2
+Paraguay | Asunción,2
+Paraguay | Alto Paraná Department,2
+Oman | Muscat Governorate,2
+Oman | Al Batinah North Governorate,2
+Norway | Vestland,2
+Norway | Troms og Finnmark fylke,2
+Peru | Piura,2
+Peru | Lima Region,2
+Peru | Lima Province,2
+Peru | Junin,2
+Hungary | Hajdú-Bihar,2
+Hungary | Fejér,2
+South Africa | Western Cape,2
+New Zealand | Wellington,2
+New Zealand | Waikato,2
+New Zealand | Otago,2
+New Zealand | Northland,2
+New Zealand | Hawke's Bay,2
+New Zealand | Canterbury,2
+New Zealand | Bay of Plenty,2
+New Zealand | Auckland,2
+Norway | Rogaland,2
+Norway | Oslo,2
+Norway | Innlandet,2
+United Kingdom | West Sussex,2
+United Kingdom | West Midlands,2
+United Kingdom | West Berkshire,2
+United Kingdom | Warwickshire,2
+United Kingdom | Vale of Glamorgan,2
+United Kingdom | Tyne and Wear,2
+United Kingdom | Swansea,2
+United Kingdom | Surrey,2
+United Kingdom | Suffolk,2
+United Kingdom | Stoke-on-Trent,2
+United Kingdom | Stockton-on-Tees,2
+United Kingdom | Staffordshire,2
+United Kingdom | Southend-on-Sea,2
+United Kingdom | Southampton,2
+United Kingdom | South Yorkshire,2
+United Kingdom | South Lanarkshire,2
+Sweden | Varmland County,2
+Sweden | Skåne County,2
+Sweden | Dalarna County,2
+Spain | Navarre,2
+Spain | Community of Madrid,2
+Spain | Catalonia,2
+Dominican Republic | Distrito Nacional,2
+Denmark | Region of Southern Denmark,2
+Denmark | Region Zealand,2
+Denmark | North Denmark Region,2
+Czechia | Ústí nad Labem Region,2
+Czechia | South Bohemian Region,2
+Spain | Canary Islands,2
+India | Delhi,2
+India | Chandigarh,2
+Hungary | Pest County,2
+Switzerland | Geneva,2
+Sweden | Östergötland County,2
+Czechia | Liberec Region,2
+Czechia | Central Bohemian Region,2
+Sweden | Västra Götaland County,2
+Malaysia | Selangor,2
+Malaysia | Sabah,2
+Malaysia | Labuan Federal Territory,2
+Malaysia | Johor,2
+Malaysia | Federal Territory of Kuala Lumpur,2
+Mexico | Nayarit,2
+Mexico | Mexico City,2
+Sweden | Västerbotten County,2
+Chile | Valparaíso,2
+Chile | Tarapacá,2
+Chile | Santiago Metropolitan Region,2
+The Bahamas | New Providence,2
+Kyrgyzstan | Jalal-Abad Region,2
+Kyrgyzstan | Chüy Region,2
+Kuwait | Hawalli Governorate,2
+Kuwait | Al Farwaniyah Governorate,2
+Kuwait | Al Ahmadi Governorate,2
+India | Nagaland,2
+India | Maharashtra,2
+Indonesia | Banten,2
+Indonesia | Bali,2
+Japan | Saitama,2
+Japan | Osaka,2
+Chile | Magallanes and Chilean Antarctica,2
+Chile | Los Ríos,2
+Chile | Los Lagos,2
+Chile | Coquimbo,2
+Chile | Aysén,2
+Chile | Atacama,2
+Chile | Arica y Parinacota,2
+Chile | Araucania,2
+Canada | Ontario,2
+Canada | Newfoundland and Labrador,2
+Cambodia | Phnom Penh,2
+Cambodia | Battambang Province,2
+Bulgaria | Plovdiv Province,2
+Bulgaria | Haskovo Province,2
+United Kingdom | South Gloucestershire,2
+United Kingdom | Rhondda Cynon Taff,2
+United Kingdom | Plymouth,2
+United Kingdom | Perth and Kinross,2
+United Kingdom | Oxfordshire,2
+Belgium | Brussels,2
+Austria | Tyrol,2
+United Kingdom | Nottinghamshire,2
+United Kingdom | Nottingham,2
+United Kingdom | Northamptonshire,2
+Indonesia | Riau Islands,2
+Indonesia | Jakarta,2
+Israel | Tel Aviv District,2
+Israel | South District,2
+United Kingdom | North Somerset,2
+United Kingdom | Milton Keynes,2
+United Kingdom | Cheshire West and Chester,2
+United Kingdom | Cheshire East,2
+United Kingdom | Central Bedfordshire,2
+United Kingdom | Carmarthenshire,2
+United Kingdom | Cardiff,2
+United Kingdom | Cambridgeshire,2
+United Kingdom | Buckinghamshire,2
+United Kingdom | Bristol City,2
+United Kingdom | Brighton and Hove,2
+United Kingdom | Belfast,2
+United Kingdom | Bath and North East Somerset,2
+United Kingdom | Aberdeenshire,2
+United Kingdom | Aberdeen City,2
+United Arab Emirates | Ras al Khaimah,2
+Japan | Kyoto,2
+Japan | Kanagawa,2
+United Kingdom | Essex,2
+United Kingdom | Edinburgh,2
+United Kingdom | Derry and Strabane,2
+United Kingdom | County Durham,2
+United Kingdom | Merseyside,2
+United Kingdom | Medway,2
+United Kingdom | Leicestershire,2
+United Kingdom | Leicester,2
+United Kingdom | Lancashire,2
+Japan | Fukuoka,2
+Japan | Chiba,2
+Jamaica | St. Andrew Parish,2
+Italy | Lombardy,2
+United Kingdom | Kingston upon Hull,2
+United Kingdom | Kent,2
+United Kingdom | Hertfordshire,2
+United Kingdom | Hampshire,2
+United Kingdom | Greater Manchester,2
+United Kingdom | Gloucestershire,2
+United Kingdom | Glasgow City,2
+United Kingdom | Fife,2
+Australia | Tasmania,2
+Australia | Queensland,2
+Australia | Australian Capital Territory,2
+Israel | Jerusalem District,2
+Israel | Haifa District,2
+Israel | Center District,2
+Ireland | County Limerick,2
+Ireland | County Dublin,2
+Ireland | County Cork,2
+Indonesia | West Kalimantan,2
+Indonesia | Special Region of Yogyakarta,2
+Philippines | National Capital Region,2
+Uruguay | Montevideo Department,2
+Uruguay | Colonia Department,2
+Uruguay | Cerro Largo Department,2
+Uruguay | Canelones Department,2
+United States | New Jersey,2
+United States | Nevada,2
+United States | Montana,2
+United States | Maine,2
+United States | Louisiana,2
+United States | Virginia,2
+United States | Texas,2
+United Kingdom | Greater London,1
+Cambodia | Siem Reap Province,1
+Indonesia | Aceh,1
+Tanzania | Mwanza Region,1
+United States | California,1
+Egypt | Menia Governorate,1
+Egypt | El Beheira Governorate,1
+United States | District of Columbia,1
+Uruguay | Salto Department,1
+Tanzania | Dar es Salam,1
+Tanzania | Arusha Region,1
+Cameroon | Centre,1
+Cameroon | Littoral,1
+Cambodia | Kandal Province,1
+Japan | Tokyo,1
+Japan | Aichi,0
+Japan | Nara,0
+Japan | Nagasaki,0
+Japan | Nagano,0
+United States | Tennessee,0
+Japan | Miyazaki,0
+Australia | South Australia,0
+Australia | Northern Territory,0
+United States | Nebraska,0
+United States | Kansas,0
+United States | West Virginia,0
+United States | Wyoming,0
+United States | Mississippi,0
+United States | Missouri,0
+Japan | Akita,0
+Japan | Aomori,0
+Japan | Kochi,0
+Japan | Kagoshima,0
+Japan | Kagawa,0
+Japan | Iwate,0
+Japan | Miyagi,0
+Japan | Shiga,0
+Japan | Ehime,0
+Japan | Fukui,0
+Japan | Hokkaido,0
+Japan | Hyogo,0
+Japan | Ibaraki,0
+Japan | Ishikawa,0
+Japan | Fukushima,0
+Japan | Gifu,0
+Japan | Gunma,0
+Japan | Hiroshima,0
+Japan | Yamagata,0
+Japan | Wakayama,0
+Japan | Toyama,0
+Japan | Tottori,0
+Japan | Tochigi,0
+Japan | Tokushima,0
+Japan | Shimane,0
+Japan | Shizuoka,0
+Japan | Kumamoto,0
+Japan | Mie,0
+Japan | Saga,0
+Japan | Yamaguchi,0
+Japan | Yamanashi,0
+Japan | Okayama,0
+Japan | Oita,0
+Japan | Niigata,0
+Romania | Ialomița County,0
+Norway | Agder,0
+Norway | Vestfold og Telemark,0
+Norway | Nordland,0
+Norway | Møre og Romsdal,0
+Romania | Giurgiu County,0
+United States | Arkansas,0
+Romania | Teleorman County,0
+United States | Alabama,0
+United States | Idaho,0
+United States | Iowa,0
+United States | Indiana,0
+United States | South Dakota,0
+United States | Kentucky,0
+United States | South Carolina,0
+United States | Oklahoma,0

@@ -1,0 +1,4 @@
+cluster,n_regions,retail_and_recreation__first_wave_mean,retail_and_recreation__late_mean,grocery_and_pharmacy__first_wave_mean,grocery_and_pharmacy__late_mean,transit_stations__first_wave_mean,transit_stations__late_mean,workplaces__first_wave_mean,workplaces__late_mean,residential__first_wave_mean,residential__late_mean,trough_depth,recovery_days
+0,351,-30.8,4.2,-7.4,20.5,-34.8,3.7,-27.0,-6.9,10.7,2.5,-54.3,227.1
+1,211,-42.1,41.4,-17.8,76.9,-43.7,48.7,-27.5,30.3,14.6,10.4,-58.1,198.5
+2,362,-59.9,5.1,-30.0,26.0,-58.9,0.4,-44.7,2.7,20.7,5.3,-75.0,465.3

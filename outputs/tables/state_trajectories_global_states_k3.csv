@@ -1,0 +1,925 @@
+region_id,pre_pandemic,first_wave,reopening_2020,winter_wave,delta_wave,omicron_wave,late_pandemic
+Angola | Luanda Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Argentina | Buenos Aires,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Argentina | Buenos Aires Province,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Argentina | Catamarca Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Argentina | Chaco Province,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Argentina | Chubut Province,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Argentina | Cordoba,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Argentina | Corrientes,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Argentina | Entre Rios,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Argentina | Jujuy,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Argentina | La Pampa,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Argentina | La Rioja Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Argentina | Mendoza Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Argentina | Misiones Province,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Argentina | Neuquen,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Argentina | Río Negro,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Argentina | Salta Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Argentina | San Juan Province,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Argentina | San Luis Province,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Argentina | Santa Cruz Province,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Argentina | Santa Fe Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Argentina | Santiago del Estero Province,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Argentina | Tierra del Fuego Province,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Argentina | Tucumán,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Australia | Australian Capital Territory,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Australia | New South Wales,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+Australia | Northern Territory,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Australia | Queensland,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Australia | South Australia,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Australia | Tasmania,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Australia | Victoria,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Australia | Western Australia,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Austria | Carinthia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Austria | Lower Austria,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Austria | Salzburg,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Austria | Styria,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Austria | Tyrol,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Austria | Upper Austria,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Austria | Vienna,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Austria | Vorarlberg,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Belgium | Brussels,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Belgium | Flanders,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Belgium | Wallonia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Bolivia | Beni Department,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Bolivia | Chuquisaca Department,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Bolivia | Cochabamba Department,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Bolivia | La Paz Department,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Bolivia | Oruro Department,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Bolivia | Potosi Department,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Bolivia | Santa Cruz Department,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Bolivia | Tarija Department,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+Botswana | Gaborone,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Brazil | Federal District,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Acre,1.0,0.0,1.0,2.0,2.0,2.0,2.0
+Brazil | State of Alagoas,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Amapá,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Brazil | State of Amazonas,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Brazil | State of Bahia,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Brazil | State of Ceará,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Espírito Santo,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Goiás,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Maranhão,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Brazil | State of Mato Grosso,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Mato Grosso do Sul,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Minas Gerais,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Paraná,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Paraíba,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Pará,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Brazil | State of Pernambuco,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Piauí,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Brazil | State of Rio Grande do Norte,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Rio Grande do Sul,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Brazil | State of Rio de Janeiro,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Brazil | State of Rondônia,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Brazil | State of Roraima,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Brazil | State of Santa Catarina,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+Brazil | State of Sergipe,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Brazil | State of São Paulo,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Brazil | State of Tocantins,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Bulgaria | Blagoevgrad Province,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Bulgaria | Burgas,1.0,1.0,2.0,0.0,2.0,1.0,2.0
+Bulgaria | Haskovo Province,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Bulgaria | Plovdiv Province,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Bulgaria | Sofia City Province,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Bulgaria | Varna,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Bulgaria | Veliko Tarnovo Province,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Cambodia | Battambang Province,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Cambodia | Kandal Province,1.0,1.0,1.0,1.0,1.0,2.0,2.0
+Cambodia | Phnom Penh,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Cambodia | Siem Reap Province,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cambodia | Sihanoukville,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Cameroon | Centre,1.0,1.0,1.0,1.0,2.0,2.0,2.0
+Cameroon | Littoral,1.0,1.0,1.0,1.0,2.0,2.0,2.0
+Canada | Alberta,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Canada | British Columbia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Canada | Manitoba,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Canada | New Brunswick,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Canada | Newfoundland and Labrador,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Canada | Nova Scotia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Canada | Ontario,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Canada | Quebec,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+Canada | Saskatchewan,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Chile | Antofagasta,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Chile | Araucania,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Chile | Arica y Parinacota,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Chile | Atacama,1.0,0.0,0.0,0.0,0.0,2.0,2.0
+Chile | Aysén,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Chile | Bio Bio,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Chile | Coquimbo,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Chile | Los Lagos,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Chile | Los Ríos,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Chile | Magallanes and Chilean Antarctica,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Chile | Maule,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Chile | O'Higgins,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Chile | Santiago Metropolitan Region,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Chile | Tarapacá,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Chile | Valparaíso,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Colombia | Antioquia,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Colombia | Atlantico,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | Bogota,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Colombia | Bolivar,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Colombia | Boyaca,1.0,0.0,0.0,1.0,2.0,2.0,2.0
+Colombia | Caldas,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Colombia | Casanare,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | Cesar,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | Choco,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | Cordoba,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | Cundinamarca,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | La Guajira,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Colombia | Magdalena,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Colombia | Meta,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | North Santander,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Colombia | Risaralda,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | Santander,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | Sucre,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Colombia | Tolima,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Colombia | Valle del Cauca,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Croatia | City of Zagreb,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Croatia | Primorje-Gorski Kotar County,1.0,0.0,1.0,0.0,2.0,1.0,2.0
+Croatia | Split-Dalmatia County,1.0,0.0,1.0,0.0,2.0,1.0,2.0
+Czechia | Central Bohemian Region,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Czechia | Hradec Králové Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Czechia | Karlovy Vary Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Czechia | Liberec Region,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Czechia | Moravian-Silesian Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Czechia | Olomouc Region,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Czechia | Pardubice Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Czechia | Plzeň Region,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Czechia | Prague,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Czechia | South Bohemian Region,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Czechia | South Moravian Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Czechia | Vysočina Region,1.0,1.0,1.0,0.0,1.0,1.0,2.0
+Czechia | Zlín Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Czechia | Ústí nad Labem Region,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Côte d'Ivoire | Abidjan Autonomous District,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Denmark | Capital Region of Denmark,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Denmark | Central Denmark Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Denmark | North Denmark Region,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Denmark | Region Zealand,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Denmark | Region of Southern Denmark,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Dominican Republic | Distrito Nacional,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Dominican Republic | La Altagracia Province,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Dominican Republic | La Romana Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Dominican Republic | La Vega Province,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+Dominican Republic | Puerto Plata Province,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Dominican Republic | San Pedro de Macorís Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Dominican Republic | Santiago Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Dominican Republic | Santo Domingo Province,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Ecuador | Azuay,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Ecuador | Chimborazo,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Ecuador | Cotopaxi,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Ecuador | El Oro,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Ecuador | Esmeraldas,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Ecuador | Guayas,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Ecuador | Imbabura,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Ecuador | Loja,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Ecuador | Los Rios,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Ecuador | Manabí,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Ecuador | Pichincha,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Ecuador | Santo Domingo de los Tsachilas,1.0,0.0,0.0,1.0,2.0,2.0,2.0
+Ecuador | Tungurahua,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Egypt | Al Qalyubia Governorate,1.0,0.0,1.0,2.0,2.0,2.0,2.0
+Egypt | Alexandria Governorate,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Egypt | Ash Sharqia Governorate,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Egypt | Aswan Governorate,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Egypt | Cairo Governorate,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Egypt | Dakahlia Governorate,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Egypt | El Beheira Governorate,1.0,1.0,2.0,2.0,2.0,2.0,2.0
+Egypt | Gharbia Governorate,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Egypt | Giza Governorate,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Egypt | Ismailia Governorate,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Egypt | Luxor Governorate,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Egypt | Menia Governorate,1.0,1.0,2.0,2.0,2.0,2.0,2.0
+Egypt | Port Said Governorate,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Egypt | Red Sea Governorate,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Egypt | Sohag Governorate,1.0,0.0,2.0,2.0,2.0,2.0,2.0
+El Salvador | La Libertad Department,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+El Salvador | San Miguel Department,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+El Salvador | San Salvador Department,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+El Salvador | Santa Ana Department,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+El Salvador | Sonsonate Department,1.0,0.0,0.0,1.0,2.0,2.0,2.0
+Estonia | Harju County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Finland | Central Finland,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Finland | Lapland,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Finland | North Savo,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Finland | Northern Ostrobothnia,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Finland | Pirkanmaa,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Finland | Southwest Finland,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Finland | Uusimaa,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+France | Auvergne-Rhône-Alpes,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Bourgogne-Franche-Comté,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Brittany,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+France | Centre-Val de Loire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Corsica,1.0,0.0,,0.0,2.0,1.0,2.0
+France | Grand Est,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Hauts-de-France,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Normandy,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Nouvelle-Aquitaine,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Occitanie,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Pays de la Loire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Provence-Alpes-Côte d'Azur,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+France | Île-de-France,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Germany | Baden-Württemberg,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Bavaria,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Berlin,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Germany | Brandenburg,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Germany | Bremen,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Hamburg,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Hessen,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Lower Saxony,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Mecklenburg-Vorpommern,1.0,1.0,2.0,0.0,2.0,1.0,2.0
+Germany | North Rhine-Westphalia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Rhineland-Palatinate,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Saarland,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Saxony,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Germany | Saxony-Anhalt,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Germany | Schleswig-Holstein,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Germany | Thuringia,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Greece | Decentralized Administration of Attica,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Greece | Decentralized Administration of Epirus and Western Macedonia,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Greece | Decentralized Administration of Macedonia and Thrace,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+"Greece | Decentralized Administration of Peloponnese, Western Greece and the Ionian",1.0,0.0,2.0,0.0,2.0,1.0,2.0
+Greece | Decentralized Administration of Thessaly and Central Greece,1.0,0.0,1.0,0.0,2.0,1.0,2.0
+Guatemala | Alta Verapaz Department,1.0,0.0,0.0,1.0,2.0,2.0,2.0
+Guatemala | Escuintla Department,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Guatemala | Guatemala Department,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Guatemala | Huehuetenango Department,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Guatemala | Quetzaltenango Department,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Guatemala | Sacatepéquez Department,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Guatemala | San Marcos Department,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Haiti | Ouest Department,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Honduras | Atlántida Department,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Honduras | Cortés Department,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Honduras | Francisco Morazán Department,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Hungary | Borsod-Abaúj-Zemplén,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Hungary | Budapest,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Hungary | Bács-Kiskun,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Hungary | Csongrád,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Hungary | Fejér,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Hungary | Gyor-Moson-Sopron,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Hungary | Hajdú-Bihar,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Hungary | Heves County,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Hungary | Pest County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Hungary | Veszprém,1.0,1.0,,1.0,2.0,1.0,2.0
+Hungary | Zala County,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+India | Andhra Pradesh,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+India | Arunachal Pradesh,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Assam,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Bihar,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+India | Chandigarh,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Chhattisgarh,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Daman and Diu,,0.0,0.0,1.0,0.0,2.0,2.0
+India | Delhi,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Goa,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Gujarat,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Haryana,1.0,0.0,0.0,1.0,0.0,1.0,2.0
+India | Himachal Pradesh,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+India | Jharkhand,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Karnataka,1.0,0.0,0.0,1.0,0.0,1.0,2.0
+India | Kerala,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Madhya Pradesh,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Maharashtra,1.0,0.0,0.0,0.0,0.0,2.0,2.0
+India | Manipur,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+India | Meghalaya,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+India | Mizoram,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+India | Nagaland,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+India | Odisha,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Puducherry,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Punjab,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+India | Rajasthan,1.0,0.0,1.0,1.0,0.0,2.0,2.0
+India | Sikkim,1.0,0.0,0.0,1.0,0.0,1.0,2.0
+India | Tamil Nadu,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Telangana,1.0,0.0,0.0,1.0,0.0,1.0,2.0
+India | Tripura,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+India | Uttar Pradesh,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+India | Uttarakhand,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+India | West Bengal,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+Indonesia | Aceh,1.0,1.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | Bali,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Indonesia | Bangka Belitung Islands,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | Banten,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Indonesia | Bengkulu,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | Central Java,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | Central Kalimantan,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | Central Sulawesi,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | East Java,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | East Kalimantan,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | East Nusa Tenggara,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | Jakarta,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Indonesia | Jambi,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | Lampung,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | Maluku,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | North Kalimantan,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | North Maluku,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Indonesia | North Sulawesi,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | North Sumatra,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | Papua,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | Riau,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | Riau Islands,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Indonesia | South East Sulawesi,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | South Kalimantan,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | South Sulawesi,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | South Sumatra,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | Special Region of Yogyakarta,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Indonesia | West Java,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Indonesia | West Kalimantan,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Indonesia | West Nusa Tenggara,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Indonesia | West Papua,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | West Sulawesi,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Indonesia | West Sumatra,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Ireland | County Cork,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Ireland | County Donegal,1.0,0.0,,0.0,1.0,1.0,2.0
+Ireland | County Dublin,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Ireland | County Galway,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Ireland | County Kilkenny,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Ireland | County Limerick,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Ireland | County Meath,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Ireland | County Tipperary,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Ireland | County Waterford,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Ireland | County Wicklow,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Israel | Center District,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Israel | Haifa District,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Israel | Jerusalem District,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Israel | North District,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Israel | South District,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Israel | Tel Aviv District,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Italy | Abruzzo,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Aosta,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Apulia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Basilicata,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Calabria,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Italy | Campania,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Emilia-Romagna,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Friuli-Venezia Giulia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Lazio,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Liguria,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Lombardy,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Italy | Marche,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Molise,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Piedmont,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Sardinia,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Italy | Sicily,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Trentino-South Tyrol,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Tuscany,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Umbria,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Italy | Veneto,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Jamaica | St. Andrew Parish,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Japan | Aichi,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Akita,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Aomori,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Chiba,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Japan | Ehime,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Fukui,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Fukuoka,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Japan | Fukushima,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Gifu,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Gunma,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Hiroshima,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Hokkaido,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Hyogo,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Ibaraki,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Ishikawa,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Iwate,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Kagawa,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Kagoshima,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Kanagawa,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Japan | Kochi,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Kumamoto,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Kyoto,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Japan | Mie,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Miyagi,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Miyazaki,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Nagano,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Nagasaki,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Nara,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Niigata,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Oita,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Okayama,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Okinawa,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+Japan | Osaka,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Japan | Saga,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Saitama,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Japan | Shiga,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Shimane,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Shizuoka,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Tochigi,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Tokushima,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Tokyo,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan | Tottori,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Toyama,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Wakayama,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Yamagata,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Yamaguchi,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Japan | Yamanashi,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Jordan | Amman Governorate,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Kenya | Kajiado County,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Kenya | Kiambu County,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Kenya | Kisumu County,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Kenya | Machakos County,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Kenya | Mombasa County,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Kenya | Nairobi County,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Kenya | Nakuru County,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Kenya | Uasin Gishu County,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Kuwait | Al Ahmadi Governorate,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Kuwait | Al Asimah Governate,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Kuwait | Al Farwaniyah Governorate,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Kuwait | Al Jahra Governorate,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Kuwait | Hawalli Governorate,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+Kuwait | Mubarak Al-Kabeer Governorate,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Kyrgyzstan | Chüy Region,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Kyrgyzstan | Jalal-Abad Region,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Kyrgyzstan | Osh Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Latvia | Riga,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Lebanon | Mount Lebanon Governorate,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Lithuania | Kaunas County,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Lithuania | Klaipėda County,1.0,1.0,2.0,0.0,2.0,2.0,2.0
+Lithuania | Panevėžys County,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Lithuania | Vilnius County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Malaysia | Federal Territory of Kuala Lumpur,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Malaysia | Johor,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Malaysia | Kedah,1.0,0.0,1.0,0.0,0.0,1.0,2.0
+Malaysia | Kelantan,1.0,0.0,1.0,0.0,0.0,1.0,2.0
+Malaysia | Labuan Federal Territory,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Malaysia | Malacca,1.0,0.0,1.0,0.0,0.0,1.0,1.0
+Malaysia | Negeri Sembilan,1.0,0.0,1.0,0.0,0.0,1.0,1.0
+Malaysia | Pahang,1.0,0.0,1.0,0.0,0.0,1.0,2.0
+Malaysia | Penang,1.0,0.0,1.0,0.0,0.0,1.0,1.0
+Malaysia | Perak,1.0,0.0,1.0,0.0,0.0,1.0,1.0
+Malaysia | Perlis,1.0,0.0,1.0,0.0,0.0,1.0,2.0
+Malaysia | Putrajaya,1.0,0.0,1.0,0.0,0.0,2.0,2.0
+Malaysia | Sabah,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Malaysia | Sarawak,1.0,0.0,1.0,0.0,0.0,1.0,1.0
+Malaysia | Selangor,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Malaysia | Terengganu,1.0,0.0,1.0,0.0,0.0,1.0,2.0
+Mexico | Aguascalientes,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Mexico | Baja California,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Baja California Sur,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Campeche,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Chiapas,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Chihuahua,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Coahuila,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Colima,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+Mexico | Durango,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Guanajuato,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Guerrero,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Hidalgo,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Jalisco,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Mexico City,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Mexico | Michoacán,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Morelos,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Nayarit,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Mexico | Nuevo Leon,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Mexico | Oaxaca,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Puebla,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Mexico | Querétaro,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Mexico | Quintana Roo,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Sinaloa,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Sonora,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Mexico | State of Mexico,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Tabasco,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Tamaulipas,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Tlaxcala,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Mexico | Veracruz,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Mexico | Yucatan,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Mexico | Zacatecas,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Mongolia | Ulaanbaatar,1.0,1.0,2.0,0.0,2.0,2.0,2.0
+Mozambique | Maputo,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Namibia | Khomas Region,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Netherlands | Drenthe,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Netherlands | Flevoland,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Netherlands | Friesland,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Netherlands | Gelderland,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Netherlands | Groningen,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Netherlands | Limburg,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Netherlands | North Brabant,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Netherlands | North Holland,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+Netherlands | Overijssel,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Netherlands | South Holland,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Netherlands | Utrecht,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+Netherlands | Zeeland,1.0,1.0,1.0,0.0,1.0,1.0,2.0
+New Zealand | Auckland,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+New Zealand | Bay of Plenty,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+New Zealand | Canterbury,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+New Zealand | Hawke's Bay,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+New Zealand | Manawatu-Wanganui,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+New Zealand | Northland,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+New Zealand | Otago,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+New Zealand | Waikato,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+New Zealand | Wellington,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Nicaragua | Chinandega,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Nicaragua | Leon,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Nicaragua | Managua,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Nicaragua | Masaya,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Nigeria | Anambra,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Nigeria | Federal Capital Territory,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Nigeria | Kaduna,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Nigeria | Kano,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Nigeria | Lagos,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Nigeria | Ogun State,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Nigeria | Osun,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Nigeria | Oyo,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Nigeria | Rivers,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Norway | Agder,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Norway | Innlandet,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Norway | Møre og Romsdal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Norway | Nordland,1.0,1.0,,1.0,1.0,1.0,1.0
+Norway | Oslo,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Norway | Rogaland,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Norway | Troms og Finnmark fylke,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Norway | Trøndelag,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Norway | Vestfold og Telemark,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Norway | Vestland,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Norway | Viken,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Oman | Al Batinah North Governorate,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+Oman | Dhofar Governorate,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+Oman | Muscat Governorate,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Pakistan | Balochistan,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Pakistan | Islamabad Capital Territory,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Pakistan | Khyber Pakhtunkhwa,1.0,0.0,1.0,2.0,2.0,2.0,2.0
+Pakistan | Punjab,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Pakistan | Sindh,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Paraguay | Alto Paraná Department,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Paraguay | Asunción,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+Paraguay | Caaguazú Department,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Paraguay | Central Department,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+Paraguay | Itapúa Department,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Peru | Ancash,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+Peru | Arequipa,1.0,0.0,0.0,0.0,0.0,2.0,2.0
+Peru | Ayacucho,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Peru | Cajamarca,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Peru | Callao Region,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Peru | Cusco,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Peru | Huanuco,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Peru | Ica,1.0,0.0,0.0,0.0,0.0,2.0,2.0
+Peru | Junin,1.0,0.0,0.0,0.0,0.0,2.0,2.0
+Peru | La Libertad,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Peru | Lambayeque,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Peru | Lima Province,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Peru | Lima Region,1.0,0.0,0.0,0.0,0.0,2.0,2.0
+Peru | Loreto,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Peru | Moquegua,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Peru | Piura,1.0,0.0,0.0,0.0,0.0,2.0,2.0
+Peru | Puno,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Peru | San Martin,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Peru | Tacna,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Peru | Ucayali,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Philippines | Autonomous Region in Muslim Mindanao,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Philippines | Bicol,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Philippines | Cagayan Valley,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Philippines | Calabarzon,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Philippines | Caraga,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Philippines | Central Luzon,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Philippines | Central Visayas,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Philippines | Cordillera Administrative Region,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Philippines | Davao Region,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Philippines | Eastern Visayas,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Philippines | Ilocos Region,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Philippines | MIMAROPA,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Philippines | National Capital Region,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Philippines | Northern Mindanao,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Philippines | SOCCSKSARGEN,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Philippines | Western Visayas,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Philippines | Zamboanga Peninsula,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Poland | Greater Poland Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Poland | Kuyavian-Pomeranian Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Poland | Lesser Poland Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Poland | Lower Silesian Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Poland | Lublin Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Poland | Lubusz Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Poland | Masovian Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Poland | Opole Voivodeship,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Poland | Podkarpackie Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Poland | Podlaskie Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Poland | Pomeranian Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Poland | Silesian Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Poland | Warmian-Masurian Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Poland | West Pomeranian Voivodeship,1.0,0.0,1.0,0.0,2.0,1.0,2.0
+Poland | Łódź Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Poland | Świętokrzyskie Voivodeship,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Portugal | Aveiro District,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Portugal | Azores,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Portugal | Braga,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Portugal | Castelo Branco District,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Portugal | Coimbra District,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Portugal | Faro District,1.0,0.0,1.0,0.0,2.0,1.0,2.0
+Portugal | Leiria District,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Portugal | Lisbon,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Portugal | Madeira,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Portugal | Porto District,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Portugal | Santarém District,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Portugal | Setubal,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Portugal | Vila Real District,1.0,0.0,1.0,0.0,2.0,1.0,2.0
+Portugal | Viseu District,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Puerto Rico | Bayamón,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Puerto Rico | Carolina,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Romania | Alba County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Arad County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Argeș County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Bacău County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Bihor County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Botoșani County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Brașov County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Brăila County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Bucharest,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Buzău County,1.0,0.0,1.0,1.0,2.0,1.0,2.0
+Romania | Caraș-Severin County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Cluj County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Constanța County,1.0,0.0,1.0,0.0,2.0,1.0,2.0
+Romania | Călărași County,1.0,1.0,1.0,1.0,2.0,1.0,2.0
+Romania | Dolj County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Dâmbovița County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Galați,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Giurgiu County,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Romania | Gorj County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Harghita County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Hunedoara County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Ialomița County,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Romania | Iași County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Ilfov County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Maramureș County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Mehedinți County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Mureș County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Neamț County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Olt County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Prahova,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Satu Mare County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Sibiu,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Suceava County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Sălaj,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Teleorman County,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Romania | Timiș County,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Romania | Tulcea County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Vaslui County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Vrancea County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Romania | Vâlcea County,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Rwanda | Kigali City,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Saudi Arabia | Al Jowf Province,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Saudi Arabia | Al Madinah Province,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+Saudi Arabia | Al Qassim Province,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Saudi Arabia | Aseer Province,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Saudi Arabia | Eastern Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Saudi Arabia | Hail Province,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Saudi Arabia | Jazan Province,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+Saudi Arabia | Makkah Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Saudi Arabia | Riyadh Province,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+Senegal | Dakar Region,1.0,0.0,0.0,1.0,1.0,2.0,1.0
+Slovakia | Banská Bystrica Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Slovakia | Bratislava Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Slovakia | Nitra Region,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Slovakia | Prešov Region,1.0,0.0,1.0,0.0,2.0,1.0,2.0
+Slovakia | Trenčín Region,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Slovakia | Žilina Region,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Slovenia | Administrative unit Maribor,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Slovenia | Ljubljana,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+South Africa | Eastern Cape,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+South Africa | Free State,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+South Africa | Gauteng,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+South Africa | KwaZulu-Natal,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+South Africa | Limpopo,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+South Africa | Mpumalanga,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+South Africa | North West,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+South Africa | Western Cape,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Spain | Andalusia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Aragon,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Asturias,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Balearic Islands,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Spain | Basque Country,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Canary Islands,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Spain | Cantabria,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Castile and León,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Castile-La Mancha,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Catalonia,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Spain | Community of Madrid,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Spain | Extremadura,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Galicia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | La Rioja,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Navarre,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Spain | Region of Murcia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Spain | Valencian Community,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Sweden | Dalarna County,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Sweden | Skåne County,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Sweden | Stockholm County,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+Sweden | Varmland County,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Sweden | Västerbotten County,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Sweden | Västra Götaland County,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Sweden | Östergötland County,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Switzerland | Aargau,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Switzerland | Basel City,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Switzerland | Canton of Bern,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Switzerland | Canton of Lucerne,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Switzerland | Geneva,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Switzerland | Grisons,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Switzerland | Ticino,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Switzerland | Valais,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Switzerland | Vaud,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Switzerland | Zurich,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Tanzania | Arusha Region,1.0,1.0,1.0,1.0,1.0,2.0,2.0
+Tanzania | Dar es Salam,1.0,1.0,1.0,1.0,1.0,2.0,2.0
+Tanzania | Mwanza Region,1.0,1.0,1.0,1.0,2.0,2.0,2.0
+The Bahamas | New Providence,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+Togo | Maritime Region,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Turkey | Adana,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Adıyaman,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Afyonkarahisar,1.0,0.0,1.0,0.0,2.0,2.0,2.0
+Turkey | Aksaray,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Amasya,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Ankara,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Turkey | Antalya,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Aydın,1.0,0.0,1.0,0.0,2.0,2.0,2.0
+Turkey | Balıkesir,1.0,0.0,2.0,0.0,2.0,2.0,2.0
+Turkey | Bolu,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Bursa,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Denizli,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Diyarbakır,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Edirne,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Elazığ,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Erzurum,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Eskişehir,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Turkey | Gaziantep,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Turkey | Giresun,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Turkey | Hatay,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Isparta,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Turkey | Kahramanmaraş,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Kastamonu,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Kayseri,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Kocaeli,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Konya,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Kütahya,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Kırklareli,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Turkey | Malatya,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Manisa,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Mardin,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Turkey | Mersin,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Muğla,1.0,0.0,2.0,0.0,2.0,2.0,2.0
+Turkey | Nevşehir,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Niğde,1.0,0.0,1.0,0.0,2.0,2.0,2.0
+Turkey | Ordu,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Osmaniye,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Sakarya,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Samsun,1.0,0.0,1.0,0.0,2.0,2.0,2.0
+Turkey | Sivas,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Turkey | Tekirdağ,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Tokat,1.0,0.0,1.0,0.0,2.0,2.0,2.0
+Turkey | Trabzon,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Van,1.0,0.0,1.0,0.0,2.0,2.0,2.0
+Turkey | Yalova,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Turkey | Yozgat,1.0,0.0,1.0,0.0,2.0,2.0,2.0
+Turkey | Zonguldak,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Çanakkale,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | Çorum,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Turkey | İstanbul,1.0,0.0,1.0,0.0,1.0,2.0,2.0
+Turkey | İzmir,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+Turkey | Şanlıurfa,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Uganda | Central Region,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+United Arab Emirates | Abu Dhabi,1.0,0.0,0.0,0.0,1.0,2.0,2.0
+United Arab Emirates | Ajman,1.0,0.0,1.0,1.0,1.0,2.0,2.0
+United Arab Emirates | Dubai,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+United Arab Emirates | Ras al Khaimah,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+United Arab Emirates | Sharjah,1.0,0.0,0.0,1.0,1.0,2.0,2.0
+United Kingdom | Aberdeen City,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Aberdeenshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Bath and North East Somerset,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Belfast,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+United Kingdom | Brighton and Hove,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Bristol City,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Buckinghamshire,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Cambridgeshire,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+United Kingdom | Cardiff,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Carmarthenshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Central Bedfordshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Cheshire East,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Cheshire West and Chester,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Conwy Principal Area,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+United Kingdom | Cornwall,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | County Durham,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Cumbria,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Derbyshire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Derry and Strabane,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Devon,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Dorset,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Dumfries and Galloway,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | East Riding of Yorkshire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | East Sussex,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Edinburgh,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Essex,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Fife,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Glasgow City,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Gloucestershire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Greater London,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+United Kingdom | Greater Manchester,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+United Kingdom | Hampshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Herefordshire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Hertfordshire,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Highland Council,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Isle of Wight,1.0,0.0,1.0,0.0,1.0,1.0,2.0
+United Kingdom | Kent,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Kingston upon Hull,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Lancashire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Leicester,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Leicestershire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Lincolnshire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Medway,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Merseyside,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+United Kingdom | Milton Keynes,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+United Kingdom | Norfolk,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | North East Lincolnshire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | North Lincolnshire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | North Somerset,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | North Yorkshire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Northamptonshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Northumberland,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Nottingham,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Nottinghamshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Oxfordshire,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Perth and Kinross,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Plymouth,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Powys,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Rhondda Cynon Taff,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Scottish Borders,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Shropshire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Somerset,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | South Gloucestershire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | South Lanarkshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | South Yorkshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Southampton,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Southend-on-Sea,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Staffordshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Stockton-on-Tees,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Stoke-on-Trent,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Suffolk,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Surrey,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Swansea,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Torbay,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United Kingdom | Tyne and Wear,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+United Kingdom | Vale of Glamorgan,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Warwickshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | West Berkshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | West Midlands,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+United Kingdom | West Sussex,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+United Kingdom | West Yorkshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Wiltshire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | Windsor and Maidenhead,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United Kingdom | Worcestershire,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United Kingdom | York,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United States | Alabama,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Alaska,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+United States | Arizona,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United States | Arkansas,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | California,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+United States | Colorado,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Connecticut,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Delaware,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | District of Columbia,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+United States | Florida,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United States | Georgia,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Hawaii,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+United States | Idaho,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Illinois,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Indiana,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Iowa,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Kansas,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Kentucky,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Louisiana,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+United States | Maine,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+United States | Maryland,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+United States | Massachusetts,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+United States | Michigan,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Minnesota,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Mississippi,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Missouri,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Montana,1.0,1.0,1.0,1.0,2.0,1.0,1.0
+United States | Nebraska,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Nevada,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United States | New Hampshire,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | New Jersey,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United States | New Mexico,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | New York,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+United States | North Carolina,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | North Dakota,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+United States | Ohio,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Oklahoma,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Oregon,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Pennsylvania,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Rhode Island,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+United States | South Carolina,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | South Dakota,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Tennessee,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Texas,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United States | Utah,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Vermont,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Virginia,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+United States | Washington,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+United States | West Virginia,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+United States | Wisconsin,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+United States | Wyoming,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uruguay | Canelones Department,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+Uruguay | Cerro Largo Department,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Uruguay | Colonia Department,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Uruguay | Maldonado Department,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+Uruguay | Montevideo Department,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Uruguay | Paysandú Department,1.0,0.0,1.0,1.0,2.0,2.0,2.0
+Uruguay | Salto Department,,0.0,1.0,1.0,1.0,1.0,1.0
+Uruguay | San José Department,1.0,0.0,1.0,1.0,1.0,1.0,2.0
+Uruguay | Tacuarembó Department,1.0,0.0,1.0,1.0,1.0,2.0,2.0

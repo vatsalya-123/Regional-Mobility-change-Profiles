@@ -5,8 +5,8 @@ import subprocess
 import sys
 import time
 
-SCOPE_K = {"national": 3, "india_states": 3, "india_districts": 3}
-TEMPORAL_K = {"national": 4, "india_states": 3, "india_districts": 3}
+SCOPE_K = {"national": 3, "india_states": 3, "india_districts": 3, "global_states": 3}
+TEMPORAL_K = {"national": 4, "india_states": 3, "india_districts": 3, "global_states": 3}
 
 
 def mod(name, *args):

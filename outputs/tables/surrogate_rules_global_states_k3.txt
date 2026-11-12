@@ -1,0 +1,22 @@
+|--- retail_and_recreation__first_wave_mean <= -48.68
+|   |--- grocery_and_pharmacy__late_mean <= 66.03
+|   |   |--- trough_depth <= -66.07
+|   |   |   |--- class: 2
+|   |   |--- trough_depth >  -66.07
+|   |   |   |--- class: 2
+|   |--- grocery_and_pharmacy__late_mean >  66.03
+|   |   |--- trough_depth <= -72.40
+|   |   |   |--- class: 2
+|   |   |--- trough_depth >  -72.40
+|   |   |   |--- class: 1
+|--- retail_and_recreation__first_wave_mean >  -48.68
+|   |--- retail_and_recreation__late_mean <= 24.46
+|   |   |--- transit_stations__first_wave_mean <= -54.33
+|   |   |   |--- class: 2
+|   |   |--- transit_stations__first_wave_mean >  -54.33
+|   |   |   |--- class: 0
+|   |--- retail_and_recreation__late_mean >  24.46
+|   |   |--- workplaces__late_mean <= 4.08
+|   |   |   |--- class: 0
+|   |   |--- workplaces__late_mean >  4.08
+|   |   |   |--- class: 1
