@@ -1,6 +1,17 @@
 
 .venv/
-data/
+data/*
+!data/processed/
+data/processed/*
+!data/processed/national_daily_clean.parquet
+!data/processed/india_states_daily_clean.parquet
+!data/processed/india_districts_daily_clean.parquet
+!data/processed/global_states_daily_clean.parquet
+!data/processed/national_features_region.parquet
+!data/processed/india_states_features_region.parquet
+!data/processed/india_districts_features_region.parquet
+!data/processed/global_states_features_region.parquet
+!data/processed/national_region_meta.csv
 __pycache__/
 *.pyc
 .env
