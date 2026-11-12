@@ -61,6 +61,7 @@ The project expects this exact filename and location, as specified in `config.ya
 
 ## Project Structure
 
+```text
 Regional-Mobility-Change-Profiles/
 │
 ├── app/
@@ -104,7 +105,7 @@ Regional-Mobility-Change-Profiles/
 ├── requirements.in
 ├── requirements.txt
 └── run_pipeline.py
-
+```
 
 ### 3. Activate the environment
 
