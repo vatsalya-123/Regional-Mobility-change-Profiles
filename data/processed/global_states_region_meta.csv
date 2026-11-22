@@ -1,0 +1,959 @@
+region_id,country_region,sub_region_1,country_region_code,iso_3166_2_code
+Angola | Luanda Province,Angola,Luanda Province,AO,AO-LUA
+Antigua and Barbuda | Saint John,Antigua and Barbuda,Saint John,AG,AG-04
+Argentina | Buenos Aires,Argentina,Buenos Aires,AR,AR-C
+Argentina | Buenos Aires Province,Argentina,Buenos Aires Province,AR,AR-B
+Argentina | Catamarca Province,Argentina,Catamarca Province,AR,AR-K
+Argentina | Chaco Province,Argentina,Chaco Province,AR,AR-H
+Argentina | Chubut Province,Argentina,Chubut Province,AR,AR-U
+Argentina | Cordoba,Argentina,Cordoba,AR,AR-X
+Argentina | Corrientes,Argentina,Corrientes,AR,AR-W
+Argentina | Entre Rios,Argentina,Entre Rios,AR,AR-E
+Argentina | Jujuy,Argentina,Jujuy,AR,AR-Y
+Argentina | La Pampa,Argentina,La Pampa,AR,AR-L
+Argentina | La Rioja Province,Argentina,La Rioja Province,AR,AR-F
+Argentina | Mendoza Province,Argentina,Mendoza Province,AR,AR-M
+Argentina | Misiones Province,Argentina,Misiones Province,AR,AR-N
+Argentina | Neuquen,Argentina,Neuquen,AR,AR-Q
+Argentina | Río Negro,Argentina,Río Negro,AR,AR-R
+Argentina | Salta Province,Argentina,Salta Province,AR,AR-A
+Argentina | San Juan Province,Argentina,San Juan Province,AR,AR-J
+Argentina | San Luis Province,Argentina,San Luis Province,AR,AR-D
+Argentina | Santa Cruz Province,Argentina,Santa Cruz Province,AR,AR-Z
+Argentina | Santa Fe Province,Argentina,Santa Fe Province,AR,AR-S
+Argentina | Santiago del Estero Province,Argentina,Santiago del Estero Province,AR,AR-G
+Argentina | Tierra del Fuego Province,Argentina,Tierra del Fuego Province,AR,AR-V
+Argentina | Tucumán,Argentina,Tucumán,AR,AR-T
+Australia | Australian Capital Territory,Australia,Australian Capital Territory,AU,AU-ACT
+Australia | New South Wales,Australia,New South Wales,AU,AU-NSW
+Australia | Northern Territory,Australia,Northern Territory,AU,AU-NT
+Australia | Queensland,Australia,Queensland,AU,AU-QLD
+Australia | South Australia,Australia,South Australia,AU,AU-SA
+Australia | Tasmania,Australia,Tasmania,AU,AU-TAS
+Australia | Victoria,Australia,Victoria,AU,AU-VIC
+Australia | Western Australia,Australia,Western Australia,AU,AU-WA
+Austria | Carinthia,Austria,Carinthia,AT,AT-2
+Austria | Lower Austria,Austria,Lower Austria,AT,AT-3
+Austria | Salzburg,Austria,Salzburg,AT,AT-5
+Austria | Styria,Austria,Styria,AT,AT-6
+Austria | Tyrol,Austria,Tyrol,AT,AT-7
+Austria | Upper Austria,Austria,Upper Austria,AT,AT-4
+Austria | Vienna,Austria,Vienna,AT,AT-9
+Austria | Vorarlberg,Austria,Vorarlberg,AT,AT-8
+Barbados | Saint Michael,Barbados,Saint Michael,BB,BB-08
+Belgium | Brussels,Belgium,Brussels,BE,BE-BRU
+Belgium | Flanders,Belgium,Flanders,BE,BE-VLG
+Belgium | Wallonia,Belgium,Wallonia,BE,BE-WAL
+Belize | Belize District,Belize,Belize District,BZ,BZ-BZ
+Bolivia | Beni Department,Bolivia,Beni Department,BO,BO-B
+Bolivia | Chuquisaca Department,Bolivia,Chuquisaca Department,BO,BO-H
+Bolivia | Cochabamba Department,Bolivia,Cochabamba Department,BO,BO-C
+Bolivia | La Paz Department,Bolivia,La Paz Department,BO,BO-L
+Bolivia | Oruro Department,Bolivia,Oruro Department,BO,BO-O
+Bolivia | Potosi Department,Bolivia,Potosi Department,BO,BO-P
+Bolivia | Santa Cruz Department,Bolivia,Santa Cruz Department,BO,BO-S
+Bolivia | Tarija Department,Bolivia,Tarija Department,BO,BO-T
+Botswana | Gaborone,Botswana,Gaborone,BW,
+Brazil | Federal District,Brazil,Federal District,BR,BR-DF
+Brazil | State of Acre,Brazil,State of Acre,BR,BR-AC
+Brazil | State of Alagoas,Brazil,State of Alagoas,BR,BR-AL
+Brazil | State of Amapá,Brazil,State of Amapá,BR,BR-AP
+Brazil | State of Amazonas,Brazil,State of Amazonas,BR,BR-AM
+Brazil | State of Bahia,Brazil,State of Bahia,BR,BR-BA
+Brazil | State of Ceará,Brazil,State of Ceará,BR,BR-CE
+Brazil | State of Espírito Santo,Brazil,State of Espírito Santo,BR,BR-ES
+Brazil | State of Goiás,Brazil,State of Goiás,BR,BR-GO
+Brazil | State of Maranhão,Brazil,State of Maranhão,BR,BR-MA
+Brazil | State of Mato Grosso,Brazil,State of Mato Grosso,BR,BR-MT
+Brazil | State of Mato Grosso do Sul,Brazil,State of Mato Grosso do Sul,BR,BR-MS
+Brazil | State of Minas Gerais,Brazil,State of Minas Gerais,BR,BR-MG
+Brazil | State of Paraná,Brazil,State of Paraná,BR,BR-PR
+Brazil | State of Paraíba,Brazil,State of Paraíba,BR,BR-PB
+Brazil | State of Pará,Brazil,State of Pará,BR,BR-PA
+Brazil | State of Pernambuco,Brazil,State of Pernambuco,BR,BR-PE
+Brazil | State of Piauí,Brazil,State of Piauí,BR,BR-PI
+Brazil | State of Rio Grande do Norte,Brazil,State of Rio Grande do Norte,BR,BR-RN
+Brazil | State of Rio Grande do Sul,Brazil,State of Rio Grande do Sul,BR,BR-RS
+Brazil | State of Rio de Janeiro,Brazil,State of Rio de Janeiro,BR,BR-RJ
+Brazil | State of Rondônia,Brazil,State of Rondônia,BR,BR-RO
+Brazil | State of Roraima,Brazil,State of Roraima,BR,BR-RR
+Brazil | State of Santa Catarina,Brazil,State of Santa Catarina,BR,BR-SC
+Brazil | State of Sergipe,Brazil,State of Sergipe,BR,BR-SE
+Brazil | State of São Paulo,Brazil,State of São Paulo,BR,BR-SP
+Brazil | State of Tocantins,Brazil,State of Tocantins,BR,BR-TO
+Bulgaria | Blagoevgrad Province,Bulgaria,Blagoevgrad Province,BG,BG-01
+Bulgaria | Burgas,Bulgaria,Burgas,BG,BG-02
+Bulgaria | Haskovo Province,Bulgaria,Haskovo Province,BG,BG-26
+Bulgaria | Plovdiv Province,Bulgaria,Plovdiv Province,BG,BG-16
+Bulgaria | Sofia City Province,Bulgaria,Sofia City Province,BG,BG-22
+Bulgaria | Varna,Bulgaria,Varna,BG,BG-03
+Bulgaria | Veliko Tarnovo Province,Bulgaria,Veliko Tarnovo Province,BG,BG-04
+Cambodia | Battambang Province,Cambodia,Battambang Province,KH,KH-2
+Cambodia | Kandal Province,Cambodia,Kandal Province,KH,KH-8
+Cambodia | Phnom Penh,Cambodia,Phnom Penh,KH,KH-12
+Cambodia | Siem Reap Province,Cambodia,Siem Reap Province,KH,KH-17
+Cambodia | Sihanoukville,Cambodia,Sihanoukville,KH,KH-18
+Cameroon | Centre,Cameroon,Centre,CM,CM-CE
+Cameroon | Littoral,Cameroon,Littoral,CM,CM-LT
+Canada | Alberta,Canada,Alberta,CA,CA-AB
+Canada | British Columbia,Canada,British Columbia,CA,CA-BC
+Canada | Manitoba,Canada,Manitoba,CA,CA-MB
+Canada | New Brunswick,Canada,New Brunswick,CA,CA-NB
+Canada | Newfoundland and Labrador,Canada,Newfoundland and Labrador,CA,CA-NL
+Canada | Nova Scotia,Canada,Nova Scotia,CA,CA-NS
+Canada | Ontario,Canada,Ontario,CA,CA-ON
+Canada | Quebec,Canada,Quebec,CA,CA-QC
+Canada | Saskatchewan,Canada,Saskatchewan,CA,CA-SK
+Chile | Antofagasta,Chile,Antofagasta,CL,CL-AN
+Chile | Araucania,Chile,Araucania,CL,CL-AR
+Chile | Arica y Parinacota,Chile,Arica y Parinacota,CL,CL-AP
+Chile | Atacama,Chile,Atacama,CL,CL-AT
+Chile | Aysén,Chile,Aysén,CL,CL-AI
+Chile | Bio Bio,Chile,Bio Bio,CL,CL-BI
+Chile | Coquimbo,Chile,Coquimbo,CL,CL-CO
+Chile | Los Lagos,Chile,Los Lagos,CL,CL-LL
+Chile | Los Ríos,Chile,Los Ríos,CL,CL-LR
+Chile | Magallanes and Chilean Antarctica,Chile,Magallanes and Chilean Antarctica,CL,CL-MA
+Chile | Maule,Chile,Maule,CL,CL-ML
+Chile | O'Higgins,Chile,O'Higgins,CL,CL-LI
+Chile | Santiago Metropolitan Region,Chile,Santiago Metropolitan Region,CL,CL-RM
+Chile | Tarapacá,Chile,Tarapacá,CL,CL-TA
+Chile | Valparaíso,Chile,Valparaíso,CL,CL-VS
+Colombia | Antioquia,Colombia,Antioquia,CO,CO-ANT
+Colombia | Arauca,Colombia,Arauca,CO,CO-ARA
+Colombia | Atlantico,Colombia,Atlantico,CO,CO-ATL
+Colombia | Bogota,Colombia,Bogota,CO,CO-DC
+Colombia | Bolivar,Colombia,Bolivar,CO,CO-BOL
+Colombia | Boyaca,Colombia,Boyaca,CO,CO-BOY
+Colombia | Caldas,Colombia,Caldas,CO,CO-CAL
+Colombia | Casanare,Colombia,Casanare,CO,CO-CAS
+Colombia | Cesar,Colombia,Cesar,CO,CO-CES
+Colombia | Choco,Colombia,Choco,CO,CO-CHO
+Colombia | Cordoba,Colombia,Cordoba,CO,CO-COR
+Colombia | Cundinamarca,Colombia,Cundinamarca,CO,CO-CUN
+Colombia | La Guajira,Colombia,La Guajira,CO,CO-LAG
+Colombia | Magdalena,Colombia,Magdalena,CO,CO-MAG
+Colombia | Meta,Colombia,Meta,CO,CO-MET
+Colombia | North Santander,Colombia,North Santander,CO,CO-NSA
+Colombia | Risaralda,Colombia,Risaralda,CO,CO-RIS
+Colombia | Santander,Colombia,Santander,CO,CO-SAN
+Colombia | Sucre,Colombia,Sucre,CO,CO-SUC
+Colombia | Tolima,Colombia,Tolima,CO,CO-TOL
+Colombia | Valle del Cauca,Colombia,Valle del Cauca,CO,CO-VAC
+Croatia | City of Zagreb,Croatia,City of Zagreb,HR,HR-21
+Croatia | Dubrovnik-Neretva County,Croatia,Dubrovnik-Neretva County,HR,HR-19
+Croatia | Primorje-Gorski Kotar County,Croatia,Primorje-Gorski Kotar County,HR,HR-08
+Croatia | Split-Dalmatia County,Croatia,Split-Dalmatia County,HR,HR-17
+Czechia | Central Bohemian Region,Czechia,Central Bohemian Region,CZ,CZ-20
+Czechia | Hradec Králové Region,Czechia,Hradec Králové Region,CZ,CZ-52
+Czechia | Karlovy Vary Region,Czechia,Karlovy Vary Region,CZ,CZ-41
+Czechia | Liberec Region,Czechia,Liberec Region,CZ,CZ-51
+Czechia | Moravian-Silesian Region,Czechia,Moravian-Silesian Region,CZ,CZ-MO
+Czechia | Olomouc Region,Czechia,Olomouc Region,CZ,CZ-71
+Czechia | Pardubice Region,Czechia,Pardubice Region,CZ,CZ-53
+Czechia | Plzeň Region,Czechia,Plzeň Region,CZ,CZ-32
+Czechia | Prague,Czechia,Prague,CZ,CZ-10
+Czechia | South Bohemian Region,Czechia,South Bohemian Region,CZ,CZ-31
+Czechia | South Moravian Region,Czechia,South Moravian Region,CZ,CZ-64
+Czechia | Vysočina Region,Czechia,Vysočina Region,CZ,CZ-63
+Czechia | Zlín Region,Czechia,Zlín Region,CZ,CZ-72
+Czechia | Ústí nad Labem Region,Czechia,Ústí nad Labem Region,CZ,CZ-42
+Côte d'Ivoire | Abidjan Autonomous District,Côte d'Ivoire,Abidjan Autonomous District,CI,CI-AB
+Denmark | Capital Region of Denmark,Denmark,Capital Region of Denmark,DK,DK-84
+Denmark | Central Denmark Region,Denmark,Central Denmark Region,DK,DK-82
+Denmark | North Denmark Region,Denmark,North Denmark Region,DK,DK-81
+Denmark | Region Zealand,Denmark,Region Zealand,DK,DK-85
+Denmark | Region of Southern Denmark,Denmark,Region of Southern Denmark,DK,DK-83
+Dominican Republic | Distrito Nacional,Dominican Republic,Distrito Nacional,DO,DO-01
+Dominican Republic | La Altagracia Province,Dominican Republic,La Altagracia Province,DO,DO-11
+Dominican Republic | La Romana Province,Dominican Republic,La Romana Province,DO,DO-12
+Dominican Republic | La Vega Province,Dominican Republic,La Vega Province,DO,DO-13
+Dominican Republic | Puerto Plata Province,Dominican Republic,Puerto Plata Province,DO,DO-18
+Dominican Republic | San Pedro de Macorís Province,Dominican Republic,San Pedro de Macorís Province,DO,DO-23
+Dominican Republic | Santiago Province,Dominican Republic,Santiago Province,DO,DO-25
+Dominican Republic | Santo Domingo Province,Dominican Republic,Santo Domingo Province,DO,DO-32
+Ecuador | Azuay,Ecuador,Azuay,EC,EC-A
+Ecuador | Cañar,Ecuador,Cañar,EC,EC-F
+Ecuador | Chimborazo,Ecuador,Chimborazo,EC,EC-H
+Ecuador | Cotopaxi,Ecuador,Cotopaxi,EC,EC-X
+Ecuador | El Oro,Ecuador,El Oro,EC,EC-O
+Ecuador | Esmeraldas,Ecuador,Esmeraldas,EC,EC-E
+Ecuador | Guayas,Ecuador,Guayas,EC,EC-G
+Ecuador | Imbabura,Ecuador,Imbabura,EC,EC-I
+Ecuador | Loja,Ecuador,Loja,EC,EC-L
+Ecuador | Los Rios,Ecuador,Los Rios,EC,EC-R
+Ecuador | Manabí,Ecuador,Manabí,EC,EC-M
+Ecuador | Pichincha,Ecuador,Pichincha,EC,EC-P
+Ecuador | Santo Domingo de los Tsachilas,Ecuador,Santo Domingo de los Tsachilas,EC,EC-SD
+Ecuador | Tungurahua,Ecuador,Tungurahua,EC,EC-T
+Egypt | Al Qalyubia Governorate,Egypt,Al Qalyubia Governorate,EG,EG-KB
+Egypt | Alexandria Governorate,Egypt,Alexandria Governorate,EG,EG-ALX
+Egypt | Ash Sharqia Governorate,Egypt,Ash Sharqia Governorate,EG,EG-SHR
+Egypt | Aswan Governorate,Egypt,Aswan Governorate,EG,EG-ASN
+Egypt | Cairo Governorate,Egypt,Cairo Governorate,EG,EG-C
+Egypt | Dakahlia Governorate,Egypt,Dakahlia Governorate,EG,EG-DK
+Egypt | El Beheira Governorate,Egypt,El Beheira Governorate,EG,EG-BH
+Egypt | Gharbia Governorate,Egypt,Gharbia Governorate,EG,EG-GH
+Egypt | Giza Governorate,Egypt,Giza Governorate,EG,EG-GZ
+Egypt | Ismailia Governorate,Egypt,Ismailia Governorate,EG,EG-IS
+Egypt | Luxor Governorate,Egypt,Luxor Governorate,EG,EG-LX
+Egypt | Menia Governorate,Egypt,Menia Governorate,EG,EG-MN
+Egypt | Port Said Governorate,Egypt,Port Said Governorate,EG,EG-PTS
+Egypt | Red Sea Governorate,Egypt,Red Sea Governorate,EG,EG-BA
+Egypt | Sohag Governorate,Egypt,Sohag Governorate,EG,EG-SHG
+Egypt | South Sinai Governorate,Egypt,South Sinai Governorate,EG,EG-JS
+El Salvador | La Libertad Department,El Salvador,La Libertad Department,SV,SV-LI
+El Salvador | La Paz Department,El Salvador,La Paz Department,SV,SV-PA
+El Salvador | San Miguel Department,El Salvador,San Miguel Department,SV,SV-SM
+El Salvador | San Salvador Department,El Salvador,San Salvador Department,SV,SV-SS
+El Salvador | Santa Ana Department,El Salvador,Santa Ana Department,SV,SV-SA
+El Salvador | Sonsonate Department,El Salvador,Sonsonate Department,SV,SV-SO
+Estonia | Harju County,Estonia,Harju County,EE,EE-37
+Finland | Central Finland,Finland,Central Finland,FI,FI-08
+Finland | Lapland,Finland,Lapland,FI,FI-10
+Finland | North Savo,Finland,North Savo,FI,FI-15
+Finland | Northern Ostrobothnia,Finland,Northern Ostrobothnia,FI,FI-14
+Finland | Pirkanmaa,Finland,Pirkanmaa,FI,FI-11
+Finland | Southwest Finland,Finland,Southwest Finland,FI,FI-19
+Finland | Uusimaa,Finland,Uusimaa,FI,FI-18
+France | Auvergne-Rhône-Alpes,France,Auvergne-Rhône-Alpes,FR,FR-ARA
+France | Bourgogne-Franche-Comté,France,Bourgogne-Franche-Comté,FR,FR-BFC
+France | Brittany,France,Brittany,FR,FR-BRE
+France | Centre-Val de Loire,France,Centre-Val de Loire,FR,FR-CVL
+France | Corsica,France,Corsica,FR,FR-COR
+France | Grand Est,France,Grand Est,FR,FR-GES
+France | Hauts-de-France,France,Hauts-de-France,FR,FR-HDF
+France | Normandy,France,Normandy,FR,FR-NOR
+France | Nouvelle-Aquitaine,France,Nouvelle-Aquitaine,FR,FR-NAQ
+France | Occitanie,France,Occitanie,FR,FR-OCC
+France | Pays de la Loire,France,Pays de la Loire,FR,FR-PDL
+France | Provence-Alpes-Côte d'Azur,France,Provence-Alpes-Côte d'Azur,FR,FR-PAC
+France | Île-de-France,France,Île-de-France,FR,FR-IDF
+Germany | Baden-Württemberg,Germany,Baden-Württemberg,DE,DE-BW
+Germany | Bavaria,Germany,Bavaria,DE,DE-BY
+Germany | Berlin,Germany,Berlin,DE,DE-BE
+Germany | Brandenburg,Germany,Brandenburg,DE,DE-BB
+Germany | Bremen,Germany,Bremen,DE,DE-HB
+Germany | Hamburg,Germany,Hamburg,DE,DE-HH
+Germany | Hessen,Germany,Hessen,DE,DE-HE
+Germany | Lower Saxony,Germany,Lower Saxony,DE,DE-NI
+Germany | Mecklenburg-Vorpommern,Germany,Mecklenburg-Vorpommern,DE,DE-MV
+Germany | North Rhine-Westphalia,Germany,North Rhine-Westphalia,DE,DE-NW
+Germany | Rhineland-Palatinate,Germany,Rhineland-Palatinate,DE,DE-RP
+Germany | Saarland,Germany,Saarland,DE,DE-SL
+Germany | Saxony,Germany,Saxony,DE,DE-SN
+Germany | Saxony-Anhalt,Germany,Saxony-Anhalt,DE,DE-ST
+Germany | Schleswig-Holstein,Germany,Schleswig-Holstein,DE,DE-SH
+Germany | Thuringia,Germany,Thuringia,DE,DE-TH
+Greece | Decentralized Administration of Attica,Greece,Decentralized Administration of Attica,GR,
+Greece | Decentralized Administration of Crete,Greece,Decentralized Administration of Crete,GR,
+Greece | Decentralized Administration of Epirus and Western Macedonia,Greece,Decentralized Administration of Epirus and Western Macedonia,GR,
+Greece | Decentralized Administration of Macedonia and Thrace,Greece,Decentralized Administration of Macedonia and Thrace,GR,
+"Greece | Decentralized Administration of Peloponnese, Western Greece and the Ionian",Greece,"Decentralized Administration of Peloponnese, Western Greece and the Ionian",GR,
+Greece | Decentralized Administration of Thessaly and Central Greece,Greece,Decentralized Administration of Thessaly and Central Greece,GR,
+Greece | Decentralized Administration of the Aegean,Greece,Decentralized Administration of the Aegean,GR,
+Guatemala | Alta Verapaz Department,Guatemala,Alta Verapaz Department,GT,GT-AV
+Guatemala | Escuintla Department,Guatemala,Escuintla Department,GT,GT-ES
+Guatemala | Guatemala Department,Guatemala,Guatemala Department,GT,GT-GU
+Guatemala | Huehuetenango Department,Guatemala,Huehuetenango Department,GT,GT-HU
+Guatemala | Petén Department,Guatemala,Petén Department,GT,GT-PE
+Guatemala | Quetzaltenango Department,Guatemala,Quetzaltenango Department,GT,GT-QZ
+Guatemala | Sacatepéquez Department,Guatemala,Sacatepéquez Department,GT,GT-SA
+Guatemala | San Marcos Department,Guatemala,San Marcos Department,GT,GT-SM
+Guatemala | Suchitepéquez Department,Guatemala,Suchitepéquez Department,GT,GT-SU
+Haiti | Ouest Department,Haiti,Ouest Department,HT,HT-OU
+Honduras | Atlántida Department,Honduras,Atlántida Department,HN,HN-AT
+Honduras | Cortés Department,Honduras,Cortés Department,HN,HN-CR
+Honduras | Francisco Morazán Department,Honduras,Francisco Morazán Department,HN,HN-FM
+Honduras | Yoro Department,Honduras,Yoro Department,HN,HN-YO
+Hungary | Borsod-Abaúj-Zemplén,Hungary,Borsod-Abaúj-Zemplén,HU,HU-BZ
+Hungary | Budapest,Hungary,Budapest,HU,HU-BU
+Hungary | Bács-Kiskun,Hungary,Bács-Kiskun,HU,HU-BK
+Hungary | Csongrád,Hungary,Csongrád,HU,HU-CS
+Hungary | Fejér,Hungary,Fejér,HU,HU-FE
+Hungary | Gyor-Moson-Sopron,Hungary,Gyor-Moson-Sopron,HU,HU-GS
+Hungary | Hajdú-Bihar,Hungary,Hajdú-Bihar,HU,HU-HB
+Hungary | Heves County,Hungary,Heves County,HU,HU-HE
+Hungary | Pest County,Hungary,Pest County,HU,HU-PE
+Hungary | Veszprém,Hungary,Veszprém,HU,HU-VE
+Hungary | Zala County,Hungary,Zala County,HU,HU-ZA
+India | Andhra Pradesh,India,Andhra Pradesh,IN,IN-AP
+India | Arunachal Pradesh,India,Arunachal Pradesh,IN,IN-AR
+India | Assam,India,Assam,IN,IN-AS
+India | Bihar,India,Bihar,IN,IN-BR
+India | Chandigarh,India,Chandigarh,IN,IN-CH
+India | Chhattisgarh,India,Chhattisgarh,IN,IN-CT
+India | Daman and Diu,India,Daman and Diu,IN,IN-DD
+India | Delhi,India,Delhi,IN,IN-DL
+India | Goa,India,Goa,IN,IN-GA
+India | Gujarat,India,Gujarat,IN,IN-GJ
+India | Haryana,India,Haryana,IN,IN-HR
+India | Himachal Pradesh,India,Himachal Pradesh,IN,IN-HP
+India | Jammu and Kashmir,India,Jammu and Kashmir,IN,IN-JK
+India | Jharkhand,India,Jharkhand,IN,IN-JH
+India | Karnataka,India,Karnataka,IN,IN-KA
+India | Kerala,India,Kerala,IN,IN-KL
+India | Madhya Pradesh,India,Madhya Pradesh,IN,IN-MP
+India | Maharashtra,India,Maharashtra,IN,IN-MH
+India | Manipur,India,Manipur,IN,IN-MN
+India | Meghalaya,India,Meghalaya,IN,IN-ML
+India | Mizoram,India,Mizoram,IN,IN-MZ
+India | Nagaland,India,Nagaland,IN,IN-NL
+India | Odisha,India,Odisha,IN,IN-OR
+India | Puducherry,India,Puducherry,IN,IN-PY
+India | Punjab,India,Punjab,IN,IN-PB
+India | Rajasthan,India,Rajasthan,IN,IN-RJ
+India | Sikkim,India,Sikkim,IN,IN-SK
+India | Tamil Nadu,India,Tamil Nadu,IN,IN-TN
+India | Telangana,India,Telangana,IN,IN-TG
+India | Tripura,India,Tripura,IN,IN-TR
+India | Uttar Pradesh,India,Uttar Pradesh,IN,IN-UP
+India | Uttarakhand,India,Uttarakhand,IN,IN-UT
+India | West Bengal,India,West Bengal,IN,IN-WB
+Indonesia | Aceh,Indonesia,Aceh,ID,ID-AC
+Indonesia | Bali,Indonesia,Bali,ID,ID-BA
+Indonesia | Bangka Belitung Islands,Indonesia,Bangka Belitung Islands,ID,ID-BB
+Indonesia | Banten,Indonesia,Banten,ID,ID-BT
+Indonesia | Bengkulu,Indonesia,Bengkulu,ID,ID-BE
+Indonesia | Central Java,Indonesia,Central Java,ID,ID-JT
+Indonesia | Central Kalimantan,Indonesia,Central Kalimantan,ID,ID-KT
+Indonesia | Central Sulawesi,Indonesia,Central Sulawesi,ID,ID-ST
+Indonesia | East Java,Indonesia,East Java,ID,ID-JI
+Indonesia | East Kalimantan,Indonesia,East Kalimantan,ID,ID-KI
+Indonesia | East Nusa Tenggara,Indonesia,East Nusa Tenggara,ID,ID-NT
+Indonesia | Jakarta,Indonesia,Jakarta,ID,ID-JK
+Indonesia | Jambi,Indonesia,Jambi,ID,ID-JA
+Indonesia | Lampung,Indonesia,Lampung,ID,ID-LA
+Indonesia | Maluku,Indonesia,Maluku,ID,ID-MA
+Indonesia | North Kalimantan,Indonesia,North Kalimantan,ID,ID-KU
+Indonesia | North Maluku,Indonesia,North Maluku,ID,ID-MU
+Indonesia | North Sulawesi,Indonesia,North Sulawesi,ID,ID-SA
+Indonesia | North Sumatra,Indonesia,North Sumatra,ID,ID-SU
+Indonesia | Papua,Indonesia,Papua,ID,ID-PA
+Indonesia | Riau,Indonesia,Riau,ID,ID-RI
+Indonesia | Riau Islands,Indonesia,Riau Islands,ID,ID-KR
+Indonesia | South East Sulawesi,Indonesia,South East Sulawesi,ID,ID-SG
+Indonesia | South Kalimantan,Indonesia,South Kalimantan,ID,ID-KS
+Indonesia | South Sulawesi,Indonesia,South Sulawesi,ID,ID-SN
+Indonesia | South Sumatra,Indonesia,South Sumatra,ID,ID-SS
+Indonesia | Special Region of Yogyakarta,Indonesia,Special Region of Yogyakarta,ID,ID-YO
+Indonesia | West Java,Indonesia,West Java,ID,ID-JB
+Indonesia | West Kalimantan,Indonesia,West Kalimantan,ID,ID-KB
+Indonesia | West Nusa Tenggara,Indonesia,West Nusa Tenggara,ID,ID-NB
+Indonesia | West Papua,Indonesia,West Papua,ID,ID-PB
+Indonesia | West Sulawesi,Indonesia,West Sulawesi,ID,ID-SR
+Indonesia | West Sumatra,Indonesia,West Sumatra,ID,ID-SB
+Ireland | County Cork,Ireland,County Cork,IE,IE-CO
+Ireland | County Donegal,Ireland,County Donegal,IE,IE-DL
+Ireland | County Dublin,Ireland,County Dublin,IE,IE-D
+Ireland | County Galway,Ireland,County Galway,IE,IE-G
+Ireland | County Kilkenny,Ireland,County Kilkenny,IE,IE-KK
+Ireland | County Limerick,Ireland,County Limerick,IE,IE-LK
+Ireland | County Meath,Ireland,County Meath,IE,IE-MH
+Ireland | County Tipperary,Ireland,County Tipperary,IE,IE-TA
+Ireland | County Waterford,Ireland,County Waterford,IE,IE-WD
+Ireland | County Wicklow,Ireland,County Wicklow,IE,IE-WW
+Israel | Center District,Israel,Center District,IL,IL-M
+Israel | Haifa District,Israel,Haifa District,IL,IL-HA
+Israel | Jerusalem District,Israel,Jerusalem District,IL,IL-JM
+Israel | North District,Israel,North District,IL,IL-Z
+Israel | South District,Israel,South District,IL,IL-D
+Israel | Tel Aviv District,Israel,Tel Aviv District,IL,IL-TA
+Italy | Abruzzo,Italy,Abruzzo,IT,IT-65
+Italy | Aosta,Italy,Aosta,IT,IT-23
+Italy | Apulia,Italy,Apulia,IT,IT-75
+Italy | Basilicata,Italy,Basilicata,IT,IT-77
+Italy | Calabria,Italy,Calabria,IT,IT-78
+Italy | Campania,Italy,Campania,IT,IT-72
+Italy | Emilia-Romagna,Italy,Emilia-Romagna,IT,IT-45
+Italy | Friuli-Venezia Giulia,Italy,Friuli-Venezia Giulia,IT,IT-36
+Italy | Lazio,Italy,Lazio,IT,IT-62
+Italy | Liguria,Italy,Liguria,IT,IT-42
+Italy | Lombardy,Italy,Lombardy,IT,IT-25
+Italy | Marche,Italy,Marche,IT,IT-57
+Italy | Molise,Italy,Molise,IT,IT-67
+Italy | Piedmont,Italy,Piedmont,IT,IT-21
+Italy | Sardinia,Italy,Sardinia,IT,IT-88
+Italy | Sicily,Italy,Sicily,IT,IT-82
+Italy | Trentino-South Tyrol,Italy,Trentino-South Tyrol,IT,IT-32
+Italy | Tuscany,Italy,Tuscany,IT,IT-52
+Italy | Umbria,Italy,Umbria,IT,IT-55
+Italy | Veneto,Italy,Veneto,IT,IT-34
+Jamaica | St. Andrew Parish,Jamaica,St. Andrew Parish,JM,JM-02
+Japan | Aichi,Japan,Aichi,JP,JP-23
+Japan | Akita,Japan,Akita,JP,JP-05
+Japan | Aomori,Japan,Aomori,JP,JP-02
+Japan | Chiba,Japan,Chiba,JP,JP-12
+Japan | Ehime,Japan,Ehime,JP,JP-38
+Japan | Fukui,Japan,Fukui,JP,JP-18
+Japan | Fukuoka,Japan,Fukuoka,JP,JP-40
+Japan | Fukushima,Japan,Fukushima,JP,JP-07
+Japan | Gifu,Japan,Gifu,JP,JP-21
+Japan | Gunma,Japan,Gunma,JP,JP-10
+Japan | Hiroshima,Japan,Hiroshima,JP,JP-34
+Japan | Hokkaido,Japan,Hokkaido,JP,JP-01
+Japan | Hyogo,Japan,Hyogo,JP,JP-28
+Japan | Ibaraki,Japan,Ibaraki,JP,JP-08
+Japan | Ishikawa,Japan,Ishikawa,JP,JP-17
+Japan | Iwate,Japan,Iwate,JP,JP-03
+Japan | Kagawa,Japan,Kagawa,JP,JP-37
+Japan | Kagoshima,Japan,Kagoshima,JP,JP-46
+Japan | Kanagawa,Japan,Kanagawa,JP,JP-14
+Japan | Kochi,Japan,Kochi,JP,JP-39
+Japan | Kumamoto,Japan,Kumamoto,JP,JP-43
+Japan | Kyoto,Japan,Kyoto,JP,JP-26
+Japan | Mie,Japan,Mie,JP,JP-24
+Japan | Miyagi,Japan,Miyagi,JP,JP-04
+Japan | Miyazaki,Japan,Miyazaki,JP,JP-45
+Japan | Nagano,Japan,Nagano,JP,JP-20
+Japan | Nagasaki,Japan,Nagasaki,JP,JP-42
+Japan | Nara,Japan,Nara,JP,JP-29
+Japan | Niigata,Japan,Niigata,JP,JP-15
+Japan | Oita,Japan,Oita,JP,JP-44
+Japan | Okayama,Japan,Okayama,JP,JP-33
+Japan | Okinawa,Japan,Okinawa,JP,JP-47
+Japan | Osaka,Japan,Osaka,JP,JP-27
+Japan | Saga,Japan,Saga,JP,JP-41
+Japan | Saitama,Japan,Saitama,JP,JP-11
+Japan | Shiga,Japan,Shiga,JP,JP-25
+Japan | Shimane,Japan,Shimane,JP,JP-32
+Japan | Shizuoka,Japan,Shizuoka,JP,JP-22
+Japan | Tochigi,Japan,Tochigi,JP,JP-09
+Japan | Tokushima,Japan,Tokushima,JP,JP-36
+Japan | Tokyo,Japan,Tokyo,JP,JP-13
+Japan | Tottori,Japan,Tottori,JP,JP-31
+Japan | Toyama,Japan,Toyama,JP,JP-16
+Japan | Wakayama,Japan,Wakayama,JP,JP-30
+Japan | Yamagata,Japan,Yamagata,JP,JP-06
+Japan | Yamaguchi,Japan,Yamaguchi,JP,JP-35
+Japan | Yamanashi,Japan,Yamanashi,JP,JP-19
+Jordan | Amman Governorate,Jordan,Amman Governorate,JO,JO-AM
+Jordan | Aqaba Governorate,Jordan,Aqaba Governorate,JO,JO-AQ
+Jordan | Zarqa Governorate,Jordan,Zarqa Governorate,JO,JO-AZ
+Kenya | Kajiado County,Kenya,Kajiado County,KE,KE-10
+Kenya | Kiambu County,Kenya,Kiambu County,KE,KE-13
+Kenya | Kisumu County,Kenya,Kisumu County,KE,KE-17
+Kenya | Machakos County,Kenya,Machakos County,KE,KE-22
+Kenya | Mombasa County,Kenya,Mombasa County,KE,KE-28
+Kenya | Nairobi County,Kenya,Nairobi County,KE,KE-30
+Kenya | Nakuru County,Kenya,Nakuru County,KE,KE-31
+Kenya | Uasin Gishu County,Kenya,Uasin Gishu County,KE,KE-44
+Kuwait | Al Ahmadi Governorate,Kuwait,Al Ahmadi Governorate,KW,KW-AH
+Kuwait | Al Asimah Governate,Kuwait,Al Asimah Governate,KW,KW-KU
+Kuwait | Al Farwaniyah Governorate,Kuwait,Al Farwaniyah Governorate,KW,KW-FA
+Kuwait | Al Jahra Governorate,Kuwait,Al Jahra Governorate,KW,KW-JA
+Kuwait | Hawalli Governorate,Kuwait,Hawalli Governorate,KW,KW-HA
+Kuwait | Mubarak Al-Kabeer Governorate,Kuwait,Mubarak Al-Kabeer Governorate,KW,KW-MU
+Kyrgyzstan | Chüy Region,Kyrgyzstan,Chüy Region,KG,KG-C
+Kyrgyzstan | Jalal-Abad Region,Kyrgyzstan,Jalal-Abad Region,KG,KG-J
+Kyrgyzstan | Osh Region,Kyrgyzstan,Osh Region,KG,KG-O
+Latvia | Riga,Latvia,Riga,LV,LV-RIX
+Lebanon | Mount Lebanon Governorate,Lebanon,Mount Lebanon Governorate,LB,LB-JL
+Lithuania | Kaunas County,Lithuania,Kaunas County,LT,LT-KU
+Lithuania | Klaipėda County,Lithuania,Klaipėda County,LT,LT-KL
+Lithuania | Panevėžys County,Lithuania,Panevėžys County,LT,LT-PN
+Lithuania | Vilnius County,Lithuania,Vilnius County,LT,LT-VL
+Malaysia | Federal Territory of Kuala Lumpur,Malaysia,Federal Territory of Kuala Lumpur,MY,MY-14
+Malaysia | Johor,Malaysia,Johor,MY,MY-01
+Malaysia | Kedah,Malaysia,Kedah,MY,MY-02
+Malaysia | Kelantan,Malaysia,Kelantan,MY,MY-03
+Malaysia | Labuan Federal Territory,Malaysia,Labuan Federal Territory,MY,MY-15
+Malaysia | Malacca,Malaysia,Malacca,MY,MY-04
+Malaysia | Negeri Sembilan,Malaysia,Negeri Sembilan,MY,MY-05
+Malaysia | Pahang,Malaysia,Pahang,MY,MY-06
+Malaysia | Penang,Malaysia,Penang,MY,MY-07
+Malaysia | Perak,Malaysia,Perak,MY,MY-08
+Malaysia | Perlis,Malaysia,Perlis,MY,MY-09
+Malaysia | Putrajaya,Malaysia,Putrajaya,MY,MY-16
+Malaysia | Sabah,Malaysia,Sabah,MY,MY-12
+Malaysia | Sarawak,Malaysia,Sarawak,MY,MY-13
+Malaysia | Selangor,Malaysia,Selangor,MY,MY-10
+Malaysia | Terengganu,Malaysia,Terengganu,MY,MY-11
+Mauritius | Port Louis District,Mauritius,Port Louis District,MU,MU-PL
+Mexico | Aguascalientes,Mexico,Aguascalientes,MX,MX-AGU
+Mexico | Baja California,Mexico,Baja California,MX,MX-BCN
+Mexico | Baja California Sur,Mexico,Baja California Sur,MX,MX-BCS
+Mexico | Campeche,Mexico,Campeche,MX,MX-CAM
+Mexico | Chiapas,Mexico,Chiapas,MX,MX-CHP
+Mexico | Chihuahua,Mexico,Chihuahua,MX,MX-CHH
+Mexico | Coahuila,Mexico,Coahuila,MX,MX-COA
+Mexico | Colima,Mexico,Colima,MX,MX-COL
+Mexico | Durango,Mexico,Durango,MX,MX-DUR
+Mexico | Guanajuato,Mexico,Guanajuato,MX,MX-GUA
+Mexico | Guerrero,Mexico,Guerrero,MX,MX-GRO
+Mexico | Hidalgo,Mexico,Hidalgo,MX,MX-HID
+Mexico | Jalisco,Mexico,Jalisco,MX,MX-JAL
+Mexico | Mexico City,Mexico,Mexico City,MX,MX-CMX
+Mexico | Michoacán,Mexico,Michoacán,MX,MX-MIC
+Mexico | Morelos,Mexico,Morelos,MX,MX-MOR
+Mexico | Nayarit,Mexico,Nayarit,MX,MX-NAY
+Mexico | Nuevo Leon,Mexico,Nuevo Leon,MX,MX-NLE
+Mexico | Oaxaca,Mexico,Oaxaca,MX,MX-OAX
+Mexico | Puebla,Mexico,Puebla,MX,MX-PUE
+Mexico | Querétaro,Mexico,Querétaro,MX,MX-QUE
+Mexico | Quintana Roo,Mexico,Quintana Roo,MX,MX-ROO
+Mexico | Sinaloa,Mexico,Sinaloa,MX,MX-SIN
+Mexico | Sonora,Mexico,Sonora,MX,MX-SON
+Mexico | State of Mexico,Mexico,State of Mexico,MX,MX-MEX
+Mexico | Tabasco,Mexico,Tabasco,MX,MX-TAB
+Mexico | Tamaulipas,Mexico,Tamaulipas,MX,MX-TAM
+Mexico | Tlaxcala,Mexico,Tlaxcala,MX,MX-TLA
+Mexico | Veracruz,Mexico,Veracruz,MX,MX-VER
+Mexico | Yucatan,Mexico,Yucatan,MX,MX-YUC
+Mexico | Zacatecas,Mexico,Zacatecas,MX,MX-ZAC
+Mongolia | Ulaanbaatar,Mongolia,Ulaanbaatar,MN,MN-1
+Mozambique | Maputo,Mozambique,Maputo,MZ,MZ-MPM
+Namibia | Khomas Region,Namibia,Khomas Region,NA,NA-KH
+Netherlands | Drenthe,Netherlands,Drenthe,NL,NL-DR
+Netherlands | Flevoland,Netherlands,Flevoland,NL,NL-FL
+Netherlands | Friesland,Netherlands,Friesland,NL,NL-FY
+Netherlands | Gelderland,Netherlands,Gelderland,NL,NL-GE
+Netherlands | Groningen,Netherlands,Groningen,NL,NL-GR
+Netherlands | Limburg,Netherlands,Limburg,NL,NL-LI
+Netherlands | North Brabant,Netherlands,North Brabant,NL,NL-NB
+Netherlands | North Holland,Netherlands,North Holland,NL,NL-NH
+Netherlands | Overijssel,Netherlands,Overijssel,NL,NL-OV
+Netherlands | South Holland,Netherlands,South Holland,NL,NL-ZH
+Netherlands | Utrecht,Netherlands,Utrecht,NL,NL-UT
+Netherlands | Zeeland,Netherlands,Zeeland,NL,NL-ZE
+New Zealand | Auckland,New Zealand,Auckland,NZ,NZ-AUK
+New Zealand | Bay of Plenty,New Zealand,Bay of Plenty,NZ,NZ-BOP
+New Zealand | Canterbury,New Zealand,Canterbury,NZ,NZ-CAN
+New Zealand | Hawke's Bay,New Zealand,Hawke's Bay,NZ,NZ-HKB
+New Zealand | Manawatu-Wanganui,New Zealand,Manawatu-Wanganui,NZ,NZ-MWT
+New Zealand | Northland,New Zealand,Northland,NZ,NZ-NTL
+New Zealand | Otago,New Zealand,Otago,NZ,NZ-OTA
+New Zealand | Waikato,New Zealand,Waikato,NZ,NZ-WKO
+New Zealand | Wellington,New Zealand,Wellington,NZ,NZ-WGN
+Nicaragua | Chinandega,Nicaragua,Chinandega,NI,NI-CI
+Nicaragua | Leon,Nicaragua,Leon,NI,NI-LE
+Nicaragua | Managua,Nicaragua,Managua,NI,NI-MN
+Nicaragua | Masaya,Nicaragua,Masaya,NI,NI-MS
+Nigeria | Anambra,Nigeria,Anambra,NG,NG-AN
+Nigeria | Borno,Nigeria,Borno,NG,NG-BO
+Nigeria | Federal Capital Territory,Nigeria,Federal Capital Territory,NG,NG-FC
+Nigeria | Kaduna,Nigeria,Kaduna,NG,NG-KD
+Nigeria | Kano,Nigeria,Kano,NG,NG-KN
+Nigeria | Lagos,Nigeria,Lagos,NG,NG-LA
+Nigeria | Ogun State,Nigeria,Ogun State,NG,NG-OG
+Nigeria | Osun,Nigeria,Osun,NG,NG-OS
+Nigeria | Oyo,Nigeria,Oyo,NG,NG-OY
+Nigeria | Rivers,Nigeria,Rivers,NG,NG-RI
+Norway | Agder,Norway,Agder,NO,NO-42
+Norway | Innlandet,Norway,Innlandet,NO,NO-34
+Norway | Møre og Romsdal,Norway,Møre og Romsdal,NO,NO-15
+Norway | Nordland,Norway,Nordland,NO,NO-18
+Norway | Oslo,Norway,Oslo,NO,NO-03
+Norway | Rogaland,Norway,Rogaland,NO,NO-11
+Norway | Troms og Finnmark fylke,Norway,Troms og Finnmark fylke,NO,NO-54
+Norway | Trøndelag,Norway,Trøndelag,NO,NO-50
+Norway | Vestfold og Telemark,Norway,Vestfold og Telemark,NO,NO-38
+Norway | Vestland,Norway,Vestland,NO,NO-46
+Norway | Viken,Norway,Viken,NO,NO-30
+Oman | Al Batinah North Governorate,Oman,Al Batinah North Governorate,OM,OM-BS
+Oman | Dhofar Governorate,Oman,Dhofar Governorate,OM,OM-ZU
+Oman | Muscat Governorate,Oman,Muscat Governorate,OM,OM-MA
+Pakistan | Balochistan,Pakistan,Balochistan,PK,PK-BA
+Pakistan | Islamabad Capital Territory,Pakistan,Islamabad Capital Territory,PK,PK-IS
+Pakistan | Khyber Pakhtunkhwa,Pakistan,Khyber Pakhtunkhwa,PK,PK-KP
+Pakistan | Punjab,Pakistan,Punjab,PK,PK-PB
+Pakistan | Sindh,Pakistan,Sindh,PK,PK-SD
+Paraguay | Alto Paraná Department,Paraguay,Alto Paraná Department,PY,PY-10
+Paraguay | Asunción,Paraguay,Asunción,PY,PY-ASU
+Paraguay | Caaguazú Department,Paraguay,Caaguazú Department,PY,PY-5
+Paraguay | Central Department,Paraguay,Central Department,PY,PY-11
+Paraguay | Guairá Department,Paraguay,Guairá Department,PY,PY-4
+Paraguay | Itapúa Department,Paraguay,Itapúa Department,PY,PY-7
+Peru | Ancash,Peru,Ancash,PE,PE-ANC
+Peru | Apurimac,Peru,Apurimac,PE,PE-APU
+Peru | Arequipa,Peru,Arequipa,PE,PE-ARE
+Peru | Ayacucho,Peru,Ayacucho,PE,PE-AYA
+Peru | Cajamarca,Peru,Cajamarca,PE,PE-CAJ
+Peru | Callao Region,Peru,Callao Region,PE,PE-CAL
+Peru | Cusco,Peru,Cusco,PE,PE-CUS
+Peru | Huanuco,Peru,Huanuco,PE,PE-HUC
+Peru | Ica,Peru,Ica,PE,PE-ICA
+Peru | Junin,Peru,Junin,PE,PE-JUN
+Peru | La Libertad,Peru,La Libertad,PE,PE-LAL
+Peru | Lambayeque,Peru,Lambayeque,PE,PE-LAM
+Peru | Lima Province,Peru,Lima Province,PE,PE-LMA
+Peru | Lima Region,Peru,Lima Region,PE,PE-LIM
+Peru | Loreto,Peru,Loreto,PE,PE-LOR
+Peru | Moquegua,Peru,Moquegua,PE,PE-MOQ
+Peru | Piura,Peru,Piura,PE,PE-PIU
+Peru | Puno,Peru,Puno,PE,PE-PUN
+Peru | San Martin,Peru,San Martin,PE,PE-SAM
+Peru | Tacna,Peru,Tacna,PE,PE-TAC
+Peru | Tumbes,Peru,Tumbes,PE,PE-TUM
+Peru | Ucayali,Peru,Ucayali,PE,PE-UCA
+Philippines | Autonomous Region in Muslim Mindanao,Philippines,Autonomous Region in Muslim Mindanao,PH,PH-14
+Philippines | Bicol,Philippines,Bicol,PH,PH-05
+Philippines | Cagayan Valley,Philippines,Cagayan Valley,PH,PH-02
+Philippines | Calabarzon,Philippines,Calabarzon,PH,PH-40
+Philippines | Caraga,Philippines,Caraga,PH,PH-13
+Philippines | Central Luzon,Philippines,Central Luzon,PH,PH-03
+Philippines | Central Visayas,Philippines,Central Visayas,PH,PH-07
+Philippines | Cordillera Administrative Region,Philippines,Cordillera Administrative Region,PH,PH-15
+Philippines | Davao Region,Philippines,Davao Region,PH,PH-11
+Philippines | Eastern Visayas,Philippines,Eastern Visayas,PH,PH-08
+Philippines | Ilocos Region,Philippines,Ilocos Region,PH,PH-01
+Philippines | MIMAROPA,Philippines,MIMAROPA,PH,PH-41
+Philippines | National Capital Region,Philippines,National Capital Region,PH,PH-00
+Philippines | Northern Mindanao,Philippines,Northern Mindanao,PH,PH-10
+Philippines | SOCCSKSARGEN,Philippines,SOCCSKSARGEN,PH,PH-12
+Philippines | Western Visayas,Philippines,Western Visayas,PH,PH-06
+Philippines | Zamboanga Peninsula,Philippines,Zamboanga Peninsula,PH,PH-09
+Poland | Greater Poland Voivodeship,Poland,Greater Poland Voivodeship,PL,PL-30
+Poland | Kuyavian-Pomeranian Voivodeship,Poland,Kuyavian-Pomeranian Voivodeship,PL,PL-04
+Poland | Lesser Poland Voivodeship,Poland,Lesser Poland Voivodeship,PL,PL-12
+Poland | Lower Silesian Voivodeship,Poland,Lower Silesian Voivodeship,PL,PL-02
+Poland | Lublin Voivodeship,Poland,Lublin Voivodeship,PL,PL-06
+Poland | Lubusz Voivodeship,Poland,Lubusz Voivodeship,PL,PL-08
+Poland | Masovian Voivodeship,Poland,Masovian Voivodeship,PL,PL-14
+Poland | Opole Voivodeship,Poland,Opole Voivodeship,PL,PL-16
+Poland | Podkarpackie Voivodeship,Poland,Podkarpackie Voivodeship,PL,PL-18
+Poland | Podlaskie Voivodeship,Poland,Podlaskie Voivodeship,PL,PL-20
+Poland | Pomeranian Voivodeship,Poland,Pomeranian Voivodeship,PL,PL-22
+Poland | Silesian Voivodeship,Poland,Silesian Voivodeship,PL,PL-24
+Poland | Warmian-Masurian Voivodeship,Poland,Warmian-Masurian Voivodeship,PL,PL-28
+Poland | West Pomeranian Voivodeship,Poland,West Pomeranian Voivodeship,PL,PL-32
+Poland | Łódź Voivodeship,Poland,Łódź Voivodeship,PL,PL-10
+Poland | Świętokrzyskie Voivodeship,Poland,Świętokrzyskie Voivodeship,PL,PL-26
+Portugal | Aveiro District,Portugal,Aveiro District,PT,PT-01
+Portugal | Azores,Portugal,Azores,PT,PT-20
+Portugal | Braga,Portugal,Braga,PT,PT-03
+Portugal | Castelo Branco District,Portugal,Castelo Branco District,PT,PT-05
+Portugal | Coimbra District,Portugal,Coimbra District,PT,PT-06
+Portugal | Faro District,Portugal,Faro District,PT,PT-08
+Portugal | Leiria District,Portugal,Leiria District,PT,PT-10
+Portugal | Lisbon,Portugal,Lisbon,PT,PT-11
+Portugal | Madeira,Portugal,Madeira,PT,PT-30
+Portugal | Porto District,Portugal,Porto District,PT,PT-13
+Portugal | Santarém District,Portugal,Santarém District,PT,PT-14
+Portugal | Setubal,Portugal,Setubal,PT,PT-15
+Portugal | Vila Real District,Portugal,Vila Real District,PT,PT-17
+Portugal | Viseu District,Portugal,Viseu District,PT,PT-18
+Puerto Rico | Bayamón,Puerto Rico,Bayamón,PR,
+Puerto Rico | Carolina,Puerto Rico,Carolina,PR,
+Puerto Rico | San Juan,Puerto Rico,San Juan,PR,
+Romania | Alba County,Romania,Alba County,RO,RO-AB
+Romania | Arad County,Romania,Arad County,RO,RO-AR
+Romania | Argeș County,Romania,Argeș County,RO,RO-AG
+Romania | Bacău County,Romania,Bacău County,RO,RO-BC
+Romania | Bihor County,Romania,Bihor County,RO,RO-BH
+Romania | Botoșani County,Romania,Botoșani County,RO,RO-BT
+Romania | Brașov County,Romania,Brașov County,RO,RO-BV
+Romania | Brăila County,Romania,Brăila County,RO,RO-BR
+Romania | Bucharest,Romania,Bucharest,RO,RO-B
+Romania | Buzău County,Romania,Buzău County,RO,RO-BZ
+Romania | Caraș-Severin County,Romania,Caraș-Severin County,RO,RO-CS
+Romania | Cluj County,Romania,Cluj County,RO,RO-CJ
+Romania | Constanța County,Romania,Constanța County,RO,RO-CT
+Romania | Călărași County,Romania,Călărași County,RO,RO-CL
+Romania | Dolj County,Romania,Dolj County,RO,RO-DJ
+Romania | Dâmbovița County,Romania,Dâmbovița County,RO,RO-DB
+Romania | Galați,Romania,Galați,RO,RO-GL
+Romania | Giurgiu County,Romania,Giurgiu County,RO,RO-GR
+Romania | Gorj County,Romania,Gorj County,RO,RO-GJ
+Romania | Harghita County,Romania,Harghita County,RO,RO-HR
+Romania | Hunedoara County,Romania,Hunedoara County,RO,RO-HD
+Romania | Ialomița County,Romania,Ialomița County,RO,RO-IL
+Romania | Iași County,Romania,Iași County,RO,RO-IS
+Romania | Ilfov County,Romania,Ilfov County,RO,RO-IF
+Romania | Maramureș County,Romania,Maramureș County,RO,RO-MM
+Romania | Mehedinți County,Romania,Mehedinți County,RO,RO-MH
+Romania | Mureș County,Romania,Mureș County,RO,RO-MS
+Romania | Neamț County,Romania,Neamț County,RO,RO-NT
+Romania | Olt County,Romania,Olt County,RO,RO-OT
+Romania | Prahova,Romania,Prahova,RO,RO-PH
+Romania | Satu Mare County,Romania,Satu Mare County,RO,RO-SM
+Romania | Sibiu,Romania,Sibiu,RO,RO-SB
+Romania | Suceava County,Romania,Suceava County,RO,RO-SV
+Romania | Sălaj,Romania,Sălaj,RO,RO-SJ
+Romania | Teleorman County,Romania,Teleorman County,RO,RO-TR
+Romania | Timiș County,Romania,Timiș County,RO,RO-TM
+Romania | Tulcea County,Romania,Tulcea County,RO,RO-TL
+Romania | Vaslui County,Romania,Vaslui County,RO,RO-VS
+Romania | Vrancea County,Romania,Vrancea County,RO,RO-VN
+Romania | Vâlcea County,Romania,Vâlcea County,RO,RO-VL
+Rwanda | Kigali City,Rwanda,Kigali City,RW,RW-01
+Saudi Arabia | Al Jowf Province,Saudi Arabia,Al Jowf Province,SA,SA-12
+Saudi Arabia | Al Madinah Province,Saudi Arabia,Al Madinah Province,SA,SA-03
+Saudi Arabia | Al Qassim Province,Saudi Arabia,Al Qassim Province,SA,SA-05
+Saudi Arabia | Aseer Province,Saudi Arabia,Aseer Province,SA,SA-14
+Saudi Arabia | Eastern Province,Saudi Arabia,Eastern Province,SA,SA-04
+Saudi Arabia | Hail Province,Saudi Arabia,Hail Province,SA,SA-06
+Saudi Arabia | Jazan Province,Saudi Arabia,Jazan Province,SA,SA-09
+Saudi Arabia | Makkah Province,Saudi Arabia,Makkah Province,SA,SA-02
+Saudi Arabia | Riyadh Province,Saudi Arabia,Riyadh Province,SA,SA-01
+Senegal | Dakar Region,Senegal,Dakar Region,SN,SN-DK
+Slovakia | Banská Bystrica Region,Slovakia,Banská Bystrica Region,SK,SK-BC
+Slovakia | Bratislava Region,Slovakia,Bratislava Region,SK,SK-BL
+Slovakia | Nitra Region,Slovakia,Nitra Region,SK,SK-NI
+Slovakia | Prešov Region,Slovakia,Prešov Region,SK,SK-PV
+Slovakia | Trenčín Region,Slovakia,Trenčín Region,SK,SK-TC
+Slovakia | Žilina Region,Slovakia,Žilina Region,SK,SK-ZI
+Slovenia | Administrative unit Maribor,Slovenia,Administrative unit Maribor,SI,
+Slovenia | Ljubljana,Slovenia,Ljubljana,SI,
+South Africa | Eastern Cape,South Africa,Eastern Cape,ZA,ZA-EC
+South Africa | Free State,South Africa,Free State,ZA,ZA-FS
+South Africa | Gauteng,South Africa,Gauteng,ZA,ZA-GP
+South Africa | KwaZulu-Natal,South Africa,KwaZulu-Natal,ZA,ZA-KZN
+South Africa | Limpopo,South Africa,Limpopo,ZA,ZA-LP
+South Africa | Mpumalanga,South Africa,Mpumalanga,ZA,ZA-MP
+South Africa | North West,South Africa,North West,ZA,ZA-NW
+South Africa | Western Cape,South Africa,Western Cape,ZA,ZA-WC
+Spain | Andalusia,Spain,Andalusia,ES,ES-AN
+Spain | Aragon,Spain,Aragon,ES,ES-AR
+Spain | Asturias,Spain,Asturias,ES,ES-AS
+Spain | Balearic Islands,Spain,Balearic Islands,ES,ES-IB
+Spain | Basque Country,Spain,Basque Country,ES,ES-PV
+Spain | Canary Islands,Spain,Canary Islands,ES,ES-CN
+Spain | Cantabria,Spain,Cantabria,ES,ES-CB
+Spain | Castile and León,Spain,Castile and León,ES,ES-CL
+Spain | Castile-La Mancha,Spain,Castile-La Mancha,ES,ES-CM
+Spain | Catalonia,Spain,Catalonia,ES,ES-CT
+Spain | Community of Madrid,Spain,Community of Madrid,ES,ES-MD
+Spain | Extremadura,Spain,Extremadura,ES,ES-EX
+Spain | Galicia,Spain,Galicia,ES,ES-GA
+Spain | La Rioja,Spain,La Rioja,ES,ES-RI
+Spain | Navarre,Spain,Navarre,ES,ES-NC
+Spain | Region of Murcia,Spain,Region of Murcia,ES,ES-MC
+Spain | Valencian Community,Spain,Valencian Community,ES,ES-VC
+Sweden | Dalarna County,Sweden,Dalarna County,SE,SE-W
+Sweden | Skåne County,Sweden,Skåne County,SE,SE-M
+Sweden | Stockholm County,Sweden,Stockholm County,SE,SE-AB
+Sweden | Varmland County,Sweden,Varmland County,SE,SE-S
+Sweden | Västerbotten County,Sweden,Västerbotten County,SE,SE-AC
+Sweden | Västra Götaland County,Sweden,Västra Götaland County,SE,SE-O
+Sweden | Östergötland County,Sweden,Östergötland County,SE,SE-E
+Switzerland | Aargau,Switzerland,Aargau,CH,CH-AG
+Switzerland | Basel City,Switzerland,Basel City,CH,CH-BS
+Switzerland | Canton of Bern,Switzerland,Canton of Bern,CH,CH-BE
+Switzerland | Canton of Lucerne,Switzerland,Canton of Lucerne,CH,CH-LU
+Switzerland | Geneva,Switzerland,Geneva,CH,CH-GE
+Switzerland | Grisons,Switzerland,Grisons,CH,CH-GR
+Switzerland | Ticino,Switzerland,Ticino,CH,CH-TI
+Switzerland | Valais,Switzerland,Valais,CH,CH-VS
+Switzerland | Vaud,Switzerland,Vaud,CH,CH-VD
+Switzerland | Zurich,Switzerland,Zurich,CH,CH-ZH
+Tanzania | Arusha Region,Tanzania,Arusha Region,TZ,TZ-01
+Tanzania | Dar es Salam,Tanzania,Dar es Salam,TZ,
+Tanzania | Mjini Magharibi Region,Tanzania,Mjini Magharibi Region,TZ,TZ-15
+Tanzania | Mwanza Region,Tanzania,Mwanza Region,TZ,TZ-18
+The Bahamas | New Providence,The Bahamas,New Providence,BS,
+Togo | Maritime Region,Togo,Maritime Region,TG,TG-M
+Turkey | Adana,Turkey,Adana,TR,TR-01
+Turkey | Adıyaman,Turkey,Adıyaman,TR,TR-02
+Turkey | Afyonkarahisar,Turkey,Afyonkarahisar,TR,TR-03
+Turkey | Aksaray,Turkey,Aksaray,TR,TR-68
+Turkey | Amasya,Turkey,Amasya,TR,TR-05
+Turkey | Ankara,Turkey,Ankara,TR,TR-06
+Turkey | Antalya,Turkey,Antalya,TR,TR-07
+Turkey | Aydın,Turkey,Aydın,TR,TR-09
+Turkey | Balıkesir,Turkey,Balıkesir,TR,TR-10
+Turkey | Bolu,Turkey,Bolu,TR,TR-14
+Turkey | Bursa,Turkey,Bursa,TR,TR-16
+Turkey | Denizli,Turkey,Denizli,TR,TR-20
+Turkey | Diyarbakır,Turkey,Diyarbakır,TR,TR-21
+Turkey | Düzce,Turkey,Düzce,TR,TR-81
+Turkey | Edirne,Turkey,Edirne,TR,TR-22
+Turkey | Elazığ,Turkey,Elazığ,TR,TR-23
+Turkey | Erzurum,Turkey,Erzurum,TR,TR-25
+Turkey | Eskişehir,Turkey,Eskişehir,TR,TR-26
+Turkey | Gaziantep,Turkey,Gaziantep,TR,TR-27
+Turkey | Giresun,Turkey,Giresun,TR,TR-28
+Turkey | Hatay,Turkey,Hatay,TR,TR-31
+Turkey | Isparta,Turkey,Isparta,TR,TR-32
+Turkey | Kahramanmaraş,Turkey,Kahramanmaraş,TR,TR-46
+Turkey | Kastamonu,Turkey,Kastamonu,TR,TR-37
+Turkey | Kayseri,Turkey,Kayseri,TR,TR-38
+Turkey | Kocaeli,Turkey,Kocaeli,TR,TR-41
+Turkey | Konya,Turkey,Konya,TR,TR-42
+Turkey | Kütahya,Turkey,Kütahya,TR,TR-43
+Turkey | Kırklareli,Turkey,Kırklareli,TR,TR-39
+Turkey | Kırşehir,Turkey,Kırşehir,TR,TR-40
+Turkey | Malatya,Turkey,Malatya,TR,TR-44
+Turkey | Manisa,Turkey,Manisa,TR,TR-45
+Turkey | Mardin,Turkey,Mardin,TR,TR-47
+Turkey | Mersin,Turkey,Mersin,TR,TR-33
+Turkey | Muğla,Turkey,Muğla,TR,TR-48
+Turkey | Nevşehir,Turkey,Nevşehir,TR,TR-50
+Turkey | Niğde,Turkey,Niğde,TR,TR-51
+Turkey | Ordu,Turkey,Ordu,TR,TR-52
+Turkey | Osmaniye,Turkey,Osmaniye,TR,TR-80
+Turkey | Sakarya,Turkey,Sakarya,TR,TR-54
+Turkey | Samsun,Turkey,Samsun,TR,TR-55
+Turkey | Sivas,Turkey,Sivas,TR,TR-58
+Turkey | Tekirdağ,Turkey,Tekirdağ,TR,TR-59
+Turkey | Tokat,Turkey,Tokat,TR,TR-60
+Turkey | Trabzon,Turkey,Trabzon,TR,TR-61
+Turkey | Uşak,Turkey,Uşak,TR,TR-64
+Turkey | Van,Turkey,Van,TR,TR-65
+Turkey | Yalova,Turkey,Yalova,TR,TR-77
+Turkey | Yozgat,Turkey,Yozgat,TR,TR-66
+Turkey | Zonguldak,Turkey,Zonguldak,TR,TR-67
+Turkey | Çanakkale,Turkey,Çanakkale,TR,TR-17
+Turkey | Çorum,Turkey,Çorum,TR,TR-19
+Turkey | İstanbul,Turkey,İstanbul,TR,TR-34
+Turkey | İzmir,Turkey,İzmir,TR,TR-35
+Turkey | Şanlıurfa,Turkey,Şanlıurfa,TR,TR-63
+Uganda | Central Region,Uganda,Central Region,UG,UG-C
+United Arab Emirates | Abu Dhabi,United Arab Emirates,Abu Dhabi,AE,AE-AZ
+United Arab Emirates | Ajman,United Arab Emirates,Ajman,AE,AE-AJ
+United Arab Emirates | Dubai,United Arab Emirates,Dubai,AE,AE-DU
+United Arab Emirates | Ras al Khaimah,United Arab Emirates,Ras al Khaimah,AE,AE-RK
+United Arab Emirates | Sharjah,United Arab Emirates,Sharjah,AE,AE-SH
+United Kingdom | Aberdeen City,United Kingdom,Aberdeen City,GB,GB-ABE
+United Kingdom | Aberdeenshire,United Kingdom,Aberdeenshire,GB,GB-ABD
+United Kingdom | Argyll and Bute Council,United Kingdom,Argyll and Bute Council,GB,GB-AGB
+United Kingdom | Bath and North East Somerset,United Kingdom,Bath and North East Somerset,GB,GB-BAS
+United Kingdom | Belfast,United Kingdom,Belfast,GB,GB-BFS
+United Kingdom | Brighton and Hove,United Kingdom,Brighton and Hove,GB,GB-BNH
+United Kingdom | Bristol City,United Kingdom,Bristol City,GB,GB-BST
+United Kingdom | Buckinghamshire,United Kingdom,Buckinghamshire,GB,GB-BKM
+United Kingdom | Cambridgeshire,United Kingdom,Cambridgeshire,GB,GB-CAM
+United Kingdom | Cardiff,United Kingdom,Cardiff,GB,GB-CRF
+United Kingdom | Carmarthenshire,United Kingdom,Carmarthenshire,GB,GB-CMN
+United Kingdom | Central Bedfordshire,United Kingdom,Central Bedfordshire,GB,GB-CBF
+United Kingdom | Cheshire East,United Kingdom,Cheshire East,GB,GB-CHE
+United Kingdom | Cheshire West and Chester,United Kingdom,Cheshire West and Chester,GB,GB-CHW
+United Kingdom | Conwy Principal Area,United Kingdom,Conwy Principal Area,GB,GB-CWY
+United Kingdom | Cornwall,United Kingdom,Cornwall,GB,GB-CON
+United Kingdom | County Durham,United Kingdom,County Durham,GB,GB-DUR
+United Kingdom | Cumbria,United Kingdom,Cumbria,GB,GB-CMA
+United Kingdom | Denbighshire,United Kingdom,Denbighshire,GB,GB-DEN
+United Kingdom | Derbyshire,United Kingdom,Derbyshire,GB,GB-DBY
+United Kingdom | Derry and Strabane,United Kingdom,Derry and Strabane,GB,GB-DRS
+United Kingdom | Devon,United Kingdom,Devon,GB,GB-DEV
+United Kingdom | Dorset,United Kingdom,Dorset,GB,GB-DOR
+United Kingdom | Dumfries and Galloway,United Kingdom,Dumfries and Galloway,GB,GB-DGY
+United Kingdom | East Riding of Yorkshire,United Kingdom,East Riding of Yorkshire,GB,GB-ERY
+United Kingdom | East Sussex,United Kingdom,East Sussex,GB,GB-ESX
+United Kingdom | Edinburgh,United Kingdom,Edinburgh,GB,GB-EDH
+United Kingdom | Essex,United Kingdom,Essex,GB,GB-ESS
+United Kingdom | Fife,United Kingdom,Fife,GB,GB-FIF
+United Kingdom | Glasgow City,United Kingdom,Glasgow City,GB,GB-GLG
+United Kingdom | Gloucestershire,United Kingdom,Gloucestershire,GB,GB-GLS
+United Kingdom | Greater London,United Kingdom,Greater London,GB,
+United Kingdom | Greater Manchester,United Kingdom,Greater Manchester,GB,
+United Kingdom | Gwynedd,United Kingdom,Gwynedd,GB,GB-GWN
+United Kingdom | Hampshire,United Kingdom,Hampshire,GB,GB-HAM
+United Kingdom | Herefordshire,United Kingdom,Herefordshire,GB,GB-HEF
+United Kingdom | Hertfordshire,United Kingdom,Hertfordshire,GB,GB-HRT
+United Kingdom | Highland Council,United Kingdom,Highland Council,GB,GB-HLD
+United Kingdom | Isle of Wight,United Kingdom,Isle of Wight,GB,GB-IOW
+United Kingdom | Kent,United Kingdom,Kent,GB,GB-KEN
+United Kingdom | Kingston upon Hull,United Kingdom,Kingston upon Hull,GB,GB-KHL
+United Kingdom | Lancashire,United Kingdom,Lancashire,GB,GB-LAN
+United Kingdom | Leicester,United Kingdom,Leicester,GB,GB-LCE
+United Kingdom | Leicestershire,United Kingdom,Leicestershire,GB,GB-LEC
+United Kingdom | Lincolnshire,United Kingdom,Lincolnshire,GB,GB-LIN
+United Kingdom | Medway,United Kingdom,Medway,GB,GB-MDW
+United Kingdom | Merseyside,United Kingdom,Merseyside,GB,
+United Kingdom | Milton Keynes,United Kingdom,Milton Keynes,GB,GB-MIK
+United Kingdom | Norfolk,United Kingdom,Norfolk,GB,GB-NFK
+United Kingdom | North East Lincolnshire,United Kingdom,North East Lincolnshire,GB,GB-NEL
+United Kingdom | North Lincolnshire,United Kingdom,North Lincolnshire,GB,GB-NLN
+United Kingdom | North Somerset,United Kingdom,North Somerset,GB,GB-NSM
+United Kingdom | North Yorkshire,United Kingdom,North Yorkshire,GB,GB-NYK
+United Kingdom | Northamptonshire,United Kingdom,Northamptonshire,GB,GB-NTH
+United Kingdom | Northumberland,United Kingdom,Northumberland,GB,GB-NBL
+United Kingdom | Nottingham,United Kingdom,Nottingham,GB,GB-NGM
+United Kingdom | Nottinghamshire,United Kingdom,Nottinghamshire,GB,GB-NTT
+United Kingdom | Oxfordshire,United Kingdom,Oxfordshire,GB,GB-OXF
+United Kingdom | Pembrokeshire,United Kingdom,Pembrokeshire,GB,GB-PEM
+United Kingdom | Perth and Kinross,United Kingdom,Perth and Kinross,GB,GB-PKN
+United Kingdom | Plymouth,United Kingdom,Plymouth,GB,GB-PLY
+United Kingdom | Powys,United Kingdom,Powys,GB,GB-POW
+United Kingdom | Rhondda Cynon Taff,United Kingdom,Rhondda Cynon Taff,GB,GB-RCT
+United Kingdom | Scottish Borders,United Kingdom,Scottish Borders,GB,GB-SCB
+United Kingdom | Shropshire,United Kingdom,Shropshire,GB,
+United Kingdom | Somerset,United Kingdom,Somerset,GB,GB-SOM
+United Kingdom | South Gloucestershire,United Kingdom,South Gloucestershire,GB,GB-SGC
+United Kingdom | South Lanarkshire,United Kingdom,South Lanarkshire,GB,GB-SLK
+United Kingdom | South Yorkshire,United Kingdom,South Yorkshire,GB,
+United Kingdom | Southampton,United Kingdom,Southampton,GB,GB-STH
+United Kingdom | Southend-on-Sea,United Kingdom,Southend-on-Sea,GB,GB-SOS
+United Kingdom | Staffordshire,United Kingdom,Staffordshire,GB,GB-STS
+United Kingdom | Stockton-on-Tees,United Kingdom,Stockton-on-Tees,GB,GB-STT
+United Kingdom | Stoke-on-Trent,United Kingdom,Stoke-on-Trent,GB,GB-STE
+United Kingdom | Suffolk,United Kingdom,Suffolk,GB,GB-SFK
+United Kingdom | Surrey,United Kingdom,Surrey,GB,GB-SRY
+United Kingdom | Swansea,United Kingdom,Swansea,GB,GB-SWA
+United Kingdom | Torbay,United Kingdom,Torbay,GB,GB-TOB
+United Kingdom | Tyne and Wear,United Kingdom,Tyne and Wear,GB,
+United Kingdom | Vale of Glamorgan,United Kingdom,Vale of Glamorgan,GB,GB-VGL
+United Kingdom | Warwickshire,United Kingdom,Warwickshire,GB,GB-WAR
+United Kingdom | West Berkshire,United Kingdom,West Berkshire,GB,GB-WBK
+United Kingdom | West Midlands,United Kingdom,West Midlands,GB,
+United Kingdom | West Sussex,United Kingdom,West Sussex,GB,GB-WSX
+United Kingdom | West Yorkshire,United Kingdom,West Yorkshire,GB,
+United Kingdom | Wiltshire,United Kingdom,Wiltshire,GB,GB-WIL
+United Kingdom | Windsor and Maidenhead,United Kingdom,Windsor and Maidenhead,GB,GB-WNM
+United Kingdom | Worcestershire,United Kingdom,Worcestershire,GB,GB-WOR
+United Kingdom | York,United Kingdom,York,GB,GB-YOR
+United States | Alabama,United States,Alabama,US,US-AL
+United States | Alaska,United States,Alaska,US,US-AK
+United States | Arizona,United States,Arizona,US,US-AZ
+United States | Arkansas,United States,Arkansas,US,US-AR
+United States | California,United States,California,US,US-CA
+United States | Colorado,United States,Colorado,US,US-CO
+United States | Connecticut,United States,Connecticut,US,US-CT
+United States | Delaware,United States,Delaware,US,US-DE
+United States | District of Columbia,United States,District of Columbia,US,US-DC
+United States | Florida,United States,Florida,US,US-FL
+United States | Georgia,United States,Georgia,US,US-GA
+United States | Hawaii,United States,Hawaii,US,US-HI
+United States | Idaho,United States,Idaho,US,US-ID
+United States | Illinois,United States,Illinois,US,US-IL
+United States | Indiana,United States,Indiana,US,US-IN
+United States | Iowa,United States,Iowa,US,US-IA
+United States | Kansas,United States,Kansas,US,US-KS
+United States | Kentucky,United States,Kentucky,US,US-KY
+United States | Louisiana,United States,Louisiana,US,US-LA
+United States | Maine,United States,Maine,US,US-ME
+United States | Maryland,United States,Maryland,US,US-MD
+United States | Massachusetts,United States,Massachusetts,US,US-MA
+United States | Michigan,United States,Michigan,US,US-MI
+United States | Minnesota,United States,Minnesota,US,US-MN
+United States | Mississippi,United States,Mississippi,US,US-MS
+United States | Missouri,United States,Missouri,US,US-MO
+United States | Montana,United States,Montana,US,US-MT
+United States | Nebraska,United States,Nebraska,US,US-NE
+United States | Nevada,United States,Nevada,US,US-NV
+United States | New Hampshire,United States,New Hampshire,US,US-NH
+United States | New Jersey,United States,New Jersey,US,US-NJ
+United States | New Mexico,United States,New Mexico,US,US-NM
+United States | New York,United States,New York,US,US-NY
+United States | North Carolina,United States,North Carolina,US,US-NC
+United States | North Dakota,United States,North Dakota,US,US-ND
+United States | Ohio,United States,Ohio,US,US-OH
+United States | Oklahoma,United States,Oklahoma,US,US-OK
+United States | Oregon,United States,Oregon,US,US-OR
+United States | Pennsylvania,United States,Pennsylvania,US,US-PA
+United States | Rhode Island,United States,Rhode Island,US,US-RI
+United States | South Carolina,United States,South Carolina,US,US-SC
+United States | South Dakota,United States,South Dakota,US,US-SD
+United States | Tennessee,United States,Tennessee,US,US-TN
+United States | Texas,United States,Texas,US,US-TX
+United States | Utah,United States,Utah,US,US-UT
+United States | Vermont,United States,Vermont,US,US-VT
+United States | Virginia,United States,Virginia,US,US-VA
+United States | Washington,United States,Washington,US,US-WA
+United States | West Virginia,United States,West Virginia,US,US-WV
+United States | Wisconsin,United States,Wisconsin,US,US-WI
+United States | Wyoming,United States,Wyoming,US,US-WY
+Uruguay | Canelones Department,Uruguay,Canelones Department,UY,UY-CA
+Uruguay | Cerro Largo Department,Uruguay,Cerro Largo Department,UY,UY-CL
+Uruguay | Colonia Department,Uruguay,Colonia Department,UY,UY-CO
+Uruguay | Florida Department,Uruguay,Florida Department,UY,UY-FD
+Uruguay | Maldonado Department,Uruguay,Maldonado Department,UY,UY-MA
+Uruguay | Montevideo Department,Uruguay,Montevideo Department,UY,UY-MO
+Uruguay | Paysandú Department,Uruguay,Paysandú Department,UY,UY-PA
+Uruguay | Rocha Department,Uruguay,Rocha Department,UY,UY-RO
+Uruguay | Río Negro Department,Uruguay,Río Negro Department,UY,UY-RN
+Uruguay | Salto Department,Uruguay,Salto Department,UY,UY-SA
+Uruguay | San José Department,Uruguay,San José Department,UY,UY-SJ
+Uruguay | Tacuarembó Department,Uruguay,Tacuarembó Department,UY,UY-TA
+Zimbabwe | Harare Province,Zimbabwe,Harare Province,ZW,ZW-HA

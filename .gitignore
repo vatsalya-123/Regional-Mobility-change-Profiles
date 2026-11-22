@@ -1,6 +1,9 @@
 
 .venv/
 data/*
+!data/boundaries/
+data/boundaries/*
+!data/boundaries/india_full.geojson
 !data/processed/
 data/processed/*
 !data/processed/national_daily_clean.parquet
@@ -12,6 +15,9 @@ data/processed/*
 !data/processed/india_districts_features_region.parquet
 !data/processed/global_states_features_region.parquet
 !data/processed/national_region_meta.csv
+!data/processed/global_states_region_meta.csv
+!data/processed/india_states_region_meta.csv
+!data/processed/india_districts_region_meta.csv
 __pycache__/
 *.pyc
 .env
@@ -19,3 +25,4 @@ __pycache__/
 *.bak
 *-backup
 .pytest_cache/
+india-geojson-assets.zip

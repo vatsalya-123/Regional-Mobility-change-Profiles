@@ -1,319 +1,211 @@
+"""Visual system for the Regional Mobility Change Profiles dashboard.
 
-"""Shared visual theme for the mobility research dashboard."""
+Presentation only: colours, typography, spacing and the Plotly template.
+The stylesheet lives in app/theme.css; this module injects it with the
+active theme's colour tokens.
 
-from copy import deepcopy
+Design direction: an editorial research brief. Warm paper light theme,
+slate-blue dark theme, serif display headings, humanist sans body text,
+and a restrained petrol accent. All fonts are system fonts, so nothing
+depends on a network request.
+"""
+
+from pathlib import Path
 
 import plotly.io as pio
 import streamlit as st
 
+# System-only faces: Iowan/Palatino/Georgia resolve on macOS and Windows,
+# the generic serif on Linux. No webfont is requested or assumed.
+DISPLAY_FONT = ('"Iowan Old Style", "Palatino Linotype", Palatino, '
+                '"Book Antiqua", Georgia, "Times New Roman", serif')
+FONT_STACK = ('"Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, '
+              '"Helvetica Neue", Arial, sans-serif')
+MONO_FONT = ('"Cascadia Mono", "SF Mono", "Roboto Mono", Consolas, '
+             '"Liberation Mono", monospace')
 
-# ------------------------------------------------------------
-# Design tokens
-# ------------------------------------------------------------
-
-BACKGROUND = "#0B1220"
-SURFACE = "#142235"
-SURFACE_ALT = "#18283A"
-TEXT = "#E8EEF5"
-MUTED = "#A8B6C7"
-ACCENT = "#55C6B3"
-BORDER = "rgba(148, 172, 196, 0.18)"
-
-
-# Colour-blind-conscious palette for analytical clusters.
-CLUSTER_COLORS = [
-    "#55C6B3",  # Cluster 0 ? Teal
-    "#E6A23C",  # Cluster 1 ? Warm amber
-    "#6FA8DC",  # Cluster 2 ? Muted blue
-    "#CC79A7",  # Cluster 3 ? Soft rose
-    "#009E73",  # Cluster 4 ? Green
-    "#A8B6C7",  # Cluster 5 ? Slate
-    "#8DA0CB",  # Cluster 6 ? Periwinkle
-    "#D5A6BD",  # Cluster 7 ? Dusty pink
+# Analytical cluster palette: petrol, terracotta, indigo, ochre, plum,
+# moss, steel and stone. Muted enough for print, distinct in a legend.
+CLUSTER_COLORS_LIGHT = [
+    "#0F6B62", "#B0563B", "#4C5F9E", "#8A6A1F",
+    "#7C4A63", "#4F7A52", "#2F6E8C", "#6B6F76",
+]
+CLUSTER_COLORS_DARK = [
+    "#5FBFAF", "#D98A63", "#8C9BD4", "#C7A75A",
+    "#C08CA4", "#86B58A", "#6FB4D0", "#A9B0B8",
 ]
 
-
-# Separate semantic palette for temporal behavioural states.
-STATE_COLORS = {
-    "Suppressed": "#56B4E9",
-    "Near baseline": "#A8B6C7",
-    "Above baseline": "#E69F00",
-    "Well above baseline": "#009E73",
+# Semantic palette for the temporal behavioural states, ordered from the most
+# suppressed activity to the most active.
+STATE_COLORS_LIGHT = {
+    "Suppressed": "#4C5F9E",
+    "Near baseline": "#8A8577",
+    "Above baseline": "#4F7A52",
+    "Well above baseline": "#0F6B62",
+}
+STATE_COLORS_DARK = {
+    "Suppressed": "#8C9BD4",
+    "Near baseline": "#B3AD9C",
+    "Above baseline": "#86B58A",
+    "Well above baseline": "#5FBFAF",
 }
 
+SERIES_COLORS_LIGHT = ["#0F6B62", "#4C5F9E", "#B0563B",
+                       "#8A6A1F", "#2F6E8C", "#7C4A63"]
+SERIES_COLORS_DARK = ["#5FBFAF", "#8C9BD4", "#D98A63",
+                      "#C7A75A", "#6FB4D0", "#C08CA4"]
 
-# General analytical series colours.
-SERIES_COLORS = [
-    "#55C6B3",
-    "#56B4E9",
-    "#E69F00",
-    "#CC79A7",
-    "#D55E00",
-    "#009E73",
-]
+# Diverging scale for standardised values: steel blue to terracotta with a
+# neutral midpoint that matches each theme's card surface.
+DIVERGING_LIGHT = [[0, "#3E5C76"], [0.25, "#9FB1C0"],
+                   [0.5, "#FAF8F3"], [0.75, "#DCA48E"], [1, "#A9502F"]]
+DIVERGING_DARK = [[0, "#5E86A8"], [0.25, "#40566B"],
+                  [0.5, "#242E3A"], [0.75, "#8A5A48"], [1, "#C77E60"]]
 
+# Backwards-compatible aliases (dark palette, the historical default).
+CLUSTER_COLORS = CLUSTER_COLORS_DARK
+SERIES_COLORS = SERIES_COLORS_DARK
+STATE_COLORS = STATE_COLORS_DARK
 
-# ------------------------------------------------------------
-# Shared Plotly theme
-# ------------------------------------------------------------
+_TOKENS_LIGHT = {
+    "bg": "#F3F1EC",
+    "surface": "#FFFFFF",
+    "surface_alt": "#EBE7DE",
+    "sidebar": "#E9E5DC",
+    "text": "#1C2430",
+    "muted": "#5D6873",
+    "accent": "#0F6B62",
+    "accent_soft": "rgba(15, 107, 98, 0.08)",
+    "accent_border": "rgba(15, 107, 98, 0.30)",
+    "border": "#DCD6C9",
+    "grid": "#E6E1D6",
+    "plot": "#FFFFFF",
+    "hover": "#FFFFFF",
+    "scheme": "light",
+}
 
-# Make an independent copy rather than modifying Plotly's
-# built-in template.
-mobility_template = deepcopy(pio.templates["plotly_dark"])
+_TOKENS_DARK = {
+    "bg": "#1B232D",
+    "surface": "#242E3A",
+    "surface_alt": "#2C3743",
+    "sidebar": "#161D26",
+    "text": "#E9EEF3",
+    "muted": "#A7B4C2",
+    "accent": "#6FC7B8",
+    "accent_soft": "rgba(111, 199, 184, 0.10)",
+    "accent_border": "rgba(111, 199, 184, 0.38)",
+    "border": "#3A4756",
+    "grid": "#333F4C",
+    "plot": "#242E3A",
+    "hover": "#2C3743",
+    "scheme": "dark",
+}
 
-mobility_template.layout.update(
-    paper_bgcolor="rgba(0,0,0,0)",
-    plot_bgcolor="rgba(0,0,0,0)",
-    font=dict(
-        family="Inter, Segoe UI, sans-serif",
-        color=TEXT,
-        size=13,
-    ),
-    title=dict(
-        font=dict(size=18, color=TEXT),
-        x=0,
-        xanchor="left",
-    ),
-    xaxis=dict(
-        gridcolor="rgba(168,182,199,0.14)",
-        zerolinecolor="rgba(168,182,199,0.25)",
-        linecolor="rgba(168,182,199,0.20)",
-        tickfont=dict(color=MUTED),
-        title_font=dict(color=TEXT),
-    ),
-    yaxis=dict(
-        gridcolor="rgba(168,182,199,0.14)",
-        zerolinecolor="rgba(168,182,199,0.25)",
-        linecolor="rgba(168,182,199,0.20)",
-        tickfont=dict(color=MUTED),
-        title_font=dict(color=TEXT),
-    ),
-    legend=dict(
-        bgcolor="rgba(0,0,0,0)",
-        font=dict(color=TEXT),
-    ),
-    colorway=SERIES_COLORS,
-    margin=dict(l=24, r=24, t=55, b=40),
-    hoverlabel=dict(
-        bgcolor=SURFACE_ALT,
-        bordercolor=BORDER,
-        font=dict(color=TEXT),
-    ),
-    geo=dict(
-        bgcolor="rgba(0,0,0,0)",
-    ),
-)
+_MAP_COLORS = {
+    "light": {"land": "#E7E2D6", "ocean": "#F3F1EC",
+              "boundary": "#C9C1B1", "no_data": "#DDD7C9"},
+    "dark": {"land": "#222C37", "ocean": "#1B232D",
+             "boundary": "#46535F", "no_data": "#333E4A"},
+}
 
-pio.templates["mobility_dark"] = mobility_template
-pio.templates.default = "mobility_dark"
+_CSS_PATH = Path(__file__).with_name("theme.css")
 
 
-# ------------------------------------------------------------
-# Streamlit interface styling
-# ------------------------------------------------------------
+def palette(theme="Light"):
+    """Return the colour sets for the requested appearance."""
+    light = theme != "Dark"
+    return {
+        "cluster": CLUSTER_COLORS_LIGHT if light else CLUSTER_COLORS_DARK,
+        "state": STATE_COLORS_LIGHT if light else STATE_COLORS_DARK,
+        "series": SERIES_COLORS_LIGHT if light else SERIES_COLORS_DARK,
+    }
 
-def apply_dashboard_style():
-    """Apply the shared research dashboard styling."""
 
-    st.markdown(
-        """
-        <style>
-        :root {
-            --mobility-bg: #0B1220;
-            --mobility-surface: #142235;
-            --mobility-surface-alt: #18283A;
-            --mobility-border: rgba(148, 172, 196, 0.18);
-            --mobility-text: #E8EEF5;
-            --mobility-muted: #A8B6C7;
-            --mobility-accent: #55C6B3;
-        }
+def _build_template(colors, light):
+    from copy import deepcopy
 
-        /* Main application background */
-        .stApp {
-            background:
-                radial-gradient(
-                    ellipse at 8% 0%,
-                    rgba(0, 114, 178, 0.16),
-                    transparent 38%
-                ),
-                radial-gradient(
-                    ellipse at 95% 8%,
-                    rgba(0, 158, 115, 0.12),
-                    transparent 34%
-                ),
-                linear-gradient(
-                    145deg,
-                    #0B1220 0%,
-                    #101B2B 55%,
-                    #0B1722 100%
-                );
-            color: var(--mobility-text);
-        }
-
-        /* Balanced research dashboard layout */
-        [data-testid="stMainBlockContainer"] {
-            max-width: 1380px;
-            padding-top: 1.5rem;
-            padding-bottom: 2.5rem;
-        }
-
-        [data-testid="stMainBlockContainer"] > div {
-            gap: 1.15rem;
-        }
-
-        /* Header */
-        [data-testid="stHeader"] {
-            background: rgba(11, 18, 32, 0.78);
-        }
-
-        /* Sidebar */
-        [data-testid="stSidebar"] {
-            background: linear-gradient(
-                180deg,
-                #101C2D 0%,
-                #0D1726 100%
-            );
-            border-right: 1px solid var(--mobility-border);
-        }
-
-        [data-testid="stSidebar"] > div:first-child {
-            padding-top: 1.5rem;
-        }
-
-        /* Professional typography hierarchy */
-        .stApp h1 {
-            color: var(--mobility-text) !important;
-            font-size: 1.9rem !important;
-            font-weight: 700 !important;
-            line-height: 1.2 !important;
-            letter-spacing: -0.035em !important;
-        }
-
-        .stApp h2 {
-            color: var(--mobility-text) !important;
-            font-size: 1.35rem !important;
-            font-weight: 650 !important;
-            letter-spacing: -0.02em;
-        }
-
-        .stApp h3 {
-            color: var(--mobility-text) !important;
-            font-size: 1.1rem !important;
-            font-weight: 600 !important;
-        }
-
-        .stApp p,
-        .stApp label,
-        .stApp [data-testid="stCaptionContainer"] {
-            color: var(--mobility-muted);
-            line-height: 1.6;
-        }
-
-        .stApp [data-testid="stCaptionContainer"] {
-            font-size: 0.88rem;
-        }
-
-        /* Metric cards */
-        [data-testid="stMetric"] {
-            background: rgba(20, 34, 53, 0.88);
-            border: 1px solid var(--mobility-border);
-            border-radius: 16px;
-            padding: 16px 18px;
-            box-shadow: 0 8px 26px rgba(0, 0, 0, 0.14);
-        }
-
-        [data-testid="stMetricLabel"] {
-            color: var(--mobility-muted);
-        }
-
-        [data-testid="stMetricValue"] {
-            color: var(--mobility-text);
-        }
-
-        /* Bordered containers */
-        [data-testid="stVerticalBlockBorderWrapper"] {
-            border-color: var(--mobility-border);
-            border-radius: 16px;
-            background: rgba(20, 34, 53, 0.62);
-        }
-
-        /* Tabs */
-        [data-testid="stTabs"] button {
-            font-weight: 600;
-            color: var(--mobility-muted);
-        }
-
-        [data-testid="stTabs"] button[aria-selected="true"] {
-            color: var(--mobility-accent);
-        }
-
-        /* Charts */
-        [data-testid="stPlotlyChart"] {
-            background: transparent;
-            border: none;
-            border-radius: 0;
-            padding: 0;
-        }
-
-        /* Tables */
-        [data-testid="stDataFrame"],
-        [data-testid="stTable"] {
-            border: 1px solid var(--mobility-border);
-            border-radius: 12px;
-            overflow: hidden;
-        }
-
-        /* Alerts and links */
-        div[data-testid="stAlert"] {
-            border-radius: 12px;
-        }
-
-        a {
-            color: var(--mobility-accent);
-        }
-
-        /* Research Intelligence teal accent */
-        :root {
-            --primary-color: #55C6B3;
-            accent-color: #55C6B3;
-        }
-
-        /* Active tab indicator and text */
-        [data-testid="stTabs"] [data-baseweb="tab-highlight"] {
-            background-color: #55C6B3 !important;
-        }
-
-        [data-testid="stTabs"] button[aria-selected="true"] {
-            color: #55C6B3 !important;
-        }
-
-        /* Radio buttons */
-        [data-testid="stRadio"] label[data-checked="true"] > div:first-child {
-            border-color: #55C6B3 !important;
-            background-color: #55C6B3 !important;
-        }
-
-        /* Slider track and thumb */
-        [data-testid="stSlider"] [role="slider"] {
-            background-color: #55C6B3 !important;
-            border-color: #55C6B3 !important;
-        }
-
-        [data-testid="stSlider"] [data-baseweb="slider"] > div > div {
-            background-color: #55C6B3 !important;
-        }
-
-        /* Focused input controls */
-        [data-baseweb="select"]:focus-within,
-        [data-baseweb="input"]:focus-within,
-        [data-baseweb="textarea"]:focus-within {
-            border-color: #55C6B3 !important;
-        }
-
-        footer {
-            visibility: hidden;
-        }
-        </style>
-        """,
-        unsafe_allow_html=True,
+    template = deepcopy(pio.templates["plotly_white" if light else "plotly_dark"])
+    template.layout.update(
+        paper_bgcolor=colors["surface"],
+        plot_bgcolor=colors["surface"],
+        font=dict(family=FONT_STACK, color=colors["text"], size=12),
+        title=dict(font=dict(size=13, color=colors["text"]), x=0,
+                   xanchor="left", pad=dict(b=2)),
+        xaxis=dict(
+            gridcolor=colors["grid"],
+            zerolinecolor=colors["border"],
+            linecolor="rgba(0,0,0,0)",
+            tickfont=dict(color=colors["muted"], size=11),
+            title_font=dict(color=colors["muted"], size=11.5),
+            automargin=True,
+            ticks="",
+        ),
+        yaxis=dict(
+            gridcolor=colors["grid"],
+            zerolinecolor=colors["border"],
+            linecolor="rgba(0,0,0,0)",
+            tickfont=dict(color=colors["muted"], size=11),
+            title_font=dict(color=colors["muted"], size=11.5),
+            automargin=True,
+            ticks="",
+        ),
+        legend=dict(bgcolor="rgba(0,0,0,0)",
+                    font=dict(color=colors["muted"], size=11.5),
+                    itemsizing="constant"),
+        hoverlabel=dict(bgcolor=colors["hover"], bordercolor=colors["border"],
+                        font=dict(color=colors["text"], size=12,
+                                  family=FONT_STACK)),
+        margin=dict(l=14, r=14, t=44, b=36),
+        colorway=palette("Light" if light else "Dark")["series"],
+        geo=dict(bgcolor="rgba(0,0,0,0)"),
     )
+    return template
+
+
+def apply_dashboard_style(theme="Light"):
+    """Apply the visual system to Streamlit and Plotly.
+
+    Returns the chart-surface colours so map and chart backgrounds come from
+    the same tokens as the interface.
+    """
+    light = theme != "Dark"
+    colors = _TOKENS_LIGHT if light else _TOKENS_DARK
+    maps = _MAP_COLORS["light" if light else "dark"]
+
+    template_name = "mobility_light" if light else "mobility_dark"
+    pio.templates[template_name] = _build_template(colors, light)
+    pio.templates.default = template_name
+
+    css = _CSS_PATH.read_text(encoding="utf-8")
+    replacements = {
+        "__BG__": colors["bg"],
+        "__SURFACE__": colors["surface"],
+        "__ALT__": colors["surface_alt"],
+        "__SIDEBAR__": colors["sidebar"],
+        "__TEXT__": colors["text"],
+        "__MUTED__": colors["muted"],
+        "__ACCENT_SOFT__": colors["accent_soft"],
+        "__ACCENT_BORDER__": colors["accent_border"],
+        "__ACCENT__": colors["accent"],
+        "__BORDER__": colors["border"],
+        "__PLOT__": colors["plot"],
+        "__FONT__": FONT_STACK,
+        "__DISPLAY_FONT__": DISPLAY_FONT,
+        "__MONO_FONT__": MONO_FONT,
+        "__SCHEME__": colors["scheme"],
+    }
+    for key, value in replacements.items():
+        css = css.replace(key, value)
+
+    st.markdown(f"<style>{css}</style>", unsafe_allow_html=True)
+
+    return {
+        "surface": colors["surface"],
+        "text": colors["text"],
+        "muted": colors["muted"],
+        "grid": colors["grid"],
+        "border": colors["border"],
+        "accent": colors["accent"],
+        "diverging": DIVERGING_LIGHT if light else DIVERGING_DARK,
+        **maps,
+    }
