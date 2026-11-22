@@ -1,5 +1,9 @@
 # Regional Mobility Change Profiles
 
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-55C6B3?style=for-the-badge&logo=streamlit&logoColor=white)](https://regional-mobility-change-profiles-bzwchyhnexko3xh4s5dfsk.streamlit.app/)
+
+**Live Demo:** [Open the interactive dashboard](https://regional-mobility-change-profiles-bzwchyhnexko3xh4s5dfsk.streamlit.app/)
+
 An unsupervised machine learning project that discovers regional mobility change patterns during the COVID-19 pandemic using Google Community Mobility Reports.
 
 ## Project Overview
