@@ -22,6 +22,7 @@
     --mob-shadow: 0 1px 2px rgba(20, 28, 36, 0.05);
     color-scheme: __SCHEME__;
     accent-color: var(--mob-accent);
+    --mob-table-filter: __TABLE_FILTER__;
 }
 
 html, body, .stApp, [data-testid="stAppViewContainer"] {
@@ -344,6 +345,7 @@ h1.mob-title {
 }
 
 /* ----------------------------------------------------------------- inputs */
+.react-aria-ComboBox > [role="group"],
 [data-baseweb="select"] > div,
 [data-baseweb="input"] > div,
 [data-baseweb="textarea"] > div {
@@ -365,10 +367,36 @@ input, textarea {
     background: var(--mob-surface) !important;
     color: var(--mob-text) !important;
 }
+[data-testid="stTextInputRootElement"] {
+    background: var(--mob-surface) !important;
+    border: 1px solid var(--mob-border) !important;
+    border-radius: 8px;
+}
+[data-testid="stTextInputRootElement"]:focus-within {
+    border-color: var(--mob-accent) !important;
+    box-shadow: 0 0 0 1px var(--mob-accent) !important;
+}
+[data-testid="stTextInputRootElement"] [data-testid="stTextInputField"] {
+    background: transparent !important;
+    color: var(--mob-text) !important;
+}
 
 input::placeholder, textarea::placeholder {
     color: var(--mob-muted) !important;
     opacity: 1 !important;
+}
+[data-testid="stSelectboxVirtualDropdown"],
+[data-testid="stMultiSelectVirtualDropdown"] {
+    background: var(--mob-surface) !important;
+    border: 1px solid var(--mob-border) !important;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+}
+[data-testid="stSelectboxVirtualDropdown"] [role="listbox"],
+[data-testid="stMultiSelectVirtualDropdown"] [role="listbox"] {
+    border: 0 !important;
+    border-radius: 0 !important;
 }
 [data-baseweb="popover"], [data-baseweb="menu"], [role="listbox"] {
     background: var(--mob-surface) !important;
@@ -377,6 +405,7 @@ input::placeholder, textarea::placeholder {
 [role="option"] { background: var(--mob-surface) !important; color: var(--mob-text) !important; font-size: 0.86rem; }
 [role="option"]:hover { background: var(--mob-alt) !important; }
 [role="option"][aria-selected="true"] { background: var(--mob-alt) !important; color: var(--mob-accent) !important; }
+.react-aria-ComboBox > [role="group"]:focus-within,
 [data-baseweb="select"] > div:focus-within,
 [data-baseweb="input"] > div:focus-within,
 [data-baseweb="textarea"] > div:focus-within {
@@ -430,6 +459,27 @@ input::placeholder, textarea::placeholder {
     border-radius: var(--mob-radius);
     overflow: hidden;
     background: var(--mob-surface);
+}
+[data-testid="stDataFrameResizable"] {
+    background: var(--mob-surface) !important;
+    border-color: var(--mob-border) !important;
+}
+/* Streamlit draws dataframe cells and headers on a canvas, so the app's CSS
+   tokens cannot reach them. The filter is supplied as "none" in Light mode. */
+[data-testid="stDataFrameResizable"] .dvn-underlay > canvas {
+    filter: var(--mob-table-filter);
+}
+[data-testid="stElementToolbarButtonContainer"] {
+    background: var(--mob-surface) !important;
+    border: 1px solid var(--mob-border) !important;
+    border-radius: 8px;
+}
+[data-testid="stElementToolbar"] button { color: var(--mob-text) !important; }
+[data-testid="stElementToolbar"] button:hover { background: var(--mob-alt) !important; }
+[data-baseweb="tooltip"], [role="tooltip"] {
+    background: var(--mob-surface) !important;
+    color: var(--mob-text) !important;
+    border: 1px solid var(--mob-border) !important;
 }
 
 /* ----------------------------------------------------------------- charts */

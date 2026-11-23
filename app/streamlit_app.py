@@ -1133,7 +1133,8 @@ with tab_time:
         matrix_col, guide_col = st.columns([1.18, 1], gap="large")
         with matrix_col:
             fig = px.imshow(
-                tm, text_auto=".2f", color_continuous_scale="Blues", zmin=0, zmax=1,
+                tm, text_auto=".2f", color_continuous_scale=chart["sequential"],
+                zmin=0, zmax=1,
                 labels=dict(x="State in next period", y="State in this period"),
             )
             fig.update_layout(

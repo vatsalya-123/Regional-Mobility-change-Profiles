@@ -62,6 +62,13 @@ DIVERGING_LIGHT = [[0, "#3E5C76"], [0.25, "#9FB1C0"],
 DIVERGING_DARK = [[0, "#5E86A8"], [0.25, "#40566B"],
                   [0.5, "#242E3A"], [0.75, "#8A5A48"], [1, "#C77E60"]]
 
+# Sequential scale for probability heatmaps. Light mode keeps Plotly's Blues;
+# dark mode runs from the card surface to the readable dark-theme accent so no
+# near-white cells appear inside the dark canvas.
+SEQUENTIAL_LIGHT = "Blues"
+SEQUENTIAL_DARK = [[0, "#242E3A"], [0.25, "#2E474E"],
+                   [0.5, "#3E6868"], [0.75, "#579A8E"], [1, "#86D8C8"]]
+
 # Backwards-compatible aliases (dark palette, the historical default).
 CLUSTER_COLORS = CLUSTER_COLORS_DARK
 SERIES_COLORS = SERIES_COLORS_DARK
@@ -82,6 +89,7 @@ _TOKENS_LIGHT = {
     "plot": "#FFFFFF",
     "hover": "#FFFFFF",
     "scheme": "light",
+    "table_filter": "none",
 }
 
 _TOKENS_DARK = {
@@ -99,6 +107,11 @@ _TOKENS_DARK = {
     "plot": "#242E3A",
     "hover": "#2C3743",
     "scheme": "dark",
+    # Streamlit renders dataframe headers and cells on a canvas, so they do not
+    # inherit the injected CSS. This scoped filter is the only non-destructive
+    # way to darken both canvases while keeping sorting, scrolling and values.
+    "table_filter": ("invert(0.88) sepia(0.75) hue-rotate(180deg) "
+                     "saturate(2.4) brightness(1.05)"),
 }
 
 _MAP_COLORS = {
@@ -193,6 +206,7 @@ def apply_dashboard_style(theme="Light"):
         "__DISPLAY_FONT__": DISPLAY_FONT,
         "__MONO_FONT__": MONO_FONT,
         "__SCHEME__": colors["scheme"],
+        "__TABLE_FILTER__": colors["table_filter"],
     }
     for key, value in replacements.items():
         css = css.replace(key, value)
@@ -207,5 +221,6 @@ def apply_dashboard_style(theme="Light"):
         "border": colors["border"],
         "accent": colors["accent"],
         "diverging": DIVERGING_LIGHT if light else DIVERGING_DARK,
+        "sequential": SEQUENTIAL_LIGHT if light else SEQUENTIAL_DARK,
         **maps,
     }
